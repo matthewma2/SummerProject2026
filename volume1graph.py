@@ -1,5 +1,6 @@
 import json
 import networkx as nx
+import matplotlib.pyplot as plt
 
 # Load data
 with open("volume1.json", "r") as f:
@@ -25,3 +26,26 @@ for article in articles:
 
         G.add_node(work_title, type="work", author=author)
         G.add_edge(article_node, work_title)
+
+    
+pos = nx.spring_layout(G)
+
+color_map = []
+for node in G:
+    if G.nodes[node]["type"] == "article":
+        color_map.append("lightblue")
+    else:
+        color_map.append("lightcoral")
+
+nx.draw(
+    G,
+    pos,
+    with_labels=True,
+    node_color=color_map,
+    node_size=2000,
+    font_size=8
+)
+
+plt.title("Logic and Philosophy Network: Mind Volume 1")
+plt.tight_layout() # This helps prevent the labels from getting cut off at the edges
+plt.show()
