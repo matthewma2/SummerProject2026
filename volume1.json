@@ -1,0 +1,132 @@
+{
+    "volume1": [
+        {
+            "title": "Logic and the Elements of Geometry",
+            "section": "Notes",
+            "author": "George Croom Robertson",
+            "year": 1876,
+            "pages": "147-150",
+            "url": "https://www.jstor.org/stable/2246871",
+            "references": {
+                "works": [
+                    {
+                        "title": "Syllabus of Plane Geometry",
+                        "author": "Association for the Improvement of Geometrical Teaching"
+                    }
+                ],
+                "people": [
+                    "Association for the Improvement of Geometrical Teaching"
+                ]
+            }
+        },
+        {
+            "title": "Mr. Jevons's Formal Logic",
+            "section": "Main",
+            "author": "George Croom Robertson",
+            "year": 1876,
+            "pages": "206-222",
+            "url": "https://www.jstor.org/stable/2246500",
+            "references": {
+                "works": [
+                    {
+                        "title": "The Principles of Science: A Treatise on Logic and Scientific Method",
+                        "author": "W. Stanley Jevons"
+                    },
+                    {
+                        "title": "Pure Logic",
+                        "author": "W. Stanley Jevons"
+                    },
+                    {
+                        "title": "Substitution of Similars",
+                        "author": "W. Stanley Jevons"
+                    },
+                    {
+                        "title": "Prior Analytics",
+                        "author": "Aristotle"
+                    },
+                    {
+                        "title": "Posterior Analytics",
+                        "author": "Aristotle"
+                    }
+                ],
+                "people": [
+                    "W. Stanley Jevons",
+                    "Aristotle",
+                    "George Boole",
+                    "John Stuart Mill",
+                    "Augustus De Morgan",
+                    "William Hamilton",
+                    "George Bentham",
+                    "John Herschel",
+                    "William Whewell",
+                    "Thomas Hobbes"
+                ]
+            }
+        },
+        {
+            "title": "Logical Contraposition and Conversion",
+            "section": "Notes",
+            "author": "Charles Sanders Peirce",
+            "year": 1876,
+            "pages": "424-425",
+            "url": "https://www.jstor.org/stable/2246604",
+            "references": {
+                "works": [
+                    {
+                        "title": "Syllabus of Plane Geometry",
+                        "author": "Association for the Improvement of Geometrical Teaching"
+                    },
+                    {
+                        "title": "MIND, vol.1, p.147-148",
+                        "author": "W. Stanley Jevons"
+                    },
+                    {
+                        "title": "Prolégomènes Philosophiques de la Géométrie",
+                        "author": "M. J. Delbœuf"
+                    }
+                ],
+                "people": [
+                    "M. J. Delbœuf",
+                    "Hauber"
+                ]
+            }
+        },
+        {
+            "title": "Boole's Logical System",
+            "section": "Main",
+            "author": "John Venn",
+            "year": 1876,
+            "pages": "479-491",
+            "url": "https://www.jstor.org/stable/2246411",
+            "references": {
+                "works": [
+                    {
+                        "title": "Laws of Thought",
+                        "author": "George Boole"
+                    },
+                    {
+                        "title": "Principles of Science",
+                        "author": "W. Stanley Jevons"
+                    },
+                    {
+                        "title": "MIND, no.2",
+                        "author": "George Croom Robertson"
+                    },
+                    {
+                        "title": "Lessons on Logic",
+                        "author": "W. Stanley Jevons"
+                    }
+                ],
+                "people": [
+                    "George Boole",
+                    "W. Stanley Jevons",
+                    "Isaac Newton",
+                    "William Hamilton",
+                    "Henry Longueville Mansel",
+                    "Nassau William Senior",
+                    "Socrates"
+                ]
+            }
+        }
+    ]
+}
