@@ -46,6 +46,6 @@ nx.draw(
     font_size=8
 )
 
-plt.title("Logic and Philosophy Network: Mind Volume 1")
+plt.title("Logic Network: Mind Volume 1")
 plt.tight_layout() # This helps prevent the labels from getting cut off at the edges
 plt.show()
