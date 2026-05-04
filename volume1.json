@@ -30,15 +30,15 @@
                 "works": [
                     {
                         "title": "The Principles of Science: A Treatise on Logic and Scientific Method",
-                        "author": "W. Stanley Jevons"
+                        "author": "William Stanley Jevons"
                     },
                     {
                         "title": "Pure Logic",
-                        "author": "W. Stanley Jevons"
+                        "author": "William Stanley Jevons"
                     },
                     {
                         "title": "Substitution of Similars",
-                        "author": "W. Stanley Jevons"
+                        "author": "William Stanley Jevons"
                     },
                     {
                         "title": "Prior Analytics",
@@ -50,7 +50,7 @@
                     }
                 ],
                 "people": [
-                    "W. Stanley Jevons",
+                    "William Stanley Jevons",
                     "Aristotle",
                     "George Boole",
                     "John Stuart Mill",
@@ -78,7 +78,7 @@
                     },
                     {
                         "title": "MIND, vol.1, p.147-148",
-                        "author": "W. Stanley Jevons"
+                        "author": "William Stanley Jevons"
                     },
                     {
                         "title": "Prolégomènes Philosophiques de la Géométrie",
@@ -106,7 +106,7 @@
                     },
                     {
                         "title": "Principles of Science",
-                        "author": "W. Stanley Jevons"
+                        "author": "William Stanley Jevons"
                     },
                     {
                         "title": "MIND, no.2",
@@ -114,17 +114,130 @@
                     },
                     {
                         "title": "Lessons on Logic",
-                        "author": "W. Stanley Jevons"
+                        "author": "William Stanley Jevons"
                     }
                 ],
                 "people": [
                     "George Boole",
-                    "W. Stanley Jevons",
+                    "William Stanley Jevons",
                     "Isaac Newton",
                     "William Hamilton",
                     "Henry Longueville Mansel",
                     "Nassau William Senior",
                     "Socrates"
+                ]
+            }
+        }
+    ],
+    "volume2": [
+        {
+            "title": "Fundamental Logic",
+            "section": "Main",
+            "author": "Joseph John Murphy",
+            "year": 1877,
+            "pages": "47-55",
+            "url": "https://www.jstor.org/stable/2246968",
+            "references": {
+                "works": [
+                    {
+                        "title": "An Investigation of the Laws of Thought",
+                        "author": "George Boole"
+                    },
+                    {
+                        "title": "Principles of Science",
+                        "author": "William Stanley Jevons"
+                    },
+                    {
+                        "title": "Substitution of Similars",
+                        "author": "William Stanley Jevons"
+                    },
+                    {
+                        "title": "MIND, vol.1, no.iv",
+                        "author": "George Croom Robertson"
+                    }
+
+                ],
+                "people": [
+                    "George Boole",
+                    "William Stanley Jevons",
+                    "John Stuart Mill",
+                    "John Venn",
+                    "Sir William Hamilton"
+                ]
+            }
+        },
+        {
+            "title": "The Logic of \"If.\"",
+            "section": "Notes",
+            "author": "Joseph John Murphy",
+            "year": 1877,
+            "pages": "264-266",
+            "url": "https://www.jstor.org/stable/2246385",
+            "references": {
+                "works": [
+                    {
+                        "title": "Clarissa Harlowe",
+                        "author": "Samuel Richardson"
+                    },
+                    {
+                        "title": "Logic",
+                        "author": "Alexander Bain"
+                    }
+                ],
+                "people": [
+                    "Samuel Richardson",
+                    "Alexander Bain",
+                    "Henry Longueville Mansel",
+                    "Euclid"
+                ]
+            }
+        },
+        {
+            "title": "On Some Principles of Logic",
+            "section": "Main",
+            "author": "Carveth Read",
+            "year": 1877,
+            "pages": "336-352",
+            "url": "https://www.jstor.org/stable/2246910",
+            "references": {
+                "works": [
+                    {
+                        "title": "System of Logic",
+                        "author": "John Stuart Mill"
+                    },
+                    {
+                        "title": "Logic",
+                        "author": "Alexander Bain"
+                    },
+                    {
+                        "title": "Principles of Psychology",
+                        "author": "Herbert Spencer"
+                    },
+                    {
+                        "title": "Classification of the Sciences",
+                        "author": "Herbert Spencer"
+                    },
+                    {
+                        "title": "Examination of Hamilton",
+                        "author": "John Stuart Mill"
+                    },
+                    {
+                        "title": "Study of Sociology",
+                        "author": "Herbert Spencer"
+                    },
+                    {
+                        "title": "Theory of Logic",
+                        "author": "Carveth Read"
+                    }
+                ],
+                "people": [
+                    "John Stuart Mill",
+                    "Alexander Bain",
+                    "Herbert Spencer",
+                    "Socrates",
+                    "Plato",
+                    "Aristotle",
+                    "Sir William Hamilton"
                 ]
             }
         }
