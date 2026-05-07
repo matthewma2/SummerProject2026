@@ -2,244 +2,219 @@
     "volume1": [
         {
             "title": "Logic and the Elements of Geometry",
-            "section": "Notes",
             "author": "George Croom Robertson",
             "year": 1876,
+            "journal": "Mind",
+            "volume": 1,
+            "section": "Notes",
             "pages": "147-150",
             "url": "https://www.jstor.org/stable/2246871",
-            "references": {
-                "works": [
-                    {
-                        "title": "Syllabus of Plane Geometry",
-                        "author": "Association for the Improvement of Geometrical Teaching"
-                    }
-                ],
-                "people": [
-                    "Association for the Improvement of Geometrical Teaching"
-                ]
-            }
+            "references": [
+                {
+                    "raw": "Syllabus of Plane Geometry",
+                    "work_id": "W2",
+                    "context": null
+                }
+            ]
         },
         {
             "title": "Mr. Jevons's Formal Logic",
-            "section": "Main",
             "author": "George Croom Robertson",
             "year": 1876,
+            "journal": "Mind",
+            "volume": 1,
+            "section": "Main",
             "pages": "206-222",
             "url": "https://www.jstor.org/stable/2246500",
-            "references": {
-                "works": [
-                    {
-                        "title": "The Principles of Science: A Treatise on Logic and Scientific Method",
-                        "author": "William Stanley Jevons"
-                    },
-                    {
-                        "title": "Pure Logic",
-                        "author": "William Stanley Jevons"
-                    },
-                    {
-                        "title": "Substitution of Similars",
-                        "author": "William Stanley Jevons"
-                    },
-                    {
-                        "title": "Prior Analytics",
-                        "author": "Aristotle"
-                    },
-                    {
-                        "title": "Posterior Analytics",
-                        "author": "Aristotle"
-                    }
-                ],
-                "people": [
-                    "William Stanley Jevons",
-                    "Aristotle",
-                    "George Boole",
-                    "John Stuart Mill",
-                    "Augustus De Morgan",
-                    "William Hamilton",
-                    "George Bentham",
-                    "John Herschel",
-                    "William Whewell",
-                    "Thomas Hobbes"
-                ]
-            }
+            "references": [
+                {
+                    "raw": "The Principles of Science: A Treatise on Logic and Scientific Method",
+                    "work_id": "W4",
+                    "context": null
+                },
+                {
+                    "raw": "Pure Logic",
+                    "work_id": "W5",
+                    "context": null
+                },
+                {
+                    "raw": "Substitution of Similars",
+                    "work_id": "W6",
+                    "context": null
+                },
+                {
+                    "raw": "Prior Analytics",
+                    "work_id": "W7",
+                    "context": null
+                },
+                {
+                    "raw": "Posterior Analytics",
+                    "work_id": "W8",
+                    "context": null
+                }
+            ]
         },
         {
             "title": "Logical Contraposition and Conversion",
-            "section": "Notes",
             "author": "Charles Sanders Peirce",
             "year": 1876,
+            "journal": "Mind",
+            "volume": 1,
+            "section": "Notes",
             "pages": "424-425",
             "url": "https://www.jstor.org/stable/2246604",
-            "references": {
-                "works": [
-                    {
-                        "title": "Syllabus of Plane Geometry",
-                        "author": "Association for the Improvement of Geometrical Teaching"
-                    },
-                    {
-                        "title": "MIND, vol.1, p.147-148",
-                        "author": "William Stanley Jevons"
-                    },
-                    {
-                        "title": "Prolégomènes Philosophiques de la Géométrie",
-                        "author": "M. J. Delbœuf"
-                    }
-                ],
-                "people": [
-                    "M. J. Delbœuf",
-                    "Hauber"
-                ]
-            }
+            "references": [
+                {
+                    "raw": "Syllabus of Plane Geometry",
+                    "work_id": "W2",
+                    "context": null
+                },
+                {
+                    "raw": "MIND, vol.1, p.147-148",
+                    "work_id": "W1",
+                    "context": null
+                },
+                {
+                    "raw": "Prolégomènes Philosophiques de la Géométrie",
+                    "work_id": "W11",
+                    "context": null
+                }
+            ]
         },
         {
             "title": "Boole's Logical System",
-            "section": "Main",
             "author": "John Venn",
             "year": 1876,
+            "journal": "Mind",
+            "volume": 1,
+            "section": "Main",
             "pages": "479-491",
             "url": "https://www.jstor.org/stable/2246411",
-            "references": {
-                "works": [
-                    {
-                        "title": "Laws of Thought",
-                        "author": "George Boole"
-                    },
-                    {
-                        "title": "Principles of Science",
-                        "author": "William Stanley Jevons"
-                    },
-                    {
-                        "title": "MIND, no.2",
-                        "author": "George Croom Robertson"
-                    },
-                    {
-                        "title": "Lessons on Logic",
-                        "author": "William Stanley Jevons"
-                    }
-                ],
-                "people": [
-                    "George Boole",
-                    "William Stanley Jevons",
-                    "Isaac Newton",
-                    "William Hamilton",
-                    "Henry Longueville Mansel",
-                    "Nassau William Senior",
-                    "Socrates"
-                ]
-            }
+            "references": [
+                {
+                    "raw": "Laws of Thought",
+                    "work_id": "W13",
+                    "context": null
+                },
+                {
+                    "raw": "Principles of Science",
+                    "work_id": "W4",
+                    "context": null
+                },
+                {
+                    "raw": "MIND, no.2",
+                    "work_id": "W3",
+                    "context": null
+                },
+                {
+                    "raw": "Lessons on Logic",
+                    "work_id": "W15",
+                    "context": null
+                }
+            ]
         }
     ],
     "volume2": [
         {
             "title": "Fundamental Logic",
-            "section": "Main",
             "author": "Joseph John Murphy",
             "year": 1877,
+            "journal": "Mind",
+            "volume": 2,
+            "section": "Main",
             "pages": "47-55",
             "url": "https://www.jstor.org/stable/2246968",
-            "references": {
-                "works": [
-                    {
-                        "title": "An Investigation of the Laws of Thought",
-                        "author": "George Boole"
-                    },
-                    {
-                        "title": "Principles of Science",
-                        "author": "William Stanley Jevons"
-                    },
-                    {
-                        "title": "Substitution of Similars",
-                        "author": "William Stanley Jevons"
-                    },
-                    {
-                        "title": "MIND, vol.1, no.iv",
-                        "author": "George Croom Robertson"
-                    }
-
-                ],
-                "people": [
-                    "George Boole",
-                    "William Stanley Jevons",
-                    "John Stuart Mill",
-                    "John Venn",
-                    "Sir William Hamilton"
-                ]
-            }
+            "references": [
+                {
+                    "raw": "An Investigation of the Laws of Thought",
+                    "work_id": "W13",
+                    "context": null
+                },
+                {
+                    "raw": "Principles of Science",
+                    "work_id": "W4",
+                    "context": null
+                },
+                {
+                    "raw": "Substitution of Similars",
+                    "work_id": "W6",
+                    "context": null
+                },
+                {
+                    "raw": "Boole's Logical System",
+                    "work_id": "W12",
+                    "context": null
+                }
+            ]
         },
         {
             "title": "The Logic of \"If.\"",
-            "section": "Notes",
             "author": "Joseph John Murphy",
             "year": 1877,
+            "journal": "Mind",
+            "volume": 2,
+            "section": "Notes",
             "pages": "264-266",
             "url": "https://www.jstor.org/stable/2246385",
-            "references": {
-                "works": [
-                    {
-                        "title": "Clarissa Harlowe",
-                        "author": "Samuel Richardson"
-                    },
-                    {
-                        "title": "Logic",
-                        "author": "Alexander Bain"
-                    }
-                ],
-                "people": [
-                    "Samuel Richardson",
-                    "Alexander Bain",
-                    "Henry Longueville Mansel",
-                    "Euclid"
-                ]
-            }
+            "references": [
+                {
+                    "raw": "Clarissa Harlowe",
+                    "work_id": "W19",
+                    "context": null
+                },
+                {
+                    "raw": "Logic",
+                    "work_id": "W20",
+                    "context": null
+                }
+            ]
         },
         {
             "title": "On Some Principles of Logic",
-            "section": "Main",
             "author": "Carveth Read",
             "year": 1877,
+            "journal": "Mind",
+            "volume": 2,
+            "section": "Main",
             "pages": "336-352",
             "url": "https://www.jstor.org/stable/2246910",
-            "references": {
-                "works": [
-                    {
-                        "title": "System of Logic",
-                        "author": "John Stuart Mill"
-                    },
-                    {
-                        "title": "Logic",
-                        "author": "Alexander Bain"
-                    },
-                    {
-                        "title": "Principles of Psychology",
-                        "author": "Herbert Spencer"
-                    },
-                    {
-                        "title": "Classification of the Sciences",
-                        "author": "Herbert Spencer"
-                    },
-                    {
-                        "title": "Examination of Hamilton",
-                        "author": "John Stuart Mill"
-                    },
-                    {
-                        "title": "Study of Sociology",
-                        "author": "Herbert Spencer"
-                    },
-                    {
-                        "title": "Theory of Logic",
-                        "author": "Carveth Read"
-                    }
-                ],
-                "people": [
-                    "John Stuart Mill",
-                    "Alexander Bain",
-                    "Herbert Spencer",
-                    "Socrates",
-                    "Plato",
-                    "Aristotle",
-                    "Sir William Hamilton"
-                ]
-            }
+            "references": [
+                {
+                    "raw": "System of Logic",
+                    "work_id": "W22",
+                    "context": null
+                },
+                {
+                    "raw": "Logic",
+                    "work_id": "W20",
+                    "context": null
+                },
+                {
+                    "raw": "Principles of Psychology",
+                    "work_id": "W23",
+                    "context": null
+                },
+                {
+                    "raw": "Classification of the Sciences",
+                    "work_id": "W24",
+                    "context": null
+                },
+                {
+                    "raw": "Examination of Hamilton",
+                    "work_id": "W25",
+                    "context": null
+                },
+                {
+                    "raw": "Study of Sociology",
+                    "work_id": "W26",
+                    "context": null
+                },
+                {
+                    "raw": "Theory of Logic",
+                    "work_id": "W27",
+                    "context": null
+                }
+            ]
         }
     ]
 }
