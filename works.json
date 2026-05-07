@@ -1,0 +1,285 @@
+{
+    "W1": {
+        "title": "Logic and the Elements of Geometry",
+        "author": "George Croom Robertson",
+        "year": 1876,
+        "type": "article",
+        "source": "Mind",
+        "volume": 1,
+        "notes": "",
+        "alternative_titles": [
+            "Logic and Geometry",
+            "Robertson on Geometry"
+        ]
+    },
+    "W2": {
+        "title": "Syllabus of Plane Geometry: Corresponding to Cedar I-VI of Euclid's Elements",
+        "author": "Association for the Improvement of Geometrical Teaching",
+        "year": 1875,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "The Syllabus",
+            "A.I.G.T. Syllabus"
+        ]
+    },
+    "W3": {
+        "title": "Mr. Jevons's Formal Logic",
+        "author": "George Croom Robertson",
+        "year": 1876,
+        "type": "article",
+        "source": "Mind",
+        "volume": 1,
+        "notes": "",
+        "alternative_titles": [
+            "Robertson on Jevons",
+            "Jevons's Formal Logic"
+        ]
+    },
+    "W4": {
+        "title": "The Principles of Science: A Treatise on Logic and Scientific Method",
+        "author": "William Stanley Jevons",
+        "year": 1874,
+        "type": "book",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Principles of Science",
+            "Jevons' Principles"
+        ]
+    },
+    "W5": {
+        "title": "Pure Logic; or, the Logic of Quality apart from Quantity: with Remarks on Boole's System and on the Relation of Logic and Mathematics",
+        "author": "William Stanley Jevons",
+        "year": 1864,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Pure Logic"
+        ]
+    },
+    "W6": {
+        "title": "The Substitution of Similars, the True Principle of Reasoning, Derived from a Modification of Aristotle's Dictum",
+        "author": "William Stanley Jevons",
+        "year": 1869,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Substitution of Similars",
+            "The True Principle of Reasoning"
+        ]
+    },
+    "W7": {
+        "title": "Prior Analytics",
+        "author": "Aristotle",
+        "year": -350,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Analytica Priora",
+            "The Analytics"
+        ]
+    },
+    "W8": {
+        "title": "Posterior Analytics",
+        "author": "Aristotle",
+        "year": -350,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Analytica Posteriora"
+        ]
+    },
+    "W9": {
+        "title": "Logical Contraposition and Conversion",
+        "author": "Charles Sanders Peirce",
+        "year": 1876,
+        "type": "article",
+        "source": "Mind",
+        "volume": 1,
+        "notes": "",
+        "alternative_titles": [
+            "Peirce on Contraposition",
+            "Contraposition and Conversion"
+        ]
+    },
+    "W11": {
+        "title": "Prolégomènes Philosophiques de la Géométrie",
+        "author": "Joseph Delbœuf",
+        "year": 1860,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Philosophical Prolegomena of Geometry",
+            "Delbœuf's Prolégomènes"
+        ]
+    },
+    "W12": {
+        "title": "Boole's Logical System",
+        "author": "John Venn",
+        "year": 1876,
+        "type": "article",
+        "source": "Mind",
+        "volume": 1,
+        "notes": "",
+        "alternative_titles": [
+            "Venn on Boole"
+        ]
+    },
+    "W13": {
+        "title": "An Investigation of the Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities",
+        "author": "George Boole",
+        "year": 1854,
+        "type": "book",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Laws of Thought",
+            "The Laws of Thought"
+        ]
+    },
+    "W15": {
+        "title": "Elementary Lessons in Logic: Deductive and Inductive",
+        "author": "William Stanley Jevons",
+        "year": 1870,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Lessons on Logic",
+            "Jevons' Lessons"
+        ]
+    },
+    "W16": {
+        "title": "Fundamental Logic",
+        "author": "Joseph John Murphy",
+        "year": 1877,
+        "type": "article",
+        "source": "Mind",
+        "volume": 2,
+        "notes": "",
+        "alternative_titles": [
+            "Murphy on Logic"
+        ]
+    },
+    "W18": {
+        "title": "The Logic of \"If\"",
+        "author": "Joseph John Murphy",
+        "year": 1877,
+        "type": "article",
+        "source": "Mind",
+        "volume": 2,
+        "notes": "",
+        "alternative_titles": [
+            "Murphy's Logic of If"
+        ]
+    },
+    "W19": {
+        "title": "Clarissa, or, the History of a Young Lady",
+        "author": "Samuel Richardson",
+        "year": 1748,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Clarissa Harlowe",
+            "Clarissa"
+        ]
+    },
+    "W20": {
+        "title": "Logic: Deductive and Inductive",
+        "author": "Alexander Bain",
+        "year": 1870,
+        "type": "book",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Bain's Logic"
+        ]
+    },
+    "W21": {
+        "title": "On Some Principles of Logic",
+        "author": "Carveth Read",
+        "year": 1877,
+        "type": "article",
+        "source": "Mind",
+        "volume": 2,
+        "notes": "",
+        "alternative_titles": [
+            "Read on Logical Principles"
+        ]
+    },
+    "W22": {
+        "title": "A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence and the Methods of Scientific Investigation",
+        "author": "John Stuart Mill",
+        "year": 1843,
+        "type": "book",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Mill's Logic",
+            "System of Logic"
+        ]
+    },
+    "W23": {
+        "title": "The Principles of Psychology",
+        "author": "Herbert Spencer",
+        "year": 1855,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Spencer's Psychology"
+        ]
+    },
+    "W24": {
+        "title": "The Classification of the Sciences: To Which are Added Reasons for Dissenting from the Philosophy of M. Comte",
+        "author": "Herbert Spencer",
+        "year": 1864,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Classification of the Sciences"
+        ]
+    },
+    "W25": {
+        "title": "An Examination of Sir William Hamilton's Philosophy, and of the Principal Philosophical Questions Discussed in His Writings",
+        "author": "John Stuart Mill",
+        "year": 1865,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Examination of Hamilton"
+        ]
+    },
+    "W26": {
+        "title": "The Study of Sociology",
+        "author": "Herbert Spencer",
+        "year": 1873,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Study of Sociology"
+        ]
+    },
+    "W27": {
+        "title": "On the Theory of Logic: An Essay",
+        "author": "Carveth Read",
+        "year": 1878,
+        "type": "work",
+        "source": null,
+        "notes": "",
+        "alternative_titles": [
+            "Theory of Logic"
+        ]
+    }
+}
