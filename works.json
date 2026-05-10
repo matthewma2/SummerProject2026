@@ -232,7 +232,7 @@
         "title": "The Principles of Psychology",
         "author": "Herbert Spencer",
         "year": 1855,
-        "type": "work",
+        "type": "book",
         "source": null,
         "notes": "",
         "alternative_titles": [
@@ -515,7 +515,9 @@
         "type": "book",
         "source": null,
         "notes": "Representing the Associationist school of logic.",
-        "alternative_titles": ["Hartley's observations"]
+        "alternative_titles": [
+            "Hartley's observations"
+        ]
     },
     "W49": {
         "title": "An Inquiry into the Human Mind on the Principles of Common Sense",
@@ -524,7 +526,9 @@
         "type": "book",
         "source": null,
         "notes": "Representing the Scottish Common Sense school of logic.",
-        "alternative_titles": ["Reid's inquiry"]
+        "alternative_titles": [
+            "Reid's inquiry"
+        ]
     },
     "W50": {
         "title": "Tropical Nature, and Other Essays",
@@ -533,7 +537,9 @@
         "type": "book",
         "source": "Macmillan",
         "notes": "Cited in a footnote regarding the scientific classification of species by relationship rather than obvious attributes.",
-        "alternative_titles": ["Tropical Nature"]
+        "alternative_titles": [
+            "Tropical Nature"
+        ]
     },
     "W51": {
         "title": "The Analogy of Religion",
@@ -542,6 +548,179 @@
         "type": "book",
         "source": null,
         "notes": "Cited for the quote 'things are what they are' in the discussion on compatibility and objectivity.",
-        "alternative_titles": ["Butler's Analogy"]
+        "alternative_titles": [
+            "Butler's Analogy"
+        ]
+    },
+    "W52": {
+        "title": "The Difficulties of Material Logic",
+        "author": "John Venn",
+        "year": 1879,
+        "type": "article",
+        "source": "Mind",
+        "notes": "A critique of Herbert Spencer's objective view of logic, arguing that a purely objective science of logic is an unreachable ideal.",
+        "alternative_titles": [
+            "Venn on Material Logic"
+        ]
+    },
+    "W53": {
+        "title": "\"Matter-of-Fact\" Logic",
+        "author": "John Neville Keynes",
+        "year": 1879,
+        "type": "article",
+        "source": "Mind",
+        "notes": "A response to Venn's review of Carveth Read; Keynes argues against a purely objective logic and defends the subjective/linguistic conditions of formal reasoning.",
+        "alternative_titles": [
+            "Keynes on Read",
+            "Matter-of-Fact Logic"
+        ]
+    },
+    "W54": {
+        "title": "Theoretical and Practical Logic",
+        "author": "Alfred Sidgwick",
+        "year": 1879,
+        "type": "article",
+        "source": "Mind",
+        "notes": "A contribution to the debate over Carveth Read’s Theory of Logic. Sidgwick argues that Logic’s ultimate purpose is practical (combating fallacies) and that the study of language in reasoning cannot be ceded to Rhetoric.",
+        "alternative_titles": [
+            "Sidgwick on Read"
+        ]
+    },
+    "W55": {
+        "title": "Review of the State of Logical Science",
+        "author": "Sir William Hamilton",
+        "year": 1833,
+        "type": "article",
+        "source": "Edinburgh Review",
+        "notes": "Deplored the neglect and perversion of Logic in British universities over the preceding 150 years; provided the catalyst for the mid-century logical revival.",
+        "alternative_titles": [
+            "Hamilton's Edinburgh Review article"
+        ]
+    },
+    "W56": {
+        "title": "Elements of Logic",
+        "author": "Richard Whately",
+        "year": 1826,
+        "type": "book",
+        "source": "Individual Publication",
+        "notes": "Credited by Keynes as the primary reason for the revival of logical interest; defines logic as being 'entirely conversant about Language'.",
+        "alternative_titles": [
+            "Whately's Logic"
+        ]
+    },
+    "W57": {
+        "title": "Novum Organum Renovatum",
+        "author": "William Whewell",
+        "year": 1858,
+        "type": "book",
+        "source": "Individual Publication",
+        "notes": "Included in the list of works contributing to the quick succession of logical developments after Whately.",
+        "alternative_titles": []
+    },
+    "W58": {
+        "title": "Formal Logic; or, the Calculus of Inference, Necessary and Probable",
+        "author": "Augustus De Morgan",
+        "year": 1847,
+        "type": "book",
+        "source": "Individual Publication",
+        "notes": "Keynes cites De Morgan's claim that Formal Logic deals with names rather than ideas or things, though he critiques De Morgan for not adhering strictly to this.",
+        "alternative_titles": [
+            "Calculus of Inference",
+            "De Morgan's Formal Logic"
+        ]
+    },
+    "W59": {
+        "title": "The Logic of Chance",
+        "author": "John Venn",
+        "year": 1866,
+        "type": "book",
+        "source": "Individual Publication",
+        "notes": "Listed as one of the significant works of the contemporary logical period.",
+        "alternative_titles": []
+    },
+    "W60": {
+        "title": "The Elements of Deductive Logic",
+        "author": "Thomas Fowler",
+        "year": 1867,
+        "type": "book",
+        "source": "Oxford University Press",
+        "notes": "Critiqued as a 'popular text-book' that attempts a superficial reconciliation between the opposing theories of Hamilton and Mill.",
+        "alternative_titles": [
+            "Fowler's text-books"
+        ]
+    },
+    "W61": {
+        "title": "Logik, 2ter Band: Die Methodenlehre",
+        "author": "Christoph Sigwart",
+        "year": 1878,
+        "type": "book",
+        "source": "Laupp (Tübingen)",
+        "notes": "The primary subject of the review. An elaborate work on Methodology that treats logical aims as ethical 'ends' and explores the mental reconstruction of Space, Time, and Causality.",
+        "alternative_titles": [
+            "Sigwart's Logik",
+            "Methodenlehre"
+        ]
+    },
+    "W62": {
+        "title": "The Senses and the Intellect / The Emotions and the Will",
+        "author": "Alexander Bain",
+        "year": 1855,
+        "type": "book",
+        "source": "Individual Publication",
+        "notes": "Cited as a leading English Empiricist. Venn suggests that the psychological defense of Mill’s logic is found in Bain's works.",
+        "alternative_titles": [
+            "Bain's Empirical Philosophy"
+        ]
+    },
+    "W63": {
+        "title": "Philosophy of the Inductive Sciences",
+        "author": "William Whewell",
+        "year": 1840,
+        "type": "book",
+        "source": "Individual Publication",
+        "notes": "Venn argues that the view of induction as 'hitting upon hypotheses' attributed to Jevons was originally Whewell’s.",
+        "alternative_titles": []
+    },
+    "W64": {
+        "title": "Elemente der Psychophysik",
+        "author": "Gustav Fechner",
+        "year": 1860,
+        "type": "book",
+        "source": "Individual Publication",
+        "notes": "Referenced regarding the direct measurement of sensations, which Sigwart critiques.",
+        "alternative_titles": [
+            "Fechner's Psychophysics"
+        ]
+    },
+    "W65": {
+        "title": "On the Origin of Species",
+        "author": "Charles Darwin",
+        "year": 1859,
+        "type": "book",
+        "source": "Individual Publication",
+        "notes": "Referenced as the 'Darwinian Theory' which Sigwart considers for its impact on Material Logic and the definition of species.",
+        "alternative_titles": [
+            "Darwinian Theory"
+        ]
+    },
+    "W66": {
+        "title": "Novum Organum",
+        "author": "Francis Bacon",
+        "year": 1620,
+        "type": "book",
+        "source": "Individual Publication",
+        "notes": "Mentioned as part of Sigwart's historical account of Induction.",
+        "alternative_titles": []
+    },
+    "W67": {
+        "title": "Principles of the Algebra of Logic",
+        "author": "Alexander Macfarlane",
+        "year": 1879,
+        "type": "book",
+        "source": "Douglas (Edinburgh)",
+        "notes": "The primary work under review; explores symbolic logic on the lines of Boole with original numerical treatments and a simplified form for particular propositions.",
+        "alternative_titles": [
+            "Macfarlane's Algebra of Logic"
+        ]
     }
 }

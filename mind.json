@@ -599,6 +599,287 @@
         }
     ],
     "volume4": [
-
+        {
+            "title": "The Difficulties of Material Logic",
+            "author": "John Venn",
+            "year": 1879,
+            "journal": "Mind",
+            "volume": 4,
+            "section": "Main",
+            "pages": "35-47",
+            "url": "https://www.jstor.org/stable/2246563",
+            "references": [
+                {
+                    "raw": "notice of Mr. C. Read's Essay on Logic, published in MIND XII.",
+                    "work_id": "W27",
+                    "context": "Venn refers to the review of Carveth Read’s 'On the Theory of Logic' (1878)."
+                },
+                {
+                    "raw": "the view of Mr. H. Spencer... distinction between the Science of Logic and the Theory of Reasoning",
+                    "work_id": "W23",
+                    "context": "Critique of Spencer's 'Principles of Psychology' regarding objective vs. subjective logic."
+                },
+                {
+                    "raw": "additions that the science has received at the hands of Mill",
+                    "work_id": "W22",
+                    "context": "Acknowledging Mill's 'System of Logic'."
+                },
+                {
+                    "raw": "additions... at the hands of Mr. Bain",
+                    "work_id": "W20",
+                    "context": "Referencing Alexander Bain’s 'Logic'."
+                },
+                {
+                    "raw": "Euler's symbolic method of representing propositions",
+                    "work_id": "W12",
+                    "context": "Venn's own 1876 article 'Boole's Logical System' (W12) which discusses Euler's circles."
+                },
+                {
+                    "raw": "The Editor in a former number (No. IV. p. 216), drew a distinction between the 'if' of doubt and the 'if' of inference.",
+                    "work_id": "W1",
+                    "context": "Citing Robertson's editorial note in the October 1876 issue of Mind."
+                }
+            ]
+        },
+        {
+            "title": "\"Matter-of-Fact\" Logic",
+            "author": "John Neville Keynes",
+            "year": 1879,
+            "journal": "Mind",
+            "volume": 4,
+            "section": "Notes and Discussions",
+            "pages": "120-122",
+            "url": "https://www.jstor.org/stable/2246570",
+            "references": [
+                {
+                    "raw": "review of Mr. Carveth Read's Essay... in the last number of MIND, Mr. Venn alludes",
+                    "work_id": "W52",
+                    "context": "Keynes responds to John Venn's 1878 review of Carveth Read."
+                },
+                {
+                    "raw": "Mr. Carveth Read's Essay on the Theory of Logic",
+                    "work_id": "W27",
+                    "context": "The primary subject of the critique is Read's 1878 book."
+                },
+                {
+                    "raw": "Following Mr. Herbert Spencer... definition of Logic",
+                    "work_id": "W23",
+                    "context": "Discusses Read's adherence to Spencer's 'objective' definition of logic from 'Principles of Psychology'."
+                },
+                {
+                    "raw": "Mill has remarked that if there were but one rational being",
+                    "work_id": "W22",
+                    "context": "Keynes uses Mill’s 'System of Logic' to defend the necessity of language as an instrument of thought."
+                }
+            ]
+        },
+        {
+            "title": "Theoretical and Practical Logic",
+            "author": "Alfred Sidgwick",
+            "year": 1879,
+            "journal": "Mind",
+            "volume": 4,
+            "section": "Notes and Discussions",
+            "pages": "122-123",
+            "url": "https://www.jstor.org/stable/2246571",
+            "references": [
+                {
+                    "raw": "Mr. Carveth Read's proposal (Essay, on the Theory of Logic: Introd. sect. 5)",
+                    "work_id": "W27",
+                    "context": "Addresses Read's proposal to move the study of language in reasoning to Rhetoric."
+                },
+                {
+                    "raw": "not dealt with by Mr. Venn in his criticism in the last number of MIND",
+                    "work_id": "W52",
+                    "context": "Sidgwick notes that Venn's review overlooked the specific issue of language/rhetoric."
+                },
+                {
+                    "raw": "Mr. Read seems to attempt, as Mr. Venn says, 'to lay aside more completely than is possible, the human or relative element'",
+                    "work_id": "W52",
+                    "context": "Quoting Venn’s critique of Read's hyper-objectivity."
+                }
+            ]
+        },
+        {
+            "title": "On the Position of Formal Logic",
+            "author": "John Neville Keynes",
+            "year": 1879,
+            "journal": "Mind",
+            "volume": 4,
+            "section": "Main",
+            "pages": "362-375",
+            "url": "https://www.jstor.org/stable/2246571",
+            "references": [
+                {
+                    "raw": null,
+                    "work_id": "W55",
+                    "context": "Referenced regarding Sir William Hamilton’s earlier criticisms of the state of logic."
+                },
+                {
+                    "raw": null,
+                    "work_id": "W56",
+                    "context": "Credited with reviving interest in the science of Formal Logic."
+                },
+                {
+                    "raw": null,
+                    "work_id": "W31",
+                    "context": "Cited regarding the psychological foundations of logic and the definition of thought."
+                },
+                {
+                    "raw": null,
+                    "work_id": "W38",
+                    "context": "Referenced regarding the dependence of thought on language and the \"laws of formal thinking.\""
+                },
+                {
+                    "raw": null,
+                    "work_id": "W22",
+                    "context": "Cited frequently regarding Material Logic, the \"logic of the pursuit of truth,\" and the rejection of the Dictum de omni."
+                },
+                {
+                    "raw": null,
+                    "work_id": "W57",
+                    "context": "Listed as part of the \"quick succession of works\" following Whately."
+                },
+                {
+                    "raw": null,
+                    "work_id": "W13",
+                    "context": "Cited as an example of the \"semi-algebraic\" development of logic."
+                },
+                {
+                    "raw": null,
+                    "work_id": "W58",
+                    "context": "Referenced regarding the view that logic deals with \"names and not with either ideas or things.\""
+                },
+                {
+                    "raw": null,
+                    "work_id": "W59",
+                    "context": "Mentioned as a contemporary work of the period."
+                },
+                {
+                    "raw": null,
+                    "work_id": "W4",
+                    "context": "Cited regarding the equational nature of propositions and the \"logical machine.\""
+                },
+                {
+                    "raw": null,
+                    "work_id": "W60",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W12",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W23",
+                    "context": null
+                }
+            ]
+        },
+        {
+            "title": "Logik. by Christoph Sigwart (review)",
+            "author": "John Venn",
+            "year": 1879,
+            "journal": "Mind",
+            "volume": 4,
+            "section": "Critical Notices",
+            "pages": "426-431",
+            "url": "https://www.jstor.org/stable/2246645",
+            "references": [
+                {
+                    "raw": null,
+                    "work_id": "W61",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W30",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W64",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W22",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W20",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W23",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W4",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W63",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W66",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W7",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W58",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W65",
+                    "context": null
+                }
+            ]
+        },
+        {
+            "title": "Principles of the Algebra of Logic. by Alexander MacFarlane (review)",
+            "author": "John Venn",
+            "year": 1879,
+            "journal": "Mind",
+            "volume": 4,
+            "section": "Critical Notices",
+            "pages": "580-582",
+            "url": "https://www.jstor.org/stable/2246956",
+            "references": [
+                {
+                    "raw": null,
+                    "work_id": "W67",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W13",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W4",
+                    "context": null
+                },
+                {
+                    "raw": null,
+                    "work_id": "W58",
+                    "context": null
+                }
+            ]
+        }
     ]
 }
