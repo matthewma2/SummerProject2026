@@ -5,8 +5,6 @@
         "year": 1876,
         "type": "article",
         "source": "Mind",
-        "volume": 1,
-        "notes": "",
         "alternative_titles": [
             "Logic and Geometry",
             "Robertson on Geometry"
@@ -18,7 +16,6 @@
         "year": 1875,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Syllabus",
             "The Syllabus",
@@ -31,8 +28,6 @@
         "year": 1876,
         "type": "article",
         "source": "Mind",
-        "volume": 1,
-        "notes": "",
         "alternative_titles": [
             "Robertson on Jevons",
             "Jevons's Formal Logic"
@@ -44,7 +39,6 @@
         "year": 1874,
         "type": "book",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Principles of Science",
             "Jevons' Principles"
@@ -56,7 +50,6 @@
         "year": 1864,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Pure Logic"
         ]
@@ -67,7 +60,6 @@
         "year": 1869,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Substitution of Similars",
             "The True Principle of Reasoning"
@@ -79,7 +71,6 @@
         "year": -350,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Analytica Priora",
             "The Analytics"
@@ -91,7 +82,6 @@
         "year": -350,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Analytica Posteriora"
         ]
@@ -102,8 +92,6 @@
         "year": 1876,
         "type": "article",
         "source": "Mind",
-        "volume": 1,
-        "notes": "",
         "alternative_titles": [
             "Peirce on Contraposition",
             "Contraposition and Conversion"
@@ -115,7 +103,6 @@
         "year": 1860,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Philosophical Prolegomena of Geometry",
             "Delbœuf's Prolégomènes"
@@ -127,8 +114,6 @@
         "year": 1876,
         "type": "article",
         "source": "Mind",
-        "volume": 1,
-        "notes": "",
         "alternative_titles": [
             "Venn on Boole"
         ]
@@ -139,7 +124,6 @@
         "year": 1854,
         "type": "book",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Laws of Thought",
             "The Laws of Thought"
@@ -151,7 +135,6 @@
         "year": 1870,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Lessons on Logic",
             "Jevons' Lessons"
@@ -163,8 +146,6 @@
         "year": 1877,
         "type": "article",
         "source": "Mind",
-        "volume": 2,
-        "notes": "",
         "alternative_titles": [
             "Murphy on Logic"
         ]
@@ -175,8 +156,6 @@
         "year": 1877,
         "type": "article",
         "source": "Mind",
-        "volume": 2,
-        "notes": "",
         "alternative_titles": [
             "Murphy's Logic of If"
         ]
@@ -187,7 +166,6 @@
         "year": 1748,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Clarissa Harlowe",
             "Clarissa"
@@ -199,7 +177,6 @@
         "year": 1870,
         "type": "book",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Bain's Logic"
         ]
@@ -210,8 +187,6 @@
         "year": 1877,
         "type": "article",
         "source": "Mind",
-        "volume": 2,
-        "notes": "",
         "alternative_titles": [
             "Read on Logical Principles"
         ]
@@ -222,7 +197,6 @@
         "year": 1843,
         "type": "book",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Mill's Logic",
             "System of Logic"
@@ -234,7 +208,6 @@
         "year": 1855,
         "type": "book",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Spencer's Psychology"
         ]
@@ -245,7 +218,6 @@
         "year": 1864,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Classification of the Sciences"
         ]
@@ -256,7 +228,6 @@
         "year": 1865,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Examination of Hamilton"
         ]
@@ -267,7 +238,6 @@
         "year": 1873,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Study of Sociology"
         ]
@@ -278,7 +248,6 @@
         "year": 1878,
         "type": "work",
         "source": null,
-        "notes": "",
         "alternative_titles": [
             "Theory of Logic"
         ]
@@ -289,7 +258,6 @@
         "year": 1877,
         "type": "book",
         "source": "J. Baedeker",
-        "notes": "The primary work under review; explores the intuition of Space in Logic.",
         "alternative_titles": [
             "Logische Studien",
             "Lange's Logische Studien"
@@ -301,7 +269,6 @@
         "year": 1866,
         "type": "book",
         "source": null,
-        "notes": "Referenced as the major work for which Logische Studien is a key.",
         "alternative_titles": [
             "Geschichte des Materialismus"
         ]
@@ -312,7 +279,6 @@
         "year": 1781,
         "type": "book",
         "source": null,
-        "notes": "Implied source for concepts like 'synthetic a priori' and 'pure intuition'.",
         "alternative_titles": [
             "Kritik der reinen Vernunft"
         ]
@@ -323,7 +289,6 @@
         "year": 1851,
         "type": "book",
         "source": null,
-        "notes": "Used as a parallel for Aristotle’s shift from intension to extension.",
         "alternative_titles": [
             "Mansel's Prolegomena"
         ]
@@ -334,7 +299,6 @@
         "year": 1857,
         "type": "book",
         "source": null,
-        "notes": "Specifically cited regarding § 84 and logical conversion.",
         "alternative_titles": [
             "Ueberweg's Logik"
         ]
@@ -345,7 +309,6 @@
         "year": -380,
         "type": "work",
         "source": null,
-        "notes": "Historical work against Plato's Ideas (referenced as 'Sathon' or 'Sathun').",
         "alternative_titles": [
             "Against the Ideas",
             "Sathon o peri tou antilegein"
@@ -357,7 +320,6 @@
         "year": -350,
         "type": "work",
         "source": null,
-        "notes": "Referenced for theories on mathematical abstraction (ii. 3) and potentiality (viii. 9).",
         "alternative_titles": [
             "Metaphysica"
         ]
@@ -368,7 +330,6 @@
         "year": -350,
         "type": "work",
         "source": null,
-        "notes": "Cited for the distinction between Nouns and Adjectives in grammar (Cat. 3).",
         "alternative_titles": [
             "Categoriae"
         ]
@@ -379,7 +340,6 @@
         "year": -350,
         "type": "work",
         "source": null,
-        "notes": "Cited (vi. 8, 6) regarding the immediate comprehension of abstract forms.",
         "alternative_titles": [
             "Ethica Nicomachea"
         ]
@@ -390,7 +350,6 @@
         "year": 1877,
         "type": "work",
         "source": "Trübner",
-        "notes": "Proposes a theory where all relations are reducible to Substitution, Exclusion, Inclusion, and Intersection.",
         "alternative_titles": [
             "SNIX Theory",
             "The S,N,I,X, Propositional Theory"
@@ -402,7 +361,6 @@
         "year": 1860,
         "type": "book",
         "source": null,
-        "notes": "The basis for the 'New Analytic' and the quantification of the predicate mentioned by Adamson.",
         "alternative_titles": [
             "Hamilton's Logic",
             "New Analytic"
@@ -414,7 +372,6 @@
         "year": 1857,
         "type": "book",
         "source": null,
-        "notes": "Specifically cited for § 49 regarding the conversion of intensive and extensive inclusion.",
         "alternative_titles": [
             "Spalding's Logic"
         ]
@@ -425,7 +382,6 @@
         "year": 1825,
         "type": "book",
         "source": null,
-        "notes": "Referenced for his rejection of the four relational categories proposed in the SNIX theory.",
         "alternative_titles": [
             "Twesten's Logik"
         ]
@@ -436,7 +392,6 @@
         "year": 1871,
         "type": "article",
         "source": "Nature",
-        "notes": "Referenced as an example of modern non-numerical algebras.",
         "alternative_titles": [
             "Spottiswoode on Recent Algebras"
         ]
@@ -447,7 +402,6 @@
         "year": 1870,
         "type": "work",
         "source": "American Journal of Mathematics",
-        "notes": "Cited for the definition of 'logical algebra' and its separation from quantitative mathematics.",
         "alternative_titles": [
             "Peirce's Linear Algebra"
         ]
@@ -458,7 +412,6 @@
         "year": 1844,
         "type": "book",
         "source": null,
-        "notes": "Referenced as a system of algebra (Theory of Extension) distinct from the Algebra of Number.",
         "alternative_titles": [
             "Grassmann's system",
             "Theory of Extension"
@@ -470,7 +423,6 @@
         "year": 1877,
         "type": "work",
         "source": null,
-        "notes": "Referenced in a footnote regarding German dialects and popular idioms.",
         "alternative_titles": [
             "Kräuter on Sound Shifts"
         ]
@@ -481,7 +433,6 @@
         "year": 1877,
         "type": "work",
         "source": "Teubner",
-        "notes": "A 37-page tractate offering a simplified and rectified version of Boole's algebraic logic.",
         "alternative_titles": [
             "Schröder's Operationskreis"
         ]
@@ -492,18 +443,16 @@
         "year": 1872,
         "type": "work",
         "source": null,
-        "notes": "Part of 'Die Formenlehre oder Mathematik'; focuses on quantitative relations of classes.",
         "alternative_titles": [
             "Grassmann's Begriffslehre"
         ]
     },
     "W47": {
-        "title": "Die Formenlehre oder Mathematik",
+        "title": "Die Formenlehre oder Mathematics",
         "author": "Robert Grassmann",
         "year": 1872,
         "type": "book",
         "source": null,
-        "notes": "A comprehensive treatise on quantitative reasoning in general.",
         "alternative_titles": [
             "Grassmann's Formenlehre"
         ]
@@ -514,7 +463,6 @@
         "year": 1749,
         "type": "book",
         "source": null,
-        "notes": "Representing the Associationist school of logic.",
         "alternative_titles": [
             "Hartley's observations"
         ]
@@ -525,7 +473,6 @@
         "year": 1764,
         "type": "book",
         "source": null,
-        "notes": "Representing the Scottish Common Sense school of logic.",
         "alternative_titles": [
             "Reid's inquiry"
         ]
@@ -536,7 +483,6 @@
         "year": 1878,
         "type": "book",
         "source": "Macmillan",
-        "notes": "Cited in a footnote regarding the scientific classification of species by relationship rather than obvious attributes.",
         "alternative_titles": [
             "Tropical Nature"
         ]
@@ -547,7 +493,6 @@
         "year": 1736,
         "type": "book",
         "source": null,
-        "notes": "Cited for the quote 'things are what they are' in the discussion on compatibility and objectivity.",
         "alternative_titles": [
             "Butler's Analogy"
         ]
@@ -558,7 +503,6 @@
         "year": 1879,
         "type": "article",
         "source": "Mind",
-        "notes": "A critique of Herbert Spencer's objective view of logic, arguing that a purely objective science of logic is an unreachable ideal.",
         "alternative_titles": [
             "Venn on Material Logic"
         ]
@@ -569,7 +513,6 @@
         "year": 1879,
         "type": "article",
         "source": "Mind",
-        "notes": "A response to Venn's review of Carveth Read; Keynes argues against a purely objective logic and defends the subjective/linguistic conditions of formal reasoning.",
         "alternative_titles": [
             "Keynes on Read",
             "Matter-of-Fact Logic"
@@ -581,7 +524,6 @@
         "year": 1879,
         "type": "article",
         "source": "Mind",
-        "notes": "A contribution to the debate over Carveth Read’s Theory of Logic. Sidgwick argues that Logic’s ultimate purpose is practical (combating fallacies) and that the study of language in reasoning cannot be ceded to Rhetoric.",
         "alternative_titles": [
             "Sidgwick on Read"
         ]
@@ -592,7 +534,6 @@
         "year": 1833,
         "type": "article",
         "source": "Edinburgh Review",
-        "notes": "Deplored the neglect and perversion of Logic in British universities over the preceding 150 years; provided the catalyst for the mid-century logical revival.",
         "alternative_titles": [
             "Hamilton's Edinburgh Review article"
         ]
@@ -603,7 +544,6 @@
         "year": 1826,
         "type": "book",
         "source": "Individual Publication",
-        "notes": "Credited by Keynes as the primary reason for the revival of logical interest; defines logic as being 'entirely conversant about Language'.",
         "alternative_titles": [
             "Whately's Logic"
         ]
@@ -614,7 +554,6 @@
         "year": 1858,
         "type": "book",
         "source": "Individual Publication",
-        "notes": "Included in the list of works contributing to the quick succession of logical developments after Whately.",
         "alternative_titles": []
     },
     "W58": {
@@ -623,7 +562,6 @@
         "year": 1847,
         "type": "book",
         "source": "Individual Publication",
-        "notes": "Keynes cites De Morgan's claim that Formal Logic deals with names rather than ideas or things, though he critiques De Morgan for not adhering strictly to this.",
         "alternative_titles": [
             "Calculus of Inference",
             "De Morgan's Formal Logic"
@@ -635,7 +573,6 @@
         "year": 1866,
         "type": "book",
         "source": "Individual Publication",
-        "notes": "Listed as one of the significant works of the contemporary logical period.",
         "alternative_titles": []
     },
     "W60": {
@@ -644,7 +581,6 @@
         "year": 1867,
         "type": "book",
         "source": "Oxford University Press",
-        "notes": "Critiqued as a 'popular text-book' that attempts a superficial reconciliation between the opposing theories of Hamilton and Mill.",
         "alternative_titles": [
             "Fowler's text-books"
         ]
@@ -655,7 +591,6 @@
         "year": 1878,
         "type": "book",
         "source": "Laupp (Tübingen)",
-        "notes": "The primary subject of the review. An elaborate work on Methodology that treats logical aims as ethical 'ends' and explores the mental reconstruction of Space, Time, and Causality.",
         "alternative_titles": [
             "Sigwart's Logik",
             "Methodenlehre"
@@ -667,7 +602,6 @@
         "year": 1855,
         "type": "book",
         "source": "Individual Publication",
-        "notes": "Cited as a leading English Empiricist. Venn suggests that the psychological defense of Mill’s logic is found in Bain's works.",
         "alternative_titles": [
             "Bain's Empirical Philosophy"
         ]
@@ -678,7 +612,6 @@
         "year": 1840,
         "type": "book",
         "source": "Individual Publication",
-        "notes": "Venn argues that the view of induction as 'hitting upon hypotheses' attributed to Jevons was originally Whewell’s.",
         "alternative_titles": []
     },
     "W64": {
@@ -687,7 +620,6 @@
         "year": 1860,
         "type": "book",
         "source": "Individual Publication",
-        "notes": "Referenced regarding the direct measurement of sensations, which Sigwart critiques.",
         "alternative_titles": [
             "Fechner's Psychophysics"
         ]
@@ -698,7 +630,6 @@
         "year": 1859,
         "type": "book",
         "source": "Individual Publication",
-        "notes": "Referenced as the 'Darwinian Theory' which Sigwart considers for its impact on Material Logic and the definition of species.",
         "alternative_titles": [
             "Darwinian Theory"
         ]
@@ -709,7 +640,6 @@
         "year": 1620,
         "type": "book",
         "source": "Individual Publication",
-        "notes": "Mentioned as part of Sigwart's historical account of Induction.",
         "alternative_titles": []
     },
     "W67": {
@@ -718,7 +648,6 @@
         "year": 1879,
         "type": "book",
         "source": "Douglas (Edinburgh)",
-        "notes": "The primary work under review; explores symbolic logic on the lines of Boole with original numerical treatments and a simplified form for particular propositions.",
         "alternative_titles": [
             "Macfarlane's Algebra of Logic"
         ]
