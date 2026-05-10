@@ -11,7 +11,7 @@
         ]
     },
     "W2": {
-        "title": "Syllabus of Plane Geometry: Corresponding to Cedar I-VI of Euclid's Elements",
+        "title": "Syllabus of Plane Geometry (Corresponding to Euclid I - VI)",
         "author": "Association for the Improvement of Geometrical Teaching",
         "year": 1875,
         "type": "work",
@@ -126,7 +126,8 @@
         "source": null,
         "alternative_titles": [
             "Laws of Thought",
-            "The Laws of Thought"
+            "The Laws of Thought",
+            "An Investigation of the Laws of Thought"
         ]
     },
     "W15": {
@@ -164,7 +165,7 @@
         "title": "Clarissa, or, the History of a Young Lady",
         "author": "Samuel Richardson",
         "year": 1748,
-        "type": "work",
+        "type": "novel",
         "source": null,
         "alternative_titles": [
             "Clarissa Harlowe",
