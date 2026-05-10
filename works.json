@@ -20,6 +20,7 @@
         "source": null,
         "notes": "",
         "alternative_titles": [
+            "Syllabus",
             "The Syllabus",
             "A.I.G.T. Syllabus"
         ]
@@ -281,5 +282,266 @@
         "alternative_titles": [
             "Theory of Logic"
         ]
+    },
+    "W28": {
+        "title": "Logische Studien. Ein Beitrag zur Neubegriindung der Formalen Logik und der Erkenntnisstheorie",
+        "author": "Friedrich Albert Lange",
+        "year": 1877,
+        "type": "book",
+        "source": "J. Baedeker",
+        "notes": "The primary work under review; explores the intuition of Space in Logic.",
+        "alternative_titles": [
+            "Logische Studien",
+            "Lange's Logische Studien"
+        ]
+    },
+    "W29": {
+        "title": "History of Materialism",
+        "author": "Friedrich Albert Lange",
+        "year": 1866,
+        "type": "book",
+        "source": null,
+        "notes": "Referenced as the major work for which Logische Studien is a key.",
+        "alternative_titles": [
+            "Geschichte des Materialismus"
+        ]
+    },
+    "W30": {
+        "title": "Critique of Pure Reason",
+        "author": "Immanuel Kant",
+        "year": 1781,
+        "type": "book",
+        "source": null,
+        "notes": "Implied source for concepts like 'synthetic a priori' and 'pure intuition'.",
+        "alternative_titles": [
+            "Kritik der reinen Vernunft"
+        ]
+    },
+    "W31": {
+        "title": "Prolegomena Logica",
+        "author": "Henry Longueville Mansel",
+        "year": 1851,
+        "type": "book",
+        "source": null,
+        "notes": "Used as a parallel for Aristotle’s shift from intension to extension.",
+        "alternative_titles": [
+            "Mansel's Prolegomena"
+        ]
+    },
+    "W32": {
+        "title": "System der Logik",
+        "author": "Friedrich Ueberweg",
+        "year": 1857,
+        "type": "book",
+        "source": null,
+        "notes": "Specifically cited regarding § 84 and logical conversion.",
+        "alternative_titles": [
+            "Ueberweg's Logik"
+        ]
+    },
+    "W33": {
+        "title": "Sathon",
+        "author": "Antisthenes the Cynic",
+        "year": -380,
+        "type": "work",
+        "source": null,
+        "notes": "Historical work against Plato's Ideas (referenced as 'Sathon' or 'Sathun').",
+        "alternative_titles": [
+            "Against the Ideas",
+            "Sathon o peri tou antilegein"
+        ]
+    },
+    "W34": {
+        "title": "Metaphysics",
+        "author": "Aristotle",
+        "year": -350,
+        "type": "work",
+        "source": null,
+        "notes": "Referenced for theories on mathematical abstraction (ii. 3) and potentiality (viii. 9).",
+        "alternative_titles": [
+            "Metaphysica"
+        ]
+    },
+    "W35": {
+        "title": "Categories",
+        "author": "Aristotle",
+        "year": -350,
+        "type": "work",
+        "source": null,
+        "notes": "Cited for the distinction between Nouns and Adjectives in grammar (Cat. 3).",
+        "alternative_titles": [
+            "Categoriae"
+        ]
+    },
+    "W36": {
+        "title": "Nicomachean Ethics",
+        "author": "Aristotle",
+        "year": -350,
+        "type": "work",
+        "source": null,
+        "notes": "Cited (vi. 8, 6) regarding the immediate comprehension of abstract forms.",
+        "alternative_titles": [
+            "Ethica Nicomachea"
+        ]
+    },
+    "W37": {
+        "title": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory",
+        "author": "Anonymous",
+        "year": 1877,
+        "type": "work",
+        "source": "Trübner",
+        "notes": "Proposes a theory where all relations are reducible to Substitution, Exclusion, Inclusion, and Intersection.",
+        "alternative_titles": [
+            "SNIX Theory",
+            "The S,N,I,X, Propositional Theory"
+        ]
+    },
+    "W38": {
+        "title": "Lectures on Metaphysics and Logic",
+        "author": "Sir William Hamilton",
+        "year": 1860,
+        "type": "book",
+        "source": null,
+        "notes": "The basis for the 'New Analytic' and the quantification of the predicate mentioned by Adamson.",
+        "alternative_titles": [
+            "Hamilton's Logic",
+            "New Analytic"
+        ]
+    },
+    "W39": {
+        "title": "Logic",
+        "author": "William Spalding",
+        "year": 1857,
+        "type": "book",
+        "source": null,
+        "notes": "Specifically cited for § 49 regarding the conversion of intensive and extensive inclusion.",
+        "alternative_titles": [
+            "Spalding's Logic"
+        ]
+    },
+    "W40": {
+        "title": "Die Logik, insbesondere die Analytik",
+        "author": "August Twesten",
+        "year": 1825,
+        "type": "book",
+        "source": null,
+        "notes": "Referenced for his rejection of the four relational categories proposed in the SNIX theory.",
+        "alternative_titles": [
+            "Twesten's Logik"
+        ]
+    },
+    "W41": {
+        "title": "Recent Algebras",
+        "author": "William Spottiswoode",
+        "year": 1871,
+        "type": "article",
+        "source": "Nature",
+        "notes": "Referenced as an example of modern non-numerical algebras.",
+        "alternative_titles": [
+            "Spottiswoode on Recent Algebras"
+        ]
+    },
+    "W42": {
+        "title": "Linear Associative Algebra",
+        "author": "Benjamin Peirce",
+        "year": 1870,
+        "type": "work",
+        "source": "American Journal of Mathematics",
+        "notes": "Cited for the definition of 'logical algebra' and its separation from quantitative mathematics.",
+        "alternative_titles": [
+            "Peirce's Linear Algebra"
+        ]
+    },
+    "W43": {
+        "title": "Die Ausdehnungslehre",
+        "author": "Hermann Grassmann",
+        "year": 1844,
+        "type": "book",
+        "source": null,
+        "notes": "Referenced as a system of algebra (Theory of Extension) distinct from the Algebra of Number.",
+        "alternative_titles": [
+            "Grassmann's system",
+            "Theory of Extension"
+        ]
+    },
+    "W44": {
+        "title": "Die Lautverschiebung",
+        "author": "Johann Friedrich Kräuter",
+        "year": 1877,
+        "type": "work",
+        "source": null,
+        "notes": "Referenced in a footnote regarding German dialects and popular idioms.",
+        "alternative_titles": [
+            "Kräuter on Sound Shifts"
+        ]
+    },
+    "W45": {
+        "title": "Der Operationskreis des Logikkalkuls",
+        "author": "Ernst Schröder",
+        "year": 1877,
+        "type": "work",
+        "source": "Teubner",
+        "notes": "A 37-page tractate offering a simplified and rectified version of Boole's algebraic logic.",
+        "alternative_titles": [
+            "Schröder's Operationskreis"
+        ]
+    },
+    "W46": {
+        "title": "Begriffslehre oder Logik",
+        "author": "Robert Grassmann",
+        "year": 1872,
+        "type": "work",
+        "source": null,
+        "notes": "Part of 'Die Formenlehre oder Mathematik'; focuses on quantitative relations of classes.",
+        "alternative_titles": [
+            "Grassmann's Begriffslehre"
+        ]
+    },
+    "W47": {
+        "title": "Die Formenlehre oder Mathematik",
+        "author": "Robert Grassmann",
+        "year": 1872,
+        "type": "book",
+        "source": null,
+        "notes": "A comprehensive treatise on quantitative reasoning in general.",
+        "alternative_titles": [
+            "Grassmann's Formenlehre"
+        ]
+    },
+    "W48": {
+        "title": "Observations on Man, his Frame, his Duty, and his Expectations",
+        "author": "David Hartley",
+        "year": 1749,
+        "type": "book",
+        "source": null,
+        "notes": "Representing the Associationist school of logic.",
+        "alternative_titles": ["Hartley's observations"]
+    },
+    "W49": {
+        "title": "An Inquiry into the Human Mind on the Principles of Common Sense",
+        "author": "Thomas Reid",
+        "year": 1764,
+        "type": "book",
+        "source": null,
+        "notes": "Representing the Scottish Common Sense school of logic.",
+        "alternative_titles": ["Reid's inquiry"]
+    },
+    "W50": {
+        "title": "Tropical Nature, and Other Essays",
+        "author": "Alfred Russel Wallace",
+        "year": 1878,
+        "type": "book",
+        "source": "Macmillan",
+        "notes": "Cited in a footnote regarding the scientific classification of species by relationship rather than obvious attributes.",
+        "alternative_titles": ["Tropical Nature"]
+    },
+    "W51": {
+        "title": "The Analogy of Religion",
+        "author": "Joseph Butler",
+        "year": 1736,
+        "type": "book",
+        "source": null,
+        "notes": "Cited for the quote 'things are what they are' in the discussion on compatibility and objectivity.",
+        "alternative_titles": ["Butler's Analogy"]
     }
 }

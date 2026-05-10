@@ -216,5 +216,389 @@
                 }
             ]
         }
+    ],
+    "volume3": [
+        {
+            "title": "Logische Studien (review)",
+            "author": "J. A. Stewart",
+            "year": 1878,
+            "journal": "Mind",
+            "volume": 3,
+            "section": "Critical Notices",
+            "pages": "112-118",
+            "url": "https://www.jstor.org/stable/2246411",
+            "references": [
+                {
+                    "raw": "Logische Studien",
+                    "work_id": "W28",
+                    "context": "Subject of the review."
+                },
+                {
+                    "raw": "History of Materialism",
+                    "work_id": "W29",
+                    "context": "Referenced as the exponent of Lange's systematic views."
+                },
+                {
+                    "raw": "Kant",
+                    "work_id": "W30",
+                    "context": "Discussion of synthetic a priori and space-intuition."
+                },
+                {
+                    "raw": "Mansel's Prolegomena Logica",
+                    "work_id": "W31",
+                    "context": "Paralleled with Aristotle regarding the interpretation of propositions in extension."
+                },
+                {
+                    "raw": "Ueberweg (Logik, § 84)",
+                    "work_id": "W32",
+                    "context": "Cited regarding the tacit pre-supposition of making the predicate substantive."
+                },
+                {
+                    "raw": "Antisthenes... Sathon",
+                    "work_id": "W33",
+                    "context": "Historical context for the difficulty about predication."
+                },
+                {
+                    "raw": "An. Post. ii. 7",
+                    "work_id": "W8",
+                    "context": "Aristotle's view on the geometer's apxai."
+                },
+                {
+                    "raw": "Met. ii. 3, vi. 10, vi. 14, viii. 9",
+                    "work_id": "W34",
+                    "context": "Aristotle’s theories on mathematical abstraction and formal causes."
+                },
+                {
+                    "raw": "Cat. 3",
+                    "work_id": "W35",
+                    "context": "Distinction between the Noun and the Adjective."
+                },
+                {
+                    "raw": "Eth. vi. 8, 6",
+                    "work_id": "W36",
+                    "context": "Discussion on the immediate comprehension of abstract figures."
+                },
+                {
+                    "raw": "Dugald Stewart",
+                    "work_id": null,
+                    "context": "Referenced regarding hypotheses and geometrical shapes."
+                },
+                {
+                    "raw": "The Principles of Science",
+                    "work_id": "W4",
+                    "context": "Mentioned in the context of Jevons."
+                },
+                {
+                    "raw": "Boole's System",
+                    "work_id": "W13",
+                    "context": "Discussed in relation to logical necessity."
+                },
+                {
+                    "raw": "Logical Contraposition and Conversion",
+                    "work_id": "W9",
+                    "context": "Listed as a specific point of detail."
+                },
+                {
+                    "raw": "Fundamental Logic",
+                    "work_id": "W16",
+                    "context": "Briefly mentioned as an interesting logical work."
+                },
+                {
+                    "raw": "The Logic of 'If'",
+                    "work_id": "W18",
+                    "context": "Briefly mentioned regarding conditional logic."
+                },
+                {
+                    "raw": "On Some Principles of Logic",
+                    "work_id": "W21",
+                    "context": "Listed as an article containing logical details."
+                },
+                {
+                    "raw": "On the Theory of Logic",
+                    "work_id": "W27",
+                    "context": "Listed as an article containing logical details."
+                }
+            ]
+        },
+        {
+            "title": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory (review)",
+            "author": "Robert Adamson",
+            "year": 1878,
+            "journal": "Mind",
+            "volume": 3,
+            "section": "Critical Notices",
+            "pages": "124-126",
+            "url": "https://www.jstor.org/stable/2246623",
+            "references": [
+                {
+                    "raw": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory",
+                    "work_id": "W37",
+                    "context": "Primary work under review; criticizes its 'some only' symbol and complex relations."
+                },
+                {
+                    "raw": "Hamilton's view",
+                    "work_id": "W38",
+                    "context": "Discussed regarding the definition of judgment as relations between totalities."
+                },
+                {
+                    "raw": "Hamilton's Analytic",
+                    "work_id": "W38",
+                    "context": "Argues the SNIX theory yields no results beyond Hamilton's eight forms."
+                },
+                {
+                    "raw": "Spalding (Logic § 49)",
+                    "work_id": "W39",
+                    "context": "Cited to show that the author's view on intensive inclusion was already established."
+                },
+                {
+                    "raw": "Twesten",
+                    "work_id": "W40",
+                    "context": "Noted for previously rejecting the four relations proposed by the author."
+                },
+                {
+                    "raw": "Aristotelian logic",
+                    "work_id": "W7",
+                    "context": "Referenced for the traditional I and O propositional forms."
+                }
+            ]
+        },
+        {
+            "title": "Prof. Jevons's criticism of Boole's. Logical System (discussion)",
+            "author": "George Bruce Halsted",
+            "year": 1878,
+            "journal": "Mind",
+            "volume": 3,
+            "section": "Notes and Discussions",
+            "pages": "134-137",
+            "url": "https://www.jstor.org/stable/2246627",
+            "references": [
+                {
+                    "raw": "Pure Logic (1864)",
+                    "work_id": "W5",
+                    "context": "Halsted analyzes Jevons's original criticisms of Boole found in this essay."
+                },
+                {
+                    "raw": "Principles of Science (2nd Ed.)",
+                    "work_id": "W4",
+                    "context": "Discussed as the wider circulation of Jevons's adaptation of Boole."
+                },
+                {
+                    "raw": "Boole's works",
+                    "work_id": "W13",
+                    "context": "Central topic; Halsted defends Boole's 'mathematical dress' against Jevons's objections."
+                },
+                {
+                    "raw": "Elementary Lessons in Logic (1870)",
+                    "work_id": "W15",
+                    "context": "Criticized for misrepresenting Boole's view of Mathematics."
+                },
+                {
+                    "raw": "Grassmann's system",
+                    "work_id": "W43",
+                    "context": "Used to challenge Jevons's narrow view of algebra as only numerical."
+                },
+                {
+                    "raw": "Mr. Spottiswoode's little paper on Recent Algebras",
+                    "work_id": "W41",
+                    "context": "Cited as evidence of modern, non-numerical algebraic developments."
+                },
+                {
+                    "raw": "Linear Associative Algebras of Prof. Peirce",
+                    "work_id": "W42",
+                    "context": "Quoted to define logical algebra as qualitative rather than quantitative."
+                },
+                {
+                    "raw": "Mr. Venn (MIND IV., p. 489)",
+                    "work_id": "W12",
+                    "context": "Halsted agrees with Venn's defense of Boole's expression of alternatives."
+                },
+                {
+                    "raw": "Die Lautverschiebung",
+                    "work_id": "W44",
+                    "context": "Footnote reference regarding idioms and linguistics."
+                }
+            ]
+        },
+        {
+            "title": "Der Operationskreis des Logikkalkuls. by Ernst Schröder (review)",
+            "author": "Robert Adamson",
+            "year": 1876,
+            "journal": "Mind",
+            "volume": 3,
+            "section": "Critical Notices",
+            "pages": "252-255",
+            "url": "https://www.jstor.org/stable/2246931",
+            "references": [
+                {
+                    "raw": "Der Operationskreis des Logikkalkuls",
+                    "work_id": "W45",
+                    "context": "This tractate, of only 37 pages, contains the clearest and most elegant exposition yet given of the mathematical or algebraic doctrine of logical reasoning."
+                },
+                {
+                    "raw": "Laws of Thought",
+                    "work_id": "W13",
+                    "context": "In essentials the author agrees with Boole, and his work may be regarded as in many points a simplification, in some points a rectification, of the elaborate processes first fully stated in the Laws of Thought."
+                },
+                {
+                    "raw": "R. Grassmann",
+                    "work_id": "W46",
+                    "context": "In this mode of restricting attention to the quantitative relations of classes, Schröder agrees in the main with R. Grassmann, to whom he refers, and to whom some of the theorems in the work are due."
+                },
+                {
+                    "raw": "Grassman's Begriffslehre oder Logik",
+                    "work_id": "W46",
+                    "context": "Grassman's Begriffslehre oder Logik, the second part of a more comprehensive treatise on quantitative reasoning in general (Die Formenlehre oder Mathematik), deserves attention."
+                },
+                {
+                    "raw": "Die Formenlehre oder Mathematik",
+                    "work_id": "W47",
+                    "context": "Grassman's Begriffslehre oder Logik, the second part of a more comprehensive treatise on quantitative reasoning in general (Die Formenlehre oder Mathematik), deserves attention."
+                },
+                {
+                    "raw": "Prof. Jevons's method",
+                    "work_id": "W5",
+                    "context": "Thus it approaches more closely to Prof. Jevons's method of indirect inference than to Boole's algebraic forms, and it enables us to perceive with more clearness than was possible in the case of Boole's logic, the worth of the symbolic representation of reasoning."
+                }
+            ]
+        },
+        {
+            "title": "The Negative Character of Logic",
+            "author": "Alfred Sidgwick",
+            "year": 1878,
+            "journal": "Mind",
+            "volume": 3,
+            "section": "Main",
+            "pages": "350-357",
+            "url": "https://www.jstor.org/stable/2246540",
+            "references": [
+                {
+                    "raw": "Mill's excellent simile",
+                    "work_id": "W22",
+                    "context": "They are constantly forgetting that Logic is—to use Mill's excellent simile—only a judge: they fail to distinguish clearly between the functions of legislature, judge, counsel, solicitors, witnesses, and plaintiff or defendant."
+                },
+                {
+                    "raw": "Bain tells us",
+                    "work_id": "W20",
+                    "context": "Bain tells us distinctly that the whole of the second, third, and fourth classes in Mill's table of Fallacies 'might with the utmost propriety be absorbed into the body of the work'."
+                },
+                {
+                    "raw": "partisans of Hartley and of Reid",
+                    "work_id": "W48",
+                    "context": "As Logic is 'the common ground on which the partisans of Hartley and of Reid, of Locke and of Kant, may meet and join hands,' so this view of Logic is one in which Material, Formal, and Conceptualist Logicians do actually agree."
+                },
+                {
+                    "raw": "partisans of Hartley and of Reid",
+                    "work_id": "W49",
+                    "context": "As Logic is 'the common ground on which the partisans of Hartley and of Reid, of Locke and of Kant, may meet and join hands,' so this view of Logic is one in which Material, Formal, and Conceptualist Logicians do actually agree."
+                },
+                {
+                    "raw": "Mill's table of Fallacies",
+                    "work_id": "W22",
+                    "context": "Bain tells us distinctly that the whole of the second, third, and fourth classes in Mill's table of Fallacies 'might with the utmost propriety be absorbed into the body of the work'."
+                },
+                {
+                    "raw": "Locke and of Kant",
+                    "work_id": "W30",
+                    "context": "As Logic is 'the common ground on which the partisans of Hartley and of Reid, of Locke and of Kant, may meet and join hands,' so this view of Logic is one in which Material, Formal, and Conceptualist Logicians do actually agree."
+                },
+                {
+                    "raw": "Mill's a priori class",
+                    "work_id": "W22",
+                    "context": "It will be found that Mill's a priori class are in reality a part of these, and a decidedly puzzling class to fight against effectively."
+                }
+            ]
+        },
+        {
+            "title": "On the Theory of Logic: An Essay. by Carveth Read (review)",
+            "author": "John Venn",
+            "year": 1878,
+            "journal": "Mind",
+            "volume": 3,
+            "section": "Critical Notices",
+            "pages": "539-545",
+            "url": "https://www.jstor.org/stable/2246755",
+            "references": [
+                {
+                    "raw": "On the Theory of Logic: An Essay. By CARVETH READ",
+                    "work_id": "W27",
+                    "context": "The general view which he takes of the subject is that which may be called the objective or matter-of-fact view."
+                },
+                {
+                    "raw": "Mill is the best known exponent",
+                    "work_id": "W22",
+                    "context": "Of this view Mill is the best known exponent in England; for although... he departs from this standing-point in his definition of the science, he preserves it with great consistency."
+                },
+                {
+                    "raw": "readers of Mill",
+                    "work_id": "W22",
+                    "context": "What we may term the 'chasm of separation' theory of Natural Kinds, so familiar to readers of Mill, is being very generally abandoned."
+                },
+                {
+                    "raw": "As Bishop Butler says",
+                    "work_id": "W51",
+                    "context": "As Bishop Butler says, things are what they are; any two relations either do or do not, wholly or partially, coincide."
+                },
+                {
+                    "raw": "Mr. A. R. Wallace's Tropical Nature",
+                    "work_id": "W50",
+                    "context": "See this very clearly brought out in Mr. A. R. Wallace's Tropical Nature, where he shows that... least obvious and striking attributes are the most valuable for the purposes of the scientific classifier."
+                },
+                {
+                    "raw": "lines of Mr. H. Spencer",
+                    "work_id": "W23",
+                    "context": "Working mainly on the lines of Mr. H. Spencer, he differs from him on one important point, viz, the number of terms employed in the syllogism."
+                },
+                {
+                    "raw": "Mill's Axiom",
+                    "work_id": "W22",
+                    "context": "According to Mill's Axiom, the correlation might be symbolised thus... To rely on Mill's Axiom is to lose all that evidence of the mortality of Greeks which is derived from the mortality of the rest of mankind."
+                },
+                {
+                    "raw": "Hamilton's, Boole's, De Morgan's, Jevons's",
+                    "work_id": "W38",
+                    "context": "It is hard for those whose business requires them to keep in mind a number of distinct sets of symbols, Hamilton's, Boole's, De Morgan's, Jevons's, and so on."
+                },
+                {
+                    "raw": "Hamilton's, Boole's, De Morgan's, Jevons's",
+                    "work_id": "W13",
+                    "context": "It is hard for those whose business requires them to keep in mind a number of distinct sets of symbols, Hamilton's, Boole's, De Morgan's, Jevons's, and so on."
+                },
+                {
+                    "raw": "Hamilton's, Boole's, De Morgan's, Jevons's",
+                    "work_id": "W4",
+                    "context": "It is hard for those whose business requires them to keep in mind a number of distinct sets of symbols, Hamilton's, Boole's, De Morgan's, Jevons's, and so on."
+                }
+            ]
+        },
+        {
+            "title": "Logic and the Elements of Geometry (discussion)",
+            "author": "George Croom Robertson",
+            "year": 1878,
+            "journal": "Mind",
+            "volume": 3,
+            "section": "Notes and Discussions",
+            "pages": "564-568",
+            "url": "https://www.jstor.org/stable/2246761",
+            "references": [
+                {
+                    "raw": "observations made by me, in the first number of this journal",
+                    "work_id": "W1",
+                    "context": "Robertson references his initial 1876 critique of the A.I.G.T. Syllabus."
+                },
+                {
+                    "raw": "Syllabus of Plane Geometry issued by the Association in 1875",
+                    "work_id": "W2",
+                    "context": "The central document under dispute between Robertson and Dr. Hirst."
+                },
+                {
+                    "raw": "M. Delbœuf in his Prolegomenes philosophiques de la Geometrie",
+                    "work_id": "W11",
+                    "context": "Robertson recommends Delbœuf's terminology ('inverse' and 'reciprocal') to avoid the 'perverse' geometrical use of logical terms."
+                }
+            ]
+        }
+    ],
+    "volume4": [
+
     ]
 }
