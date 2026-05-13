@@ -12,9 +12,8 @@
             "url": "https://www.jstor.org/stable/2246871",
             "references": [
                 {
-                    "raw": "Syllabus of Plane Geometry",
                     "work_id": "W2",
-                    "context": null
+                    "quotation": "Syllabus of Plane Geometry"
                 }
             ]
         },
@@ -30,29 +29,24 @@
             "url": "https://www.jstor.org/stable/2246500",
             "references": [
                 {
-                    "raw": "The Principles of Science: A Treatise on Logic and Scientific Method",
                     "work_id": "W4",
-                    "context": null
+                    "quotation": "The Principles of Science: A Treatise on Logic and Scientific Method"
                 },
                 {
-                    "raw": "Pure Logic",
                     "work_id": "W5",
-                    "context": null
+                    "quotation": "Pure Logic"
                 },
                 {
-                    "raw": "Substitution of Similars",
                     "work_id": "W6",
-                    "context": null
+                    "quotation": "Substitution of Similars"
                 },
                 {
-                    "raw": "Prior Analytics",
                     "work_id": "W7",
-                    "context": null
+                    "quotation": "Prior Analytics"
                 },
                 {
-                    "raw": "Posterior Analytics",
                     "work_id": "W8",
-                    "context": null
+                    "quotation": "Posterior Analytics"
                 }
             ]
         },
@@ -68,19 +62,16 @@
             "url": "https://www.jstor.org/stable/2246604",
             "references": [
                 {
-                    "raw": "Syllabus of Plane Geometry",
                     "work_id": "W2",
-                    "context": null
+                    "quotation": "Syllabus of Plane Geometry"
                 },
                 {
-                    "raw": "MIND, vol.1, p.147-148",
                     "work_id": "W1",
-                    "context": null
+                    "quotation": "MIND, vol.1, p.147-148"
                 },
                 {
-                    "raw": "Prolégomènes Philosophiques de la Géométrie",
                     "work_id": "W11",
-                    "context": null
+                    "quotation": "Prolégomènes Philosophiques de la Géométrie"
                 }
             ]
         },
@@ -96,24 +87,20 @@
             "url": "https://www.jstor.org/stable/2246411",
             "references": [
                 {
-                    "raw": "Laws of Thought",
                     "work_id": "W13",
-                    "context": null
+                    "quotation": "Laws of Thought"
                 },
                 {
-                    "raw": "Principles of Science",
                     "work_id": "W4",
-                    "context": null
+                    "quotation": "Principles of Science"
                 },
                 {
-                    "raw": "MIND, no.2",
                     "work_id": "W3",
-                    "context": null
+                    "quotation": "MIND, no.2"
                 },
                 {
-                    "raw": "Lessons on Logic",
                     "work_id": "W15",
-                    "context": null
+                    "quotation": "Lessons on Logic"
                 }
             ]
         }
@@ -131,24 +118,20 @@
             "url": "https://www.jstor.org/stable/2246968",
             "references": [
                 {
-                    "raw": "An Investigation of the Laws of Thought",
                     "work_id": "W13",
-                    "context": null
+                    "quotation": "An Investigation of the Laws of Thought"
                 },
                 {
-                    "raw": "Principles of Science",
                     "work_id": "W4",
-                    "context": null
+                    "quotation": "Principles of Science"
                 },
                 {
-                    "raw": "Substitution of Similars",
                     "work_id": "W6",
-                    "context": null
+                    "quotation": "Substitution of Similars"
                 },
                 {
-                    "raw": "Boole's Logical System",
                     "work_id": "W12",
-                    "context": null
+                    "quotation": "Boole's Logical System"
                 }
             ]
         },
@@ -164,14 +147,12 @@
             "url": "https://www.jstor.org/stable/2246385",
             "references": [
                 {
-                    "raw": "Clarissa Harlowe",
                     "work_id": "W19",
-                    "context": null
+                    "quotation": "Clarissa Harlowe"
                 },
                 {
-                    "raw": "Logic",
                     "work_id": "W20",
-                    "context": null
+                    "quotation": "Logic"
                 }
             ]
         },
@@ -187,39 +168,32 @@
             "url": "https://www.jstor.org/stable/2246910",
             "references": [
                 {
-                    "raw": "System of Logic",
                     "work_id": "W22",
-                    "context": null
+                    "quotation": "System of Logic"
                 },
                 {
-                    "raw": "Logic",
                     "work_id": "W20",
-                    "context": null
+                    "quotation": "Logic"
                 },
                 {
-                    "raw": "Principles of Psychology",
                     "work_id": "W23",
-                    "context": null
+                    "quotation": "Principles of Psychology"
                 },
                 {
-                    "raw": "Classification of the Sciences",
                     "work_id": "W24",
-                    "context": null
+                    "quotation": "Classification of the Sciences"
                 },
                 {
-                    "raw": "Examination of Hamilton",
                     "work_id": "W25",
-                    "context": null
+                    "quotation": "Examination of Hamilton"
                 },
                 {
-                    "raw": "Study of Sociology",
                     "work_id": "W26",
-                    "context": null
+                    "quotation": "Study of Sociology"
                 },
                 {
-                    "raw": "Theory of Logic",
                     "work_id": "W27",
-                    "context": null
+                    "quotation": "Theory of Logic"
                 }
             ]
         }
@@ -237,54 +211,44 @@
             "url": "https://www.jstor.org/stable/2246621",
             "references": [
                 {
-                    "raw": "Logische Studien",
                     "work_id": "W28",
-                    "context": "Subject of the review."
+                    "quotation": "Logische Studien"
                 },
                 {
-                    "raw": "History of Materialism",
                     "work_id": "W29",
-                    "context": "Referenced as the exponent of Lange's systematic views."
+                    "quotation": "History of Materialism"
                 },
                 {
-                    "raw": "Kant",
                     "work_id": "W30",
-                    "context": "Discussion of synthetic a priori and space-intuition."
+                    "quotation": "Kant"
                 },
                 {
-                    "raw": "Mansel's Prolegomena Logica",
                     "work_id": "W31",
-                    "context": "Paralleled with Aristotle regarding the interpretation of propositions in extension."
+                    "quotation": "Mansel's Prolegomena Logica"
                 },
                 {
-                    "raw": "Ueberweg (Logik, § 84)",
                     "work_id": "W32",
-                    "context": "Cited regarding the tacit pre-supposition of making the predicate substantive."
+                    "quotation": "Ueberweg (Logik, § 84)"
                 },
                 {
-                    "raw": "Antisthenes... Sathon",
                     "work_id": "W33",
-                    "context": "Historical context for the difficulty about predication."
+                    "quotation": "Antisthenes... Sathon"
                 },
                 {
-                    "raw": "An. Post. ii. 7",
                     "work_id": "W8",
-                    "context": "Aristotle's view on the geometer's apxai."
+                    "quotation": "An. Post. ii. 7"
                 },
                 {
-                    "raw": "Met. ii. 3, vi. 10, vi. 14, viii. 9",
                     "work_id": "W34",
-                    "context": "Aristotle’s theories on mathematical abstraction and formal causes."
+                    "quotation": "Met. ii. 3, vi. 10, vi. 14, viii. 9"
                 },
                 {
-                    "raw": "Cat. 3",
                     "work_id": "W35",
-                    "context": "Distinction between the Noun and the Adjective."
+                    "quotation": "Cat. 3"
                 },
                 {
-                    "raw": "Eth. vi. 8, 6",
                     "work_id": "W36",
-                    "context": "Discussion on the immediate comprehension of abstract figures."
+                    "quotation": "Eth. vi. 8, 6"
                 }
             ]
         },
@@ -300,29 +264,24 @@
             "url": "https://www.jstor.org/stable/2246623",
             "references": [
                 {
-                    "raw": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory",
                     "work_id": "W37",
-                    "context": "Primary work under review; criticizes its 'some only' symbol and complex relations."
+                    "quotation": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory"
                 },
                 {
-                    "raw": "Hamilton's Analytic",
                     "work_id": "W38",
-                    "context": "Argues the SNIX theory yields no results beyond Hamilton's eight forms."
+                    "quotation": "Hamilton's Analytic"
                 },
                 {
-                    "raw": "Spalding (Logic § 49)",
                     "work_id": "W39",
-                    "context": "Cited to show that the author's view on intensive inclusion was already established."
+                    "quotation": "Spalding (Logic § 49)"
                 },
                 {
-                    "raw": "Twesten",
                     "work_id": "W40",
-                    "context": "Noted for previously rejecting the four relations proposed by the author."
+                    "quotation": "Twesten"
                 },
                 {
-                    "raw": "Aristotelian logic",
                     "work_id": "W7",
-                    "context": "Referenced for the traditional I and O propositional forms."
+                    "quotation": "Aristotelian logic"
                 }
             ]
         },
@@ -338,49 +297,40 @@
             "url": "https://www.jstor.org/stable/2246627",
             "references": [
                 {
-                    "raw": "Pure Logic (1864)",
                     "work_id": "W5",
-                    "context": "Halsted analyzes Jevons's original criticisms of Boole found in this essay."
+                    "quotation": "Pure Logic (1864)"
                 },
                 {
-                    "raw": "Principles of Science (2nd Ed.)",
                     "work_id": "W4",
-                    "context": "Discussed as the wider circulation of Jevons's adaptation of Boole."
+                    "quotation": "Principles of Science (2nd Ed.)"
                 },
                 {
-                    "raw": "Boole's works",
                     "work_id": "W13",
-                    "context": "Central topic; Halsted defends Boole's 'mathematical dress' against Jevons's objections."
+                    "quotation": "Boole's works"
                 },
                 {
-                    "raw": "Elementary Lessons in Logic (1870)",
                     "work_id": "W15",
-                    "context": "Criticized for misrepresenting Boole's view of Mathematics."
+                    "quotation": "Elementary Lessons in Logic (1870)"
                 },
                 {
-                    "raw": "Grassmann's system",
                     "work_id": "W43",
-                    "context": "Used to challenge Jevons's narrow view of algebra as only numerical."
+                    "quotation": "Grassmann's system"
                 },
                 {
-                    "raw": "Mr. Spottiswoode's little paper on Recent Algebras",
                     "work_id": "W41",
-                    "context": "Cited as evidence of modern, non-numerical algebraic developments."
+                    "quotation": "Mr. Spottiswoode's little paper on Recent Algebras"
                 },
                 {
-                    "raw": "Linear Associative Algebras of Prof. Peirce",
                     "work_id": "W42",
-                    "context": "Quoted to define logical algebra as qualitative rather than quantitative."
+                    "quotation": "Linear Associative Algebras of Prof. Peirce"
                 },
                 {
-                    "raw": "Mr. Venn (MIND IV., p. 489)",
                     "work_id": "W12",
-                    "context": "Halsted agrees with Venn's defense of Boole's expression of alternatives."
+                    "quotation": "Mr. Venn (MIND IV., p. 489)"
                 },
                 {
-                    "raw": "Die Lautverschiebung",
                     "work_id": "W44",
-                    "context": "Footnote reference regarding idioms and linguistics."
+                    "quotation": "Die Lautverschiebung"
                 }
             ]
         },
@@ -396,29 +346,24 @@
             "url": "https://www.jstor.org/stable/2246931",
             "references": [
                 {
-                    "raw": "Der Operationskreis des Logikkalkuls",
                     "work_id": "W45",
-                    "context": "This tractate, of only 37 pages, contains the clearest and most elegant exposition yet given of the mathematical or algebraic doctrine of logical reasoning."
+                    "quotation": "Der Operationskreis des Logikkalkuls"
                 },
                 {
-                    "raw": "Laws of Thought",
                     "work_id": "W13",
-                    "context": "In essentials the author agrees with Boole, and his work may be regarded as in many points a simplification, in some points a rectification, of the elaborate processes first fully stated in the Laws of Thought."
+                    "quotation": "Laws of Thought"
                 },
                 {
-                    "raw": "Grassman's Begriffslehre oder Logik",
                     "work_id": "W46",
-                    "context": "Grassman's Begriffslehre oder Logik, the second part of a more comprehensive treatise on quantitative reasoning in general (Die Formenlehre oder Mathematik), deserves attention."
+                    "quotation": "Grassman's Begriffslehre oder Logik"
                 },
                 {
-                    "raw": "Die Formenlehre oder Mathematik",
                     "work_id": "W47",
-                    "context": "Grassman's Begriffslehre oder Logik, the second part of a more comprehensive treatise on quantitative reasoning in general (Die Formenlehre oder Mathematik), deserves attention."
+                    "quotation": "Die Formenlehre oder Mathematik"
                 },
                 {
-                    "raw": "Prof. Jevons's method",
                     "work_id": "W5",
-                    "context": "Thus it approaches more closely to Prof. Jevons's method of indirect inference than to Boole's algebraic forms, and it enables us to perceive with more clearness than was possible in the case of Boole's logic, the worth of the symbolic representation of reasoning."
+                    "quotation": "Prof. Jevons's method"
                 }
             ]
         },
@@ -434,29 +379,24 @@
             "url": "https://www.jstor.org/stable/2246540",
             "references": [
                 {
-                    "raw": "Mill's table of Fallacies",
                     "work_id": "W22",
-                    "context": "They are constantly forgetting that Logic is—to use Mill's excellent simile—only a judge: they fail to distinguish clearly between the functions of legislature, judge, counsel, solicitors, witnesses, and plaintiff or defendant."
+                    "quotation": "Mill's table of Fallacies"
                 },
                 {
-                    "raw": "Bain tells us",
                     "work_id": "W20",
-                    "context": "Bain tells us distinctly that the whole of the second, third, and fourth classes in Mill's table of Fallacies 'might with the utmost propriety be absorbed into the body of the work'."
+                    "quotation": "Bain tells us"
                 },
                 {
-                    "raw": "partisans of Hartley and of Reid",
                     "work_id": "W48",
-                    "context": "As Logic is 'the common ground on which the partisans of Hartley and of Reid, of Locke and of Kant, may meet and join hands,' so this view of Logic is one in which Material, Formal, and Conceptualist Logicians do actually agree."
+                    "quotation": "partisans of Hartley and of Reid"
                 },
                 {
-                    "raw": "partisans of Hartley and of Reid",
                     "work_id": "W49",
-                    "context": "As Logic is 'the common ground on which the partisans of Hartley and of Reid, of Locke and of Kant, may meet and join hands,' so this view of Logic is one in which Material, Formal, and Conceptualist Logicians do actually agree."
+                    "quotation": "partisans of Hartley and of Reid"
                 },
                 {
-                    "raw": "Locke and of Kant",
                     "work_id": "W30",
-                    "context": "As Logic is 'the common ground on which the partisans of Hartley and of Reid, of Locke and of Kant, may meet and join hands,' so this view of Logic is one in which Material, Formal, and Conceptualist Logicians do actually agree."
+                    "quotation": "Locke and of Kant"
                 }
             ]
         },
@@ -472,24 +412,20 @@
             "url": "https://www.jstor.org/stable/2246755",
             "references": [
                 {
-                    "raw": "On the Theory of Logic: An Essay. By CARVETH READ",
                     "work_id": "W27",
-                    "context": "The general view which he takes of the subject is that which may be called the objective or matter-of-fact view."
+                    "quotation": "On the Theory of Logic: An Essay. By CARVETH READ"
                 },
                 {
-                    "raw": "Mill is the best known exponent",
                     "work_id": "W22",
-                    "context": "Of this view Mill is the best known exponent in England; for although... he departs from this standing-point in his definition of the science, he preserves it with great consistency."
+                    "quotation": "Mill is the best known exponent"
                 },
                 {
-                    "raw": "Mr. A. R. Wallace's Tropical Nature",
                     "work_id": "W50",
-                    "context": "See this very clearly brought out in Mr. A. R. Wallace's Tropical Nature, where he shows that... least obvious and striking attributes are the most valuable for the purposes of the scientific classifier."
+                    "quotation": "Mr. A. R. Wallace's Tropical Nature"
                 },
                 {
-                    "raw": "lines of Mr. H. Spencer",
                     "work_id": "W23",
-                    "context": "Working mainly on the lines of Mr. H. Spencer, he differs from him on one important point, viz, the number of terms employed in the syllogism."
+                    "quotation": "lines of Mr. H. Spencer"
                 }
             ]
         },
@@ -505,19 +441,16 @@
             "url": "https://www.jstor.org/stable/2246761",
             "references": [
                 {
-                    "raw": "observations made by me, in the first number of this journal",
                     "work_id": "W1",
-                    "context": "Robertson references his initial 1876 critique of the A.I.G.T. Syllabus."
+                    "quotation": "observations made by me, in the first number of this journal"
                 },
                 {
-                    "raw": "Syllabus of Plane Geometry issued by the Association in 1875",
                     "work_id": "W2",
-                    "context": "The central document under dispute between Robertson and Dr. Hirst."
+                    "quotation": "Syllabus of Plane Geometry issued by the Association in 1875"
                 },
                 {
-                    "raw": "M. Delbœuf in his Prolegomenes philosophiques de la Geometrie",
                     "work_id": "W11",
-                    "context": "Robertson recommends Delbœuf's terminology ('inverse' and 'reciprocal') to avoid the 'perverse' geometrical use of logical terms."
+                    "quotation": "M. Delbœuf in his Prolegomenes philosophiques de la Geometrie"
                 }
             ]
         }
@@ -535,19 +468,16 @@
             "url": "https://www.jstor.org/stable/2246563",
             "references": [
                 {
-                    "raw": "notice of Mr. C. Read's Essay on Logic, published in MIND XII.",
                     "work_id": "W27",
-                    "context": "Venn refers to the review of Carveth Read’s 'On the Theory of Logic' (1878)."
+                    "quotation": "notice of Mr. C. Read's Essay on Logic, published in MIND XII."
                 },
                 {
-                    "raw": "the view of Mr. H. Spencer... distinction between the Science of Logic and the Theory of Reasoning",
                     "work_id": "W23",
-                    "context": "Critique of Spencer's 'Principles of Psychology' regarding objective vs. subjective logic."
+                    "quotation": "the view of Mr. H. Spencer... distinction between the Science of Logic and the Theory of Reasoning"
                 },
                 {
-                    "raw": "The Editor in a former number (No. IV. p. 216), drew a distinction between the 'if' of doubt and the 'if' of inference.",
                     "work_id": "W1",
-                    "context": "Citing Robertson's editorial note in the October 1876 issue of Mind."
+                    "quotation": "The Editor in a former number (No. IV. p. 216), drew a distinction between the 'if' of doubt and the 'if' of inference."
                 }
             ]
         },
@@ -563,19 +493,16 @@
             "url": "https://www.jstor.org/stable/2246570",
             "references": [
                 {
-                    "raw": "review of Mr. Carveth Read's Essay... in the last number of MIND, Mr. Venn alludes",
                     "work_id": "W52",
-                    "context": "Keynes responds to John Venn's 1878 review of Carveth Read."
+                    "quotation": "review of Mr. Carveth Read's Essay... in the last number of MIND, Mr. Venn alludes"
                 },
                 {
-                    "raw": "Mr. Carveth Read's Essay on the Theory of Logic",
                     "work_id": "W27",
-                    "context": "The primary subject of the critique is Read's 1878 book."
+                    "quotation": "Mr. Carveth Read's Essay on the Theory of Logic"
                 },
                 {
-                    "raw": "Mill has remarked that if there were but one rational being",
                     "work_id": "W22",
-                    "context": "Keynes uses Mill’s 'System of Logic' to defend the necessity of language as an instrument of thought."
+                    "quotation": "Mill has remarked that if there were but one rational being"
                 }
             ]
         },
@@ -591,14 +518,12 @@
             "url": "https://www.jstor.org/stable/2246571",
             "references": [
                 {
-                    "raw": "Mr. Carveth Read's proposal (Essay, on the Theory of Logic: Introd. sect. 5)",
                     "work_id": "W27",
-                    "context": "Addresses Read's proposal to move the study of language in reasoning to Rhetoric."
+                    "quotation": "Mr. Carveth Read's proposal (Essay, on the Theory of Logic: Introd. sect. 5)"
                 },
                 {
-                    "raw": "not dealt with by Mr. Venn in his criticism in the last number of MIND",
                     "work_id": "W52",
-                    "context": "Sidgwick notes that Venn's review overlooked the specific issue of language/rhetoric."
+                    "quotation": "not dealt with by Mr. Venn in his criticism in the last number of MIND"
                 }
             ]
         },
@@ -614,69 +539,56 @@
             "url": "https://www.jstor.org/stable/2246571",
             "references": [
                 {
-                    "raw": "WRITING nearly half a century ago in the Edinburgh Review, Sir William Hamilton [...]",
                     "work_id": "W55",
-                    "context": "Referenced regarding Sir William Hamilton’s earlier criticisms of the state of logic."
+                    "quotation": "WRITING nearly half a century ago in the Edinburgh Review, Sir William Hamilton [...]"
                 },
                 {
-                    "raw": "Archbishop Whately's Elements of Logic",
                     "work_id": "W56",
-                    "context": "Credited with reviving interest in the science of Formal Logic."
+                    "quotation": "Archbishop Whately's Elements of Logic"
                 },
                 {
-                    "raw": "Mansel's Prolegomena Logica",
                     "work_id": "W31",
-                    "context": "Cited regarding the psychological foundations of logic and the definition of thought."
+                    "quotation": "Mansel's Prolegomena Logica"
                 },
                 {
-                    "raw": "Hamilton's own Lectures",
                     "work_id": "W38",
-                    "context": "Referenced regarding the dependence of thought on language and the \"laws of formal thinking.\""
+                    "quotation": "Hamilton's own Lectures"
                 },
                 {
-                    "raw": "Mill's System of Logic",
                     "work_id": "W22",
-                    "context": "Cited frequently regarding Material Logic, the \"logic of the pursuit of truth,\" and the rejection of the Dictum de omni."
+                    "quotation": "Mill's System of Logic"
                 },
                 {
-                    "raw": "Whewell's Novum Organum Renovatum",
                     "work_id": "W57",
-                    "context": "Listed as part of the \"quick succession of works\" following Whately."
+                    "quotation": "Whewell's Novum Organum Renovatum"
                 },
                 {
-                    "raw": "Boole's Laws of Thought",
                     "work_id": "W13",
-                    "context": "Cited as an example of the \"semi-algebraic\" development of logic."
+                    "quotation": "Boole's Laws of Thought"
                 },
                 {
-                    "raw": "De Morgan's Formal Logic",
                     "work_id": "W58",
-                    "context": "Referenced regarding the view that logic deals with \"names and not with either ideas or things.\""
+                    "quotation": "De Morgan's Formal Logic"
                 },
                 {
-                    "raw": "Venn's Logic of Chance",
                     "work_id": "W59",
-                    "context": "Mentioned as a contemporary work of the period."
+                    "quotation": "Venn's Logic of Chance"
                 },
                 {
-                    "raw": "Jevons's Princilples of Science",
                     "work_id": "W4",
-                    "context": "Cited regarding the equational nature of propositions and the \"logical machine.\""
+                    "quotation": "Jevons's Princilples of Science"
                 },
                 {
-                    "raw": "Fowler's deservedly popular text-books",
                     "work_id": "W60",
-                    "context": null
+                    "quotation": "Fowler's deservedly popular text-books"
                 },
                 {
-                    "raw": "In a particularly interesting and useful essay published in the first number of MIND, Mr. Venn giives a brief summary [...]",
                     "work_id": "W12",
-                    "context": null
+                    "quotation": "In a particularly interesting and useful essay published in the first number of MIND, Mr. Venn giives a brief summary [...]"
                 },
                 {
-                    "raw": "The subjective correlations may have had ultimately an objective origin as maintained by Mr. Spencer",
                     "work_id": "W23",
-                    "context": null
+                    "quotation": "The subjective correlations may have had ultimately an objective origin as maintained by Mr. Spencer"
                 }
             ]
         },
@@ -692,24 +604,20 @@
             "url": "https://www.jstor.org/stable/2246645",
             "references": [
                 {
-                    "raw": null,
                     "work_id": "W61",
-                    "context": null
+                    "quotation": null
                 },
                 {
-                    "raw": "would he not have [...], as in fact Mill does at the commencement of his Logic?",
                     "work_id": "W22",
-                    "context": null
+                    "quotation": "would he not have [...], as in fact Mill does at the commencement of his Logic?"
                 },
                 {
-                    "raw": "From the reference to Professor Jevons's Principles of Science in the preface",
                     "work_id": "W4",
-                    "context": null
+                    "quotation": "From the reference to Professor Jevons's Principles of Science in the preface"
                 },
                 {
-                    "raw": "the adnmission of the Darwinian Theory",
                     "work_id": "W65",
-                    "context": null
+                    "quotation": "the adnmission of the Darwinian Theory"
                 }
             ]
         },
@@ -725,14 +633,12 @@
             "url": "https://www.jstor.org/stable/2246956",
             "references": [
                 {
-                    "raw": null,
                     "work_id": "W67",
-                    "context": null
+                    "quotation": null
                 },
                 {
-                    "raw": "It is avowedly written on the lines of Boole, though he differs freely on various points, more or less of detail, from that great originator of the subject.",
                     "work_id": "W13",
-                    "context": null
+                    "quotation": "It is avowedly written on the lines of Boole, though he differs freely on various points, more or less of detail, from that great originator of the subject."
                 }
             ]
         }
