@@ -1,15 +1,7 @@
 {
     "volume1": [
         {
-            "title": "Logic and the Elements of Geometry",
-            "author": "George Croom Robertson",
-            "year": 1876,
-            "journal": "Mind",
-            "volume": 1,
-            "number": 1,
-            "section": "Notes",
-            "pages": "147-150",
-            "url": "https://www.jstor.org/stable/2246871",
+            "source": "W1",
             "references": [
                 {
                     "work_id": "W2",
@@ -18,15 +10,7 @@
             ]
         },
         {
-            "title": "Mr. Jevons's Formal Logic",
-            "author": "George Croom Robertson",
-            "year": 1876,
-            "journal": "Mind",
-            "volume": 1,
-            "number": 2,
-            "section": "Main",
-            "pages": "206-222",
-            "url": "https://www.jstor.org/stable/2246500",
+            "source": "W3",
             "references": [
                 {
                     "work_id": "W4",
@@ -51,15 +35,7 @@
             ]
         },
         {
-            "title": "Logical Contraposition and Conversion",
-            "author": "Charles Sanders Peirce",
-            "year": 1876,
-            "journal": "Mind",
-            "volume": 1,
-            "number": 3,
-            "section": "Notes",
-            "pages": "424-425",
-            "url": "https://www.jstor.org/stable/2246604",
+            "source": "W9",
             "references": [
                 {
                     "work_id": "W2",
@@ -76,15 +52,7 @@
             ]
         },
         {
-            "title": "Boole's Logical System",
-            "author": "John Venn",
-            "year": 1876,
-            "journal": "Mind",
-            "volume": 1,
-            "number": 4,
-            "section": "Main",
-            "pages": "479-491",
-            "url": "https://www.jstor.org/stable/2246411",
+            "source": "W12",
             "references": [
                 {
                     "work_id": "W13",
@@ -107,15 +75,7 @@
     ],
     "volume2": [
         {
-            "title": "Fundamental Logic",
-            "author": "Joseph John Murphy",
-            "year": 1877,
-            "journal": "Mind",
-            "volume": 2,
-            "number": 5,
-            "section": "Main",
-            "pages": "47-55",
-            "url": "https://www.jstor.org/stable/2246968",
+            "source": "W16",
             "references": [
                 {
                     "work_id": "W13",
@@ -136,15 +96,7 @@
             ]
         },
         {
-            "title": "The Logic of \"If.\"",
-            "author": "Joseph John Murphy",
-            "year": 1877,
-            "journal": "Mind",
-            "volume": 2,
-            "number": 6,
-            "section": "Notes",
-            "pages": "264-266",
-            "url": "https://www.jstor.org/stable/2246385",
+            "source": "W18",
             "references": [
                 {
                     "work_id": "W19",
@@ -157,15 +109,7 @@
             ]
         },
         {
-            "title": "On Some Principles of Logic",
-            "author": "Carveth Read",
-            "year": 1877,
-            "journal": "Mind",
-            "volume": 2,
-            "number": 7,
-            "section": "Main",
-            "pages": "336-352",
-            "url": "https://www.jstor.org/stable/2246910",
+            "source": "W21",
             "references": [
                 {
                     "work_id": "W22",
@@ -200,15 +144,7 @@
     ],
     "volume3": [
         {
-            "title": "Logische Studien (review)",
-            "author": "J. A. Stewart",
-            "year": 1878,
-            "journal": "Mind",
-            "volume": 3,
-            "number": 9,
-            "section": "Critical Notices",
-            "pages": "112-118",
-            "url": "https://www.jstor.org/stable/2246621",
+            "source": "W17",
             "references": [
                 {
                     "work_id": "W28",
@@ -253,15 +189,7 @@
             ]
         },
         {
-            "title": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory (review)",
-            "author": "Robert Adamson",
-            "year": 1878,
-            "journal": "Mind",
-            "volume": 3,
-            "number": 9,
-            "section": "Critical Notices",
-            "pages": "124-126",
-            "url": "https://www.jstor.org/stable/2246623",
+            "source": "W14",
             "references": [
                 {
                     "work_id": "W37",
@@ -286,15 +214,7 @@
             ]
         },
         {
-            "title": "Prof. Jevons's criticism of Boole's. Logical System (discussion)",
-            "author": "George Bruce Halsted",
-            "year": 1878,
-            "journal": "Mind",
-            "volume": 3,
-            "number": 9,
-            "section": "Notes and Discussions",
-            "pages": "134-137",
-            "url": "https://www.jstor.org/stable/2246627",
+            "source": "W10",
             "references": [
                 {
                     "work_id": "W5",
@@ -335,15 +255,7 @@
             ]
         },
         {
-            "title": "Der Operationskreis des Logikkalkuls. by Ernst Schröder (review)",
-            "author": "Robert Adamson",
-            "year": 1878,
-            "journal": "Mind",
-            "volume": 3,
-            "number": 10,
-            "section": "Critical Notices",
-            "pages": "252-255",
-            "url": "https://www.jstor.org/stable/2246931",
+            "source": "W68",
             "references": [
                 {
                     "work_id": "W45",
@@ -368,15 +280,7 @@
             ]
         },
         {
-            "title": "The Negative Character of Logic",
-            "author": "Alfred Sidgwick",
-            "year": 1878,
-            "journal": "Mind",
-            "volume": 3,
-            "number": 11,
-            "section": "Main",
-            "pages": "350-357",
-            "url": "https://www.jstor.org/stable/2246540",
+            "source": "W69",
             "references": [
                 {
                     "work_id": "W22",
@@ -401,15 +305,7 @@
             ]
         },
         {
-            "title": "On the Theory of Logic: An Essay. by Carveth Read (review)",
-            "author": "John Venn",
-            "year": 1878,
-            "journal": "Mind",
-            "volume": 3,
-            "number": 12,
-            "section": "Critical Notices",
-            "pages": "539-545",
-            "url": "https://www.jstor.org/stable/2246755",
+            "source": "W70",
             "references": [
                 {
                     "work_id": "W27",
@@ -430,15 +326,7 @@
             ]
         },
         {
-            "title": "Logic and the Elements of Geometry (discussion)",
-            "author": "George Croom Robertson",
-            "year": 1878,
-            "journal": "Mind",
-            "volume": 3,
-            "number": 12,
-            "section": "Notes and Discussions",
-            "pages": "564-568",
-            "url": "https://www.jstor.org/stable/2246761",
+            "source": "W71",
             "references": [
                 {
                     "work_id": "W1",
@@ -457,15 +345,7 @@
     ],
     "volume4": [
         {
-            "title": "The Difficulties of Material Logic",
-            "author": "John Venn",
-            "year": 1879,
-            "journal": "Mind",
-            "volume": 4,
-            "number": 13,
-            "section": "Main",
-            "pages": "35-47",
-            "url": "https://www.jstor.org/stable/2246563",
+            "source": "W52",
             "references": [
                 {
                     "work_id": "W27",
@@ -482,15 +362,7 @@
             ]
         },
         {
-            "title": "\"Matter-of-Fact\" Logic",
-            "author": "John Neville Keynes",
-            "year": 1879,
-            "journal": "Mind",
-            "volume": 4,
-            "number": 13,
-            "section": "Notes and Discussions",
-            "pages": "120-122",
-            "url": "https://www.jstor.org/stable/2246570",
+            "source": "W53",
             "references": [
                 {
                     "work_id": "W52",
@@ -507,15 +379,7 @@
             ]
         },
         {
-            "title": "Theoretical and Practical Logic",
-            "author": "Alfred Sidgwick",
-            "year": 1879,
-            "journal": "Mind",
-            "volume": 4,
-            "number": 13,
-            "section": "Notes and Discussions",
-            "pages": "122-123",
-            "url": "https://www.jstor.org/stable/2246571",
+            "source": "W54",
             "references": [
                 {
                     "work_id": "W27",
@@ -528,15 +392,7 @@
             ]
         },
         {
-            "title": "On the Position of Formal Logic",
-            "author": "John Neville Keynes",
-            "year": 1879,
-            "journal": "Mind",
-            "volume": 4,
-            "number": 15,
-            "section": "Main",
-            "pages": "362-375",
-            "url": "https://www.jstor.org/stable/2246571",
+            "source": "W72",
             "references": [
                 {
                     "work_id": "W55",
@@ -593,15 +449,7 @@
             ]
         },
         {
-            "title": "Logik. by Christoph Sigwart (review)",
-            "author": "John Venn",
-            "year": 1879,
-            "journal": "Mind",
-            "volume": 4,
-            "number": 15,
-            "section": "Critical Notices",
-            "pages": "426-431",
-            "url": "https://www.jstor.org/stable/2246645",
+            "source": "W73",
             "references": [
                 {
                     "work_id": "W61",
@@ -622,15 +470,7 @@
             ]
         },
         {
-            "title": "Principles of the Algebra of Logic. by Alexander MacFarlane (review)",
-            "author": "John Venn",
-            "year": 1879,
-            "journal": "Mind",
-            "volume": 4,
-            "number": 16,
-            "section": "Critical Notices",
-            "pages": "580-582",
-            "url": "https://www.jstor.org/stable/2246956",
+            "source": "W74",
             "references": [
                 {
                     "work_id": "W67",

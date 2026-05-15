@@ -4,7 +4,12 @@
         "author": "George Croom Robertson",
         "year": 1876,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 1,
+        "number": 1,
+        "section": "Notes",
+        "pages": "147-150",
+        "url": "https://www.jstor.org/stable/2246871",
         "alternative_titles": [
             "Logic and Geometry",
             "Robertson (1876)",
@@ -28,7 +33,12 @@
         "author": "George Croom Robertson",
         "year": 1876,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 1,
+        "number": 2,
+        "section": "Main",
+        "pages": "206-222",
+        "url": "https://www.jstor.org/stable/2246500",
         "alternative_titles": [
             "Robertson's Review of Jevons",
             "On Jevons's Formal Logic",
@@ -100,11 +110,33 @@
         "author": "Charles Sanders Peirce",
         "year": 1876,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 1,
+        "number": 3,
+        "section": "Notes",
+        "pages": "424-425",
+        "url": "https://www.jstor.org/stable/2246604",
         "alternative_titles": [
             "Peirce on Contraposition",
             "Peirce (1876)",
             "On Contraposition and Conversion"
+        ]
+    },
+    "W10": {
+        "title": "Prof. Jevons's Criticism of Boole's Logical System",
+        "author": "George Bruce Halsted",
+        "year": 1878,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 3,
+        "number": 9,
+        "section": "Notes and Discussions",
+        "pages": "134-137",
+        "url": "https://www.jstor.org/stable/2246627",
+        "alternative_titles": [
+            "Halsted on Jevons",
+            "Halsted on Jevons's Criticism of Boole",
+            "On Jevons's Criticism of Boole"
         ]
     },
     "W11": {
@@ -124,7 +156,12 @@
         "author": "John Venn",
         "year": 1876,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 1,
+        "number": 4,
+        "section": "Main",
+        "pages": "479-491",
+        "url": "https://www.jstor.org/stable/2246411",
         "alternative_titles": [
             "Venn on Boole",
             "Venn's Critique of Boole",
@@ -141,6 +178,23 @@
             "The Laws of Thought",
             "Boole's Laws of Thought",
             "Investigation of the Laws of Thought"
+        ]
+    },
+    "W14": {
+        "title": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory.",
+        "author": "Robert Adamson",
+        "year": 1878,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 3,
+        "number": 9,
+        "section": "Critical Notices",
+        "pages": "124-126",
+        "url": "https://www.jstor.org/stable/2246623",
+        "alternative_titles": [
+            "Adamson on Read's SNIX Theory",
+            "Adamson on Thoughts on Logic",
+            "Adamson on SNIX Theory"
         ]
     },
     "W15": {
@@ -160,10 +214,30 @@
         "author": "Joseph John Murphy",
         "year": 1877,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 2,
+        "number": 5,
+        "section": "Main",
+        "pages": "47-55",
+        "url": "https://www.jstor.org/stable/2246968",
         "alternative_titles": [
             "Murphy (1877)",
             "Murphy on Fundamental Logic"
+        ]
+    },
+    "W17": {
+        "title": "Logische Studien. by F. A. Lange",
+        "author": "John Alexander Stewart",
+        "year": 1878,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 3,
+        "number": 9,
+        "section": "Critical Notices",
+        "pages": "112-118",
+        "url": "https://www.jstor.org/stable/2246621",
+        "alternative_titles": [
+            "Stewart on Logische Studien"
         ]
     },
     "W18": {
@@ -171,7 +245,12 @@
         "author": "Joseph John Murphy",
         "year": 1877,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 2,
+        "number": 6,
+        "section": "Notes",
+        "pages": "264-266",
+        "url": "https://www.jstor.org/stable/2246385",
         "alternative_titles": [
             "Murphy's Logic of If",
             "On the Logic of If",
@@ -207,7 +286,12 @@
         "author": "Carveth Read",
         "year": 1877,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 2,
+        "number": 7,
+        "section": "Main",
+        "pages": "336-352",
+        "url": "https://www.jstor.org/stable/2246910",
         "alternative_titles": [
             "Read on Logical Principles",
             "Read (1877)",
@@ -579,7 +663,12 @@
         "author": "John Venn",
         "year": 1879,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 4,
+        "number": 13,
+        "section": "Main",
+        "pages": "35-47",
+        "url": "https://www.jstor.org/stable/2246563",
         "alternative_titles": [
             "Venn (1879)",
             "On Material Logic",
@@ -591,7 +680,12 @@
         "author": "John Neville Keynes",
         "year": 1879,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 4,
+        "number": 13,
+        "section": "Notes and Discussions",
+        "pages": "120-122",
+        "url": "https://www.jstor.org/stable/2246570",
         "alternative_titles": [
             "Keynes on Read",
             "Matter-of-Fact Logic",
@@ -603,7 +697,12 @@
         "author": "Alfred Sidgwick",
         "year": 1879,
         "type": "article",
-        "source": "Mind",
+        "journal": "Mind",
+        "volume": 4,
+        "number": 13,
+        "section": "Notes and Discussions",
+        "pages": "122-123",
+        "url": "https://www.jstor.org/stable/2246571",
         "alternative_titles": [
             "Sidgwick on Read",
             "Sidgwick (1879)",
@@ -764,6 +863,125 @@
             "Macfarlane's Algebra of Logic",
             "Macfarlane (1879)",
             "Principles of Logic (Macfarlane)"
+        ]
+    },
+    "W68": {
+        "title": "Der Operationskreis des Logikkalkuls. by Ernst Schröder",
+        "author": "Robert Adamson",
+        "year": 1878,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 3,
+        "number": 10,
+        "section": "Critical Notices",
+        "pages": "252-255",
+        "url": "https://www.jstor.org/stable/2246931",
+        "alternative_titles": [
+            "Adamson on Schröder",
+            "Adamson on Der Operationskreis",
+            "Adamson on Schröder's Logical Calculus"
+        ]
+    },
+    "W69": {
+        "title": "The Negative Character of Logic",
+        "author": "Alfred Sidgwick",
+        "year": 1878,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 3,
+        "number": 11,
+        "section": "Main",
+        "pages": "350-357",
+        "url": "https://www.jstor.org/stable/2246540",
+        "alternative_titles": [
+            "Sidgwick on Logic",
+            "Sidgwick on the Negative Character of Logic",
+            "Sidgwick (1878)"
+        ]
+    },
+    "W70": {
+        "title": "On the Theory of Logic: An Essay. by Carveth Read",
+        "author": "John Venn",
+        "year": 1878,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 3,
+        "number": 12,
+        "section": "Critical Notices",
+        "pages": "539-545",
+        "url": "https://www.jstor.org/stable/2246755",
+        "alternative_titles": [
+            "Venn on Read",
+            "Venn on the Theory of Logic",
+            "Venn on Read's Theory of Logic"
+        ]
+    },
+    "W71": {
+        "title": "Logic and the Elements of Geometry",
+        "author": "George Croom Robertson",
+        "year": 1878,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 3,
+        "number": 12,
+        "section": "Notes and Discussions",
+        "pages": "564-568",
+        "url": "https://www.jstor.org/stable/2246761",
+        "alternative_titles": [
+            "Robertson's discussion of his Logic and Geometry",
+            "Robertson on the Elements of Geometry",
+            "Robertson's review of Logic and the Elements of Geometry"
+        ]
+    },
+    "W72": {
+        "title": "On the Position of Formal Logic",
+        "author": "John Neville Keynes",
+        "year": 1879,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 4,
+        "number": 15,
+        "section": "Main",
+        "pages": "362-375",
+        "url": "https://www.jstor.org/stable/2246571",
+        "alternative_titles": [
+            "Keynes on the Position of Formal Logic",
+            "Keynes (1879)",
+            "Keynes on Formal Logic"
+        ]
+    },
+    "W73": {
+        "title": "Logik. by Christoph Sigwart",
+        "author": "John Venn",
+        "year": 1879,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 4,
+        "number": 15,
+        "section": "Critical Notices",
+        "pages": "426-431",
+        "url": "https://www.jstor.org/stable/2246645",
+        "alternative_titles": [
+            "Venn on Sigwart",
+            "Venn on the Logik of Christoph Sigwart",
+            "Venn on Sigwart's Logik"
+        ]
+    },
+    "W74": {
+        "title": "Principles of the Algebra of Logic. by Alexander MacFarlane",
+        "author": "John Venn",
+        "year": 1879,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 4,
+        "number": 16,
+        "section": "Critical Notices",
+        "pages": "580-582",
+        "url": "https://www.jstor.org/stable/2246956",
+        "alternative_titles": [
+            "Venn on MacFarlane",
+            "Venn on the Principles of the Algebra of Logic",
+            "Venn on MacFarlane's Principles"
         ]
     }
 }
