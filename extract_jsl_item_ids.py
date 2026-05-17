@@ -2,7 +2,7 @@ import json
 
 # Extracting articles published from 1936 to 1970 in The Journal of Symbolic Logic
 input_file = '/Users/matthewma/Downloads/jstor_metadata_2026-05-05.jsonl' 
-output_file = 'jsl_item_ids.txt'
+output_file = 'jsl_item_id_list.txt'
 
 jsl_ids = []
 line_count = 0
