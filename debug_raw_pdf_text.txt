@@ -1,0 +1,692 @@
+On the Forms of Logical Proposition
+Author(s): John Venn
+Source: Mind, Jul., 1880, Vol. 5, No. 19 (Jul., 1880), pp. 336-349
+Published by: Oxford University Press on behalf of the Mind Association
+Stable URL: https://www.jstor.org/stable/2246393
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+and Oxford University Press are collaborating with JSTOR to digitize, preserve and extend
+access to Mind
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms 336 On the Formns of Logical Proposition.
+tion of any molecule can maintain itself amidst its colliding
+atoms in a multifariously resisting medium, is one of those
+mechanical puzzles as yet neglected by science or-noticed only
+when materiality is altogether dissolved into modes of motions.
+Then we are at the end of all our scientific jugglery, and face to
+face with nothing but a mystic world of woven motions, gorge!
+ously spread in phenomenal repose, and safely poised on that
+one mathematical point, our present consciousness.
+EDMUND MONTGOMERY.
+(To be continued.)
+III.-ON THE FORMS OF LOGICAL PROPOSITION.
+LOGICIANS have been much exercised in the attempt to de-
+termine the number and arrangement of-the simple forms of
+proposition, and hardly any two who have reconsidered the
+question for themselves seem to have agreed in their decision.
+If we were constructing a complete theory of Logic we
+should have to ask what is the t'rue account, by which we
+should understand the most fundamental account, of the nature
+and import of a proposition, and on this point different
+accounts would be in direct hostility to one another. But
+when we are discussing methods rather.than theories, this is not
+necessary. The question then becomes, which is the most con-
+venient account rather than which is the most fundamental;
+and convenience is dependent upon circumstances, varying
+according to the particular purpose we have in view. For
+the present purposes of inquiry, there seem to be three
+different accounts of the import of a proposition; the ordinary
+or _prediccttion view, the class inclusion and excdusion view, and
+that which n-ay be called the compartmental view. It may
+fairly be maintained that one of these views must be more funda-
+nental than the others, or possess a better psychological warrant,
+but it cannot be denied that they are all three tenable views.;
+that is, -that we may, if we please, interpret a proposition in
+accordance with any one of the three. We propose to iniquire
+what are the prominent characteristics of each of these distinct,
+but not hostile, views. What are their relative advantages and
+disadvantages; to what arrangement aild division of propositional
+forms do they respectively lead; and which pf them must be
+adopted if we wish to carry out the design of securing the
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms On the Forms of Logical Proposition. 337
+widest extension possible of our logical processes by the aid of
+symbols ?
+The neglect of some such inquiry as this seems to me to have
+led to error and confusion. Logicians have beeni too m-uch in
+the habit of considering that there could be only one account
+given of the import of propositions. Consequently, instead of
+discussing the number of forms of proposition demanded by one
+or the other view, they have attempted to decide absolutely the
+number of forms. And the very useful question as to the fittest
+view for this or that purpose has been lost in the too summary
+decision that one view was right and the others wrong.
+Let us first look at the traditional four forms, A, X, 1, 0; in
+reference to which a very few words will here suffice. The light
+in which a proposition has to be consistently interpreted on this
+view is that of predication. We distinguish between subject
+and attribute here, and we assert that a given subject does or
+does not possess certain attributes. These forms appear to be
+naturally determined by the ordiiiary needs of mankind, and the
+ordinary pre-logical modes of expressing those needs; all that
+Logic has done being to make them somewhat more precise in
+their signification than they conventionally are. They adopt, as
+just remarked, the natural and simple method of asserting or
+denying attributes of a subject, that is, of the whole or part of a
+subject; whence they naturally yield four forms,-the universal
+and particular, affirmative and negative. For all ordinary pur-
+poses they answer admirably as they are, and by a little man-
+agement they can be made to express nearly all the simple forms
+of assertion or denial which the human inind can well want to
+express.
+WVith regard to these forms it must be very dQcidedly main-
+tained that, as they generally and primarily regard the predicate
+in the light of an attribute and the subject in that of a class
+(whole or part), they do not naturally quantify this predicate:
+that is, they do not tell us whether any other things besides the
+whole or partial class in question possess the assigned attribute.
+No doubt they sometimes decide this point indirectly. Thus iin
+the case of a universal negative proposition we can easily see
+that anything which possesses the attributes in the predicate
+cannot possess the attributes distinctive of the subject; that is,
+that the proposition can be simply converted. But this does
+not seem to be any part of the primary meaning of the proposi-
+tion, which thinks of nothing but asserting or denying an attri-
+bute, and does not directly iliquire about the extent of that
+attribute, or where else it is or is not to be found.
+As just remarked, these forms of proposition certainly seem
+to represent the most primitive and natural modes in which
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms 338 On the Forms of Logical Proposition.
+thought begins to express itself with accuracy.' By combining
+two or more of them together they can readily be made equiva-
+lent to much more complicated forms. Thus by combining
+' All X is Y' with ' All Y is X' we obtain the expression ' All
+X is all Y,' or 'X and Y are coextensive,' and so forth. As
+these familiar old forms have many centuries of possession in
+their favour, and the various rules for conversion and opposition,
+and for the syllogism, have been devised for them, there seem
+to be very strong reasons for not disturbing them from the posi-
+tion they have so long occupied. At least this should only be
+done if it could be shown either that they are actually ins-ufficient
+to express what we require to express, or that they rest upon a
+wrong interpretation of the import of a proposition. The-former
+is clearly not the case, for as was just remarked (and as no one
+would deny), a combination of two or more of these forms will
+express almost anything in the way of a definite statement.
+And as regards the latter, the point of this essay is to show
+that we are not necessarily tied down to one exclusive view as
+to the import of a propositioln. I should say, therefore, that what-
+ever other view we may find it convenient to adopt for special
+purposes, either of sensible illustration or with a view to solving
+intricate combinations of statements, there is no valid reason for
+not retaining the old forms as well. They may not be the most
+suitable materials for very complicated reasonings, but for the
+expression and improvement of ordinary thought and speech
+they are not likely to be surpassed.
+So much for this view. Now suppose that, instead of regarding
+the proposition as made up of a subject determinedc by a predi-
+cate, we regard it as assigning the relations, in the way of mutual
+inclusion and exclusion, of two classes to one another. It will
+hardly be disputed that every proposition can be so interpreted.
+Of course, as already remarked, this interpretation may not be
+the most fundamental in a psychological sense; but when, as
+here, we are concerned with logical methods muerely, this does
+not matter. For the justification of a method it is clearly not
+necessary that it should spring, directly from an ultimate analysis
+of the phenomena; it is sufficient that the analysis should be a
+correct one.
+Now how many possible relations are there, in this respect of
+mutual inclusion and exclusion, of two classes to one another?
+Clearly only five. For the question here, as I apprehend it, is
+this .-Given one class as known and determined in respect of
+'At least this seems so in all the languages with which we need consider
+ouLrselves concerned. What might be the most natural arrangement of the
+forms of propositions in non-inflectional languages I must leave to philolo-
+gists to determine.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms On the Forms of Logical Proposition. 339
+its extent, in how many various relations can another class, also
+known and similarly determined, stand towards the first'? Only
+in the following: It can coincide with the fornmer, can include
+it, be included by it, partially include and partially exclude it,
+or enitirely exclude it. In every recognised sense of the term
+these are distinct relations, and they seem to be the only such
+distinct relations which can possibly exist. These five possible
+arrangements would be represented diagrammatically as fol-
+lows:
+(1) (2) (3) (4) (5)
+AB (QB ?X) AX B \)ASB
+Before comparing in detail the verbal statement of these five
+forms with that of the four old ones, it must be pointed out how
+entirely the distinction betweeni subject and predicate is robbed
+of its sianificance on such a scheme as this. The terms of the
+proposition being thus classes of things of known extent, this
+distinction sinks down into one which is purely graiimmatical.
+It is the merest accident which of the two classes is represented
+first in our verbal statement; whether, for instance, in (2) we
+say that B lies outside A, or that A lies inside B. Certainly
+when the diagrammatic representation alone was shown to us,
+no one could give a guiess as to which circle was intended to
+stand for a subject and which for a predicate. He could not,
+that is, read the diagram off in oine way and one way only, with
+confidence.
+A very little consideration will serve to convinice us that this
+scheme of five forins, and the old one of four, will not by any means
+fit in with one another. Considering that they spring, from dif-
+ferent interpretations of the import of a proposition, it could not
+be expected that they should do so. (5) is the one unam-
+biguous exception, corresponding precisely to the universal
+negative 'No A is B'. That is-given 'No A is B' we could
+only select this diagram; and conversely, given this diagram we
+couild only utter it as 'No A is B'. But such correspondence
+does not exist in any other case. Given 'All A is B' we couild
+not but hesitate between diagrams (1) and (2); and if diagram
+(4) were shown we should not know whether to describe it
+as 'Some A is B' or 'Some A is not B,' for it would fit either
+equally well.
+Is there then no precise and unambiguous way of describing
+these five forms in ordinary speech? There is such a way, and to
+carry it out demands almost no violence to the established usage
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms 340 On the Forms of Logical Proposition.
+of language. It is merely necessary to say defilnitely that the.
+word some shall signify 'some, not all'; a signification which on
+the whole seems more in accordance with popular usage than to
+say with most logicians that it signifies 'some, it may be all'. If
+we adopt this definition of the word our five diagrams will be
+completely, accuirately and unambiguously expressed by the five
+following verbal statements:-
+All A is all B.
+All A is sonie B.
+Some A is all B.
+,Some A is some B.
+No A is any B.
+That is-given one of these statements, only one diagram could
+be selected for it; and conversely, given any one diagram it
+could only be matched with one of these forms. of words.
+The tabular expression of these five forms will naturally recall
+to the reader's mind the well-known eight forms adopted by
+Hamilton, viz.:-
+All A is all B. No A is any B.
+All A is some B. No A is some B.
+Some A is all B. Some A is not any B.
+Some A is.some B. Some A is not some B.
+I might have termed the view as to the import of propositions
+now under discussion the Hamiltonian, instead of the dass in-:
+clutsion and exdusion vieir. It seemed better, however, at the
+outset to state the view independently in what seemed its most
+fundamental and chara(cteristic form. Moreover, one is not so
+necessarily introduced into a well known and rather bitter
+controversy. At the same time- I must state my -own very
+decided opinion that the. view in question is that which
+Hamilton, and those who have more or less implicitly followed
+him in his tabular scheme of propositions, are bounid in consist-
+ency to adopt.
+The logicians in question do not seem to me, indeed, to have
+at all adequately realised the importance of the innovation which
+they were thus engaged in introducing; nor, it must be added,
+the inadequacy of the means they were adopting for carry-
+ing it out. What they were really at work uipon was not merely
+the rearrangement, or further subdivision, of old forms of pro-
+position, but the introduction of another way of looking at and
+interpreting the function of propositions. The moment we insist
+upon 'quantifying' our predicate we have to interpret our pro-
+positions in respect of their extension; that is, to regard them
+as expressing somethingr about the actual mutual relations of
+two classes of things to each other. The view of the proposition
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms On the Forms of Logical Proposition. 341
+must be shifted from that of stating the relation of subject and
+predicate, or of object and attribute, to that of stating the rela-
+tion of inclusion and exclusion of two classes to one another.
+The question therefore at once arises, How do the eight verbal
+forms just quoted stand in relation to the five which we have
+seen to be, in their own way, exhaustive? As this is a very
+important inquiiry towards a right undorstanding of the nature
+and functions of propositions, I shall make no apology for going
+somewhat into details respecting it. As regards the first five out
+of the eight, the correspondence is of course absolutely complete,
+if we understand that Hamilton's 'some' is to be understood,
+with ours, as distinctly excluding 'all'. But then, if so, what
+account is to be given of the remaining three out of the eight.?
+But one account, I think, can be given. They are superfluous,
+or ambiguous equivalents for oine or more of the first five. This
+may need a moment's explanation. By. calling the first five
+complete and unambiguous we mean, as already remarked, that
+if one of these propositions was uttered, but one form of diagram
+could be selected in correspondence; and conversely, if a diagram
+were pointed out it could only be referred to one form of verbal
+expression. But if we were given one of the latter three to
+exhibit in a diagram we could not with certainty do so. Take,
+for instance-, the proposition ' No A is some B '. If we had to
+exhibit this in a diagram we should find that diagramns (2) and
+(4) are equally appropriate for the purpose; whence this pro-
+position is seen to be ambiguous and superfluous. Similarly,
+the proposition 'Some A is not any B,' is equally fitly exhibited
+in diagrams (3) and (4), and therefore appropriately in neither.
+Consequently it also must be regarded as needless in our scheme.
+The case of the remnaining proposition, 'Some A is not some B,'
+is still worse. It is equally applicable to four of our five
+distinct possible cases, and therefore, as making no distinction
+whatever between one such proposition and another, this form is
+altogether useless to express the mutual relations of classes.
+The ambiguity affecting these three last forms is, it need
+hardly be remarked, reciprocal. That is, so long as these three
+are retained in the scheme, we should not know, on a diagram
+being preseited to us, which proposition was nmeant to be ex-
+hibited; any more than we can draw the diagram when a
+proposition is stated. Diagram (3), for instance, might under
+these circumstances be read off indifferently as 'Some A is all
+B,' ' Some A is not any B,' or ' Some A is not some B'.
+It may perhaps be replied that there is still a use in retaining
+forms of proposition which thus refer ambiguously to two or
+more actual class relations, in addition to those forms that refer
+unambiguously to one only. It may be urged that if we do not
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms 342 On the Forms of Logical Propositin.
+know which of the two is really applicable, though one or the
+other must certainly be so, there is an opening for a form which
+covers both of them. I do not think that this will do. In the
+first place it may be objected that the employment of terms in
+their extensive signification implies that we are expressing their
+actual relation to one another in the way of inclusion and exclu-
+sion, and not our imperfect knowledge of that relation. At any
+rate this seems to be so when we make use of diagrams of this
+kind, for the circles must either cut one another or not do so;
+we cannot express a doubt whether they do or not. We may
+feel a doubt whether they should do so or not, but we must make
+them do one or the other.
+An attempt is sometimes made in this way by the device of
+marking a part of one of the circles with a dotted line only.
+Thus 'Some -A is not B' would be exhibited as follows:
+(as, for instance, is done, amnongst others, by
+A I Thomson in his Laws of Thought). The dotted
+V A \ Jpart here represents of course our ignorance or
+uncertainty as to whether the line should lie
+partly inside B, or should entirely include it. But surely, if we
+are thus ignorant, we have no business to prejudge the question
+by putting it inside, even as a row of dots. What we ought to
+do is to draw two lines, one intersectinig B and the other in-
+cluding it. Doing this, there is no need to dot them; it is
+simpler to draw at once, in the ordinary way, the two figures (3)
+and (4) above, and to say frankly that the common ' Some A is
+not B' cannot distinguish between them. In other words this
+form cannot be adequately represented by one of these diagrams.
+it belongs to another propositional theory.
+But there is a more conclusive objection than this last. If
+we were lenient enough to admit the three latter Hamiltonian
+forms on such a plea as the one in question, we should be bound
+in consistency to let in a good many more upon exactly the
+same grounds. Take, for instance, the first two, 'All A is all B,'
+' All A is some B'. We often do practically want some common
+form of expression which shall cover them both, and this was
+excellently provided by the old A proposition 'All A is B,'
+which just left it uncertain whether the A was all B, or some B
+only. Perhaps this is indeed the very commonest of all the
+forms of assertion in ordinary use. Hence if once we come to
+expressing uncertainties or ambiguities we should have to insist
+upon retaining this old A, not as a substitute for one of the two
+first Hamiltonian forms, but in addition to them both. Similarly
+we should require a form to cover the first and the third. Or
+again, whilst we are abouLt it, we might desire a form to cover all
+the first four; for we might merely know (as indeed is often the
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms On the Form,s of Logical Proposition. 343
+case) that A and B had some part, we did not know how much,
+in common. What we should want, in fact, would be a simple
+equivalent for 'Some or all A is some or all B'; or, otherwise
+expressed, a form for merely denying the truth of 'No A is B'.
+The Hamiltonian scheme has, no doubt, a specious look of
+completeness and symmetry about it. Affirmative and denial,
+of some and of all, of the subject and predicate, gives clearly
+2 x 2 x 2=8 forms. But on subjectinig them to criticism, by
+inquiring what they really say, we see that this completeness is
+illusory. Regard them as expressing the relationis of class in-
+clusion and exclusion (and this I strongly hold to be the right
+way of regarding them) and we only need, or can find place for,
+five. Regard them as expressing to some extent our uncertainty
+about these class relations, and we want more than eight. This
+exact group of eight seems merely the outcome of an exaggerated
+love of verbal symmetry.
+If indeed our choice lay simply between the old groiup and
+the Hamiltonian, the old one seems to me the soundest and most
+useful. One or more of those four will express almost all that
+we can want to express for purely logical purposes, and as they
+have their root in the common needs and expressions of mankind,
+they have a knack of signifying just what we want to signify
+and nothing more. For instance, as just remarked, we may-want
+to say that ' All A are B,' when we do not know whether or not
+the two terms are coextensive in their application. The old form
+just < hit, this off. An obvious imperfection in Hamilton's
+scheme is that with all his eight forms he cannot express this
+very common and very simple form of 'doubtful apprehension,
+by means of a single proposition. He can express the less
+common state of doubt between the two 'All A is some B,' and
+'Some A is some B,' by one of what I have termed his super-
+fluous forms, viz., by his ' Some B is not any A,' for it -exactly
+covers them both.'
+So long as we adhere to the five propositions which correspond
+to the five distinct diagrams, we are on clear ground. These
+rest on a tenable theory as to the import of propositions, sufficient
+to give them cohesion and make a scheme of them. That theory
+is of course that they are meant to express all the really distinct
+relations of actual class inclusion and exclusion of two logical
+terms, and none but these.
+The advantages of this form of propositional statement, if few,
+are at any rate palpable and unmistakable. Each form has a
+corresponding diagram which illustrates its exact signification
+with the demonstrative power of an actual experiment. If any
+1 Provided of course we define ' some' = ' some, not all'. - This I under-
+stand Hamilton to do; but his opinion does not seem absolutely fixed here.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms 344 On the Forms of Logical Proposition.
+sluggish imagination did not at once realise that from 'All A is
+some B,' ' No B is any C,' we could infer that ' No A is any C,'
+he has only to trace the circles, and he sees it as clearly- as any
+one sees the results of a physical experiment. And most imagi-
+nations, if the truth were told, are sluggish enough to avail
+themselves now and then of such a help with advantage.
+But whilst this is said it ought clearly to be stated under what
+restrictions such an appeal may fairly be made. The common
+practice, adopted in so many manuals, of appealing to these
+diagrams-Eulerian diagrams as they are often oalled-seems to
+me very questionable. Indeed when it is done, as it generally
+is, without a word, of caution as to the important distinction
+between the implied theories about the import of propositions, it
+seems to me that there can be no question as to its being wrong.
+The old four propositions A, E, I, 0, do not correspond to the
+five diagrams, and consequently none of the figures in the syllo-
+gism can be properly represented thus." We may sometimes
+see Celarent represented in the annexed form.
+But this is too narrow. The affirmative 7 C
+represented here is not 'All A is B,' but K>
+'All A is some B'. To represent Celarent
+adequately in this way we should have to append also the
+diagram, representing ' All A is all B,' 'No B
+is C,' and to say frankly that we can only A B a
+know that one of these diagrams will represent
+our syllogism; we do not know which.2 (The
+necessity of such an appeal to alternative diagrams is, I see,
+admitted by Ueberweg.)
+Of course this inability to represent each syllogistic figure by
+one appropriate diagram will not always affect their cogency as
+illustrations. Any one can see in the above instance that one
+diagram will practically take the place of the other; and so it
+would in Barbara, but not in every instance, as we might easily
+show in detail. But none the less must we remember that the
+systems of propositions are really based on distinct theories, and
+we have consequently no right thus without warning to use the
+diagrams of one system to represent the propositions and syllo-
+gisms of another.
+I The rejected figure ' No B is C,' ' No A is B,' with the consequent ina-
+bility to draw any conclusion at all, can be thus exhibited; because the
+universal negative is the only. form common to the two schemes.
+2 If it be urged that the upper diagram is the general one, including the
+lower as a special case, the answer is twofold. First, that this would be
+tantamount to a rejection of our scheme of five distinct propositions ; and
+secondly, that even so we should not meet the case of syllogisms involving
+particular propositions, as the reader will see if he tries thus to exhibit, say,
+Disamris.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms Ot the Forms of Logical Proposition. 345
+So much then for this second scheme of propositional import
+and arrangemenat. In spite of its merit of transparent clearness
+of illustration of a certain nunber of forms, it is far from answer-
+ing our purpose as the basis of an extension of Logic. It soon
+becomes cumbrous and unsymmetrical, and has no flexibility or
+generality about it. Fortunately there is another mode of view-
+ing the proposition, far more powerful in its applications than
+either of those hitlherto mentioned. It is the basis of the system
+introduced by Boole, and could never have been realised by any
+one who had not a thorough grasp of those mathematical con-
+ceptions which Hamilton unfortunately both lacked and despised.
+The fact seems to be that when we quit the traditional
+arrangement and enumeration of propositions we must call for a
+far more thorough revision than that exhibited on the system
+just discussed. Any system which merely exhibits the mutual
+relations of two classes to one another is not extensive enough.
+We must provide a place and a notation for the various com-
+binations which arise from considering three, four, or more classes;
+in fact we must be prepared for a complete generalisation. When
+we do this we shall soon see that the whole way of looking at
+the question which rests upon the mutual relation of classes, as
+regards exclusion and inclusion, will not suffice. There is a fatal
+cumbrousness- and want of syinmetry,about it which renders it
+quite inappropriate for any but the simplest cases.
+This third view of the interpretation of propositions which has
+to be substituted for both the preceding, for the purpose of an
+extended Symbolic Logic, is perhaps best described as indicating
+the occupation or non-occupation of compartgnents. What we
+here have to do is to conceive, and invent a notation for, all the
+possible combinations which any number of class terms can
+yield; and then find some mode of symbolic expression which
+shall indicate which of these various compartments are empty
+or occupied, by the implications involved in the given proposi-
+tions. This is not so difficult as it might sound, since the
+resources of mathematical notation are quite competent to pro-
+vide a simple and effective symbolic language for the purpose.
+Without entering fully into this scheme, enough may be said to
+bring out clearly its bearing on the particular subject which now
+occupies us, viz., the number of distinct forms of proposition
+which ought to be recognised. The view which is here taken is
+still distinctly a class, rather than a predication, view; but in-
+stead of regarding the mutual relation of two or more classes in
+the way of -inclusion and exclusion, it substitutes a complete
+classification of all the subdivisions which can be yielded by
+-putting any number of classes together, and indicates whether
+any one or more of these classes is occupied; that is, whether
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms 346 On the Forms of Logical Pr.position.
+things exist which possess the particular combination of attri-
+butes in question.
+A fair idea of the meaning, scope, and power of this system
+will be gained if we begin with two class terms X and Y, and
+consider the simple cases yielded by their combination.
+It is clear that we are thus furnished with four possible cases,
+or compartments, as we shall often find it convenient to desig-
+nate them; for everything which exists must certainly possess
+both the attributes marked by X and Y, or heither of them, or
+one and not the other. This is the range of possibilities, from
+which that of actualities may fall short; and the difference
+between these two is just what it is the function of the proposi-
+tion to describe. It will be best to discuss here only intimations
+that such and such compartments are empty, since this happens
+to be the simplest case. Now how many distinct cases does
+this system naturally afford? We must approach it, let us
+remember, without aiiy prepossessions derived from the custom-
+ary divisions and arrangements.
+We should naturally be led, I think, to distinguish fourteen dif-
+ferent cases on such a system as this, which would fall into four
+groups. For there may be one compartment unoccupied, which
+yields four cases; or two unoccupied, which yields six cases; or
+three unoccupied, which yields again four cases; or none unoccu-
+pied, which yields but one case. All cannot be unoccupied, of
+course, for we cannot deny both the existence and the non-
+existence of a thing; or, to express it more appropriately on
+this scheme, given that a thilng exists it must be put somewhere
+or other in our all-extensive scheme of possibilities.
+I will only call attention here to the nature of the four sim-
+plest out of these 14 cases. Writing, for - simplicity, z for -not-x,
+and y for not-y, these four would be thus represented:
+xy=O orNoxisy.
+Xy=O orAllyisx.
+xt=O or All x is y.
+=y 0 or Everything is either x or y.
+On this plan of notation, of course, xy stands for the compart-
+ment, or class, of things which are both x and y; and the
+expression xy 0 states the fact that that compartment is unoc-
+cupied; that there is no such class of things. 'And similarly
+with the other sets of symbols.
+A moment's glance will convince the reader how entirely
+distinct the group of elementary propositions thus obtained is
+from that yielded by either of the other two schiemes; though,
+starting from its own grounds, it is just as simple and natural
+as either of them. Of the four simplest forms contained in it,
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms On the Forms of Logical Proposition. 347
+as indicated above, one is of course the Universal Negative,
+which presents itself as fundamental on all the three schemes.
+Two others are Universal Affirmatives, but with the subject
+and predicate converted. But the fourth is significant, as
+reminding us how completely relative is the comparative
+simplicity of a propositional form. On the present scheme this
+is just as simple as any of the others; but in the traditional
+arrangement it would probably get in only as a disjunctive, since
+that arranigement dislikes the double negation 'No not-x is not-y'.
+Indeed on hardly any view could such a verbal statement as this
+last be considered as elementary, since almost every one would
+have to put it into other words before clearly understanding its
+import on a first acquaintance.
+We might easily go through the ten remaining cases referred
+to above, but to do so would be unsuitable to a general essay
+like this. It may just be noticed, however, in passing, that the
+emptying out (as we may term it) of two compartments does not
+necessarily give a proposition demanding more of the common
+verbal statement, than that of one only-does. For instance the
+combination, xy/=O, y=0, expresses the coincidence of the two
+classes x and y; it.is ' All x is all y'. That of xy and 4 yields
+the statement that x and-y are the contradictory opposites of one
+another; that x and not-y are the same thing, and consequently
+y and not-x.
+The real merits of this way of regarding and expressing the
+logical propositions are not very obvious when only two terms
+are introduced, but it will readily be seen that some such method
+is indispensable if many terms are to be taken into account.
+Let us, introduce three terms, x, y, and z; and suppose we want
+to express the fact that there is nothing in existence which
+combines the properties of all these three terms, that is, that
+there is no such thing as xyz. If we had to put this into the
+old forms we should find ourselves confronted with six alterna-
+tive statements, all of them tainted with the flaw of unsymmetry,
+viz., ':No x is yz,' 'No y is xz,' 'No z is xy,' as well as the three con-
+verse forms of these. No reason can be shown for selecting one
+rather than another of these; and if we attempted to work with
+the symmetrical form 'There is no xyz,' we should find that we
+had no rules at hand to connect it with propositions which had
+only x, y, or z for subject or predicate.
+If we tried the second propositional theory we should only
+reduce the above six unsymmetrical alternatives to three; three
+being got rid of by otur refusiing to recognise that conversion
+makes any difference in the proposition. But the same inherent
+vice of unsymmetry in a choice of alternatives would still con-
+front us. No reason could be given why we should rather say
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms 348 On the Forms of Logical Proposition.
+that the class x excludes the class yz, rather than that the class-
+y excludes that of xz, or z that of xy. Common language may
+be perfectly right in tolerating such ambiguities; but a sound
+symbolic method ought to be naturally cast in a symmetrical
+form if it is not to break down under the strain imposed by
+having to work with three or more terms. This requires us to
+avoid such forms as ' The class x excludes that of yz,' and all the
+analogous statements of the common Logic, and to put what we
+have to express into the symbolic shape xyz =O.- The verbal
+equivalents for this are, of course, that there is no such thing as
+xyz, or that the compartment which we denote by xyz is empty.'
+There are theoretical reasons for regarding the latter form as the
+most rig,idly accurate and consistent.
+It deserves notice that ordinary languag(e does occasionally
+recognise the advisability of using symmetrical expressions of
+this kind, though the commoll Logio shows no fondness for them.
+We should as naturally say, for example, that ' Cheapness, beauty,
+and durability never go together,' or that 'Nothing is at once
+cheap, beautiful, and durable,' as we should use one of the forms
+which divide these three terms between the subject and the pre-
+dicate. But this latter plan is what would be adopted presumably
+by the strict logicialn, by his agrranging it in some such form as
+' No cheap things are beautiful and durable'. It need not be
+remarked that popular language, though occasionally making use
+of such symmetrical forms, has never hit upon any general
+scheme for their expression, and would be sadly at a loss to
+work upon more complicated materials. Especially would this
+be the case where negative predicates or attributes had to be
+taken inito account as well as positive. However, what we are
+here concerned with is the insufficiency of the ordinary logical
+view rather than the occasional ingenuity of popular expression.
+In these remarks it has been attempted to keep closely
+to the inquiry suggested at the outset-that, namely, of the
+number of fundamentally distinct logical forms, and the founda-
+tion on which each different arrangement must be understood
+to rest. It seems quite clear that no attempt can be made to
+answer this question until we have decided, in a preliminary
+way, what view we propose to take of the proposition and its
+nature. There is no occasion whatever to tie ourselves down
+to one view only, as if the import of propositions was fixed and
+invariable. Very likely other views might be introduced in
+addition to the three which have been thus examined, though
+these appear to me to be the only ones with which the student
+is likely to have to make much acquaintance.
+Each of these three stands upon its own basis, yields its ap-
+propriate number of fundamentally distinct prop6sitions, and
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms On the Forms of Logical Proposition. 349
+possesses its own merits and defects. The old view has plenty
+to say for itself, and for ordinary educational purposes will pro-
+bably never be superseded. It is very simple, it is in close
+relation with popular language, and it possesses a fine heritage
+of accurate technical terms and rules of application. Its defects
+seem to me to be principally these: that it does not yield itself
+readily to any accurately correspondent diagrammatic system of
+illustration; and that its want of symmetry forbids its success-
+ful extension and generalisation.
+The great merit of the second plan-that of class inclusion
+and exclusion-is its transparent clearness of illustration. We
+may be said thus to intuite the proposition. This has indeed
+caused a most unwarranted amount of employment of its diagrams
+by those who do not realise that its five distinct forms of pro-
+position cannot be properly fitted in with the four of the tradi-
+tional scheme. This clearness is, however, almiiost its only mierit.
+It possesses little more of symmetry or consequent adaptability
+of generalisation than the former, aind it is considerably removed
+from popular forms of expression. Above all, as it insists upon
+exhibiting the actual relations of the two classes to one another,
+it has no power to express that degree of ignorance about these
+relations which many propositions are bound to do, if they are
+to state all that we know, and nothing but what we know,
+about the relation of the subject and predicate to one another.
+(Hamilton's eight propositions, as already remarked, seem an
+inconsistent and partial attempt to remedy this latter defect.)
+The third scheme is, of course, in comparison with the others,
+an artificial one, and possesses the merits and defects which
+might be expected in consequence. It is couched in too technical
+form, and is too far removed from the language of common life,
+for it ever to become a serious rival of the traditional scheme on
+the ground appropriate to the latter. For symmetry, however,
+-and the power which comes of symmetry, nothing can well
+be put into competition with it. JOHN VENN.
+NOTE.-Though the majority of logicians seem to be satisfied with the
+Eulerian mode of representing the ordinary logical propositions, there have
+always, I find, been some who have felt its insufficiency for the purpose.
+Ueberweg, for instance, offers an alternative of diagrams in some cases.
+But of all the writers whom I have been able to consult since this paper
+was in type, the two who lay most stress upon the point are Gergonne and
+F. A. Lange. The former of these (Annales des Mathe'matiques, vii., 189)
+has made a careful comparison between the five diagrammatical forms alid
+the four propositional ones, showing in each case how many of the one set
+are included in any single form of the other. Lange (Logische Studien)
+has spoken even more strongly than I have here, though from a somewhat
+different point of view, on the radically distinct theories of the import of
+propositions involved in thcse two ways of stating or representing them. He
+has also worked out, as I had done, the number of distinct forms correspon-
+ding to the syllogistic figures which are demanded on the Eulerian scheme.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)142.115.241.252 on Wed, 20 May 2026 13:49:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
