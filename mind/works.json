@@ -1,7 +1,7 @@
 {
     "W1": {
         "title": "Logic and the Elements of Geometry",
-        "author": "George Croom Robertson",
+        "author": "george-croom-robertson",
         "year": 1876,
         "type": "article",
         "journal": "Mind",
@@ -18,7 +18,7 @@
     },
     "W2": {
         "title": "Syllabus of Plane Geometry (Corresponding to Euclid I - VI)",
-        "author": "Association for the Improvement of Geometrical Teaching",
+        "author": "association-for-the-improvement-of-geometrical-teaching",
         "year": 1875,
         "type": "pamphlet",
         "source": "Macmillan",
@@ -30,7 +30,7 @@
     },
     "W3": {
         "title": "Mr. Jevons's Formal Logic",
-        "author": "George Croom Robertson",
+        "author": "george-croom-robertson",
         "year": 1876,
         "type": "article",
         "journal": "Mind",
@@ -47,7 +47,7 @@
     },
     "W4": {
         "title": "The Principles of Science: A Treatise on Logic and Scientific Method",
-        "author": "William Stanley Jevons",
+        "author": "william-stanley-jevons",
         "year": 1874,
         "type": "book",
         "source": "Macmillan",
@@ -59,7 +59,7 @@
     },
     "W5": {
         "title": "Pure Logic; or, the Logic of Quality apart from Quantity: with Remarks on Boole's System and on the Relation of Logic and Mathematics",
-        "author": "William Stanley Jevons",
+        "author": "william-stanley-jevons",
         "year": 1864,
         "type": "monograph",
         "source": "Edward Stanford",
@@ -71,7 +71,7 @@
     },
     "W6": {
         "title": "The Substitution of Similars, the True Principle of Reasoning, Derived from a Modification of Aristotle's Dictum",
-        "author": "William Stanley Jevons",
+        "author": "william-stanley-jevons",
         "year": 1869,
         "type": "monograph",
         "source": "Macmillan",
@@ -83,7 +83,7 @@
     },
     "W7": {
         "title": "Prior Analytics",
-        "author": "Aristotle",
+        "author": "aristotle",
         "year": -350,
         "type": "treatise",
         "source": "Organon",
@@ -95,7 +95,7 @@
     },
     "W8": {
         "title": "Posterior Analytics",
-        "author": "Aristotle",
+        "author": "aristotle",
         "year": -350,
         "type": "treatise",
         "source": "Organon",
@@ -107,7 +107,7 @@
     },
     "W9": {
         "title": "Logical Contraposition and Conversion",
-        "author": "Charles Sanders Peirce",
+        "author": "charles-sanders-peirce",
         "year": 1876,
         "type": "article",
         "journal": "Mind",
@@ -124,7 +124,7 @@
     },
     "W10": {
         "title": "Prof. Jevons's Criticism of Boole's Logical System",
-        "author": "George Bruce Halsted",
+        "author": "george-bruce-halsted",
         "year": 1878,
         "type": "article",
         "journal": "Mind",
@@ -140,20 +140,20 @@
         ]
     },
     "W11": {
-        "title": "Prolégomènes Philosophiques de la Géométrie",
-        "author": "Joseph Delbœuf",
+        "title": "Prol\u00e9gom\u00e8nes Philosophiques de la G\u00e9om\u00e9trie",
+        "author": "joseph-delbuf",
         "year": 1860,
         "type": "book",
-        "source": "Liége: Desoer",
+        "source": "Li\u00e9ge: Desoer",
         "alternative_titles": [
             "Philosophical Prolegomena of Geometry",
-            "Delbœuf's Prolegomena",
-            "Prolégomènes de Delbœuf"
+            "Delb\u0153uf's Prolegomena",
+            "Prol\u00e9gom\u00e8nes de Delb\u0153uf"
         ]
     },
     "W12": {
         "title": "Boole's Logical System",
-        "author": "John Venn",
+        "author": "john-venn",
         "year": 1876,
         "type": "article",
         "journal": "Mind",
@@ -170,7 +170,7 @@
     },
     "W13": {
         "title": "An Investigation of the Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities",
-        "author": "George Boole",
+        "author": "george-boole",
         "year": 1854,
         "type": "book",
         "source": "Walton & Maberly",
@@ -182,7 +182,7 @@
     },
     "W14": {
         "title": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory.",
-        "author": "Robert Adamson",
+        "author": "robert-adamson",
         "year": 1878,
         "type": "article",
         "journal": "Mind",
@@ -199,7 +199,7 @@
     },
     "W15": {
         "title": "Elementary Lessons in Logic: Deductive and Inductive",
-        "author": "William Stanley Jevons",
+        "author": "william-stanley-jevons",
         "year": 1870,
         "type": "textbook",
         "source": "Macmillan",
@@ -211,7 +211,7 @@
     },
     "W16": {
         "title": "Fundamental Logic",
-        "author": "Joseph John Murphy",
+        "author": "joseph-john-murphy",
         "year": 1877,
         "type": "article",
         "journal": "Mind",
@@ -227,7 +227,7 @@
     },
     "W17": {
         "title": "Logische Studien. by F. A. Lange",
-        "author": "John Alexander Stewart",
+        "author": "john-alexander-stewart",
         "year": 1878,
         "type": "article",
         "journal": "Mind",
@@ -242,7 +242,7 @@
     },
     "W18": {
         "title": "The Logic of \"If\"",
-        "author": "Joseph John Murphy",
+        "author": "joseph-john-murphy",
         "year": 1877,
         "type": "article",
         "journal": "Mind",
@@ -259,7 +259,7 @@
     },
     "W19": {
         "title": "Clarissa, or, the History of a Young Lady",
-        "author": "Samuel Richardson",
+        "author": "samuel-richardson",
         "year": 1748,
         "type": "novel",
         "source": "S. Richardson",
@@ -271,7 +271,7 @@
     },
     "W20": {
         "title": "Logic: Deductive and Inductive",
-        "author": "Alexander Bain",
+        "author": "alexander-bain",
         "year": 1870,
         "type": "book",
         "source": "Longmans, Green, Reader & Dyer",
@@ -283,7 +283,7 @@
     },
     "W21": {
         "title": "On Some Principles of Logic",
-        "author": "Carveth Read",
+        "author": "carveth-read",
         "year": 1877,
         "type": "article",
         "journal": "Mind",
@@ -300,7 +300,7 @@
     },
     "W22": {
         "title": "A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence and the Methods of Scientific Investigation",
-        "author": "John Stuart Mill",
+        "author": "john-stuart-mill",
         "year": 1843,
         "type": "book",
         "source": "John W. Parker",
@@ -312,7 +312,7 @@
     },
     "W23": {
         "title": "The Principles of Psychology",
-        "author": "Herbert Spencer",
+        "author": "herbert-spencer",
         "year": 1855,
         "type": "book",
         "source": "Longman, Brown, Green, and Longmans",
@@ -324,7 +324,7 @@
     },
     "W24": {
         "title": "The Classification of the Sciences: To Which are Added Reasons for Dissenting from the Philosophy of M. Comte",
-        "author": "Herbert Spencer",
+        "author": "herbert-spencer",
         "year": 1864,
         "type": "pamphlet",
         "source": "Williams and Norgate",
@@ -336,7 +336,7 @@
     },
     "W25": {
         "title": "An Examination of Sir William Hamilton's Philosophy, and of the Principal Philosophical Questions Discussed in His Writings",
-        "author": "John Stuart Mill",
+        "author": "john-stuart-mill",
         "year": 1865,
         "type": "book",
         "source": "Longmans, Green, Longman, Roberts & Green",
@@ -348,7 +348,7 @@
     },
     "W26": {
         "title": "The Study of Sociology",
-        "author": "Herbert Spencer",
+        "author": "herbert-spencer",
         "year": 1873,
         "type": "book",
         "source": "Henry S. King & Co.",
@@ -360,7 +360,7 @@
     },
     "W27": {
         "title": "On the Theory of Logic: An Essay",
-        "author": "Carveth Read",
+        "author": "carveth-read",
         "year": 1878,
         "type": "book",
         "source": "C. Kegan Paul",
@@ -372,7 +372,7 @@
     },
     "W28": {
         "title": "Logische Studien. Ein Beitrag zur Neubegriindung der Formalen Logik und der Erkenntnisstheorie",
-        "author": "Friedrich Albert Lange",
+        "author": "friedrich-albert-lange",
         "year": 1877,
         "type": "book",
         "source": "Iserlohn: J. Baedeker",
@@ -384,7 +384,7 @@
     },
     "W29": {
         "title": "History of Materialism",
-        "author": "Friedrich Albert Lange",
+        "author": "friedrich-albert-lange",
         "year": 1866,
         "type": "book",
         "source": "Iserlohn: J. Baedeker",
@@ -396,7 +396,7 @@
     },
     "W30": {
         "title": "Critique of Pure Reason",
-        "author": "Immanuel Kant",
+        "author": "immanuel-kant",
         "year": 1781,
         "type": "book",
         "source": "Hartknoch",
@@ -408,7 +408,7 @@
     },
     "W31": {
         "title": "Prolegomena Logica",
-        "author": "Henry Longueville Mansel",
+        "author": "henry-longueville-mansel",
         "year": 1851,
         "type": "book",
         "source": "Graham (Oxford)",
@@ -420,7 +420,7 @@
     },
     "W32": {
         "title": "System der Logik",
-        "author": "Friedrich Ueberweg",
+        "author": "friedrich-ueberweg",
         "year": 1857,
         "type": "book",
         "source": "Bonn: Adolph Marcus",
@@ -432,7 +432,7 @@
     },
     "W33": {
         "title": "Sathon",
-        "author": "Antisthenes the Cynic",
+        "author": "antisthenes-the-cynic",
         "year": -380,
         "type": "dialogue",
         "source": null,
@@ -444,7 +444,7 @@
     },
     "W34": {
         "title": "Metaphysics",
-        "author": "Aristotle",
+        "author": "aristotle",
         "year": -350,
         "type": "treatise",
         "source": "Aristotelian Corpus",
@@ -456,7 +456,7 @@
     },
     "W35": {
         "title": "Categories",
-        "author": "Aristotle",
+        "author": "aristotle",
         "year": -350,
         "type": "treatise",
         "source": "Organon",
@@ -468,7 +468,7 @@
     },
     "W36": {
         "title": "Nicomachean Ethics",
-        "author": "Aristotle",
+        "author": "aristotle",
         "year": -350,
         "type": "treatise",
         "source": "Aristotelian Corpus",
@@ -480,10 +480,10 @@
     },
     "W37": {
         "title": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory",
-        "author": "Thomas Solly",
+        "author": "thomas-solly",
         "year": 1877,
         "type": "book",
-        "source": "Trübner",
+        "source": "Tr\u00fcbner",
         "alternative_titles": [
             "SNIX Theory",
             "S,N,I,X, Propositional Theory",
@@ -492,7 +492,7 @@
     },
     "W38": {
         "title": "Lectures on Metaphysics and Logic",
-        "author": "Sir William Hamilton",
+        "author": "sir-william-hamilton",
         "year": 1860,
         "type": "book",
         "source": "William Blackwood and Sons",
@@ -504,7 +504,7 @@
     },
     "W39": {
         "title": "Logic",
-        "author": "William Spalding",
+        "author": "william-spalding",
         "year": 1857,
         "type": "book",
         "source": "Adam and Charles Black",
@@ -516,7 +516,7 @@
     },
     "W40": {
         "title": "Die Logik, insbesondere die Analytik",
-        "author": "August Twesten",
+        "author": "august-twesten",
         "year": 1825,
         "type": "book",
         "source": "Schleswig: Taubstummen-Institut",
@@ -528,7 +528,7 @@
     },
     "W41": {
         "title": "Recent Algebras",
-        "author": "William Spottiswoode",
+        "author": "william-spottiswoode",
         "year": 1871,
         "type": "article",
         "source": "Nature",
@@ -540,7 +540,7 @@
     },
     "W42": {
         "title": "Linear Associative Algebra",
-        "author": "Benjamin Peirce",
+        "author": "benjamin-peirce",
         "year": 1870,
         "type": "monograph",
         "source": "Self-published / American Journal of Mathematics",
@@ -552,7 +552,7 @@
     },
     "W43": {
         "title": "Die Ausdehnungslehre",
-        "author": "Hermann Grassmann",
+        "author": "hermann-grassmann",
         "year": 1844,
         "type": "book",
         "source": "Otto Wigand",
@@ -564,31 +564,31 @@
     },
     "W44": {
         "title": "Die Lautverschiebung",
-        "author": "Johann Friedrich Kräuter",
+        "author": "johann-friedrich-kruter",
         "year": 1877,
         "type": "monograph",
-        "source": "Strassburg: Karl Trübner",
+        "source": "Strassburg: Karl Tr\u00fcbner",
         "alternative_titles": [
-            "Kräuter on Sound Shifts",
+            "Kr\u00e4uter on Sound Shifts",
             "On Sound Shifts",
-            "Die Lautverschiebung (Kräuter)"
+            "Die Lautverschiebung (Kr\u00e4uter)"
         ]
     },
     "W45": {
         "title": "Der Operationskreis des Logikkalkuls",
-        "author": "Ernst Schröder",
+        "author": "ernst-schrder",
         "year": 1877,
         "type": "book",
         "source": "Teubner",
         "alternative_titles": [
-            "Schröder's Operationskreis",
+            "Schr\u00f6der's Operationskreis",
             "The Operational Circle of the Logic Calculus",
-            "Schröder (1877)"
+            "Schr\u00f6der (1877)"
         ]
     },
     "W46": {
         "title": "Begriffslehre oder Logik",
-        "author": "Robert Grassmann",
+        "author": "robert-grassmann",
         "year": 1872,
         "type": "book",
         "source": "Stettin: R. Grassmann",
@@ -600,7 +600,7 @@
     },
     "W47": {
         "title": "Die Formenlehre oder Mathematics",
-        "author": "Robert Grassmann",
+        "author": "robert-grassmann",
         "year": 1872,
         "type": "book",
         "source": "Stettin: R. Grassmann",
@@ -612,7 +612,7 @@
     },
     "W48": {
         "title": "Observations on Man, his Frame, his Duty, and his Expectations",
-        "author": "David Hartley",
+        "author": "david-hartley",
         "year": 1749,
         "type": "book",
         "source": "S. Richardson",
@@ -624,7 +624,7 @@
     },
     "W49": {
         "title": "An Inquiry into the Human Mind on the Principles of Common Sense",
-        "author": "Thomas Reid",
+        "author": "thomas-reid",
         "year": 1764,
         "type": "book",
         "source": "Millar (London) / Kincaid & Bell (Edinburgh)",
@@ -636,7 +636,7 @@
     },
     "W50": {
         "title": "Tropical Nature, and Other Essays",
-        "author": "Alfred Russel Wallace",
+        "author": "alfred-russel-wallace",
         "year": 1878,
         "type": "book",
         "source": "Macmillan",
@@ -648,7 +648,7 @@
     },
     "W51": {
         "title": "The Analogy of Religion",
-        "author": "Joseph Butler",
+        "author": "joseph-butler",
         "year": 1736,
         "type": "book",
         "source": "James, John and Paul Knapton",
@@ -660,7 +660,7 @@
     },
     "W52": {
         "title": "The Difficulties of Material Logic",
-        "author": "John Venn",
+        "author": "john-venn",
         "year": 1879,
         "type": "article",
         "journal": "Mind",
@@ -677,7 +677,7 @@
     },
     "W53": {
         "title": "\"Matter-of-Fact\" Logic",
-        "author": "John Neville Keynes",
+        "author": "john-neville-keynes",
         "year": 1879,
         "type": "article",
         "journal": "Mind",
@@ -694,7 +694,7 @@
     },
     "W54": {
         "title": "Theoretical and Practical Logic",
-        "author": "Alfred Sidgwick",
+        "author": "alfred-sidgwick",
         "year": 1879,
         "type": "article",
         "journal": "Mind",
@@ -711,7 +711,7 @@
     },
     "W55": {
         "title": "Review of the State of Logical Science",
-        "author": "Sir William Hamilton",
+        "author": "sir-william-hamilton",
         "year": 1833,
         "type": "article",
         "source": "Edinburgh Review",
@@ -723,7 +723,7 @@
     },
     "W56": {
         "title": "Elements of Logic",
-        "author": "Richard Whately",
+        "author": "richard-whately",
         "year": 1826,
         "type": "book",
         "source": "Mawman",
@@ -735,7 +735,7 @@
     },
     "W57": {
         "title": "Novum Organum Renovatum",
-        "author": "William Whewell",
+        "author": "william-whewell",
         "year": 1858,
         "type": "book",
         "source": "John W. Parker",
@@ -747,7 +747,7 @@
     },
     "W58": {
         "title": "Formal Logic; or, the Calculus of Inference, Necessary and Probable",
-        "author": "Augustus De Morgan",
+        "author": "augustus-de-morgan",
         "year": 1847,
         "type": "book",
         "source": "Taylor and Walton",
@@ -759,7 +759,7 @@
     },
     "W59": {
         "title": "The Logic of Chance",
-        "author": "John Venn",
+        "author": "john-venn",
         "year": 1866,
         "type": "book",
         "source": "Macmillan",
@@ -771,7 +771,7 @@
     },
     "W60": {
         "title": "The Elements of Deductive Logic",
-        "author": "Thomas Fowler",
+        "author": "thomas-fowler",
         "year": 1867,
         "type": "textbook",
         "source": "Clarendon Press",
@@ -783,7 +783,7 @@
     },
     "W61": {
         "title": "Logik, 2ter Band: Die Methodenlehre",
-        "author": "Christoph Sigwart",
+        "author": "christoph-sigwart",
         "year": 1878,
         "type": "book",
         "source": "Laupp",
@@ -795,7 +795,7 @@
     },
     "W62": {
         "title": "The Senses and the Intellect",
-        "author": "Alexander Bain",
+        "author": "alexander-bain",
         "year": 1855,
         "type": "book",
         "source": "John W. Parker",
@@ -807,7 +807,7 @@
     },
     "W63": {
         "title": "Philosophy of the Inductive Sciences",
-        "author": "William Whewell",
+        "author": "william-whewell",
         "year": 1840,
         "type": "book",
         "source": "John W. Parker",
@@ -819,10 +819,10 @@
     },
     "W64": {
         "title": "Elemente der Psychophysik",
-        "author": "Gustav Fechner",
+        "author": "gustav-fechner",
         "year": 1860,
         "type": "book",
-        "source": "Breitkopf und Härtel",
+        "source": "Breitkopf und H\u00e4rtel",
         "alternative_titles": [
             "Fechner's Psychophysics",
             "Elements of Psychophysics",
@@ -831,7 +831,7 @@
     },
     "W65": {
         "title": "On the Origin of Species",
-        "author": "Charles Darwin",
+        "author": "charles-darwin",
         "year": 1859,
         "type": "book",
         "source": "John Murray",
@@ -843,7 +843,7 @@
     },
     "W66": {
         "title": "Novum Organum",
-        "author": "Francis Bacon",
+        "author": "francis-bacon",
         "year": 1620,
         "type": "treatise",
         "source": "Instauratio Magna",
@@ -855,7 +855,7 @@
     },
     "W67": {
         "title": "Principles of the Algebra of Logic",
-        "author": "Alexander Macfarlane",
+        "author": "alexander-macfarlane",
         "year": 1879,
         "type": "book",
         "source": "Douglas (Edinburgh)",
@@ -866,8 +866,8 @@
         ]
     },
     "W68": {
-        "title": "Der Operationskreis des Logikkalkuls. by Ernst Schröder",
-        "author": "Robert Adamson",
+        "title": "Der Operationskreis des Logikkalkuls. by Ernst Schr\u00f6der",
+        "author": "robert-adamson",
         "year": 1878,
         "type": "article",
         "journal": "Mind",
@@ -877,14 +877,14 @@
         "pages": "252-255",
         "url": "https://www.jstor.org/stable/2246931",
         "alternative_titles": [
-            "Adamson on Schröder",
+            "Adamson on Schr\u00f6der",
             "Adamson on Der Operationskreis",
-            "Adamson on Schröder's Logical Calculus"
+            "Adamson on Schr\u00f6der's Logical Calculus"
         ]
     },
     "W69": {
         "title": "The Negative Character of Logic",
-        "author": "Alfred Sidgwick",
+        "author": "alfred-sidgwick",
         "year": 1878,
         "type": "article",
         "journal": "Mind",
@@ -901,7 +901,7 @@
     },
     "W70": {
         "title": "On the Theory of Logic: An Essay. by Carveth Read",
-        "author": "John Venn",
+        "author": "john-venn",
         "year": 1878,
         "type": "article",
         "journal": "Mind",
@@ -918,7 +918,7 @@
     },
     "W71": {
         "title": "Logic and the Elements of Geometry",
-        "author": "George Croom Robertson",
+        "author": "george-croom-robertson",
         "year": 1878,
         "type": "article",
         "journal": "Mind",
@@ -935,7 +935,7 @@
     },
     "W72": {
         "title": "On the Position of Formal Logic",
-        "author": "John Neville Keynes",
+        "author": "john-neville-keynes",
         "year": 1879,
         "type": "article",
         "journal": "Mind",
@@ -952,7 +952,7 @@
     },
     "W73": {
         "title": "Logik. by Christoph Sigwart",
-        "author": "John Venn",
+        "author": "john-venn",
         "year": 1879,
         "type": "article",
         "journal": "Mind",
@@ -969,7 +969,7 @@
     },
     "W74": {
         "title": "Principles of the Algebra of Logic. by Alexander MacFarlane",
-        "author": "John Venn",
+        "author": "john-venn",
         "year": 1879,
         "type": "article",
         "journal": "Mind",

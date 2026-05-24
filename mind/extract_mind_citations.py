@@ -87,9 +87,6 @@ def extract_matches_from_text(pdf_path, names_file_path, works_file_path, window
     work_terms = load_work_terms(works_file_path)
     raw_text = extract_text_from_pdf(pdf_path)
 
-    with open("debug_raw_pdf_text.txt", "w", encoding="utf-8") as debug_file:
-        debug_file.write(raw_text)
-
     if not raw_text:
         print('Pipeline aborted: empty PDF text stream.')
         return []
@@ -126,7 +123,7 @@ def extract_matches_from_text(pdf_path, names_file_path, works_file_path, window
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Extract name and title matches from a PDF.')
-    parser.add_argument('--pdf', default='/Users/matthewma/Downloads/Venn-FormsLogicalProposition-1880.pdf', help='Path to the PDF file to scan.')
+    parser.add_argument('--pdf', default='/Users/matthewma/Downloads/Sidgwick-Mind-1880.pdf', help='Path to the PDF file to scan.')
     parser.add_argument('--names', default='target_surnames.txt', help='Path to the target surname list.')
     parser.add_argument('--works', default='mind/works.json', help='Path to the works JSON file.')
     parser.add_argument('--output', default='extracted_mind_citations.json', help='Path to write the JSON output.')
