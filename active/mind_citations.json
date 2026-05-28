@@ -1,0 +1,503 @@
+{
+    "volume1": [
+        {
+            "source": "W1",
+            "references": [
+                {
+                    "work_id": "W2",
+                    "quotation": "Syllabus of Plane Geometry"
+                }
+            ]
+        },
+        {
+            "source": "W3",
+            "references": [
+                {
+                    "work_id": "W4",
+                    "quotation": "The Principles of Science: A Treatise on Logic and Scientific Method"
+                },
+                {
+                    "work_id": "W5",
+                    "quotation": "Pure Logic"
+                },
+                {
+                    "work_id": "W6",
+                    "quotation": "Substitution of Similars"
+                },
+                {
+                    "work_id": "W7",
+                    "quotation": "Prior Analytics"
+                },
+                {
+                    "work_id": "W8",
+                    "quotation": "Posterior Analytics"
+                }
+            ]
+        },
+        {
+            "source": "W9",
+            "references": [
+                {
+                    "work_id": "W2",
+                    "quotation": "Syllabus of Plane Geometry"
+                },
+                {
+                    "work_id": "W1",
+                    "quotation": "MIND, vol.1, p.147-148"
+                },
+                {
+                    "work_id": "W11",
+                    "quotation": "Prolégomènes Philosophiques de la Géométrie"
+                }
+            ]
+        },
+        {
+            "source": "W12",
+            "references": [
+                {
+                    "work_id": "W13",
+                    "quotation": "Laws of Thought"
+                },
+                {
+                    "work_id": "W4",
+                    "quotation": "Principles of Science"
+                },
+                {
+                    "work_id": "W3",
+                    "quotation": "MIND, no.2"
+                },
+                {
+                    "work_id": "W15",
+                    "quotation": "Lessons on Logic"
+                }
+            ]
+        }
+    ],
+    "volume2": [
+        {
+            "source": "W16",
+            "references": [
+                {
+                    "work_id": "W13",
+                    "quotation": "An Investigation of the Laws of Thought"
+                },
+                {
+                    "work_id": "W4",
+                    "quotation": "Principles of Science"
+                },
+                {
+                    "work_id": "W6",
+                    "quotation": "Substitution of Similars"
+                },
+                {
+                    "work_id": "W12",
+                    "quotation": "Boole's Logical System"
+                }
+            ]
+        },
+        {
+            "source": "W18",
+            "references": [
+                {
+                    "work_id": "W19",
+                    "quotation": "Clarissa Harlowe"
+                },
+                {
+                    "work_id": "W20",
+                    "quotation": "Logic"
+                }
+            ]
+        },
+        {
+            "source": "W21",
+            "references": [
+                {
+                    "work_id": "W22",
+                    "quotation": "System of Logic"
+                },
+                {
+                    "work_id": "W20",
+                    "quotation": "Logic"
+                },
+                {
+                    "work_id": "W23",
+                    "quotation": "Principles of Psychology"
+                },
+                {
+                    "work_id": "W24",
+                    "quotation": "Classification of the Sciences"
+                },
+                {
+                    "work_id": "W25",
+                    "quotation": "Examination of Hamilton"
+                },
+                {
+                    "work_id": "W26",
+                    "quotation": "Study of Sociology"
+                },
+                {
+                    "work_id": "W27",
+                    "quotation": "Theory of Logic"
+                }
+            ]
+        }
+    ],
+    "volume3": [
+        {
+            "source": "W17",
+            "references": [
+                {
+                    "work_id": "W28",
+                    "quotation": "Logische Studien"
+                },
+                {
+                    "work_id": "W29",
+                    "quotation": "History of Materialism"
+                },
+                {
+                    "work_id": "W30",
+                    "quotation": "Kant"
+                },
+                {
+                    "work_id": "W31",
+                    "quotation": "Mansel's Prolegomena Logica"
+                },
+                {
+                    "work_id": "W32",
+                    "quotation": "Ueberweg (Logik, § 84)"
+                },
+                {
+                    "work_id": "W33",
+                    "quotation": "Antisthenes... Sathon"
+                },
+                {
+                    "work_id": "W8",
+                    "quotation": "An. Post. ii. 7"
+                },
+                {
+                    "work_id": "W34",
+                    "quotation": "Met. ii. 3, vi. 10, vi. 14, viii. 9"
+                },
+                {
+                    "work_id": "W35",
+                    "quotation": "Cat. 3"
+                },
+                {
+                    "work_id": "W36",
+                    "quotation": "Eth. vi. 8, 6"
+                }
+            ]
+        },
+        {
+            "source": "W14",
+            "references": [
+                {
+                    "work_id": "W37",
+                    "quotation": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory"
+                },
+                {
+                    "work_id": "W38",
+                    "quotation": "Hamilton's Analytic"
+                },
+                {
+                    "work_id": "W39",
+                    "quotation": "Spalding (Logic § 49)"
+                },
+                {
+                    "work_id": "W40",
+                    "quotation": "Twesten"
+                },
+                {
+                    "work_id": "W7",
+                    "quotation": "Aristotelian logic"
+                }
+            ]
+        },
+        {
+            "source": "W10",
+            "references": [
+                {
+                    "work_id": "W5",
+                    "quotation": "Pure Logic (1864)"
+                },
+                {
+                    "work_id": "W4",
+                    "quotation": "Principles of Science (2nd Ed.)"
+                },
+                {
+                    "work_id": "W13",
+                    "quotation": "Boole's works"
+                },
+                {
+                    "work_id": "W15",
+                    "quotation": "Elementary Lessons in Logic (1870)"
+                },
+                {
+                    "work_id": "W43",
+                    "quotation": "Grassmann's system"
+                },
+                {
+                    "work_id": "W41",
+                    "quotation": "Mr. Spottiswoode's little paper on Recent Algebras"
+                },
+                {
+                    "work_id": "W42",
+                    "quotation": "Linear Associative Algebras of Prof. Peirce"
+                },
+                {
+                    "work_id": "W12",
+                    "quotation": "Mr. Venn (MIND IV., p. 489)"
+                },
+                {
+                    "work_id": "W44",
+                    "quotation": "Die Lautverschiebung"
+                }
+            ]
+        },
+        {
+            "source": "W68",
+            "references": [
+                {
+                    "work_id": "W45",
+                    "quotation": "Der Operationskreis des Logikkalkuls"
+                },
+                {
+                    "work_id": "W13",
+                    "quotation": "Laws of Thought"
+                },
+                {
+                    "work_id": "W46",
+                    "quotation": "Grassman's Begriffslehre oder Logik"
+                },
+                {
+                    "work_id": "W47",
+                    "quotation": "Die Formenlehre oder Mathematik"
+                },
+                {
+                    "work_id": "W5",
+                    "quotation": "Prof. Jevons's method"
+                }
+            ]
+        },
+        {
+            "source": "W69",
+            "references": [
+                {
+                    "work_id": "W22",
+                    "quotation": "Mill's table of Fallacies"
+                },
+                {
+                    "work_id": "W20",
+                    "quotation": "Bain tells us"
+                },
+                {
+                    "work_id": "W48",
+                    "quotation": "partisans of Hartley and of Reid"
+                },
+                {
+                    "work_id": "W49",
+                    "quotation": "partisans of Hartley and of Reid"
+                },
+                {
+                    "work_id": "W30",
+                    "quotation": "Locke and of Kant"
+                }
+            ]
+        },
+        {
+            "source": "W70",
+            "references": [
+                {
+                    "work_id": "W27",
+                    "quotation": "On the Theory of Logic: An Essay. By CARVETH READ"
+                },
+                {
+                    "work_id": "W22",
+                    "quotation": "Mill is the best known exponent"
+                },
+                {
+                    "work_id": "W50",
+                    "quotation": "Mr. A. R. Wallace's Tropical Nature"
+                },
+                {
+                    "work_id": "W23",
+                    "quotation": "lines of Mr. H. Spencer"
+                }
+            ]
+        },
+        {
+            "source": "W71",
+            "references": [
+                {
+                    "work_id": "W1",
+                    "quotation": "observations made by me, in the first number of this journal"
+                },
+                {
+                    "work_id": "W2",
+                    "quotation": "Syllabus of Plane Geometry issued by the Association in 1875"
+                },
+                {
+                    "work_id": "W11",
+                    "quotation": "M. Delbœuf in his Prolegomenes philosophiques de la Geometrie"
+                }
+            ]
+        }
+    ],
+    "volume4": [
+        {
+            "source": "W52",
+            "references": [
+                {
+                    "work_id": "W27",
+                    "quotation": "notice of Mr. C. Read's Essay on Logic, published in MIND XII."
+                },
+                {
+                    "work_id": "W23",
+                    "quotation": "the view of Mr. H. Spencer... distinction between the Science of Logic and the Theory of Reasoning"
+                },
+                {
+                    "work_id": "W1",
+                    "quotation": "The Editor in a former number (No. IV. p. 216), drew a distinction between the 'if' of doubt and the 'if' of inference."
+                }
+            ]
+        },
+        {
+            "source": "W53",
+            "references": [
+                {
+                    "work_id": "W52",
+                    "quotation": "review of Mr. Carveth Read's Essay... in the last number of MIND, Mr. Venn alludes"
+                },
+                {
+                    "work_id": "W27",
+                    "quotation": "Mr. Carveth Read's Essay on the Theory of Logic"
+                },
+                {
+                    "work_id": "W22",
+                    "quotation": "Mill has remarked that if there were but one rational being"
+                }
+            ]
+        },
+        {
+            "source": "W54",
+            "references": [
+                {
+                    "work_id": "W27",
+                    "quotation": "Mr. Carveth Read's proposal (Essay, on the Theory of Logic: Introd. sect. 5)"
+                },
+                {
+                    "work_id": "W52",
+                    "quotation": "not dealt with by Mr. Venn in his criticism in the last number of MIND"
+                }
+            ]
+        },
+        {
+            "source": "W72",
+            "references": [
+                {
+                    "work_id": "W55",
+                    "quotation": "WRITING nearly half a century ago in the Edinburgh Review, Sir William Hamilton [...]"
+                },
+                {
+                    "work_id": "W56",
+                    "quotation": "Archbishop Whately's Elements of Logic"
+                },
+                {
+                    "work_id": "W31",
+                    "quotation": "Mansel's Prolegomena Logica"
+                },
+                {
+                    "work_id": "W38",
+                    "quotation": "Hamilton's own Lectures"
+                },
+                {
+                    "work_id": "W22",
+                    "quotation": "Mill's System of Logic"
+                },
+                {
+                    "work_id": "W57",
+                    "quotation": "Whewell's Novum Organum Renovatum"
+                },
+                {
+                    "work_id": "W13",
+                    "quotation": "Boole's Laws of Thought"
+                },
+                {
+                    "work_id": "W58",
+                    "quotation": "De Morgan's Formal Logic"
+                },
+                {
+                    "work_id": "W59",
+                    "quotation": "Venn's Logic of Chance"
+                },
+                {
+                    "work_id": "W4",
+                    "quotation": "Jevons's Princilples of Science"
+                },
+                {
+                    "work_id": "W60",
+                    "quotation": "Fowler's deservedly popular text-books"
+                },
+                {
+                    "work_id": "W12",
+                    "quotation": "In a particularly interesting and useful essay published in the first number of MIND, Mr. Venn giives a brief summary [...]"
+                },
+                {
+                    "work_id": "W23",
+                    "quotation": "The subjective correlations may have had ultimately an objective origin as maintained by Mr. Spencer"
+                }
+            ]
+        },
+        {
+            "source": "W73",
+            "references": [
+                {
+                    "work_id": "W61",
+                    "quotation": null
+                },
+                {
+                    "work_id": "W22",
+                    "quotation": "would he not have [...], as in fact Mill does at the commencement of his Logic?"
+                },
+                {
+                    "work_id": "W4",
+                    "quotation": "From the reference to Professor Jevons's Principles of Science in the preface"
+                },
+                {
+                    "work_id": "W65",
+                    "quotation": "the adnmission of the Darwinian Theory"
+                }
+            ]
+        },
+        {
+            "source": "W74",
+            "references": [
+                {
+                    "work_id": "W67",
+                    "quotation": null
+                },
+                {
+                    "work_id": "W13",
+                    "quotation": "It is avowedly written on the lines of Boole, though he differs freely on various points, more or less of detail, from that great originator of the subject."
+                }
+            ]
+        }
+    ],
+    "volume5": [
+        "source": "W75",
+        "references": [
+            {
+                "work_id": "W66",
+                "quotation": null
+            },
+            {
+                "work_id": "W22",
+                "quotation": "Mill's System of Logic"
+            },
+            {
+                "work_id": "W67",
+                "quotation": null
+            }
+        ]
+    ]
+}
