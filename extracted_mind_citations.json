@@ -429,5 +429,16 @@
     "canonical_title": null,
     "snippet": "...some attri- bute of which the only thing known is that it is incompatible with white I Again, the statement (? 6, 5) that \" we only know invalidity, incorrectness,...",
     "year_matches": []
+  },
+  {
+    "matched_term": "Drobisch",
+    "match_source": "author_alternative_name",
+    "author_id": "moritz-wilhelm-drobisch",
+    "work_id": null,
+    "canonical_title": null,
+    "snippet": "...II., p. 282) to use Vorstellung for that which is here called Anschauung, while Drobisch (Log., 3rd ed., ? 40) ilses Begr?ff for the same purpose. Prof. Bergmann's acco...",
+    "year_matches": [
+      282
+    ]
   }
 ]
