@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 420 ===
+Name  : SIGEKATU KURODA.
+Flags : A
+Lines : 5175–5176
+========================================
+
+A 420. SIGEKATU KURODA. /. Zur Algebra der Logik. Proceedings of the Imperial Academy
+                {of Japan), vol. 6 (1930), pp. 220-223, 299-302, and vol. 7 (1931), pp. 33-36.

@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 209 ===
+Name  : HEINRICH RICKERT.
+Flags : none
+Lines : 3010–3014
+========================================
+
+209. HEINRICH RICKERT. 1. Das Eine, die Einheit und die Eins. Bemerkungen zur Logik
+              des Zahlbegriffs. Logos, vol. 2 (1911-2), pp. 26-78. Reprinted, with revisions, and addition
+              of Literarisch-kritischer Nachtrag, as Heidelberger Abhandlungen zur Philosophie und
+              ihrer Geschichte 1, Tubingen 1924, xi+93 pp. "Damit ist die Mathematik von Neuem
+              nicht nur gegen die andern Einzeldisziplinen, sondern auch gegen die Logik abgegrenzt."

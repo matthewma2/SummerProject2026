@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 168 ===
+Name  : L. M. HOSKINS.
+Flags : none
+Lines : 2607–2608
+========================================
+
+168. L. M. HOSKINS. 1. General algebraic solutions in the logic of classes. Bull. Amer. Math.
+              Soc, vol. 15 (1908-9), pp. 82-83.

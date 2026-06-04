@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 345 ===
+Name  : G. SUDAN.
+Flags : none
+Lines : 4471–4476
+========================================
+
+345. G. SUDAN. 1. Sur le nombre transfini o". Bulletin mathimatique de la Sociite Roumaine
+              des Sciences, vol. 30 (1927), pp. 11-30. "La fonction c + n possede les propriety carac-
+              teristiques de l'ensemble M. Done toutes les fonctions dSfinies a l'aide de cette fonction
+              et d'une suite finie de recurrences ordinaires non simultan6es et n'employant que le type
+              de variable Ti, ne pourront pas atteindre le nombre ordinal »". Pour l'obtenir il faut
+              employer au moins le type T»."

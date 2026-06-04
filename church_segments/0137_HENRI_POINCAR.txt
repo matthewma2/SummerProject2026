@@ -1,0 +1,62 @@
+=== AUTHOR BLOCK 137 ===
+Name  : HENRI POINCAR
+Flags : A
+Lines : 2293–2348
+========================================
+
+A 137. HENRI POINCARfi.
+                     1. Les mathimatiques et la logique. Rev. milaph. mor., vol. 13 (1905), pp. 815-835;
+                vol. 14 (1906), pp. 17-34, 294-317. "Je citerai en premiere ligne les ecrits de Hilbert et de
+                ses disciples, ceux de Whitehead, de B. Russell, ceux de Peano et de son ecole." "Parce
+                que 'le principe d'induction complete' me paraissait a la fois n6cessaire au mathematicien
+                et irreductible a la logique." Reprinted in 4, with substantial alterations and additions.
+                     2. Letter to the editor. Mind, n.s. vol. 15 (1906), pp. 141-143. "Au sujet de l'article
+                que M. B. Russell a consacre a mon livre, Science et Hypothe.se."
+                     3. A propos de la logistique. Rev. mitaph. mor., vol. 14 (1906), pp. 866-868. "Je me
+                contenterai pour le moment de quelques observations sommaires en reponse a l'article de
+                M. B. Russell."
+                     4. Science el mSihode. Paris 1908, 311 pp.
+                     5. Reflexions sur les deux notes prtcldentes. Ada math., vol. 32 (1909), pp. 195-200.
+                "On sait que M. RICHARD considere Pensemble E des nombres qui peuvent itre dlfinis en
+                un nombre finide mots. II demontre que cet ensemble est denombrable et c'est cette demon-
+                stration que M. SCHONFLIES conteste."
+         C            6. La logique de Vinfini. Rev. miiaph. mor., vol. 17 (1909), pp. 461-482. Reprinted
+                in 13. §1.—Ce que doit etreune classification. §2.—Le nombre cardinal. §3.—Le memoire
+                de M. Russell. §4.—L'axiome de reductibility. §5.—Le memoire de M. Zermelo. §6.—
+                L'emploi de l'infini. §7.—Resume.
+                     7. Russian translations of 4, St. Petersburg 1910, 248 pp., and Odessa 1910, viii+385
+                 + 8 pp.
+                     8. fiber transfinite- Zahlen. Sechs Vortrage liber ausgewahlte Gegenst'dnde aus der
+                reinen Mathematik und mathemalischen Physik, by Henri Poincare, Leipzig and Berlin
+                1910, pp. 43-48. "Dass dem Zuordnungsgesetz von Richard eine Eigenschaft fehlt, die
+                ich mit einem von den englischen Philosophen entlehnten Ausdruck als 'pradikativ'
+                bezeichne."
+                      9. La logique de l'infini. "Scienlia," vol. 12 (1912), pp. 1-11.
+                      10. The new logics. Translated from 4 by G. B. Halsted. The monist, vol. 22 (1912),
+                pp. 243-256. "To sum up, Russell and Hilbert have each made a vigorous effort; they have
+                each written a work full of original views, profound and often well warranted. These two
+                works give us much to think about and we have much to learn from them. Among their
+                results, some, many even, are solid and destined to live. But to say that they have finally
+                settled the debate between Kant and Leibnitz and ruined the Kantian theory of mathe-
+                matics is evidently incorrect."
+                      11. The latest effort of the logisticians. Translated from 4 by G. B. Halsted. Ibid.,
+                pp. 524-539. "The old logistic is dead, so much so that already the zigzag theory and the
+                no-classes theory are disputing over the succession. To judge of the new, we shall await
+                its coming."
+                     12. Thefoundations of science: Science and hypothesis, The value of science, Science
+                and method. Translated by G. B. Halsted, with a special preface by Poincare, and an
+                introduction by Josiah Royce. Includes English translation of 4. New York 1913, xi
+                 +553 pp.
+                      13. Dernierespensies. Paris 1913,258 pp. Therein: Chapitre IV. La logique de l'infini.
+                And: Chapitre V. Les mathimatiques et la logique.
+
+
+
+                    14. Letite Gedanken. German translation of the preceding by K. Lichtenecker,
+              with a preface by W. Ostwald. Leipzig 1913, 261 pp..
+                    15. Wissenschaft und Methode. Wissenschaft und Hypothese vol. 17. German trans-
+              lation of 4 by F. and L. Lindemann. Leipzig and Berlin 1914, iv+283 pp.
+                    16. Science and method. English translation of 4 by Francis Maitland, with a pref-
+              ace by Bertrand Russell. London, Edinburgh, Dublin, and New York, 288 pp. "Readers
+              of the following pages will not be surprised to learn that his criticisms of mathematical
+              logic do not appear to me to be among the best parts of his work."—Bertrand Russell.

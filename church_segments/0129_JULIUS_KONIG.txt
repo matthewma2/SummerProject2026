@@ -1,0 +1,22 @@
+=== AUTHOR BLOCK 129 ===
+Name  : JULIUS KONIG.
+Flags : none
+Lines : 2147–2162
+========================================
+
+129. JULIUS KONIG.
+         *          1. Uber die Grundlagen der Mengenlehre und das Kontinuumproblem. Math. Annalen,
+             vol. 61 (1905), pp. 156^160. "Die endlich definierteh Elemente des Kontinuums eine
+             Teilmenge des Kontinuums von der Machtigkeit k*0 bestimmen."
+                   2. Sur les fondements de la theorie des ensembles el te probleme du conlinu. French trans-
+             lation of the preceding. Acta mathematica, vol. 30 (1906), pp. 329-334.
+                   3. Uber die Grundlagen der Mengenlehre und das Kontinuumproblem (Zweile Mitteil-
+             ung). Math. Annalen, vol. 63 (1907), pp. 217-221.
+
+
+
+
+                   4. Sur les fondemenls de la thtorie des ensembles et le probleme du continu (2me communi-
+             cation). French translation of the preceding. Ada math., vol. 31 (1908), pp. 89-93.
+                   5. Neue Grundlagen der Logik, Arilhmelik und Mengenlehre, ed. by Denes Konig.
+             Leipzig 1914, viii+259 pp.

@@ -1,0 +1,41 @@
+=== AUTHOR BLOCK 396 ===
+Name  : H. B. CURRY.
+Flags : none
+Lines : 4961–4995
+========================================
+
+396. H. B. CURRY.
+           *          1. An analysis of logical substitution. Amer. jour, math., vol. 51 (1929), pp. 363-384.
+                "Now although the rule of inference, stated above, is simple enough, yet in all current
+                mathematical logics there exist rules which are highly complex. The presence of these
+                complex rules raises the question whether it is possible to formulate a theory which is —1)
+                adequate for the whole of logic, 2) based on a finite number of primitive ideas, postulates,
+                and rules, the last of the same order of complexity as the rule of inference. I believe that
+                it is; indeed steps in that direction have already been taken. As a preliminary to treating
+               this general problem, I shall discuss in the rest of this paper a special one connected with it;
+               viz., the analysis of the process of substitution."
+           *          2. Grundlagen der kombinatorischen Logik. Ibid., vol. 52 (1930), pp. 509-536, 789-834.
+                "Das in dieser Abhandlung ausgef iihrte Problem ist doch nur ein Teil der kombinatorischen
+               Logik Uberhaupt. Dieser Teil ist die Analysis der Substutionsprozesse, formell betrachtet
+               und abgesehen von den Kategorien, wozu die Gegenstande gehoren."
+                     3. The universal quantifier in combinatory logic. Annals of mathematics, 2 s. vol. 32
+               (1931), pp. 154-180.
+                      4. Some additions to the theory of combinators. Amer. jour, math., vol. 54 (1932),
+               pp. 551-558.
+           *         5. Apparent variables from the standpoint of combinatory logic. Annals of mathematics,
+               2 s. vol. 34 (1933), pp. 381-404. "The problem of analyzing the complex of notions associ-
+               ated with the use of variables in logic has already been solved to a certain extent in my
+               previous papers. In fact, this has been accomplished by constructing a symbolic theory in
+               whose formal developments variables do not appear explicitly. It is not, however, con-
+               venient to continue the study of logic in that manner. The notation for variables, although
+               it involves assumptions capable of analysis, has nevertheless numerous advantages; and it
+
+
+
+
+                 is the object of the present paper to show how they may be introduced into the formal de-
+                 velopments without loss of precision."
+                      6. Some properties of equality and implication in combinatory logic. Ibid., 2 s. vol. 35
+                 (1934), pp. 849-860.
+                       7. Functionality in combinatory logic. Proc. Nat. Acad. Sci., vol. 20 (1934), pp. 584-
+                 590.

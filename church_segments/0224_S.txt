@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 224 ===
+Name  : S.
+Flags : none
+Lines : 3199–3200
+========================================
+
+224. S. 1. Review of Brouwer's Intuitionisme en formalisme, 1912. Tijdschrifl voor wijsbe-
+               geerie, vol. 7 (1913), pp. 237-239.

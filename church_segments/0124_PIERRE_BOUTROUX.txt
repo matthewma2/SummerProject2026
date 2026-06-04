@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 124 ===
+Name  : PIERRE BOUTROUX.
+Flags : none
+Lines : 2086–2091
+========================================
+
+124. PIERRE BOUTROUX.
+                    1. Sur la notion de correspondance dans I'analyse malhematique. Rev. metaph. mor.,
+               vol. 12 (1904), pp. 909-920. "La notion de correspondance mathfimatique ne se ramene
+               ni a celle de combinaison quantitative, ni aux notions Iogiques e'lementaires."
+                    2. Correspondance malhematique et relation logique. Ibid., vol. 13 (1905), pp. 620-637.
+                    See also David Hilbert 1086.

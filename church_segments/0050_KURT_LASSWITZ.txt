@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 50 ===
+Name  : KURT LASSWITZ.
+Flags : C
+Lines : 910–911
+========================================
+
+C 50. KURT LASSWITZ. 1. Review of Frege's Begriffsschrift. Jenaer Literaturzeitung, vol. 16
+               (1879), pp. 248-249.

@@ -1,0 +1,15 @@
+=== AUTHOR BLOCK 74 ===
+Name  : A. H. VOIGT.
+Flags : none
+Lines : 1264–1272
+========================================
+
+74. A. H. VOIGT.
+                     1. Die Auflosung von Vrtheilssystemen, das Eliminationsproblem und die Kriterien
+               des Widerspruchs in der Algebra der Logik. Dissertation Freiburg. Freiburg i. B. 1890,
+               90pp.
+                     2. WasistLogik? VierteljahrsschriftfurwissenschafilichePhilosophie,vo\. 16(1892),
+               pp. 289-332. "Die Frage, was eigentlich Logik sei, ist durch das Auftreten der algebraischen
+               Logik wieder eine offene geworden."
+                     3. Zum Calcul der Inhaltslogik. Erwiderung auf Herrn Husserl's Artikel. Ibid. vol. 17
+               (1893), pp. 504-507.

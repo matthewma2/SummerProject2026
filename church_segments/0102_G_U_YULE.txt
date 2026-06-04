@@ -1,0 +1,20 @@
+=== AUTHOR BLOCK 102 ===
+Name  : G. U. YULE.
+Flags : none
+Lines : 1680–1693
+========================================
+
+102. G. U. YULE.
+                    1. On the association of attributes in statistics: with illustrations from the material of the
+              Childhood Society, Gfc. Philosophical transactions of the Royal Society of London, series A,
+              vol. 194 (1900), pp. 257-319.
+                    2. On the theory of consistence of logical class-frequencies, and its geometrical represen-
+              tation. Ibid., vol. 197 (1901), pp. 91-133. "In the ordinary treatment of logic the field of
+              discussion is strictly limited to premises of a non-numerical character, numerically definite
+              data being rigidly excluded. The statistician obtains no help from ordinary logic towards
+              solving even the simplest problems, e. g., the deduction of inferences from data of the type
+              'x per cent, of A's are B, y per cent, of A's are C,' or the inferring of association between
+              B and C from known associations of A with B and with C."
+                    3. An introduction to the theory of statistics. London 1911, xiii+376 pp. 2nd. edn.,
+              London 1912. 3rd. edn., London 1916, xv+382 pp. 7th. edn., London 1924, xv+415 pp.
+              10th. edn., London 1932.

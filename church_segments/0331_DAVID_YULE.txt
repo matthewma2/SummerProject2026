@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 331 ===
+Name  : DAVID YULE.
+Flags : none
+Lines : 4343–4345
+========================================
+
+331. DAVID YULE. 1. Zur Grundlegung des Klassenkalkiils. Math. Annalen, vol. 95 (1926),
+                pp. 446-452. "Diese Untersuchung enthalt u.a. zwei Systeme voneinander unabhangiger
+                Postulate fiir den Klassenkalkiil."

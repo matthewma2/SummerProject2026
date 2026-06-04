@@ -1,0 +1,55 @@
+=== AUTHOR BLOCK 335 ===
+Name  : C. H. LANGFORD.
+Flags : none
+Lines : 4362–4410
+========================================
+
+335. C. H. LANGFORD.
+                     1. Analytic completeness of postulate sets. Proc. London Math. Soc, 2 s. vol. 25
+               (1926), pp. 115-142.
+                     2. Some theorems on deducibility. Annals of mathematics, 2 s. vol. 28 (1926-7), pp.
+                16-40.
+                     3. Theorems on deducibility. (Second paper.) Ibid., pp. 459-471.
+                     4. On a type of completeness characterizing the general laws for separation of point-pairs.
+                Trans. Amer. Math. Soc, vol. 29 (1927), pp. 96-110.
+                     5. On inductive relations. Bull. Amer. Math. Soc, vol. 33 (1927), pp. 599-607. "Diffi-
+               culties, connected with the occurrence of reflexive fallacies, appear when we attempt to
+               give straightforward definitions of inductive series."
+                     6. An analysis of some general propositions. Ibid., pp. 666-672.
+                     7. On propositions belonging to logic. Mind, n. s. vol. 36 (1927), pp. 342-346. "(1) No
+               proposition which is a tautology, in the sense of Wittgenstein, is a proposition certifiable
+               on logical grounds alone. This proposition is held to be true because it is a consequence of
+               two propositions, jointly, both of which, it will be maintained, are true; namely, (2) No
+               proposition which is certifiable on logical grounds alone can have existential import with
+               respect to individuals, and (3) Every tautology, in the sense of Wittgenstein, has existen-
+               tial import with respect to individuals."
+                     8. Singular propositions. Mind, n. s. vol. 37 (1928), pp. 73-81. "The points which I
+
+
+
+
+
+               wish to consider arise in connexion with a certain analysis of singular propositions, which
+               has been suggested recently by Mr. J. A. Chadwick. I wish to raise questions concerning
+               singular propositions with regard to their having or lacking existential import."
+                   . 9. Concerning logical principles. Bull. Amer. Math. Soc, vol. 34 (1928), pp. 573-582.
+               "This means that we cannot have alternative logics; for logic is the system of all proposi-
+               tions expressing analytic facts of a certain kind, namely formal analytic facts, and there
+               cannot in the nature of the case be more than one such system, actual or conceivable."
+                     10. Review of Whitehead and Russell's Principia mathemalica, 2nd. edn., vols. 2
+               and 3. Isis, vol. 10 (1928), pp. 513-519.
+                     11. Propositions directly about particulars. Mind, n. s. vol. 38 (1929), pp. 219-225.
+               "In opposition to this view, I have been maintaining that 'a exists' follows from any
+               proposition that is directly about a: and it is these two opposing views that I am going to
+               discuss."
+                     12. General propositions. Ibid., pp. 436-457. "There are several respects in which an
+               account of general propositions of the kind I have in mind would differ from the account
+               of these propositions given in Principia Mathemalica, and among these points of difference
+               the following is perhaps the most important. I shall try to show how, in constructing gen-
+               eral propositions, we can replace elementary matrices, whose values are elementary propo-
+               sitions, by functions whose values are not propositions at all, but certain facts, which are
+               non-general facts."
+                     13. Review of Hilbert and Ackermann's Grundziige der theoretischen Logik. Bull.
+               Amer. Math. Soc, vol. 36 (1930), pp. 22-25.
+                      14. Otherness and dissimilarity. Mind, n. s. vol. 39 (1930), pp. 454-461.
+                      See also C. I. Lewis and C. H. Langford 456.

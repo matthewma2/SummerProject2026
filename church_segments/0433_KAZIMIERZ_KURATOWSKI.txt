@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 433 ===
+Name  : KAZIMIERZ KURATOWSKI.
+Flags : A
+Lines : 5219–5222
+========================================
+
+A 433. KAZIMIERZ KURATOWSKI. 1. Evaluation de la classe •bortlienne ou projective d'un
+                ensemble de points d I'aide des symboles logiques. Fund, math., vol. 17 (1931), pp. 249-272.
+                     See also Kazimierz Kuratowski and Alfred Tarski 432, and Kazimierz Kuratowski
+                     and T. Posament 515.

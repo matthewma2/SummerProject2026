@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 95 ===
+Name  : E. BUNICKIJ.
+Flags : none
+Lines : 1520–1526
+========================================
+
+95. E. BUNICKIJ.
+                     /. Nlkotoryd prilolinii maUmatillskoj logiki k arifmitiki (Some applications of mathe-
+                matical logic to arithmetic). Vestnik opytnoj fiziki i elementarnoj matSmatiki (Odessa),
+                vol. 21 (1896-8), pp. 173-180,197-203.
+                     2-. Cislo eUmtntov v logiiiskom mnogoilini (Number of elements in a logical polyno-
+                mial). Ibid., pp. 241-246.
+                "N(A&e+d) = N(T)+N(AD)+N(ABCD)-N(D)-N(ACD)-N(ABD)."

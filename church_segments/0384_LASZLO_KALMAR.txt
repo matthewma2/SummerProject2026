@@ -1,0 +1,33 @@
+=== AUTHOR BLOCK 384 ===
+Name  : LASZLO KALMAR.
+Flags : none
+Lines : 4857–4883
+========================================
+
+384. LASZLO KALMAR.
+                     1. Review of Behmann's Mathematik und Logik. Acta litterarum ac scientiarum
+                Regiae Universilatis Hungaricae Francisco-Josephinae, Sectio scientiarum mathe-
+                maticarum, vol. 4 (1928-9), pp. 120-121.
+                     2. Review of Hilbert and Ackermann's Grundziige der theoretischen Logik. Ibid.,
+                pp.190-192.
+                     3. Eine Bemerkung zur Entscheidungstheorie. Ibid., pp. 248-252.
+                     4. Review of Fraenkel's Einleitung in die Mengenlehre, 3rd. edn., Ibid., vol. 5
+                (1930-2), pp. 63-64.
+
+
+
+
+                      5. Ein Beitrag zum Entscheidungsproblem. Ibid., pp. Ill-lib.
+                      6. Zum Entscheidungsproblem der mathematischen Logik. Verhandlungen des Inter-
+                nationalen Mathematiker-Kongresses Zilrich 1932, vol. 2, pp. 337-338.
+                   . 7. Vber die Erfilllbarkeil derjenigen ZMausdrttcke, welche in der Normalform zwei
+                 benachbarte Allzeichen enthalten. Math. Annalen, vol. 108 (1933), pp. 466-484.
+                      8. t)ber einen L'&wenheimschen Satz. Ada scient. math., vol. 7 (1934-5), pp. 112-121.
+                 "Lowenheim hat eine Konstruktion angegeben, welche jedera Zahlausdruck 21 einen
+                binaren Zahlausdruck 93 zuordnet derart, dass 21 dann und nur dann allgemeingilUig ist,
+                falls S3 es ist. In den folgenden Zeilen wird diese Konstruktion durch eine einfachere
+                ersetzt."
+                      9. fiber die Axiomatisierbarkeit des Aussagenkalkiils. Ibid., pp. 222-243.
+                      10. Review of Hilbert and Bernays's Grundlagen der Mathematik, vol. 1. Ibid., pp.
+                253-255.
+                      11. Review of Heyting's Mathematische Grundlagenforschung. Ibid., pp. 255-256.

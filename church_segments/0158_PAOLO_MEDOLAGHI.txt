@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 158 ===
+Name  : PAOLO MEDOLAGHI.
+Flags : none
+Lines : 2532–2534
+========================================
+
+158. PAOLO MEDOLAGHI. 1. La logica malematica ed il calcolo delle probabilitd. Bolleltino
+              delta Associazione Ilaliana per I'Incremento della Scienza degli Attuari (Milan), vol. 18
+              (1907), pp. 20-10.

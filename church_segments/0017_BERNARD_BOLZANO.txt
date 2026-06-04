@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 17 ===
+Name  : BERNARD BOLZANO.
+Flags : C
+Lines : 352–354
+========================================
+
+C17. BERNARD BOLZANO. 1. Wissenschaftslehre. Sulzbach 1837, 4 vols. Vols. 1 and 2
+               reprinted Leipzig 1914-5 (ed. by Alois Hofler) as vols. 4 and 7 of Hauptwerke der Philoso-
+               phie in originalgetreuen Neudrucken. Also reprint of vol. 1, 2nd. edn., Leipzig 1929.

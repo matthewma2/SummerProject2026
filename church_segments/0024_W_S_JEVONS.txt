@@ -1,0 +1,34 @@
+=== AUTHOR BLOCK 24 ===
+Name  : W. S. JEVONS.
+Flags : none
+Lines : 439–466
+========================================
+
+24. W. S. JEVONS.
+         *          1. Pure logic, or the logic of quality apart from quantity: with remarks on Boole's
+              system and on the relation of logic and mathematics. London 1864, 87 pp. Reprinted in
+              Pure logic and other minor works, by W. Stanley Jevons, ed. by Robert Adamson and
+              Harriet A. Jevons, London and New York 1890, pp. 1-77. "In my system, on thecontrary,
+              1 take A + B not to imply at all that A may not be B."
+                   2. The subsiitution of similars, the true principle of reasoning, derived from a modi-
+             fication of Aristotle's dictum. London 1869, viii+86 pp. Reprinted in Pure logic and other
+             minor works, pp. 79-136.
+                   3. On a general system of numerically definite reasoning. Memoirs of the Literary and
+             Philosophical Society of Manchester, 3 s. vol. 4 (1871), pp. 330-352. Reprinted in Pure
+             logic and other minor works, pp. 173-196. "As Mr. Booole's logical views were the basis
+             from which I started in forming the simple but general system of logical forms explained
+             in my 'Pure Logic' in the year 1864, and, more simply still, in my 'Substitution of Similars,1
+             published in 1869, so the numerically definite system of reasoning which is here described
+             arises from a simplification of the previous methods of De Morgan and Boole."
+                   4. The principles of science, a treatise on logic and scientific method. London 1874,
+             2 vols., and New York 1875, 2 vols. in one. 2nd edn., London and New York 1877, xliv +
+             786pp. 3rd. edn., London 1879, 786 pp.
+                   5. On the inverse, or inductive, logical problem. Mem. Lit. Phil. Soc. Manchester, 3 s.
+             vol. 5 (1876), pp. 119-130.
+
+
+
+
+                     6. Studies in deductive logic. A manual for students. London 1880, xxviii+304 pp.
+                2nd. edn. 1884.3rd. edn., London 1896, xxviii+304 pp. 4th edn., London 1908, xxviii+304
+                PP-

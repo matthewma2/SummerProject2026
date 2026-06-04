@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 367 ===
+Name  : PAUL BERNAYS
+Flags : none
+Lines : 4725–4726
+========================================
+
+367. PAUL BERNAYS and MOSES SCHONFINKEL. 1. Zum Entscheidungsproblem der
+                mathematischen Logik. Math. Annalen, vol. 99 (1928), pp. 342-372.

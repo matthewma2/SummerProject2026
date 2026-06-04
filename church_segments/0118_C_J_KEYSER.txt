@@ -1,0 +1,46 @@
+=== AUTHOR BLOCK 118 ===
+Name  : C. J. KEYSER.
+Flags : none
+Lines : 1908–1947
+========================================
+
+118. C. J. KEYSER.
+                    / . Concerning the axiom of infinity and mathematical induction. Bulletin of the Ameri-
+              can Mathematical Society, vol. 9 (1902-3), pp. 424-434.
+                    2. Concerning the concept and existence-proofs of the infinite. The journal of philosophy,
+              psychology, and scientific methods, vol. 1 (1904), pp. 29-36.
+                    3. The axiom of infinity: A n£w presupposition of thought. The Hibbert journal, vol. 2
+
+
+
+
+              (1903-4), pp. 532-552. Reprinted in The human worth of rigorous thinking, Essays and
+              addresses, by C. J. Keyser, New York 1916, 2nd. edn. New York 1925.
+                   4. The axiom of infinity. Ibid., vol. 3 (1904-5), pp. 380-383.
+                   5. Some outstanding problems for philosophy. Jour, philos. etc., vol. 2 (1905), pp.
+              207-213.
+                   6. The thesis of modern logistic. Science, n.s. vol. 30 (1909), pp. 949-963. "The system
+              that I shall present here is that which Russell has adopted in his great synthesis of modern
+              logic and modern mathematics, 'The Principles of Mathematics'."
+                   7. Review of Whitehead and Russell's Principia mathematica, vol. 1. Ibid., n.s. vol. 35
+              (1912), pp. 106-110. Reprinted in The human worth of rigorous thinking.
+                   8. Doctrinal functions. Jour, philos. etc., vol. 15 (1918), pp. 262-267. "Now let P
+              denote any given postulate system, and denote by T the set of any or all theorems de-
+              ducible from P. Consider the body B of statements comprising both those of P and those
+             of T. What ought B to be called? A doctrine? Certainly not, for a doctrine ought to have a
+             specific subject-matter and it ought to be true or else false; but B, being composed of
+             prepositional functions, has no such subject-matter and is neither true nor false."
+                   9. Review of Russell's Introduction to mathematical philosophy. The American math-
+              ematical monthly, vol. 27 (1920), pp. 213-217.
+                   10. Mathematical philosophy. A study of fate and freedom. New York 1922, xiv
+              +466 pp.
+                   11. Review of Wittgenstein's Tractatus logico-phUosophicus. Bull. Amer. Math. Soc,
+             vol. 30 (1924), pp. 179-181.
+                   12. Concerning groups of dyadic relations of an arbitrary field. Fundamenta mathe-
+             maticae, vol. 7 (1925), pp. 323-339.
+                   13. The nature of the doctrinal function and its role in rational-thought. Scripta mathe-
+             matica, vol. 2 (1934), pp. 5-26, 143-154.
+                   14. Mathematics and the science of semantics. Ibid., pp. 247-260.
+                   15. A glance at some of the ideas of Charles Sanders Peirce. Ibid., vol. 3 (1935), pp.
+              11-37.
+                   16. Three great synonyms: relation, transformation, function. Ibid., pp. 301-316.

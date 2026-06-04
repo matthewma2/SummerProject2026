@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 41 ===
+Name  : LOUIS LIARD.
+Flags : A
+Lines : 721–728
+========================================
+
+A41. LOUIS LIARD.
+                    1. Un nouveau sysleme de logique formelle M. Stanley Jevons. Revue philosophique
+               de la France e(del'Stranger, vol. 3 (1877), pp. 277-293.
+                    2. La logique algibrique de Boole. Ibid., vol. 4 (1877), pp. 285-317.
+                    3. Les logiciens anglais contemporains. Paris 1878, 177 pp. 2nd edn., Paris 1883
+               177 pp. 3rd edn., Paris 1890, 177 pp. 5th edn., Paris 1907.
+                    4. Die neuere englische Logik. German translation of the preceding by J. Imelmann.
+               Leipzig 1883, 153 pp.

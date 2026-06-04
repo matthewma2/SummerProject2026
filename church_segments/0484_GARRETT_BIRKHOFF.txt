@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 484 ===
+Name  : GARRETT BIRKHOFF.
+Flags : none
+Lines : 5493–5498
+========================================
+
+484. GARRETT BIRKHOFF.
+                     1. On the combination of subalgebras. Proceedings of the Cambridge Philosophical
+                Society, vol. 29 (1933), pp. 441-464.
+                     2. Note on the paper "On the combination of subalgebras." Ibid., vol. 30 (1934), p. 200.
+                     3. Applications of lattice algebra. Ibid., pp. 115-122.
+                     4. On the lattice theory of ideals. Bull. Amer. Math. Soc, vol. 40 (1934), pp. 613-619.

@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 334 ===
+Name  : G. E. RAYNOR.
+Flags : none
+Lines : 4360–4361
+========================================
+
+334. G. E. RAYNOR. 1. Mathematical induction. The American mathematical monthly, vol. 33
+               (1926), pp. 376-377.

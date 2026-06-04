@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 67 ===
+Name  : LEWIS CARROLL (C. L. D
+Flags : none
+Lines : 1075–1079
+========================================
+
+67. LEWIS CARROLL (C. L. Dodgson).
+                       / . The game of logic. London 1887, 96 pp.
+                       2. A logical paradox. Mind, n.s. vol. 3 (1894), pp. 436-438.
+                       3. What the tortoise said to Achilles. Mind, n.s. vol. 4 (1895), pp. 278-280.
+                       4. Symbolic logic. Part I. Elementary. 4th. edn., London 1897, xxxi+201 pp.

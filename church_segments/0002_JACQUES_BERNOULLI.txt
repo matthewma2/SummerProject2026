@@ -1,0 +1,23 @@
+=== AUTHOR BLOCK 2 ===
+Name  : JACQUES BERNOULLI
+Flags : none
+Lines : 235–251
+========================================
+
+2. JACQUES BERNOULLI and JEAN BERNOULLI.
+                       1. Parallelismus raliocinii login el algebraici, quern, una cum thesibus miscettaneis,
+                 defendendum suscepit par fralrum Jacobus & Joannes Bernoulli, ille praesidis, hie re-
+                 spondentis vices agens. Basel 1685. Reprinted in Jacobi Bernoulli, Basileensis, opera,
+                 vol. 1 (Geneva 1744), pp. 211-224. "Cum plurium rerum ideae componuntur, absque vel
+                 affirmatione vel negatione, id fit vocula &, ut Virtus & Eruditio: Cum plurium quantita-
+                 tum ideae componuntur, citra comparationem, id fit signo + , ut a+b. Si a conceptu ideae
+                 magis compositae conceptum minus compositae auferas, relinquitur prioris differentia;
+                 ita, quia in conceptu hominis, praeter animalitatem, involvitur rationalitas, sequitur,
+                 ablato animalitatis conceptu, relinqui rationalitatem, ceu differentiam. Pariter si a quanti-
+                 tate majore subtrahatur minor, relinquitur utrinsque differentia; quae indigitatur signo —,
+                 ut a — b significat differentiam inter a & b. Cum duae ideae, inter quas convenientiam,
+                 identitatemve, aut disconvenientiam, vel diversitatem deprehendit mens, affirmantur vel
+                 negantur de se invicem, mediantibus particulis est, vel non est, dicitur Enunciatio, ut Homo
+                 est animal, Homo non est brutum. Cum duae quantitates, inter quas aequalitatem percipit
+                 mens, junguntur signo aequalitatis =, dicitur Aequatio, ut o = 6: at inaequalitatem deno-
+                 tant haecsigna < & > , ut a<b, vel a>b."

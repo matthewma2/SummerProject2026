@@ -1,0 +1,46 @@
+=== AUTHOR BLOCK 131 ===
+Name  : E. W. HOBSON.
+Flags : none
+Lines : 2183–2222
+========================================
+
+131. E. W. HOBSON.
+                   1. On the general theory of transfinite numbers and order types. Proc. London Math.
+             Soc, 2 s. vol. 3 (1905), pp. 170-188.
+                   2. On the arithmetic continuum. Ibid., 2 s. vol. 4 (1906), pp. 21—28. "The present com-
+             munication is concerned with an important point relating to the definition of the irrational
+              numbers of the arithmetic continuum which has been recently raised by Prof. Konig.
+             A distinction is introduced by Konig between those elements of the continuum which are
+             capable of being 'finitely defined' (endlich definiert) and those which are not capable of
+              being defined in finite terms, and he argues that the former elements form an enumerable
+             aggregate E within the continuum."
+         132. fiMILE BOREL.
+                   1. Quelaues remarques sur les principes de la theorie des ensembles. Math. Annalen,
+              vol. 60 (1905), pp. 194-195. "II me semble que les objections que Ton peut y opposer
+              valent contre tout raisonnement oil Ton suppose un choix arbilraire fait une infinite non
+              de'nombrables de fois; de tels raisonnements sont en dehors du domaine des mathema-
+              tiques."
+                   2. Letter to Hadamard. See Jacques Hadamard 1342.
+                   3. Les "paradoxes" de la theorie des ensembles. Annales scientifiques de l'£cole Nor-
+              male Superieure (Paris), 3 s. vol. 25 (1908), pp. 443-448. Reprinted in Lecons^ sur la
+              theorie des fondions, by Emile Borel, 2nd. edn., Paris 1914, pp. 162-166; and 3rd. edn.,
+              Paris 1928, pp. 162-166. "La distinction des ensembles en ensembles denombrables et non
+              denombrables me parait done sans valeur pratique, car tous les ensembles qu'on pourra
+              jamais consid£rer sont dfnombrables, au sens classique du terme, puisqu'ils sont des parties
+              aliquotes d'ensembles de'nombrables; mais ils ne sont pas tous effectivement inumerables."
+                   4. Sur les principes de la thiorie des ensembles. Atti del IV Congresso Inlernazionale dei
+              Matematici (Roma, 6-11 Aprile 1908), vol. 2 (Rome 1909), pp. 15-17. Reprinted in
+              Lecons sur la theorie des fondions, 2nd. edn. and 3rd. edn., pp. 160-162.
+                   5. La philosophic mathematique el Vinfini. La revue du mois, vol. 14 (1912), pp. 218-
+              227. Reprinted in Lecons sur la theorie des fondions, 2nd. edn. and 3rd. edn., pp. 166-174.
+                   6. Vinfini malhtmalique et la realite. Ibid., vol. 18 (1914), pp. 71-84. Reprinted ibid.,
+              pp. 174-181.
+                   7. Le continu bien ordonne d'apris M. Zermelo. Lecons sur la theorie des fondions,
+               2nd. edn. and 3rd. edn., pp. 147-150.
+
+
+
+
+                     8. A propos de la rlcenle discussion entre M. R.Wavre el M. P. Levy. Rev. metaph.
+                mor., vol. 34 (1927), pp. 271-276. Reprinted in Lecons sur la thSorie des fonctions, 3rd.
+                edn., pp. 279-283.

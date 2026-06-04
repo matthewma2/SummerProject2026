@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 206 ===
+Name  : BALAKRAM.
+Flags : none
+Lines : 2993–2994
+========================================
+
+206. BALAKRAM. 1. The general equation in the algebra of logic. The journal of the Indian
+              Mathematical Society, vol. 3 (1911), pp. 213-218.

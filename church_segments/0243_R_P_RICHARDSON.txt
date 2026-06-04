@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 243 ===
+Name  : R. P. RICHARDSON
+Flags : none
+Lines : 3391–3395
+========================================
+
+243. R. P. RICHARDSON and E. H. LANDIS. 1. Numbers, variables and Mr. Russell's
+              philosophy. The monisl, vol. 25 (1915), pp. 321-364. Also Chicago and London 1915, 59 pp.
+               "One can only regret that the author of the Principles of Mathematics should have ex-
+              pended so much labor in erecting an imposing edifice upon foundations that are thoroughly
+               unsound."

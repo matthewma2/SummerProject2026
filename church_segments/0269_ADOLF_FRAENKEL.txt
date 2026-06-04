@@ -1,0 +1,79 @@
+=== AUTHOR BLOCK 269 ===
+Name  : ADOLF FRAENKEL.
+Flags : none
+Lines : 3694–3766
+========================================
+
+269. ADOLF FRAENKEL.
+                      1. Einleitung in die Mengenlehre. Eine gemeinverst'dndliche Einfiihrung in das
+                 Reich der unendlichen Grossen. Berlin 1919, vi+156 pp.
+          ;           2. Der Begriff "definit" und die UnabhUngigkeit des Auswahlaxioms. Sitzungsberichte
+                der Preussischen Akademie der Wissenschaften, Phys.-math. Kl., 1922, pp. 253-257.
+                      3. Zu den Grundlagen der Cantor-Zermeloschen Mengenlehre. Math. Annalen, vol. 86
+                 (1922), pp. 230-237.
+                      4. Die Axiotne der Mengenlehre. Scripta Universitatis atque Bibliothecae Hierosoly-
+                 mitanarum, Mathematica et physica, vol. 1 no. 6 (1923), 8 + 6 pp.
+            t         S. Einleitung in die Mengenlehre. Die Grundlehren der mathematischen Wissen-
+                 schaften in Einzeldarstellungen mit besonderer Beriicksichtigung der Anwendungsgebiete,
+                 vol. 9. 2nd. edn., Berlin 1923, ix+251 pp. 3rd. edn., Berlin 1928, xiii+424 pp. "Die zweite
+                 wesentlichere Ausgestaltung betrifft die Behandlung der prinzipiellen Fragen, die mit der
+                 Grundlegung der Mengenlehre zusammenhangen und zum Teil das Grenzgebiet zwischen
+                 Mathematik und Philosophie beruhren."
+                      6. Die netteren Ideen zur Grundlegung der Analysis und Mengenlehre. Jahresb. D.
+                M.-V., vol. 33 (1924), pp. 97-103.
+                      7. Uber die gegenwdrtige Grundlagenkrise der Mathematik. Sitzungsberichte der
+                 Gesellschqft zur Befb'rderung der gesamten Naturwissenschaften zu Marburg, 1924,
+                 pp. 117-132.
+                      8. Vber die gegenwdrtige Krise in den Grundlagen der Mathematik. Unterrichtsblditer
+                ftir Mathematik und Naturwissenschaften, vol. 31 (1925), pp. 249-254, 270-274.
+                      9. Der Streit um das Unendliche in der Mathematik. "Scientia," vol. 38 (1925),
+                 pp. 141-152, 209-218.
+                      10. Les discussions sur I'infini en tnathimatiques. French translation of the preceding
+                 by Marcel Thiers. Ibid , Suppl6ment, pp. 49-58, 81-88.
+            *         11. Untersuchungen uber die Grundlagen der Mengenlehre. Math. Z., vol. 22 (1925),
+                pp. 250-273.
+
+
+
+
+
+                   12. Review of Weyl's Uber die neue Grundlagenkrise der Mathematik. Jahrb. Fortschr.
+              Math., vol. 48 (for 1921-2, pub. 1925-8), pp. 47-SO.
+                   13. Axiomatische Begrilndung der geordnelen Mengen. Sitzungsberichle der Berliner
+              Mathematischen Geselhchafl, vol. 24 (192S), pp. 29-37.
+                   14. Axiomatische Theorie der geordneten Mengen. (Untersuchungen uber die Grundlagen
+              der Mengenlehre. II.) Journal fiir die reine und angewandte Mathematik, vol. 155 (1926),
+              pp. 129-158.
+                   15. Die Gleichheitsbeziehung in der Mengenlehre. Ibid., vol. 157 (1926-7), pp. 79-81.
+              "Die Definition der Gleichheit in der axiomatisierten Mengenlehre, in der e als einzige
+              undefinierte Grundbeziehung auftritt, soli also tauten: Gilt gleichzeitig mit x e a stets auch
+              x t b und umgekehrt, so werde a = b gesetzt."
+                   16. Zehn Vorlesungen uber die Grundlegung der Mengenlehre. Wissenschaft und
+              Hypothese vol. 31. Leipzig and Berlin 1927, x + 182 pp.
+                   17. Review of Skolem's Einige Bemerkungen zur axiomalischen Begrundung der
+              Mengenlehre. Jahrb. Fortschr. Math., vol. 49 (for 1923, pub. 1927-8), pp. 138-139.
+                   18. Zusatz zu vorstehenden Aufsatz Herrn v. Neumanns. Math. Annalen, vol. 99
+              (1928), pp. 392-393.
+                   19. Das Problem des Unendlichen in der neueren Mathematik. Blatter fiir deulsche
+              Philosophie, vol. 4 (1930), pp. 279-297.
+                   20. GelSste und ungelb'ste Probleme im Umkreis des Auswahlprinzips. Alii del Con-
+             gresso Internationale dei Matemalici, Bologna 3-10 seltembre 1928 (VI), vol. 2 (Bologna
+              1930), pp. 255-259.
+                   21. Review of Oskar Becker's Mathematische Existenz. Jahrb. Fortschr. Math., vol. 53
+              (for 1927, pub. 1930-1), pp. 38-39.                                            >
+                   22. Die heutigen Gegensa'tze in der Grundlegung der Mathematik. Erkenntnis, vol. 1
+              (1930-1), pp. 286-302. "Die Versuche, diesen und ahnliche Widerspruche aufzuklaren und
+              zu beseitigen, sind Legion; dass dabei irgendeine einfache durchschlagende Losung
+              herausgekommen ware, wird auch der Optimist nicht behaupten konnen."
+                   23. Axiomatische Theorie der Wohlordnung. {Untersuchungen Uber die Grundlagen der
+              Mengenlehre. III.) Jour. r. angew. Math., vol. 167 (1932), pp. 1-11.
+                   ~24. Ober die Axiome der Teilmengenbildung. Verhandlungen des Internationalen
+             Mathematiker-Kongresses Zurich 1932, vol. 2, pp. 341-342.
+                   25. On modern problems in the foundations of mathematics. Translated by S. Neumark.
+             Scripta mathemalica, vol. 1 (1932-3), pp. 222-227.
+                   26. Sur la notion d'existence dans les maihtmatiques. L'Ens. math., vol. 34 (1935-6),
+             pp. 18-32.                       ,
+                   27. Sur Vaxiome du choix. Ibid., pp. 32-51.
+                   28. Zum Diagonalverfahren Cantors. Fund, math., vol. 25 (1935), pp. 45-50.
+         270. V. F. LENZEN. 1. Independence proofs and the theory of implication. The monist, vol. 29
+              (1919), pp. 152-160.

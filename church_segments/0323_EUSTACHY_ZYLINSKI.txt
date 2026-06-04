@@ -1,0 +1,27 @@
+=== AUTHOR BLOCK 323 ===
+Name  : EUSTACHY ZYLINSKI.
+Flags : none
+Lines : 4257–4277
+========================================
+
+323. EUSTACHY ZYLINSKI.
+                   1. Some remarks concerning the theory of deduction. Fund, math., vol. 7 (1925), pp.
+             203-209.
+                   2. Formalizm Hilberta. Cz^Sd I: Formalizm Hi. (Der Hilbertsche Formalismus. Teil I:
+             Der Formalismus Hi.) Polish with German abstract. Archiwum Towarzystwa Naukowego
+
+
+
+
+
+                  we Lwowie, Dzial III matematyczno-przyrodniczy, vol. 7 (1935), pp. 243-318. "Den
+                  Inhalt dieser Arbeit bildet die Bearbeitung und ausfiihrliche Darstellung eines Forma-
+                  lismus, welcher in den Arbeiten von Hilbert und seiner Schule Uber die Grundlagen der
+                  Mathematik benutzt wird. In dem Werke "Grundlagen der Mathematik" von Hilbert
+                  und Bernays ist der Aufbau dieses Formalismus nur skizziert, wobei die Grenzen zwischen
+                  dem Formalismus selbst und seinen Anwendungen noch nicht vQllig konsequent gezogen
+                  wurden. In den ersten sechs Paragraphen wird dieser, hier mit Hi bezeichnete, Forma-
+                  lismus entwickelt. Der §7 ist der Anwendung des Formalismus Hi auf die Mengenlehre
+                  gewidmet, der letzte Paragraph der Anwendung auf die zweiwertige Logik, deren von
+                  Frege und Russell durchgefiihrte Formalisierung bekanntlich den Ausgangspunkt der
+                  modernen formalistischen Untersuchungen bildet."-

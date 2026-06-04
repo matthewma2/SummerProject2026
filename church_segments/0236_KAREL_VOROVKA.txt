@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 236 ===
+Name  : KAREL VOROVKA.
+Flags : none
+Lines : 3285–3290
+========================================
+
+236. KAREL VOROVKA.
+                     / . Jak soudil H. Poincari o vztazich mathematiky k logice (H. Poincar6's opinion on
+                the relations of mathematics to logic). Casopis pro peslovani mathematiky afysiky (Prag),
+                vol. 43 (1914), pp. 154-162.
+                     2. Ce qu'il y a de juste dans la critique de la logistique de H. Poincari. Atti del V
+                Congresso Internazionale di Filosofia, Napoli 5-9 maggio 1924, Naples 1925, pp. 583-590.

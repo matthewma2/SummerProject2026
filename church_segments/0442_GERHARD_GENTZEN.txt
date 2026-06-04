@@ -1,0 +1,18 @@
+=== AUTHOR BLOCK 442 ===
+Name  : GERHARD GENTZEN.
+Flags : none
+Lines : 5284–5295
+========================================
+
+442. GERHARD GENTZEN.
+                     1. Uber die Existenz unabhdngiger Axiomensysteme zu unendlichen Satzsystemen.
+               Math. Annalen, vol. 107 (1932), pp. 329-350.
+
+
+
+                     2. Untersuchungen ilber das logische Schliessen. Math. Z., vol. 39 (1934), pp. 176-210,
+               405-431. "Der Hauptsatz besagt, dass sich jeder rein logische Beweis auf eine bestimmte,
+                iibrigens keineswegs eindeutige, Normalform bringen lasst. Die wesentlichsten Eigen-
+               schaften eines solchen Normalbeweises lassen sich etwa so ausdriicken: Er macht keine
+                Umwege. Es werden in ihm keine Begriffe eingefiihrt, welche nicht in seinem Endergebnis
+               enthalten sind und daher zu dessen Gewinnung notwendig verwendet werden miissen."

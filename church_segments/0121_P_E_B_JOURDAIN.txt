@@ -1,0 +1,88 @@
+=== AUTHOR BLOCK 121 ===
+Name  : P. E. B. JOURDAIN.
+Flags : none
+Lines : 1963–2044
+========================================
+
+121. P. E. B. JOURDAIN.
+                   1. On the transfinile cardinal numbers of well-ordered aggregates. Phil, mag., 6 s. vol. 7
+              (1904), pp. 61-75. "We may attempt to define an inconsistent aggregate as an aggregate of
+              which it is impossible to think as a whole without contradiction."
+                   2. On a proof that every aggregate can be well-ordered. Math. Annalen, vol. 60 (1905),
+              pp. 465-469; and added Note, pp. 469-470. "Consequently, all ordinal numbers and
+              Alephs are Cantor's numbers, and the series (1) (which I call W) and (2) have no type and
+              no cardinal number." "Although we are thus forced to deny the existence of a cardinal
+              number of any aggregate, some part of which is equivalent to an aggregate like W, we
+              cannot, it seems, deny the existence of W itself."
+                   3. De infinito in mathematica. Rev. de math., vol. 8 (1902-6), pp. 121-136. "Ergo pro
+
+
+
+
+                fuge contradictione de Burali-Forti, nos debe nega que serie W de ordinales numeros habe
+                typo, vel cardinale numero."
+                      4. On the question of the existence of transfinile numbers. Proc. London Math. Soc,
+                2 s.. vol. 4 (1907), pp. 266-283.
+                      5. Transfinite numbers and the principles of mathematics. The monist, vol. 20 (1910),
+                pp. 93-118.
+                      6. The development of theories of mathematical logic and the principles of mathematics.
+                The quarterly journal of pure and applied mathematics, vol. 41 (1910), pp. 324-352.
+                "The aim of the following papers is to give a fairly exhaustive account of the work of these
+                workers at the reformation and further development of our knowledge of logic after the
+                pattern of the most symbolical method known—that of algebra, from the time of Boole
+                down to the present day. The works of Lambert, Ploucquet, Holland, and others have
+                been passed over with references from which further information may be obtained; but
+                it was necessary to enter rather more fully into the great achievements, and still greater
+                plans for achievement, of Leibniz."
+                      7. Review of Whitehead and Russell's Principia mathemalica, vol. 1. Cambridge re-
+                view, vol. 33 (1911), pp. 7-9.
+                      8. Review of Hastings Berkeley's Mysticism in modern mathematics. Mind, n.s. vol.
+                20 (1911), pp. 88-97.
+                      P. Review of Natorp's Die logischen Grundlagen der exakten Wissenschaften. Ibid.,
+                pp. SS2-S60.
+                      10. The philosophy of Mr. B*rtr*nd R*ss*ll. The monist, vol. 21 (1911), pp. 481-508;
+                vol. 26 (1916), pp. 24-62. Reprinted with additions as The philosophy of Mr. B*rtr*nd
+                R*ss*ll, with an appendix of leading passages from certain other works, London 1918,
+                96 pp.
+                      11. Some modern advances in logic. The monist, vol. 21 (1911), pp. 564-566.
+                      12. Mr. Bertrand Russell's first work on the principles of mathematics. The monist,
+                vol. 22 (1912), pp. 149-158.
+                      13. The development of the theories of mathematical logic arid the principles of mathe-
+                matics. Quarterly jour., vol. 43 (1912), pp. 219-314. "I now publish the section on MacColI,
+                part of that on Frege, and that on Peano."
+                   , 14. Reply to J. J. Maxwell's note. Mind, n.s. vol. 21 (1912), pp. 470^71.
+                      15. On isoid relations and theories of irrational number. Proc. Sth. Int. Cong. Math.,
+                vol. 2 (Cambridge, England, 1913), pp. 492-496.
+                      16. The development of the theories of mathematical logic and the principles of mathe-
+                matics. Quarterly jour., vol. 44 (1913), pp. 113-128. William Stanley Jevons.
+                     17. Tales with philosophical morals. The open court, vol. 27 (1913), pp. 310-315.
+                      18. Review of Whitehead and Russell's Principia malhematica, vol. 1/ Jahrb. Fort-
+                schr. Math., vol. 41 (for 1910, pub. 1913), pp. 83-84.
+                     19. Review of the same, vol. 2. Ibid., vol. 43 (for 1912, pub. 1915), pp. 93-94.
+                     20. The logical work of Leibniz. The monist, vol. 26 (1916), pp. 504-523.
+                     21. The function of symbolism in mathematical logic. "Scientia," vol. 21 (1917),
+               pp. 1-12.
+                     22. Lafonction du symbolisme dans la logique malhtmatique. French translation of the
+               preceding by E. Philippi. Ibid., Supplement, pp. 3-15.
+                     23. Existenls and entities. The monist, vol. 27 (1917), pp. 142-151.
+                     24. Logic and psychology. Ibid., pp. 460-467.
+                     25. Review of Whitehead and Russell's Principia mathematica, vol. 3. Jahrb. Fort-
+               schr. Math., vol. 44 (for 1913, pub. 1918), pp. 68-71.
+                     26. A proof that any aggregate can be well-ordered. Mind, n.s. vol. 27 (1918), pp. 386-
+               388. "I shall prove that any aggregate can be well-ordered, and hence that Zermelo's
+               'axiom' can be proved from logical principles."
+                     27. A proof that any aggregate can be well-ordered. Mind, n.s. vol. 28 (1919), pp. 382-
+               384.
+                     28. The logical significance of "Ockham's razor." The monist, vol. 29 (1919), pp. 450-
+               451.
+                     29. Review of Shaw's Lectures on the philosophy of mathematics and Russell's
+
+
+
+
+               An introduction to mathematical philosophy. Science progress in the Twentieth Century
+               (London), vol. 14 (1919-20), pp. 669-674.
+                     30. A proof that every aggregate can be well-ordered. Ada mathematica, vol. 43 (1922),
+               pp. 239-261.
+                     See also George Boole 19, Gottlob Frege 4921, 22, 23, Louis Couturat 10022, 27,
+               Bertrand Russell 11123.

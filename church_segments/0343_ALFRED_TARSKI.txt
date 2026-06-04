@@ -1,0 +1,19 @@
+=== AUTHOR BLOCK 343 ===
+Name  : ALFRED TARSKI
+Flags : none
+Lines : 4458–4470
+========================================
+
+343. ALFRED TARSKI and ADOLF LINDENBAUM.
+                   1. Communication sur les recherches de la thiorie des ensembles. C. r. Soc. Sci. Lett.
+              Varsovie, Classe III, vol. 19 (1926), pp. 299-330.
+                   2. Sur Vindtpendance des notions primitives dans les syslemes mathimatiques. Rocznik
+              Polskiego Towarzyslwa Matematycznego (Annales de la Societi Polonaise de Mathe-
+              matique), vol. 5 (for 1926, pub. 1927), pp. 111-113.
+         344. I. I. ZEGALKIN (J. J. Gegalkine).
+                   1. 0 tlhnike vylisllnij prldloltnij v simboliiiskoj logikt (Sur le calcul des propositions
+              dans la logique symbolique). Russian with French abstract. Matimaticeskij sbornik, vol.
+              34 (1927), pp. 9-28.
+                   2. Arifmitizacii simboliltskoj logiki (Varithmttisation de la logique symbolique).
+              Russian with French abstract. Ibid., vol. 35 (1928), pp. 311-377, and vol. 36 (1929),
+              pp. 205-338.

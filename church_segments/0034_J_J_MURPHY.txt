@@ -1,0 +1,31 @@
+=== AUTHOR BLOCK 34 ===
+Name  : J. J. MURPHY.
+Flags : none
+Lines : 598–622
+========================================
+
+34. J. J. MURPHY.
+                    1. Relation of logic to language. Belfast Natural History and Philosophical Society,
+              Feb. 1875, 21 pp.
+                    2. Fundamental logic. Mind, vol. 2 (1877), pp. 47-55.
+                    3. On an extension of the ordinary logic, connecting it with the logic of relatives. Memoirs
+              of the Manchester Literary and Philosophical Society, 3 s. vol. 7 (1882), pp. 90-101.
+              "The present paper has been suggested by the section on Elementary Relatives in Prof.
+              Pierce's 'Description of a Notation for the Logic of Relatives.' "
+                    4. On the addition and multiplication of logical relatives. Ibid., pp. ?01-224. "On seeing
+              the abstract of this paper, Prof. Pierce wrote to me that my addition of relative terms is,
+              in all but notation, the same as his internal multiplication of the same. This is quite true."
+                    5. On the transformations of a logical proposition containing a single relative term. Ibid.,
+              3 s. vol. 8 (1884), pp. 132-138. "The present paper has been suggested by De Morgan's
+               'On the Syllogism, No. IV., and on the Logic of Relations.' "
+                    6. On the quantification of predicates and on the interpretation of Boole's logical symbols.
+              Proceedings of the Literary and Philosophical Society of Manchester, vol. 23 (1884), pp.
+              33-36.
+                    7. On the meaning of addition and subtraction in logic. Ibid., vol. 25 (1886), pp. 8-16.
+                    8. A new system of logical notation. Memoirs and proceedings of the Manchester
+              Literary & Philosophical Society, 4 s. vol. 2 (1889), pp. 22-32. "The most important ap-
+               plication of this notation is to the 'logic of relatives.' "
+                    9. A new symbolic treatment of the old logic. Ibid., 4 s. vol. 4 (1891), pp. 201-215.
+               "Every proposition and process known to the old logic may be shown with equal clearness
+               without, or with, the use of symbols of relation, but not with equal neatness and concise-
+               ness."

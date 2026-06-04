@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 499 ===
+Name  : M. H. STONE.
+Flags : none
+Lines : 5566–5573
+========================================
+
+499. M. H. STONE.
+                    1. Boolean algebras and their application to topology. Proc. Nat. Acad. Set., vol. 20
+              (1934), pp. 197-202.
+                    2. Subsumption of the theory of Boolean algebras under the theory of rings. Ibid., vol. 21
+              (1935), pp. 103-105.
+                    3. Postulates for Boolean algebras and generalized Boolean algebras. Amer. jour, math.,
+              vol. 57 (1935), pp. 703-732.
+                    See also J. v. Neumann and M. H. Stone 533.

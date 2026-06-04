@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 31 ===
+Name  : ARTHUR CAYLEY.
+Flags : none
+Lines : 589–591
+========================================
+
+31. ARTHUR CAYLEY. 1. Note on the calculus of logic. The quarterly journal of pure and
+               applied mathematics (London), vol. 11 (1871), pp. 282-283. Reprinted in The collected
+               mathematical papers of Arthur Cayley, vol. 8 (Cambridge, Eng., 1895), pp. 65-66.

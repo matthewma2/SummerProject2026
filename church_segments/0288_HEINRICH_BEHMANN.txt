@@ -1,0 +1,30 @@
+=== AUTHOR BLOCK 288 ===
+Name  : HEINRICH BEHMANN.
+Flags : A
+Lines : 3956–3979
+========================================
+
+A 288. HEINRICH BEHMANN.
+                     1. Beitrage zur Algebra der Logik, insbesondere zum Entscheidungsproblem. Math.
+               Annalen, vol. 86 (1922), pp. 163-229.
+                     2. Algebra der Logik und Entscheidungsproblem. Jahresb. D. M.-V., vol. 32 (1923),
+               2. Abteilung, pp. 66-67.
+                     3. Mathematik und Logik. Mathematisch-physikalische Bibliothek, vol. 71. Leipzig
+               and Berlin 1927, 59 pp.                 ,
+
+
+
+
+
+                   4. Entscheidungsproblem und Logik der Beziehungen. Jahresb. D. M.-V., vol. 36
+              (1927), 2. Abteilung, pp. 17-18.
+                   5. I principii delta logica simbolica. Period, mat., 4 s. vol. 7 (1927), pp. 213-230.
+                   6. Zu den Widerspriichen der Logik und der Mengenlehre. Jahresb. D. M.-V., vol. 40
+              (1931), pp. 37-48. "Dass in der Tat fUr das Zustandekommen der mengentkeorelischen
+              WidersprUche weder der naive Mengenbegriff noch der Unendlichkeitsbegriff, sondern
+              wesentlich der gekennzeichnele Missbrauch von Kurzzeichen oder Variablen verantwortlich
+              zu machen ist.
+                   7. Zur Richtigslellung einer Krilik meiner Auflosung der logisch-mengentheoretischen
+              WidersprUche. Erkennlnis, vol. 2 (1931-2), pp. 305-306.
+                   8. Sind die mathematischen Urteile analytisch oder synthetisch? Erkenntnis, vol. 4
+              (1934), pp. 1-27.

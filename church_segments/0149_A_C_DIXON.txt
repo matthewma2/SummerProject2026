@@ -1,0 +1,15 @@
+=== AUTHOR BLOCK 149 ===
+Name  : A. C. DIXON.
+Flags : none
+Lines : 2413–2421
+========================================
+
+149. A. C. DIXON.
+                     / . On "well-ordered" aggregates. Proc. London Math. Soc, 2 s.' vol. 4 (1906), pp.
+                18-20. "Dr. Hobson has lately pointed out the importance of the question whether any
+               object which it is proposed to discuss can be defined in finite terms. It occurred to me, on
+               reading his article, that the cardinal number of all objects which can be so defined could be
+               found, and that from its determination important conclusions could be drawn."
+                     2. On a question in the theory of aggregates. Ibid., pp. 317—319. "In the current volume
+               of the Proceedings Dr. Hobson has critized the views of Prof. Konig and myself on entities
+                which can be specified in finite terms."

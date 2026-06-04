@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 436 ===
+Name  : UGO CASSINA.
+Flags : A
+Lines : 5241–5245
+========================================
+
+A 436. UGO CASSINA.
+                     1. Paradoxo mathcmatico. Schola et vita, vol. 6 (1931), p. 222, and vol. 7 (1932),
+                pp. 40-41.
+                     2. Vita et opera de Giuseppe Peano. Ibid., vol. 7 (1932), pp. 117-148.
+                     3. Su la logica matemalica di G. Peano. Boll. Un. Mat. Hal., vol. 12 (1933), pp. 57-65.

@@ -1,0 +1,20 @@
+=== AUTHOR BLOCK 411 ===
+Name  : E. J. NELSON.
+Flags : none
+Lines : 5070–5083
+========================================
+
+411. E. J. NELSON.
+                      1. Inlensional relations. Mind, n. s. vol. 39 (1930), pp. 440-453. "It is the purpose of
+                 this paper (1) to discuss certain fundamental intensional logical notions in comparison
+                 with extensional ones, leading to a satisfactory definition of implication, and (2) to
+                 characterize in general terms intension in contrast to extension, pointing out the signifi-
+                 cance of the contrast in regard to inference."
+                      2. An intensional logic of propositions. Harvard University, Graduate School of Arts
+                 and Sciences, Summaries of theses accepted in partial fulfilment of the requirements for
+                 the degree of Doctor of Philosophy, 1929, Cambridge, Mass., 1931, pp. 208-211.
+                      J. The square of opposition. The monist, vol. 42 (1932), pp. 269-278.
+                      4. Deductive systems and the absoluteness of logic. Mind, n. s. vol. 42 (1933), pp. 30-42.
+                      5. On three logical principles in intension. The monist, vol. 43 (1933), pp. 268-284.
+                      6. Whitehead and Russell's theory of deduction as a non-mathematical science. Bull.
+                 Amer. Math. Soc, vol. 40 (1934), pp. 478-486.

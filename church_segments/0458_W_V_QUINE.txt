@@ -1,0 +1,26 @@
+=== AUTHOR BLOCK 458 ===
+Name  : W. V. QUINE.
+Flags : none
+Lines : 5368–5387
+========================================
+
+458. W. V. QUINE.
+                      1. A note on Nicod's postulate. Mind, n. s. vol. 41 (1932), pp. 345-350.
+                     2. A theorem in the calculus of classes. Journal of the London Mathematical Society,
+                vol. 8 (1933), pp. 89-95.
+                     3. The logic of sequences: A generalization of Principia Mathematica. Harvard Uni-
+                versity, Graduate School of Arts and Sciences, Summaries of theses accepted in partial
+               fulfilment of the requirements for the degree of Doctor of Philosophy, 1932, Cambridge
+                Mass., 1933, pp. 335-338.
+                      4. Review of Collected papers of C. S. Peirce, vol. 2. Isis, vol. 19 (1933), pp. 220-229.
+           *          S. A system of logistic. Cambridge, Mass., 1934, x+204 pp.
+                      6. Ontological remarks on the propositional calculus. Mind, n. s. vol. 43 (1934), pp.
+                472"-476.
+                      7. A method of generating part of arithmetic without use of intuitive logic. Bull. Amer.
+                Math. Soc, vol. 40 (1934), pp. 753-761.
+                      8. Review of Collected papers of C. S. Peirce, vol. 3. Isis, vol. 22 (1934-5), pp.
+                285-297.
+                      9. Review of the same, vol. 4. Ibid., pp. 551-553.
+                     10. Review of Carnap's Logische Syntax der Sprache. The philosophical review, vol.
+                44 (1935), pp. 394-397.
+                      See also A. N. Whitehead 99i0.

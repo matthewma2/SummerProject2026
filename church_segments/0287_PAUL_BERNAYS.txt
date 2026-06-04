@@ -1,0 +1,48 @@
+=== AUTHOR BLOCK 287 ===
+Name  : PAUL BERNAYS.
+Flags : A
+Lines : 3914–3955
+========================================
+
+A 287. PAUL BERNAYS.
+                     1. Uber Hilberts Gedanken zur Grundlegung der Arithmetik, Jahresb. D. M.-V., vol. 31
+               (1922), pp. 10-19.
+                     2. Die Bedeutung Hilberts fiir die Philosophie der Mathematik. Die Naturwissen-
+               schaften, vol. 10 (1922), pp. 93-99.
+                     3. Erwiderung auf die Note von Herrn Aloys Mailer: "Uber Zahlen als Zeichen."
+               Math. Annalen, vol. 90 (1923), pp. 159-163. Reprinted in Annalen der Philosophie und
+               philosophischen Krilik, vol. 4 (1924), pp. 492-197.
+                     4. Review of Hilbert's Axiomatisches Denken. Jahrb. Fortschr. Math., vol. 46 (for
+                1916-8, pub. 1923-1), pp. 62-64.
+                     5. Review of Smith's Non-Aristotelian logic. Ibid., vol. 47 (for 1919-20, pub. 1924-6),
+               pp. 38-39.
+                     6. Axiomatische Untersuchung des Aussagen-Kalkuls der "Principia Mathematical
+               Math. Z., vol. 25 (1926), pp. 305-320.
+                     7. Probleme der theoretischen Logik. Unlerrichtsbl'dtter fiir Mathematik und Nalur-
+               wissenschaften, vol. 33 (1927), pp. 369-377.
+                     8. Review of Hertz's Uber Axiomensysteme fiir beliebige Satzsysteme, part 1. Jahrb.
+               Fortschr. Math., vol. 48 (for 1921-2, pub. 1925-8), pp. 1117-1119.
+                     9. Review of Behmann's BeitrSge zur Algebra der Logik, insbesondere zum Entschei-
+               dungsproblem. Ibid., pp. 1119-1120.
+                     10. Review of Hilbert's Die logischen Grundlagen der Mathematik. Ibid., pp. 1120—
+               1121.
+                     11. Review of Post's Introduction to a general theory of elementary propositions. Ibid.,
+               pp. 1122-1123.
+                     12. Review of Hertz's Uber Axiomensysteme fiir beliebige Satzsysteme, part 2. Ibid.,
+               vol. 49 (for 1923, pub. 1927-8), pp. 683-684.
+                     13. Uber Nelsons Stellungnahme in der Philosophie der Mathematik. Die Naturwissen-
+               schaflen, vol. 16 (1928), pp. 142-145.
+                     14. Zusatz zu Hilberts Vortrag ilper "Die Grundlagen der Mathematik." Abh. Math.
+               Sem. Hamburg. Univ., vol. 6.(1928), pp. 89-92. See David Hilbert 10815.
+                     15. Die Philosophie der Mathematik und die Hilbertsche Beweistheorie. 'Blatter fiir
+               deutsche Philosophie, vol. 4 (1930), pp. 326-367.
+                     16. Methoden des Nachweises von Widerspruchsfreiheit und ihre Grenzen. Verhandlun-
+               gen des Internationalen Mathematiker-Kongresses in Ziirich 1932, vol. 2, pp. 342-343.
+                     17. Sur le platonisme dansles mathtmatiques. L'Ens. math., vol. 34 (1935-6), pp. 52-69.
+               "Ces deux tendances, intuitionniste et platonicienne, sont n6cessaires, elles se completent
+               et il faudrait se violenter pour renoncer a l'une d'elles."
+           f         18. Quelques points essentiels de la metamathimaiique. Ibid., pp. 70-95.
+           t         19. Hilberts Untersuchungen uber die Grundlagen der Arithmetik. David Hilberl
+               Gesammelte Abhandlungen, vol. 3 (Berlin 1935), pp. 196-216.
+                     See also Paul Bernays and Moses Schonfinkel 367, Leonard Nelson 3712, and David
+               Hilbert and Paul Bernays 507.

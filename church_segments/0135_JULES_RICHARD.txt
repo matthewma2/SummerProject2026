@@ -1,0 +1,54 @@
+=== AUTHOR BLOCK 135 ===
+Name  : JULES RICHARD.
+Flags : none
+Lines : 2239–2286
+========================================
+
+135. JULES RICHARD.
+          *          1. Les principes des mathlmatiques el le probleme des ensembles. Revue generate des
+               sciences pures et appliquees, vol. 16 (1905), pp. 541-543. Letter by Richard, and com-
+               ments by the editor (Louis Olivier).2
+                     2. Lettre a Monsieur le redacteur de la Revue Ginerale des Sciences. Acta math., vol. 30
+               (1906), pp. 295-296. Reprint of the preceding (Richard's letter only).
+                     J. A propos de la logistique. Rev. gen. sci., vol. 17 (1906), pp. 957-958.
+          *          4. Sur la logique et la notion de nombre entier. L'Ens. math., vol. 9 (1907), pp. 39-44.
+               "Dans la logique symbolique de M. Peano, on adopte un certain nombre de signes, sig-
+               nifiant et, ou, implique, est, non, etc. Certaines regies de transformation des propositions
+               sont alors vraies, et Ton peut raisonner en appliquant ces regies. Parmi ces regies il y en a
+               d'irreductibles entre elles, c'est a dire qui ne peuvent se d£montrer les unes par les autres,
+               sans Specifier le sens attribu£ aux signes. Les autres se deduisent de celles-la. La question
+               de la compatibilit6 des axiomes peut alors se poser ainsi. En admettant ces regies, et en
+               raisonnant d'apres elles, on ne peut pas arriver a conclure la faussete de l'une d'elles.
+               Cela peut-il se demontrer sans specifier le sens des signes? II s'agit de montrer qu'en com-
+               binant des signes d'apres certaines lois on ne peut pas arriver a obtenir certaines combi-
+               naisons. A cela il n'y a rien d'absurde. Dans l'etude de certains jeux, sur l'e'chiquier par
+               exemple, on trouve des propositions analogues. Mais le principe d'induction complete
+               reste en dehors de la question. II faut en effet l'admettre dans ces sortes de demonstra-
+               tions." "Ce qu'on nomme le principe d'induction presente un caractere tres particulier;
+               ce n'est pas un principe destine1 a legitimer des inferences, comme sont Ies autres principes.
+               II 6nonce la possibility de faire un nombre d'inferences pouvant croitre indefiniment. Ce
+               principe est indSmontrable, il est l'expression d'une intuition logique."
+                    5. Sur un paradoxe de la theorie des ensembles et sur Vaxiome Zermelo. Ibid., pp. 94-98.
+               "J'ai signal^ autrefois, dans la Revue ginirale des sciences, un paradoxe relatif a la th6orie
+              des ensembles. L'explication que j'en ai donne n'est pas entierement exacte, comme l'a
+              remarqufi M. PEANO. Je voudrais reprendre la question ici.et la faire suivre de quelques
+              rdflexions sur ce qu'on nomme Vaxiome ZERMELO."
+                    6. Sur quelques points de la philosophic des mathlmatiques: la logique, la notion de
+              nombre entier et la thlorie des ensembles. Association Francaise pour I'Avancement des
+              Sciences fusionnee avec VAssociation Scientifique de France, Compte rendu de la 37me
+              session, Clermont-Ferrand 1908, Paris 1909, pp. 70-76.
+               2
+              This was the first publication of the now famous Richard paradox. It had apparently
+         been known previously in certain quarters but (erroneously) regarded as a mere sophistry.
+         Cf. Gerhard Hessenberg 1517, §95. A par,adox closely related to Richard's is given by Julius
+         Konig 1297.
+
+
+
+                     7. Considerations sur la logique et les ensembles. Rev. milaph. mor., vol. 27 (1920),
+                pp. 355-369. "Dans ces quelques pages, j'examine en premier lieu cette question des
+                principes de la logique. Nature du raisonnement, definition d'une classe d'objets, nombre
+                entier, principe dit d'induction complete. Je passe ensuite a la th6orie des ensembles, a la
+                notion du transfini, et aux difficultes d'ordre logique qu'elles semblent presenter."
+                     8. Sur I'axiome de Zermelo. Butt. sci. math., 2 s. vol. 53 (1929), premiere partie,
+                pp. 106-109.

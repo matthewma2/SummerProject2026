@@ -1,0 +1,90 @@
+=== AUTHOR BLOCK 108 ===
+Name  : DAVID HILBERT.
+Flags : none
+Lines : 1715–1798
+========================================
+
+108. DAVID HILBERT.
+                     1. Mathematische Probleme. Vorlrag, gehallen auf dem internationalen Mathematiker-
+               Kongress zu Paris 1900. Nachrichten von der K. Gesellschaft der Wissenschaften zu
+               Goltingen, Math.-Phys. Kl. 1900, pp. 253-297. Reprinted with some additions in Archiv
+               der Mathematik und Physik, 3 s. vol. 1 (1901), pp. 44-63, 213-237.
+                     2. Problemes mathlmaliques. Revue generate des sciences pures el appliquees, vol. 12
+               (1901), pp. 168-174.
+                     3. Sur les problemes futurs des mathtmatiques. French translation of I by L. Laugel.
+               Compte rendu du Deuxieme Congres International des Mathematiciens tenu d Paris du
+               6 au 12 aoul 1900, Paris 1902, pp. 58-114. "L'original de la traduction a paru en allemand
+               dans les Gottinger Nachrichten, 1900. M. Hilbert a fait ici quelques modifications a
+               l'original au §13 et quelques additions au §14 et au §23."
+                     4. Mathematical problems. Lecture delivered before the International Congress of Mathe-
+               maticians al Paris in 1900. English translation of 1 by Mary Winston Newsom. Bulletin
+               of the American Mathematical Society, vol. 8 (1901-2), pp. 437-479.
+
+
+
+
+
+          **         5. Uber die Grundlagen der Logik und der Arithmetik. Verhandlungen des Dritten
+                Internationalen Mathematiker-Kongresses in Heidelberg vom 8. bis 13. August 1904,
+                Leipzig 190S, pp. 174-185. Reprinted in Grundlagen der Geometrie, by David Hilbert,
+                3rd. edn.; 4th. edn. (Leipzig and Berlin 1913), pp. 243-258; 5th. edn.; 6th. edn. (Leipzig
+                and Berlin 1923), pp. 243-258; 7th. edn. (Leipzigand Berlin 1930), pp. 247-261. "Dieeben
+                skizzierte Betrachtung bildet den ersten Fall, in dem es gelingt, den direkten Nachweis
+                fur die Widerspruchslosigkeit von Axiomen zu fiihren."
+                     6. Sur Ies fondements de la logique et de Varithmltique. French translation of S by
+                P. Boutroux. L'Enseignement mathematique, vol. 7 (1905), pp. 89-103. "Mais alors Frege
+                se trouve d£sarm6 devant Ies paradoxes de la theorie des Ensembles, paradoxes dont la
+                consideration de l'Ensemble de tous Ies Ensembles nous fournit un exemple et qui eiablis-
+                sent, selon moi, que Ies notions et Ies m6thodes de la logique usuelle n'ont pas encore la
+                precision et la rigueur reclamees par la theorie des Ensembles."
+                     7. On the foundations of logic and arithmetic. English translation of S by G. B. Halsted.
+                The monisl, vol. 15 (1905), pp. 338-352.
+          *           8. Axiomatisches Denken. Math. Annalen, vol. 78 (1918), pp. 405-415. Reprinted in
+                David Hilberl Gesammelle Abhandlungen, vol. 3 (Berlin 1935), pp. 146-156. "Zur
+                Eroberung dieses Feldes miissen wir—das ist meine Uberzeugung—den Begriff des spezi-
+                fisch mathematischen Beweises selbst zum Gegenstand einer Untersuchung machen."
+                     9. Pensee axiomalique. French translation of 8 by Arnold Reymond. L'Ens. math.,
+                vol. 20 (1918-9), pp. 122-136.
+                     10. De axiomatische denkwijze. Dutch translation of 8. Wiskundig tijdschrifl (Haar-
+                lem), vol. 16 (1919-20), pp. 208-222.
+          *          11. Neubegriindung der Mathematik. Abhandlungen aus dem Mathematischen
+                Seminar der Hamburgischen Universitat, vol. 1 (1922), pp. 157-177. Reprinted in Gesam-
+                melte Abhandlungen, vol. 3, pp. 157-177.
+                     12. Die logischen Grundlagen der Mathematik. Math. Annalen, vol. 88 (1923), pp. 151-
+                165. Reprinted in Gesammelle Abhandlungen, vol. 3, pp. 178-191. "Zur vollstandigen
+                Lfisung der in Rede stehenden prinzipiellen Schwierigkeiten ist, wie ich glaube, eine
+                Theorie des mathematischen Beweises selbst notig. Diese ganze Theorie mit ihren langen
+                und schwierigen Entwickelungen hier darzulegen, ist unmoglich. Es haben sich aber im
+                Laufe der Untersuchung eine Reihe von neuen Einsichten und Zusammenhangen heraus-
+                gestellt, die auch einzeln fur sich und von den Ubrigen losgelost Interesse verdienen."
+          *           13. Uber das Unendliche. Math. Annalen, vol. 95 (1926), pp. 161-190. Reprinted in
+                abbreviated form in Jahresb. D. M.-V., vol. 36 (1927), pp. 201-215; also in abbreviated
+                form with some revisions in Grundlagen der Geometrie, 7th. edn., pp. 262-288. "Aber
+                unsere hier skizzierte Beweistheorie ist nicht nur imstande, die Grundlagen der mathe-
+                matischen Wissenschaft su sichern, sondern ich glaube, dass sie auch einen Weg eroffnet,
+                um iiberhaupt allgemeine in den mathematischen Denkbereich fallende Fragen grund-
+                satzlicher Art zu behandeln."
+                     14. Sur I'infini. French translation of 13 by Andr6 Weil. Acta mathematica, vol. 48
+                (1926), pp. 91-122.
+                     15. Die Grundlagen der Mathematik. Abh. Math. Sem. Hamburg. Univ., vol. 6 (1928),
+                pp. 65-85. Reprinted, "Mit Zusatzen von H. Weyl und P. Bernays," as no. 5 of Hamburger
+                mathematische Einzelschriften, Leipzig 1928, 28 pp. Reprinted in Grundlagen der
+                Geometrie, 7th. edn., pp. 289-312.
+                     16. Problemas de la Ugica matemdtica. Extract in Spanish from 17. Revista matematica
+                Hispano-Americana (Madrid), 2 s. vol. 3 (1928), pp. 265-267.
+                     17. Probleme der Grundlegung der Mathematik. Math. Annalen, vol. 102 (1929),
+                pp. 1-9; Atti del Congresso Inlernazionale dei Matematici, Bologna 3-10 settembre 1928
+                (VI), vol. 1 (Bologna 1929), pp. 135-141. Reprinted in Grundlagen der Geometrie, 7th.
+                edn., pp. 313-323.
+                      IS. Die Grundlegung der elemenlaren Zahlenlehre. Math. Annalen, vol. 104 (1930-1),
+                pp. 485-494. Reprinted in part in Gesammelte Abhandlungen, vol. 3, pp. 192-195. "Zu
+                der eigentlichen so formalisierten Mathematik kommt eine gewissermassen neue Mathe-
+                matik, eine Metamathematik, die zur Sicherung jener notwendig ist."
+                      19. Beweis des Tertium non datUr. Nachr. Ges. Wiss. Gbttingen, Math.-Phys. Kl.
+                1931, pp. 120-125.
+
+
+
+
+                      See also David Hilbert and Wilhelm Ackerman 365, David Hilbert and Paul Bernays
+                507, Bertrand Russell 11127.

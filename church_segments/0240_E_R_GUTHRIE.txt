@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 240 ===
+Name  : E. R. GUTHRIE.
+Flags : none
+Lines : 3379–3386
+========================================
+
+240. E. R. GUTHRIE.
+                   1. The paradoxes of Mr. Russell with a brief account of their history. Dissertation
+              Pennsylvania 1914. Lancaster, Pa., 1915, 23 pp.
+                   2. The field of logic. Jour.philos. etc., vol. 13 (1916), pp. 152-158. See Erratum, ibid.,
+             p. 336. "What final authority would judge between the ultimate 'correctness' of Aristotle's
+             logic which offers two contradictories obeying the laws: x-x' = 0, x+x' = l, (x')' = x,
+             and a logic which would provide three contradictories, obeying the laws: x-x'-x" = Q,
+               *+*'+*" = 1, (*')' = *", (*")"=*?"

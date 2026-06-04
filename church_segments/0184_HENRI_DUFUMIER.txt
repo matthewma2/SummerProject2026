@@ -1,0 +1,21 @@
+=== AUTHOR BLOCK 184 ===
+Name  : HENRI DUFUMIER.
+Flags : none
+Lines : 2713–2727
+========================================
+
+184. HENRI DUFUMIER.
+                     1. Sur la notion d'une logique formelle positive. Bericht iiber den III. Internalionalen
+               Kongress fiir Philosophie zu Heidelberg, 1. bis S. September 1908, Heidelberg 1909,
+                pp. 680-685.
+                     2. Les ihiories logico-mUaphysiques de MM. B. Russell el G.-E. Moore. Rev. metaph.
+                mor., vol. 17 (1909), pp. 620-653.
+                     3. La generalisation mathematique. Ibid., vol. 19 (1911), pp. 723-758.
+                     4. Review of Whitehead and Russell's Principia malhematica, vol. 1. Bull. sci. math.,
+                2 s. vol. 35 (1911), premiere partie, pp. 213-221.
+                     5. La philosophie des mathematiques de MM. Russell el Whitehead. A review of
+                Principia mathematica, vol. 1. Rev. metaph. mor., vol. 20 (1912), pp. 538-566.
+                     6. Review of A. T. Shearman's The scope of formal logic. Revue philosophique de la
+                France et de V&tranger, vol. 77 (1914), pp. 197-201.
+                     7. La logique des classes et la thtorie des ensembles. Rev. metaph. mor., vol. 23 (1916),
+                pp. 623-631.

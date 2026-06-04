@@ -1,0 +1,101 @@
+=== AUTHOR BLOCK 247 ===
+Name  : THORALF SKOLEM.
+Flags : none
+Lines : 3430–3524
+========================================
+
+247. THORALF SKOLEM.
+                    1. Om konstitulionen av den identiske kalkuls grupper (On the constitution of the groups
+             of the identical calculus). Den Tredje Skandinaviske Matematikerkongres i Kristiania
+             1913, Beretning, Christiania 1915, pp. 149-163. "Ved at studere SCHRODERS bekjendte
+             verk over logikkens algebra kom jeg til at hefte mig ved nogen problemer av noksaa
+             generel natur, der hos ham ikke var fuldstsendig 10st, og som han derfor ogsaa opfordrer
+             forskere til at give sig ikast med. Endel av disse er det lykkedes mig at 10se, og jeg skal da
+              her vise Iffeningen av det elementaereste av dem, nemlig spjfrsmaalet om konstitutionen av
+              grupperne m. h. t. den identiske kalkuls 3 species. Desuten vil jeg tilf^ie endel betragt-
+              ninger over de flvrige grupper, der kan konstrueres indenfor denne kalkul."
+                    2. Untersuchungen iiber die Axiome des Klassenkalkuls und iiber Produktations- und
+             Summationsprobleme, welche gewisse Klassen von Aussagen betreffen. Skrifter utgit av
+              Videnskapsselskapet i Kristiania, I. Matematisk-naturvidenskabelig klasse 1919, no. 3
+              (1919), 37 pp.
+                    3. Logisch-kombinalorische Untersuchungen iiber die Erfiillbarkeit oder Beweisbarkeit
+              mathematischer Satze nebst einem Theoreme iiber dichle Mengen. Ibid. 1920, no. 4 (1920),
+              36 pp. "Im 76ten Bande der Mathematischen Annalen hat L. Lowenheim einen interessan-
+            • ten und sehr bemerkenswerten Satz iiber die sogenannten 'Zahlausdriicke' bewiesen.
+              Dieser Satz sagt, dass jeder Zahlausdruck entweder widerspruchsvoll ist oder schon inner-
+              halb eines abzahlbar unendlichen Denkbereichs erfiillbar ist. . . . Ich will im folgenden
+              einen einfacheren Beweis geben, bei welchen solche Subindizes vermieden werden, und
+              ausserdem einige Hiilfssatze, die auch an sich Interesse haben; endlich stelle ich auch
+              einige Verallgemeinerungen des Lowenheimschen Satzes auf."
+                    .4. Begriindung der elementaren Arithmetik durch die rekurrierende Denkweise ohne
+              Anwendung scheinbarer Verdnderlichen mil unendlichem Ausdehnungsbereich. Ibid. 1923,
+              no. 6(1923), 38 pp.
+         *           S. Einige Bemerkungen zur axiomaiischen Begriindung der Mengenlehre. Wissenschaft-
+              liche Vortrage gehalien auf dem Fiinflen Kongress der Skandinavischen Mathematiker
+              in Helsingfors votn 4. bis 7. Juli 1922, Helsingfors 1923, pp. 217-232. " Unter einer definiten
+              Aussage kann man jetzt einen endlichen Ausdruck verstehen, der von Elementaraussagen der
+              Form a e b oder a = b mil Hilfe der 5 genannten Operationen aufgebaut ist." "1st das prdzisierte
+              Zermelo'sche Axiomensystem widerspruchsfrei, so muss es moglich sein, eine unendliche
+              Reihe von Symbolen 1, 2, 3, • • • JO einzujiihren, dass diese einen Bereich B bilden, fur
+              welchen die Zermelo'schen Axiome alle giiltig sind, wenn nur diese Symbole in passender
+               Weise zu Paaren der Form a t b zusammengestellt werden."
+                     6. Lilt om de vigtigsle diskussioner i den senere tid angaaende matematikkens grundlag
+              (Something about the most important discussions in recent time relating to the foundation
+              of mathematics). Norsk matematisk tidsskrift, vol. 8 (1926), pp. 1-13.
+                     7. Uber die mathematische Logik. Ibid., vol. 10 (1928), pp. 125-142.
+         *           8. Uber einige Grundlagenfragen der Mathematik. Skrifter utgitt av Det Norske Viden-
+              skaps-Akademi i Oslo, I. Matematisk-naturvidenskapelig klasse 1929, no. 4 (1929), 49 pp.
+               "Die wichtigsten Ergebnisse in dieser Arbeit sind die folgenden: Erstens der allgemeine
+              mengentheoretische Relativismus, den ich schon fruher bewiesen habe. Alle Begriffe und
+              Satze einer Mengenlehre haben nur ihre Bedeutung relativ zu den Axiomen und konnen
+              durch Ubergang von einem Bereich zu einem anderen ganzlich geandert werden; besonders
+               bemerkenswert ist die Relativitat der Machtigkeitsbegriffe. Zweitens die damit verkniipfte
+               Vermutung, dass es nicht moglich sein kann, die mathematischen Begriffe vollstandig zu
+               charakterisieren. Drittens die Erkenntnis, dass eine sonst widerspruchslose Theorie auch
+               widerspruchslos bleibt, wenn tertium-non-datur-Axiome oder Vertreteraxiome hinzuge-
+               fiigt werden; ebenso ist die Einfiihrung von nicht entscheidungsdefiniten Mengen und die
+               Bildung von Durchschnitten und Vereinigungen, speziell oberen und unteren Grenzen von
+               Punktmengen, ohne Widerspruch moglich. Anderseits konnen aber alle solchen formalen
+
+
+
+                                                               »
+                Erweiterungen der Mathematik gar kein Mittel geben zur Entscheidung von Problemen,
+                welche ohne diese formulierbar sind."
+                      9. t)ber die Grundlagendiskussionen in der Mathematik. Den Syvende Skandinaviske
+                Matematikerkongress i Oslo 19-22 August 1929, Oslo 1930, pp. 3-21.
+                      10. Einige Bemerkungen zu der Abhandlung von E. Zermelo: "Uber die Definilheit in
+                der Axiomatik." Fund, math., vol. IS (1930), pp. 337-341.
+                      11. fiber einige Satzfunktionen in der Arithmetik. Skrifter utgitt av Det Norske
+                 Videnskaps-Akademi i Oslo, I. Mat.-naturv. kl. 1930, no. 7 (1931), 28 pp.
+                      12. Den malematiske logik og arilmetiken (Mathematical logic and arithmetic).
+                Beretninger fra Chr. Michelsens Institutt, I, 2. Bergen, Norway, 1931, 20 pp.
+                      13. Vber die symmetrisch allgemeinen Losungen im Klassenkalkul. Fund, math., vol. 18
+                (1932), pp. 61-76. "Die Aufgabe, welche im folgenden behandelt wird, ist die, Gleichungen
+                oder Subsumtionen im Klassenkalkul in bezug auf eine oder mehrere Unbekannten sym-
+                metrisch aufzulosen."
+                      14. Uber die symmetrisch allgemeinen Losungen im identischen Kalkul. Skrifter utgitt
+                av Det Norske Videnskaps-Akademi i Oslo, I. Mat.-naturv. kl. 1931, no. 6 (1932), 32 pp.
+                      15. Ein kombinatorischer Satz mil A nwendung auf ein logisches Entscheidungsproblem.
+                Fund, math., vol. 20 (1933), pp. 254-261.
+           *          16. Uber die Unmoglichkeit einer vollstdndigen Charakterisierung der Zahlenreihe
+                mittels eines endlichen Axiomensystems. Norsk matematisk forenings skrifter, series 2
+                no. 10 (1933), pp. 73-82.
+                      17. Den matematiske grunnlagforskning (Mathematical foundational research). Norsk
+                matematisk tidsskrifl, vol. 16 (1934), pp. 75-92.
+            *         18. Uber die Nicht-charakterisierbarkeit der Zahlenreihe miltels endlich oder abzdhlbar
+                unendlich vieler Aussagen mil ausschliesslich Zahlenvariablen. Fund, math., vol. 23 (1934),
+                pp. 150-161.
+                      19. Review of Finsler's Uber die Grundlegung der Mengenlehre I. Jahrb. Fortschr.
+                Math., vol. 52 (for 1926, pub. 1935), pp. 192-193.
+                      20. Ein Satz uber Zdhlausdrucke. Ada litlerarum ac scientiarum Regiae Universitatis
+                Hungaricae Francisco-Josephinae, Sectio scientiarum mathematicarum, vol. 7 (1934-5),
+                pp. 193-199. "Zujedem Zahlausdruck Z kann ein anderer Z' gefunden werden, der in bezug
+                auf Erfiillbarkeit mit Z gleichwerlig ist und als eine dreigliedrige Konjunktion Z\ & Zi & Z5
+                geschrieben werden kann, wobeiZi, 2 3 undZ, bezw. die Form ({i)(-Efs, • • • , {jO-K^fo, • • • , £»),
+                (ii, I0(£{JI • • • . f*)#2(ii, • • • , £*). (6, fc. &)£>(&« h, Zi) haben, und ausschliesslich ein-
+                und zweistellige Pradikate in den Kernen K\, Klt Ki vorkommen. Ubrigens kann der Aus-
+                druck Zi auch geschrieben werden als eine Konjunktion mit k Gliedern, deren Prafixe alle die
+                Form (ft, h)(Ev) besitzen."
+                     21. Uber die Erfiillbarkeit gewisser Zahlausdriicke. Skrifter utgitt av Det Norske
+                Videnskaps-Akademi i Oslo, I. Mat.-naturv. kl. 1935, no. 6 (1935), 14 pp.

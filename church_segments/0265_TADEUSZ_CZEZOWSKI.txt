@@ -1,0 +1,20 @@
+=== AUTHOR BLOCK 265 ===
+Name  : TADEUSZ CZEZOWSKI.
+Flags : none
+Lines : 3669–3682
+========================================
+
+265. TADEUSZ CZEZOWSKI.
+                      / . Teorya Mas (Theory of classes). Archiwum naukowe, Wydawnictwo Towarzystwa
+                 dla Popierania Nauki Polskiej, series 1, vol. 9, no. 2. Lw6w 1918, 43 pp.
+                      2. O zdaniach bez treici (On meaningless propositions). Przegl.fil., vol. 21 (1918).
+                      3. Zmienne ifunkcje (Variables and functions). Ibid., vol. 22 (1919).
+                      4. 0 formalnem pojqciu warloici (On the formal concept of value). Ibid.
+                      5. O niektdrych slosunkach logicznych (On some logical relations). Ibid., vol. 23
+                 (1920), pp. 87-97.
+                      6. Klasyczna nauka o sadzie i wniosku w swietle logiki wspolczesnej (The classical
+                doctrine of judgment and inference in the light of modern logic). Wilno 1927, 60 pp.
+                      7. 0 peivnem uogdlnieniu logiki klasycznej (On a certain generalization of classical
+                 logic). Ksiegapamiqtkowa Polskiego Towarzystwa Filozoficznego we Lwowie, Lw6w 1931.
+                      8. O zaleznoSci mifdzy treSciami i zakresami pojti (On the interdependence between
+                 intension and extension of concepts). Przegl.fil., vol. 35 (1932).

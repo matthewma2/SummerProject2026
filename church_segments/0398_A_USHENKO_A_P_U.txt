@@ -1,0 +1,21 @@
+=== AUTHOR BLOCK 398 ===
+Name  : A. USHENKO (A. P. U
+Flags : none
+Lines : 5004–5018
+========================================
+
+398. A. USHENKO (A. P. Uchenko).
+                      1. A rislotelian logic and the logic of classes. A reply to Professor Northrop. The monist,
+                vol. 39 (1929), pp. 153-156.
+                      2. Ambiguity in functions and propositions. Ibid., vol. 41 (1931), pp. 633-635.
+                      3. On the meaning of a proposition. Jour, philos., vol. 28 (1931), pp. 715-716.
+                      4. Note on the inconsistency in Aristotelean logic. The monist, vol. 42 (1932), pp.
+                319-320.
+                      5. Note on ambiguity. Ibid., pp. 630-631.
+                      6. The problem of general propositions. Ibid., vol. 43 (1933), pp. 285-289.
+                      7. Note on alternative systems of logic. Ibid., pp. 290-291.
+                      8. An addendum to the note. Ibid., p. 294.
+                      9. A modification of the theory of types. Ibid., vol. 44 (1934), pp. 147-149.
+                      10. Note on reflexive relations. Ibid., pp. 306-307.
+                      11. Review of Lewis and Langford's Symbolic logic. Ibid., p. 309.
+                      12. The definite description. The philosophical review, vol. 43 (1934), pp. 513-518.

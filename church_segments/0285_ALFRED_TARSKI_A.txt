@@ -1,0 +1,80 @@
+=== AUTHOR BLOCK 285 ===
+Name  : ALFRED TARSKI (A
+Flags : none
+Lines : 3838–3911
+========================================
+
+285. ALFRED TARSKI (Alfred Tajtelbaum).
+                      / . Przyczynek do aksjomatyki zbioru dobrze uporzqdkowanego (Contribution to the
+                axiomatic of well-ordered sets). Przegl.fil., vol. 24 (1921), pp. 85-94.
+
+
+
+
+
+                    2. 0 wyrazie pierwotnym logistyki (On the primitive term of logistic). Ibid., vol. 26
+               (1923), pp. 65-89.
+                    3. Sur le terme primitif de la logistique. Fund, math., vol. 4 (1923), pp. 196-200.
+               "Est-il possible de construire un systime de la Logistique, en admeltant le signe d'lquivalence
+               comme le seul terme primitif (bien entendu, outre les quantificateurs)?"
+                    4. Sur les truth-functions au sens de MM. Russell et Whitehead. Ibid., vol. 5 (1924),
+               pp. 59-74.
+                    5. Sur les ensembles finis. Ibid., vol. 6 (1924), pp. 45-95.
+                    6. Remarques sur les notions fondamentales de la mlthodologie des mathlmatiques.
+               Rocznik Polskiego Towarzyslwa Malematycznego (Annales de la Sociiti Polonaise de
+               Malhematique), vol. 7 (1929), pp. 270-272.
+                    7. Uber einige fundamentalen Begriffe der Metamathematik. C. r. Soc. Sci. Lett.
+               Varsovie, Classe III, vol. 23 (1930), pp. 22-29.
+                    8. Fundamentale Begriffe der Methodologie der deduktiven Wissenschaften. I. Monatsh.
+               Math. Phys., vol. 37 (1930), pp. 361-404. "Den Sinn einer Reihe von wichtigen melamalhc-
+               matischen Begriffen, die den speziellen Metadisziplinen gemeinsam sind, zu prazisieren
+               und die Grundeigenschaften dieser Begriffe festzustellen."
+                    9. O pojeciu prawdy w odniesieniu do sformalizowanych nauk dedukcyjnych (On the
+               concept of truth in reference to formalized deductive sciences). Ruch filozoficzny, vol. 12
+               (1930-1), pp. 210-211.
+                    10. Sur les ensembles difinissables de nombres riels I. Fund, math., vol. 17 (1931),
+               pp. 210-239. See also Ann. Soc. Pol. Math., vol. 9 (1931), pp. 206-207.
+                    11. Untersuchungen uber den Aussagenkalkiil. Ergebnisse eines mathematischen
+               Kolloquiums (Vienna), Heft 2 (for 1929-30, pub. 1932), pp. 13-14. See also Monatsh.
+               Math. Phys., vol. 38 (1931), pp. 24-25.
+                    12. Der Wahrheitsbegriff in den Sprachen der deduktiven Disziplinen. Akademie der
+                Wissenschaften in Wien, Mathematisch-naturwissenschaftliche Klasse, Anzeiger, vol. 69
+               (1932), pp. 23-25.
+                    13. Einige Betrachtungen iiber die Begriffe der u-Widerspruchsfreiheit und der u-Voll-
+               standigkeit. Monalsh. Math. Phys., vol. 40 (1933), pp. 97-112.
+                    14. Pojecie prawdy w jezykach nauk dedukcyjnych (The concept of truth in the
+               languages of the deductive sciences). Prace Towarzystwa Naukowego Warszawskiego,
+               Wydzial III nauk matematyczno-fizycznych (Travaux de la SociStfi des Sciences et des
+               Lettres de Varsovie, Classe III Sciences mathlmatiques et physiques), no. 34. Warsaw
+               1933, vii + 116 pp.
+                    15. Z badaA metodologicznych nod definjowalnosciq termindw (Some methodological in-
+               vestigations upon the definability of terms). Przegl.fil., vol. 37 (1934), pp. 438-160.
+                    16. Der Wahrheitsbegriff in den formalisierten Sprachen. German translation of 14 by
+               L. Blaustein, with added Nachwort. Studia philosophica, vol. 1 (1936), pp. 261-405.
+               (Offprints dated 1935.) "Fur jede formalisierte Sprache lasst sich in der Metasprache eine
+               formal korrekte und sachlich zutreffende Definition der wahren Aussage mit alleiniger
+               Hilfe von Ausdriicken allgemein-logischen Charakters, von Ausdriicken der Sprache selbst
+               und von Termini aus der Morphologie der Sprache konstruieren—jedoch unter der
+               Bedingung, dass die Metasprache eine hohere Ordnung besitzt als diejenige Sprache, die
+               Gegenstand der Untersuchung ist."
+                    17. Zur Grundlegung der Booleschen Algebra. I. Fund, math., vol. 24 (1935), pp. 177-
+               198.
+                    18. GrundzUge des Systemenkalkuls. Erster Teil. Ibid., vol. 25 (1935), pp. 503-526.
+               "Die Ergebnisse, die in der vorliegenden Mitteilung dargestellt werden, gehoren zur
+               allgemeinen Metamathematik, also zu einer Disziplin, deren Aufgabe es ist, den Sinn von
+               allgemeinen metamathematischen Begriffen, die sich uns bei der Untersuchung der
+               verschiedensten konkreten deduktiven Theorien aufdrangen, zu prazisieren und die
+               Grundeigenschaften dieser Begriffe festzustellen."
+                    19. Einige methodologische Untersuchungen iiber die Definierbarkeit der Begriffe.
+               Erkenntnis, vol. 5 (1935-6), pp. 80-100. "In diesem Aufsatz mochte ich zwei Probleme aus
+               diesem Gebiet besprechen, und zwar das Problem der Definierbarkeit und der gegenseitigen
+
+
+
+
+
+               Unabhangigkeit von Begriffen sowie das Problem der VoUstandigkeit von Begriffen einer
+               beliebigen deduktiven Theorie."
+                     20. Wahrscheinlichkeitslehre und mehrwertige Logik. Ibid., pp. 174-175.
+                     See also Alfred Tarski and Adolf Lindenbaum 343, Jan Lukasiewicz and Alfred Tarski
+               407, and Kazimierz Kuratowski and Alfred Tarski 432.

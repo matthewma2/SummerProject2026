@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 545 ===
+Name  : S. C. KLEENE
+Flags : none
+Lines : 5721–5727
+========================================
+
+545. S. C. KLEENE and J. B. ROSSER. 1. The inconsistency of certain formal logics. Annals
+               of mathematics, 2 s. vol. 36 (1935), pp. 630-636. "The logic must permit great freedom in
+               the expression of its formulas as values of functions. Logics have been proposed which
+                have this freedom, e.g. a combinatory logic of Curry and a system of Church. Both of
+               these systems are inconsistent. Indeed, given the functional notation, together with the
+               postulates governing it, of either, a few additional properties suffice for the proof of in-
+               consistency."

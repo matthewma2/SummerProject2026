@@ -1,0 +1,20 @@
+=== AUTHOR BLOCK 141 ===
+Name  : A. T. SHEARMAN.
+Flags : none
+Lines : 2369–2382
+========================================
+
+141. A. T. SHEARMAN.
+                    1. Some controverted points in symbolic logic. Proceedings of the Aristotelian Society,
+              n.s. vol. 5 (1905), pp. 74-105.
+                    2. Note on logical existence. Mind, n.s. vol. 14 (1905), p. 440.
+                    3. The development of symbolic logic. A critical-historical study of the logical cal-
+              culus. London 1906, xi+242 pp.
+                    4. Mr. MacColl's views on logical existence. Mind, n.s. vol. 15 (1906), pp. 143-144.
+                    5. Review of Russell's The.principles of mathematics. Mind, n.s. vol. 16 (1907),
+                                                                               :
+              pp. 254-265.
+                    6. Certainties, impossibilities and variables. Ibid., pp. 315-316.
+                    7. Definition in symbolic logic. Mind, n.s. vol. 19 (1910), pp. 387-389.
+                   8. The scope of formal logic. The new logical doctrines expounded, with some
+              criticisms. London 1911, xiv+165 pp.

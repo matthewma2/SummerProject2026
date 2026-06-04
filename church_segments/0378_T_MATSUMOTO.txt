@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 378 ===
+Name  : T. MATSUMOTO.
+Flags : none
+Lines : 4825–4829
+========================================
+
+378. T. MATSUMOTO. 1. On paradoxes and definitions. Memoirs of the College of Science,
+                Kyoto Imperial University, Series A, vol. 11 (1928), pp. 367-373.
+           379. I. E. ORLOV (J. Orloff). / . IscisUnii sovmistnosti prtdlollnij (Sur la thlorie de la com-
+               patabiliti des propositions). Russian with French abstract. Matematileskij sbornih, vol. 35
+                (1928), pp. 263-286.

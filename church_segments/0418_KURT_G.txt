@@ -1,0 +1,57 @@
+=== AUTHOR BLOCK 418 ===
+Name  : KURT G
+Flags : none
+Lines : 5112–5162
+========================================
+
+418. KURT G0DEL.
+                       1. Einige metamathematische Resultate iiber Entscheidungsdefinilheit und Wider-
+                spruchsfreiheit, Akademie der Wissenschaften in Wien, Mathematisch-naturwissen-
+                schaftliche Klasse, Anzeiger, vol. 67 (1930), pp. 214-215.
+           *           2. Die Vollstandigkeit der Axiome des logischen Funktionenkalkiils. Monalsh. Math.
+                Phys., vol. 37 (1930), pp. 349-360.
+         C ** •        3. Uber formal unentscheidbare Satze der Principia Mathematica und verwandter Systeme
+                 I. Ibid., vol. 38 (1931), pp. 173-198. "Die umfassendsten derzeit aufgestellten formalen
+                Systeme sind das System der Principia Mathematica einerseits, das Zermelo-Fraenkelsche
+                (von J. v. Neumann weiter ausgebildete) Axiomensystem der Mengenlehre andererseits.
+                 . . . Im folgenden wird gezeigt . . . dass es in den beiden angefiihrten Systemen sogar
+                relativ einfache Probleme aus der Theorie der gewohnlichen ganzen Zahlen gibt, die sich
+                 aus den Axiomen nicht entscheiden lassen. Dieser Umstand liegt nicht etwa an der
+                speziellen Natur der aufgestellten Systeme, sondern gilt f iir eine sehr weite Klasse formaler
+                Systeme, zu denen insbesondere alle gehoren, die aus den beiden angefUhrten durch
+                 Hinzufiigung endlich vieler Axiome entstehen, vorausgesetzt, dass durch die hinzugefiigten
+                 Axiome keine falschen Satze von der in Fussnote 4 ) angegebenen Art beweisbar werden."
+                       4. Diskussion zur Grundlegung der Mathematik. Erkenntnis, vol. 2 (1931-2), pp.
+                 147-148.
+                       5. Nachtrag. Ibid., pp. 149-151.
+                       6. Zum intuitionistischen Aussagenkalkiil. Akad. Wiss. Wien, Malh.-nat. KL, An-
+                 zeiger, vol. 69 (1932), pp. 65-66. Reprinted in Ergebnisse eines mathemalischen Kol-
+                 loquiums, Heft 4 (for 1931-2, pub. 1933), p. 40. "Es gibt keine Realisierung mit endlich
+                 vielen Elementen (Wahrheitswerten), fiir welche die und nur die in H beweisbaren Formeln
+                 erfullt sind."
+                       7. Ein Spezialfall des Enlscheidungsproblems der theoretischen Logik. Ergebnisse eines
+                 mathematischen Kolloquiums, Heft 2 (for 1929-30, pub. 1932), pp. 27-28.
+                       8. Vber VollstUndigkeit und Widerspruchsfreiheit. Ibid., Heft 3 (for 1930-1, pub. 1932),
+                 pp. 12-13. "In jedem solchen System 5 ist insbes. die Aussage, dass 5 widerspruchsfrei ist
+                 (genauer die mit ihr aquivalente arithmetische Aussage, welche man erhalt, indem man
+                 die Formeln ein-eindeutig auf natiirliche Zahlen abbildet), unbeweisbar." See 3 above.
+                       9. Eine Eigenschaft der Realisierungen des Aussagenskalkuls. Ibid., pp. 20-21.
+                       10. Uber Unabhangigkeitsbeweise im Aussagenkalkiil. Ibid., Heft 4 (for 1931-2, pub.
+                 1933), pp. 9-10. "Lasst sich jeder Unabhangigkeitsbeweis innerhalb des Aussagenkalkttls
+                mit Hilfe von endlichen Modellen [Matrizen] fiihren? Diese von Hahn aufgeworfene Frage
+                 ist zu verneinen."
+           *           11. Zur intuitionistischen Arithmetik und Zahlentheorie. Ibid., pp. 34-38. "Dass die
+                intuitionistische Arithmetik und Zahlentheorie nur scheinbar enger ist als die klassische, in
+                 Wahrheit aber die ganze klassische, bloss mit einer etwas abweichenden Interpretation,
+                enthiilt."
+                       12. Eine Interpretation des intuitionistischen Aussagenkalkuls. Ibid., pp. 39-40.
+                "Man kann den Heytingschen Aussagenkalklil mittels der Begriffe des gewohnlichen
+                Aussagenkalkuls und des Begriffes "p ist beweisbar" (bezeichnet mit Bp) interpretieren,
+                wenn man fiir den letzteren das folgende Axiomensystem <S annimmt. . . . Das System ©
+                ist mit dem Lewisschen System of Strict Implication aquivalent, wenn Bp durch Np
+                ttbersetzt wird, und wenn man das Lewissche System durch das folgende Beckersche
+                Zusatzaxiom Np -3 NNp erganzt."
+                       13. Zum Entscheidungsproblem des logischen Funktionenkalkiils. Monatsh. Math.
+                Phys., vol. 40 (1933), pp. 433-443.
+           t           14. On undecidable propositions of formal mathematical systems. Mimeographed.
+                Princeton, N. J., 1934, 30 pp.

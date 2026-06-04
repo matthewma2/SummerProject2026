@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 539 ===
+Name  : HEINRICH SCHOLZ
+Flags : none
+Lines : 5706–5709
+========================================
+
+539. HEINRICH SCHOLZ and HERMANN SCHWEITZER. 1. Die sogenannten Defini-
+                tionen durch Abstraktion. Eine Theorie der Definitionen durch Bildung von Gleichheits-
+                verwandtschaften. Forschungen zur Logistik und zur Grundlegung der exakten Wissen-
+                schaften, Heft 3. Leipzig 1935, v+106 pp.

@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 55 ===
+Name  : WILHELM WUNDT.
+Flags : none
+Lines : 928–930
+========================================
+
+55. WILHELM WUNDT. 1. Logik. Eine Untersuchung der Principien der Erkenntniss und
+               der Methoden wissenschaftlicher Forschung. Vol. 1 Erkennlnisslehre, Stuttgart 1880.
+               2nd. edri., vol. 1, Stuttgart 1893. 3rd. edn., vol. 1, Stuttgart 1906.

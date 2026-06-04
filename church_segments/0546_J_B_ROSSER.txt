@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 546 ===
+Name  : J. B. ROSSER.
+Flags : none
+Lines : 5728–5731
+========================================
+
+546. J. B. ROSSER.
+           *        1. A mathematical logic without variables. Annals of mathematics, 2 s. vol. 36 (1935),
+               pp. 127-150, and Duke mathematical journal, vol. 1 (1935), pp. 328-355.
+                     See also S. C. Kleene and J. B. Rosser 545.

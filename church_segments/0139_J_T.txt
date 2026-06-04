@@ -1,0 +1,24 @@
+=== AUTHOR BLOCK 139 ===
+Name  : J. T.
+Flags : none
+Lines : 2351–2368
+========================================
+
+139. J. T.
+                    1. Review of Couturat's L'algebre de la logique. Bull. sci. math., 2 s. vol. 29 (1905),
+              premiere partie, pp. 194-196.
+                    2. Review of del Re's Lezionidialgebra dellalogica. Ibid., 2 s. vol. 31 (1907), premiere
+              partie, pp. 145-146.
+         140. J^SIAH ROYCE.
+                    1. The relation of the principles of logic to the foundations of geometry. Trans. Amer.
+              Math. Soc, vol. 6 (1905), pp. 353-415^ "Hence, without introducing new elements, the
+              elements of 2, if viewed in certain ways, enable us to define, not only the algebra of logic,
+              but the algebra of quantity."
+                    2. Die Prinzipien der Logik. Encyclop'ddie der philosophischen Wissenschaften, ed.
+              by Wilhelm Windelband and Arnold Ruge, vol. 1 Logik (Tubingen 1912), pp. 61-136.
+                    3. The principles of Logic. English translation of the preceding by B. Ethel Meyer.
+              Encyclopaedia of the philosophical sciences, English edn. ed. by Sir Henry Jones, vol. 1
+              Logic (London 1913), pp. 67-135.
+                    4. An extension of the algebra of logic. Jour, philos. etc., vol. 10 (1913), pp. 617-633.
+              See errata, ibid., p. 672.
+                    See also Henri Poincar£ 13722.

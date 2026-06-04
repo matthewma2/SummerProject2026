@@ -1,0 +1,45 @@
+=== AUTHOR BLOCK 202 ===
+Name  : STANISLAW LESNIEWSKI.
+Flags : none
+Lines : 2948–2986
+========================================
+
+202. STANISLAW LESNIEWSKI.
+                     1. Przyczynek do analizy zdaA egzystencjalnych (Contribution to the analysis of
+               existential propositions). Przegl.fil., vol. 14 (1911).
+                    2. Priba dowodu ontologicznej zasady sprzecznoSci (Attempt at a proof of the ontologi-
+               cal law of contradiction). Ibid., vol. IS (1912).
+                    3. Opyt obosnovanid ontologiilskago zakona proiivorihid. Russian translation of the
+               preceding, in S. I. Lesn6vskij, LogicSskid razsuzdSnid, St. Petersburg 1913.
+                    4. K analizu ekzistincialnyh prldloilnij. Russian translation of 1, ibid.
+                    5. Krytyka logicznej zasady wylqczonego irodka (Critique of the logical principle of
+               excluded middle). Przegl.fil, vol. 16 (1913).
+                    6. Czy klasa klas, nie podporzqdkowanych sobie, jest podporzqdkowana sobie? (Is the
+               class of classes not contained in themselves contained in itself?) Ibid., vol. 17 (1914),
+               pp. 63-75.
+                     7. Podstawy ogdlnej teoryi mnogo&ci. I. (Foundations of general set theory. I.) Prace
+               Polskiego Kola Naukowego w Moskwie, Sekcja matematyczno-przyrodnicza. Moscow
+               1916.
+                     8. 0 podstawach matematyki (On the foundations of mathematics). Przegl.fil., vol. 30
+               (1927), pp. 164-206 (Wstep. Rozdzial I: O pewnych kwestjach, dotyczqcych sensu tez "logi-
+               stycznych." Rozdzial II: O "antynomji" p. Russella, dotyczqcej "klasy klas, nie bedqcych
+               wlasnemi elemenlami." Rozdzial III: O rdinych sposobach rozumienia wyraziw "klasa" i
+               "zbidr."); vol. 31 (1928), pp. 261-291 (Rozdzial IV: O "Podstawach ogdlnej teoryi mnogoSci.
+               I."); vol. 32 (1929), pp. 60-101 (Rozdzial V: Dalsze twierdzenia i definicje "ogdlnej teorji
+               mnogoSci," pochodzqce z okresu do r. 1920 wlqcznie.); vol. 33 (1930), pp. 77-105 (Rozdzial
+                VI: Aksjomalyka "ogdlnej teorji mnogoSci," pochodzqca z r. 1918. Rozdzial VII: Aksjo-
+               matyka "ogdlnej teorji mnogoSci," pochodzqca z r. 1920. Rozdzial VIII: O pewnych ustalonych
+               przez pp. Kuratowskiego i Tarskiego warunkach, wystarczajqcych i koniecznych do tego,
+               by P bylo klasq p-tdw a. Rozdzial IX: Dalsze twierdzenia "ogdlnej teorji mnogoSci," pochodzqce
+              z lat 1921-1923.); vol. 34 (1931), pp. 142-170 (Rozdzial X: Aksjomatyka "ogdlnej teorji
+               mnogoSci,",pochodzqca z r. 1921. Rozdzial XI: O zdaniach "jednostkowych" typu "A t b".).
+                    9. Ober Funktionen, deren Felder Gruppen mit Rucksicht auf diese Funktionen sind.
+              Fund, math., vol. 13 (1929), pp. 319-332.
+                    10. t)ber Funktionen, deren Felder Abelsche Gruppen in bezug auf diese Funktionen
+              sind. Ibid., vol. 14 (1929), pp. 242-251.
+                    11. Grundzilge eines neuen Systems der Grundlagen der Mathematik. Ibid., vol. 14
+              (1929), pp. 1-81. Contains a German translation of the introduction to 8.
+                    12. Vber die Grundlagen der Ontologie. C. r. Soc. Sci. Lett. Varsovie, Classe III, vol. 23
+              (1930), pp. 111-132.
+                    13. Uber Definitionen in der sogenannten Theorie der Deduktion. Ibid., vol. 24 (1931),
+              pp. 289-309.

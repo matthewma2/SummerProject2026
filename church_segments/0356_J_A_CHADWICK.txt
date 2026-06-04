@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 356 ===
+Name  : J. A. CHADWICK. .
+Flags : A
+Lines : 4657–4662
+========================================
+
+A 356. J. A. CHADWICK. .
+                     1. Logical constants. Mind, n. s. vol. 36 (1927), pp. 1-11.
+                     2. On propositions belonging to logic. Ibid., pp. 347-353.
+                     3. A note on families included in the field of a relation. Mind, n. s. vol. 37 (1928), pp.
+                260-261.
+                     4. Singular propositions. Ibid., pp. 471-484.

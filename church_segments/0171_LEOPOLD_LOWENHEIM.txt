@@ -1,0 +1,30 @@
+=== AUTHOR BLOCK 171 ===
+Name  : LEOPOLD LOWENHEIM.
+Flags : none
+Lines : 2615–2642
+========================================
+
+171. LEOPOLD LOWENHEIM.
+                    / . Ober das Aitflb'sungsproblem im logischen Klassenkalkul. Sitzungsberichte der
+              Berliner Malhematischen Gesellschaft, vol. 7 (1908), pp. 89-94.
+                    2. Review of Schroder's Abriss der Algebra der Logik, part 1. Archiv der Mathe-
+              matik und Physik, 3 s. vol. 15 (1909), pp. 194-195.
+                    3. Uber die Aufiiisung von Gleichungen im logischen Gebietekalkul. Math. Annalen,
+              vol. 68 (1910), pp. 169-207.
+                    4. Review of Schroder's Abriss der Algebra der Logik, part 2. Archiv Math. Phys.,
+              3 s. vol. 17 (1911), pp. 71-73.
+                    5. Review of Padoa's La logique deductive dans sa derniere phase de developpe-
+              ment. Ibid., 3 s. vol. 21 (1913), pp. 360-361.
+                    6. Polenzen im Relativkalkul und Polenzen allgemeiner endlicher Transformationen.
+              Sitzungsb. Berliner Math. Ges., vol. 12 (1913), pp. 65-71.
+                    7. Uber Transformationen im Gebietekalkul. Math. Annalen, vol. 73 (1913), pp. 245-
+              272.
+                    8. Uber eine Erweiterung des Gebietekalkuls, welche auch die gewbhnliche Algebra
+              umfasst. Archiv fur systematische Philosophie, vol. 21 (1915), pp. 137-148.
+          *         9. Uber Moglichkeilenim Relativkalkul. Math. Annalen, vol. 76 (1915), pp. 447-470.
+              "Jede Fluchtzahlgleichung ist bereits in einem abzahlbaren Denkbereich nicht mehr fur
+              beliebige Werte der Relativkoeffizienten erfiillt." "Die Auswertung eines U oder 2 uber alle
+              Relative ist stets moglich fur einen Ausdruck, der nur uninare Relativkoeffizienten oder
+              hb'chstens noch die Koeffizicnten von 1' oder 0' enthdlt und endlich viele 2 oder II uber siimtliche
+              Indizes." "Jede Relativgleichung bzw. Zdhlgleichung ist einer binaren aquivalent."
+                    10. Gebietsdeterminanten. Math. Ahnalen, vol. 79 (1919), pp. 223-236.

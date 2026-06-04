@@ -1,0 +1,29 @@
+=== AUTHOR BLOCK 314 ===
+Name  : A. N. KOLMOGOROV (A. K
+Flags : none
+Lines : 4206–4228
+========================================
+
+314. A. N. KOLMOGOROV (A. Kolmogoroff).
+                   / . O principe tertium non datur (Sur le principe de tertium non datur). Russian with
+              brief French abstract. MalSmaticeskij sbornik (Recueil mathematique de la SociStS
+              Malhtmalique de Moscou), vol. 32 (1924-5), pp. 646-667. "D'apres les travaux de M.
+              Brouwer nous savons, que l'usage du principe tertium non datur dans le domaine des
+              propositions transfinies (dans les sens de M. Hilbert) est en gfneYal ille'gitime. Nous
+              d£montrons dans ce me'moire, que toutes les conclusions finies, qu'on peut dSduire a l'aide
+              de l'usage transfini du principe tertium non datur, sont justes et que Ton peut les de'duire
+              sans cet usage ille'gitime du principe en discussion." Ce programme n'est realis6 par l'auteur
+              que partiellement et k peu pres dans le m t a e sens que chez Kurt Godel 4181/.
+                   2. Zur Deutung der intuitionistischen Logik. Math. Z., vol. 35 (1932), pp. 58-65.
+              "Neben der theoretischen Logik, welche die Beweisschemata der theoretischen Wahrheiten
+              systematisiert, kann man die Schemata der Losungen von Aufgaben, z.B. von geome-
+              trischen Konstruktionsaufgaben, systematisieren. Dem Prinzip des Syllogismus ent-
+              sprechend tritt hier z.B. das folgende Prinzip auf: Wenn wir die Losung von b auf die
+              Losung von a und die Losung von c auf die Losung von b zuriickfuhren k'dnnen, so kb'nnen
+              wir auch die Losung von c auf die Losung von a zuriickfuhren. Man kann eine entsprechende
+              Symbolik einfuhren und die formalen Rechenregeln fUr den symbolischen Aufbau des
+              Systems von solchen Aufgabenlosungsschemata geben. So erhalt man neben der theore-
+              tischen Logik eine neue Aufgabenrechnung. Dabei braucht man keine speziellen erkenntnis-
+              theoretischen, z.B. intuitionistischen Voraussetzungen. Es gilt dann die folgende merk-
+              wiirdige Tatsache: Nach der Form fdill die Aufgabenrechnung mil der Brouwerschen, von
+              Herrn Heyting neuerdings formalisierten, intuilionistischen Logik zusammen."

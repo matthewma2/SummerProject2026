@@ -1,0 +1,7 @@
+=== AUTHOR BLOCK 13 ===
+Name  : M. BUSCH.
+Flags : none
+Lines : 330–330
+========================================
+
+13. M. BUSCH. / . Anfangsgrunde der logikalischen Algebra. Tubingen 1768.

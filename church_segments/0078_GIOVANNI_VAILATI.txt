@@ -1,0 +1,45 @@
+=== AUTHOR BLOCK 78 ===
+Name  : GIOVANNI VAILATI.
+Flags : none
+Lines : 1298–1336
+========================================
+
+78. GIOVANNI VAILATI.
+                    1. Un teorema di logica matematica. Riv. di mat., vol. 1 (1891), p. 103. Reprinted in
+               ScrittidiG. Vailati(1863-1909), Leipzigand Firenze 1911, p. 1. "Sesi ha contemporanea-
+               mente ab O cd e b+c D a+d si ha b 3 d."
+                    2. Le proprietd fondamentali delle operazioni delta logica deduttiva studiate dal punto
+               di vista d'una teoria generate delle operazioni. Ibid., pp. 127-13$> Reprinted in Scritti, pp.
+               2-8. "Qual e il minimo numero di postulati che e necessario ammettere se si vuol dimostrare
+               che per un sistemadi operazioni hanno luogo tutte le regole di calcolo espresse dalle note
+               formole fondamentali della Logica matematica."
+                    3. Sui principt fondamentali della geometria della retta. Ibid., vol. 2 (1892), pp. 71-75.
+               Reprinted in Scritti, pp. 9-13.
+
+
+
+
+                     4. Dipendenza fra le proprieti delle relazioni. Ibid., pp. 161-164. Reprinted in Scritti,
+               pp. 14-17.
+                     5. Review of Nagy's Principl di logica. Ibid., vol. 3 (1893), p. 62. Reprinted in Scrilti,
+               pp. 18-19.
+                     6i Review of Burali-Forti's Logica matematica. Ibid., vol.4 (1894), pp. 143-146. Re-
+               printed in Scritti, pp. 22-25.
+                     7. Review of Hontheim's Der logische Algorithmus. Ibid., vol. 6 (1896-9), pp. 42-47.
+               Reprinted in Scritti, pp. 149-153.
+                     8. La logique mathtmatique el sa nouvelle phase de diveloppement dans les tcrils de
+               M. J. Peano. Revue de melaphysique el de morale, vol. 7 (1899), pp. 86-102. Reprinted
+               in Scrilti, pp. 229-242.
+                     9. Review of Couturat's La logique de Leibniz. Rev. de math. {Riv. di mat.), vol. 7
+          (1900-1), pp. 148-159.
+                     10. Review of the same. Bollettino di bibliografia e sloria delle scienze matematiche
+               (Turin) 1901. Reprinted in Scrilti, pp. 382-388.
+                     11. Sul caraltere del contribute) apportato dal Leibniz allo sviluppo della logica formate.
+               Rivistadifilosofia escienzeaffini, vol. 12 (1905), pp. 338-344. Reprinted in Scritti, pp. 619-
+               624.
+                     12. Review of Poincar6's Les mathtmatiques el la logique. Leonardo, vol. 4 (1906). Re-
+              printed in Scrilti, pp. 710-711.
+                    13. Pragmatismo e logica matematica. Ibid. Reprinted in Scritti, pp. 689-694.
+                    14. Pragmatism and mathematical logic. English translation of the preceding by H. D.
+              Austin. Themonisl, vol. 16 (1906), pp. 481^191.
+                    See also Giuseppe Peano 7117.

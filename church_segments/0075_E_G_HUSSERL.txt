@@ -1,0 +1,18 @@
+=== AUTHOR BLOCK 75 ===
+Name  : E. G. HUSSERL.
+Flags : none
+Lines : 1273–1284
+========================================
+
+75. E. G. HUSSERL.
+                     1. Review of Schroder's Vorlesungen iiber die Algebra der Logik, vol. 1. Gb'tlingische
+               gelehrte Anzeigen, 1891, pp. 243-278.
+                     2. Der Folgerungscalcul und die Inhaltslogik. Viertelj. wiss. Phil., vol. 15 (1891), pp.
+               pp. 168-189. "Ich werde zeigen, dass nicht auf eine, sondern sogar auf mehrfache Weise
+               ein Calcul reiner Folgerungen auf Grund streng inhaltslogischer Betrachtungen construirt
+               werden kann."
+                    3. Der Folgerungscalcul und die Inhaltslogik. Nachtra'ge zur gleichnamigen Abhandlung
+               S. 168ff.dieses Bandes. Ibid., pp. 351-356.
+                     4. A. Voigt's "elementare Logik" und meine Darlegungen zur Logik des logischen
+               Calculs. Ibid., vol. 17 (1893), pp. 111-120.
+                  • 5. Antwort auf die vorstehende " Erwiderung" des Herrn Voigt. Ibid., pp. 508-511.

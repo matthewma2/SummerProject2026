@@ -1,0 +1,16 @@
+=== AUTHOR BLOCK 120 ===
+Name  : G. H. HARDY.
+Flags : none
+Lines : 1953–1962
+========================================
+
+120. G. H. HARDY.
+                   / . A theorem concerning the infinite cardinal numbers. The quarterly journal of pure
+             and applied mathematics, vol. 35 (1903^1), pp. 87-94.
+                   2. The continuum and the second number class. Proc. London Math. Soc, vol. 4 (1906),
+              pp. 10-17. "I shall only refer to them now in order to make clear the point that Dr. Hob-
+              son has made against a great deal of generally accepted mathematical reasoning, of which
+              my construction is an average specimen. The point is this, that a great deal of such
+              reasoning really depends on the acceptance of a certain logical postulate of which no proof
+              has yet been given, namely, the postulate of the existence of the multiplicative class."
+                   3. Mathematical proof. Mind, n.s. vol. 38 (1929), pp. 1-25.

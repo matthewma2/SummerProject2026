@@ -1,0 +1,31 @@
+=== AUTHOR BLOCK 501 ===
+Name  : A. E. DUNCAN-JONES.
+Flags : none
+Lines : 5578–5602
+========================================
+
+501. A. E. DUNCAN-JONES.
+                    1. Definition of identity of structure. Analysis, vol. 2 (1934-5), pp. 14-18.
+                    2. Is strict implication the same as entailmenti Ibid., pp. 70-78.
+
+
+
+
+               502. L. O. KATTSOFF.
+                         /. De Witt H. Parker on reflexive relations. The philosophical review, vol. 43 (1934),
+                    pp. 68-70.
+                         2. Concerning the validity of Aristotelian logic. Philosophy of science, vol. 1 (1934),
+                    pp. 149-162.
+                         3. Postulational methods. I. Ibid., vol. 2 (193S), pp. 139-163.
+               503. BERNARD NOTCUTT.
+                         1. A set of axioms for the theory of deduction. Mind, n, s. vol. 43 (1934), pp. 63-77.
+                         2. A set of independent postulates for propositional functions of one variable. Annals of
+                    mathematics, 2 s. vol. 36 (1935), pp. 670-678. "Our first task is, therefore, the elimination
+                    of the apparent variable. This is achieved by treating generalization not as an operation
+                    on a proposition <j>x, but as an operation on a predicate <t>."
+               504. SAUNDERS M A C L A N E .
+                     1. Abgekiirzte Beweise im Logikkalkul. Dissertation Gottingen. Gottingen 1934,
+                61pp.
+                     2. A logical analysis of mathematical structure. The monist, vol. 45 (1935), pp. 118-130.
+                     3. Review of Hilbert and Bernays's Grundlagen der Mathematik, vol. 1. Bull. Amer.
+                Math. Soc, vol. 41 (1935), pp. 162-165.

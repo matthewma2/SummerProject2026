@@ -1,0 +1,26 @@
+=== AUTHOR BLOCK 130 ===
+Name  : ARTUR SCHOENFLIES.
+Flags : none
+Lines : 2163–2182
+========================================
+
+130. ARTUR SCHOENFLIES.
+                   1. Uber wohlgeordnete Mengen. Math. Annalen, vol. 60 (1905), pp. 181-186. "Herr
+             Zermelo hat kiirzlich einen Beweis des Satzes veroffentlicht, das 'jede Menge wohlgeordnet
+             werden kann.' Er sagt zum Schluss, dass der Beweis nur auf solchen Voraussetzungen ruht,
+             die auch sonst in der Mengenlehre allgemein iiblich waren. Demgegeniiber ist zu bemerken,
+             dass eine wesentliche Grundlage des Beweises in einer bestimmten Annahme iiber wohlge-
+             ordnete Mengen besteht, die diesen Charakter nicht besitzt, die Herr Zermelo allerdings
+              nicht ausdriicklich hervorhebt. Andererseits ist es gerade diese Annahme, die zu den
+             bekannten Widerspriichen in der Theorie der wohlgeordneten Mengen fiihrt; sie kann
+             daher nicht als Quelle mathematischer Beweise betrachtet werden."
+                   2. Uber die logischen Paradoxien der Mengenlehre. Jahresb. D. M.-V., vol. IS (1906),
+             pp. 19-25.
+                   3. Uber eine vermeintliche Anlinomie der Mengenlehre. Ada math., vol. 32 (1909),
+              pp. 177-184.
+                   4. Uber die Stellung der Definition in der Axiomatik. Schriften der Phys.-b'kon.
+              Gesellschaft zu Kb'nigsberg i. Pr., vol. 51 (1910). Reprinted in Jahresb. D. M.-V., vol. 20
+              (1911), pp. 222-255.
+                   5. Entwickelung der Mengenlehre und ihrer Anwendungen. Erste H'dlfte: Allgemeine
+              Theorie der unendlichen Mengen und Theorie der Punktmengen. Leipzig and Berlin
+              1913, x-f 388 pp. Therein: Ersler Abschnitt. Kapitel X. Der Wohlordnungssatz.'

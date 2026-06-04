@@ -1,0 +1,18 @@
+=== AUTHOR BLOCK 134 ===
+Name  : JACQUES HADAMARD.
+Flags : none
+Lines : 2227–2238
+========================================
+
+134. JACQUES HADAMARD.
+          *          1. Cinq lettres sur la theorie des ensembles. Bulletin de la Societe Mathematique de
+               France, vol. 33 (190S), pp. 261-273. Letlre de M. Hadamard a M. Borel, pp. 261-263.
+                "J'ai lu avec interet Ies arguments que tu opposes (2° Cahier du tome LX des Mathe-
+                malische Annalen) a la demonstration de M. Zermelo parue dans le Tome precedent."
+                Lettre de M. Baire a M. Hadamard, pp. 263-264. Letlre de M. Lebesgue d M. Borel, pp.
+                264-269. Letlre de M. Hadamard a M. Borel, pp. 269-272. Lettre de M. Borel a M. Hada-
+               mard, pp. 272-273. These letters are reprinted in Lecons sur la theorie des fonctions,
+               by fimile Borel, 2nd. end., Paris 1914, pp. 150-160; and 3rd. end., Paris 1928, pp. 150-160.
+                     2. La logistique el la notion de nombre entier. Revue generate des sciences pures et
+               appliquees, vol. 17 (1906), pp. 906-909.
+                     See also Ferdinand Gonseth 3417 and fimile Borel 1326.

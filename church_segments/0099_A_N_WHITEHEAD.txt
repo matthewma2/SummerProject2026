@@ -1,0 +1,32 @@
+=== AUTHOR BLOCK 99 ===
+Name  : A. N. WHITEHEAD.
+Flags : none
+Lines : 1581–1606
+========================================
+
+99. A. N. WHITEHEAD.
+                     1. The algebra of symbolic logic. A treatise of universal algebra with applications, by
+               Alfred North Whitehead, Cambridge, Eng., 1898, pp. 33-116.
+                     2. Memoir on the algebra of symbolic logic. Amer.jour. math., vol. 23 (1901), pp. 139-
+                165, 297-316. "The keynote of this memoir is the prominence given to three ideas, namely,
+                that of the 'invariants' of a function of independent variables, that of 'prime functions of
+                independent variables,' and that of the theory of 'substitutions' of independent variables
+                for independent variables. This last idea connects the algebra with the theory of Groups,
+                and opens out a large field for investigation in that direction."
+                     3. On cardinal numbers. Ibid., vol. 24 (1902), pp. 367-394. Section III, pp. 378-383,
+                is due to Bertrand Russell.
+                      4. The logic of relations, logical substitution groups, and cardinal numbers. Ibid., vol. 25
+                (1903), pp. 157-178.
+                      5. Theorems on cardinal numbers. Ibid., vol. 26 (1904), pp. 31-32.
+                      6. Note. Rev. mitaph. mor., vol. 13 (1905), pp. 916-917. "Je maintiensavec assurance
+                que les id6es de l'Analyse sont capables d'etre exprim6es en termes logiques."
+                      7. On mathematical concepts of the material world. Philosophical transactions of the
+                of the Royal Society of London, series A, vol. 205 (1906), pp. 465-525.
+                      8. La thlorie relationniste de I'espace. Rev. metaph. mor., vol. 23 (1916), pp. 423-545.
+                      9. Mathematics, nature of. The encyclopaedia Britannica, 14th. edn., vol. 15 (London
+                and New York 1929), pp. 85-89.
+                      10. Logical definitions of extension, class, and number. Abstract by W. V. Quine. The
+                 American mathematical monthly, vol. 41 (1934), pp. 129-131.
+                      11. Indication, classes, numbers, validation. Mind, n.s. vol. 43 (1934), pp. 281—297.
+                 See Corrigenda, ibid., p. 543.
+                      See also A. N. Whitehead and Bertrand Russell 194.

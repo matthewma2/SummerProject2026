@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 97 ===
+Name  : GIOVANNI VACCA.
+Flags : none
+Lines : 1528–1535
+========================================
+
+97. GIOVANNI VACCA.
+                     1. Review of Whitehead's Universal algebra. Rev. de math. (Riv. di mat.), vol. 6
+                (1896-9), pp. 101-104.
+                     2. Sui precursori della logica matematica. Ibid., pp. 121-125.
+                     3. Sui precursori della logica matematica II. J. D.Gergonne. Ibid., pp. 183-185.
+         C           4. Additions au Formulaire. Ibid., vol. 7 (1900-1), pp. 59-72.
+                     S. La logica di Leibniz. Ibid., vol. 8 (1902-6), pp. 64-74.
+                     See also Giuseppe Peano 7136, 38.

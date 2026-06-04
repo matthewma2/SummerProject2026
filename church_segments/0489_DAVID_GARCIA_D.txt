@@ -1,0 +1,24 @@
+=== AUTHOR BLOCK 489 ===
+Name  : DAVID GARCIA (D
+Flags : A
+Lines : 5510–5527
+========================================
+
+A 489. DAVID GARCIA (David Garcia Baca).
+                     1. Assaigs moderns per a la fonamentacid de les matemdtiques. Societat Catalana de
+                Ciencies Fisiques, Quimiques iMatemaliques, Publicacions, vol. 1, pp. 225-275.
+                     2. Clasificacion sistemdtica de las propriedades logicas. Revista matematica hispano-
+                americana, 2 s. vol. 8 (1933), pp. 114-145.
+                     3. Introduccio a la logistica amb aplicacions a lafilosofia i a les matematiques. Biblio-
+                teca filosdfica, vols. 3 and 4. Barcelona 1934, 2 vols. "La nostra exposici6 comprendra.
+                cine parts: o) ldgica proposicional; b) ldgica conjuntual o de les classes; c) ldgica relacional:
+                exposades segons la logistica classica (Whitehead-Russell, Hilbert, Bernays, Carnap, Beh-
+                mann . . . ); d) construcci6 ldgica dels principals conceptes maternities; e) en la darrera
+                part tractarem els problemes generals de la logistica, teories axiomatiques, ldgiques no-
+                aristoteliques, antinomies de la ldgica i valoraci6 de la logfstica des del punt de mira
+                filosdfic."
+
+
+
+                     4. Algunas reflexiones sobre la proposicidn y el simbolismo ttgico elemental. Revista
+              de psicologia ipedagogia (Barcelona), vol. 3 (1935), pp. 140-159.

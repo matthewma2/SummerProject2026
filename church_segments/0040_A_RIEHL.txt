@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 40 ===
+Name  : A. RIEHL.
+Flags : none
+Lines : 718–720
+========================================
+
+40. A. RIEHL. 1. Die englische Logik der Gegenwarl. Vierteljahrsschrift fiir wissenschaflliche
+               Philosophie, vol. 1 (1877), pp. 50-80. "Mit besonderer Beriicksichtigung von W. Stanley
+               Jevons: The principles of Science, a treatise on Logic and Scientific method."

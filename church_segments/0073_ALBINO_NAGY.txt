@@ -1,0 +1,39 @@
+=== AUTHOR BLOCK 73 ===
+Name  : ALBINO NAGY.
+Flags : none
+Lines : 1231–1263
+========================================
+
+73. ALBINO NAGY.
+                      1. Fondamenti del calcolo logico. Giornale di matematiche (Naples), vol. 28 (1890),
+                pp. 1-35. "Pubblico sotto questo titolo i risultati di alcune mie ricerche risguardanti
+                Papplicazionedella matematica alia logica, ora specialmente che il chiar. professore Peano
+                ha iniziati tali studii in Italia; osservando che alcuni dei risultati ottenuti li aveva svolti
+                affatto da solo, dilettandomi di questi studii ancor nel mio VII anno di ginnasio, a Zara.
+                 Venuto poscia a conoscenza della letteratura su questo argomento all' University di.
+                 Vienna, miservii degli stessi per la mia dissertazione 'Ueber AnwendungenderMalhematik
+                 auf die Logik,' che presentai all' Universita, quale tesi laureate, e dalla quale ricavo in
+                 gran parte il presente saggio."
+                      2. Lo stato atluale ed i progressi della logica. Rivista italiana di filosofia, anno 6 vol. 2
+                 (1891), pp. 301-319. "E l'aver realizzato questo simbolismo ideale, e, cosJ, aver sciolta la
+                 logica dalla suddetta restrizione linguistica, e il primo merito della logica matematica."
+                      3. Principl di logica esposli secondo le dotlrine moderne. Turin 1892, 219 pp.
+                      4. I teoremi funzionali nel calcolo logico. Riv. di mat., vol. 2 (1892), pp. 177-179.
+                      5. Uber Beziehungen zwischen logischen Grossen. Monatshefte fitr Mathematik und
+                 Physik, vol. 4 (1893), pp. 147-153. "Das von Prof. Ernst Schroder vorgelegte Problem:
+
+
+
+
+
+                in wie vielerlei und was fitr Beziehungen zwei Gebiete, Classen A, B, iiberhaupt zu einandet
+                slehen konnen, kann folgendermassen verallgemeinert und gelost werden."
+                     6. La logica matematica e il calcolo logico. Riv. ital. difil., anno 8 vol. 1 (1893), pp. 389-
+                395.
+                     7. fiber das Jevons-Clifford'sche Problem. Monatsh. Math. Phys., vol. 5 (1894), pp,
+                331-345.
+                     8. Sulla definizione e il compito delta logica. Rome 1894.
+                     9. Alcuni teoremi inlorno alle funzioni logiche. Rev. de math. (Riv. di mat.), vol. 6
+                (1896-9), pp. 21-23. "Per eseguire una qualsiasi operazione su di una funzione sviluppata
+                basta eseguirla sui coefficient!." "Per eseguire una qualsiasi operazione con funzioni logiche,
+                basta eseguirla fra i coefficienti omonimi dei loro sviluppi."

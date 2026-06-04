@@ -1,0 +1,126 @@
+=== AUTHOR BLOCK 1 ===
+Name  : G. W. v. LEIBNIZ
+Flags : †
+Lines : 115–234
+========================================
+
+TTG. W. v. LEIBNIZ.
+                     1. Dissertatio de arte combinatoria in qua ex arithmeticae fundamentis complica-
+                tionum ac transpositiomtm doctrina novis praeceplis exstruitur, et usus ambarum per
+               universum scientiarum orbem ostenditur; nova etiam arlis meditandi sen logicae inven-
+               tionis semina sparguntur. Praefixa esl synopsis totius tractatus, et additamenti loco
+               demonstrate existentiae Dei, ad mathematicam cerlitudinem exacta. Leipzig 1666. 2nd.
+               edn., Frankfurt a.M. 1690. Reprinted in God. Guil. Leibnitii opera,philosophica quae
+               exstant latina gallica germanica omnia, ed. by J. E. Erdmann, vol. 1 (Berlin 1840), pp.
+               6-44; Leibnizens mathematische Schriften, ed. by C. I. Gerhardt, div. 2 vol. 1 (Halle
+               1858), pp. 1-79; Die philosophischen Schriften von Gottfried Wilhelm Leibniz, ed. by
+               C. I. Gerhardt, vol. 4 (Berlin 1880), pp. 27-102; Gottfried Wilhelm Leibniz Philosophische
+               Schriften herausgegeben von der Preussischen Akademie der Wissenschaften, vol. 1
+               (Darmstadt 1930), pp. 163-230. "Ea si recte constituta fuerint et ingeniose, scriptura
+               haec universalis aeque erit facilis quam communis, et quae possit sine omni lexico legi,
+               simulque imbibetur omnium rerum fundamentalis cognitio. Fiet igitur omnis talis scriptura
+               quasi figuris geometricis; et velut picturis, uti olim Aegyptii hodie Sinenses, verum eorum
+               picturae non reducuntur ad certum alphabetum seu literas, quo fit ut incredibili memoriae
+               afflictione opus sit, quod hie contra est. Hie igitur est Usus XI. complexionum, in con-
+               stituenda nempe polygraphia universali."
+                     2. G. G. L. Ars Combinatoria, a notice, by Leibniz himself, of the second edition of the
+               preceding. Ada eruditorum (Leipzig), 1691, pp. 63-64. Reprinted in Opuscula omnia Aclis
+               Eruditorum Lipsiensibus inserta, quae ad universam mathesim, physicam, medicinam,
+               anatomiam, chirurgiam, et philologiam pertinent; necnon epitomae si quae materia vel
+               criticis animadversionibus celebriores, vol. 2 (Venice 1741), pp. 261-262; Gerhardt's
+               Philosophische Schriften, vol. 4 (1880), pp. 103-104. "Libellus ab Autore admodum juvene
+               anno 1665 compositus & Anno 1668 Lipsiae editus, nunc ipso inscio inconsulte recusus est."
+                     3. Difficultates quaedam logicae. Oeuvres philosophiques latines et francaises de feu
+               M. de Leibniz, tirees de ses manuscrits qui se conservent dans la Bibliotheque royale de
+               Hanovre, ed. by Raspe, 1765, pp. 513-; Gottfried Wilhelm von Leibniz philosophische
+               Werke nach Raspens Sammlung, ed. by J. H. F. Ulrich, vol. 2 (Halle 1780), pp. 621-630;
+               Gerhardt's Philosophische Schriften, vol. 7 (Berlin, 1890), pp. 211-217. "Major haec est
+               difficultas, quod conversio recepta videtur aliquando inducere falsum, nempe conversio
+               per accidens universalis amrmativa in casu tali, omnis ridens est homo, ergo quidam homo
+               est ridens; nam prior vera est, etiamsi nullus homo rideret, at posterior vera non est, nisi
+               aliquis homo actu rideat."
+                     4. Hisloria et commendatio linguae charactericae universalis, quae simul sit ars in-
+               veniendi et judicandi. Raspe's Oeuvres (1765), pp. 533-; Ulrich's Werke, vol. 2 (1780),
+               pp. 645-653; Erdmann's Opera, vol. 1 (1840), pp. 162-164.
+
+
+
+
+
+
+
+                      5. Addenda ad specimen calculi universalis, being a portion of 11 below. Erdmann's
+                Opera, vol. 1 (1840), pp. 98-99.
+                      6. Non inelegans specimen demonstrandi in abstractis. Erdmann's Opera, vol. 1 (1840),
+                pp. 94-97; Gerhardt's Philosophische Schriften, vol. 7 (1890), pp. 228-235. English trans-
+                lation in A survey of symbolic logic, by C. I. Lewis, Berkeley, Cal., 1918, pp. 373-379.
+                      7. Fundamenta calculi raliocinatoris. Erdmann's Opera, vol. 1 (1840), pp. 92-94;
+                Gerhardt's Philosophische Schriften, vol. 7 (1890), pp. 204-207.
+                      8. Definitioues logicae. Erdmann's Opera, vol. 1 (1840), pp. 100-101; Gerhardt's
+                Philosophische Schriflen, vol. 7 (1890), pp. 208-210.
+                      9. De scientia universali seu calculo philosophico. Erdmann's Opera, vol. 1 (1840),
+                pp. 82-85; Gerhardt's Philosophische Schriften, vol. 7 (1890), pp. 198-203. "Quo facto,
+                quando orientur controversiae, non magis disputatione opus erit inter duos philosophos,
+                quam inter duosComputistas. Sufficiet enim calamos in manus sumere sedereque ad abacos,
+                et sibi mutuo (accito si placet amico) dicere: calculemus."
+                      10. Specimen calculi universalis. Gerhardt's Philosophische Schriften, vol. 7 (1890),
+                pp. 218-221. A concluding portion of this, omitted by Gerhardt, is given in Opuscules et
+                fragments inidits de Leibniz extraits des manuscrits de la Bibliotheque royale de Hanovre,
+                 ed. by Louis Couturat, Paris 1903, pp. 239-243.
+                      11. Ad specimen calculi universalis addenda. Gerhardt's Philosophische Schriften,
+                 vol. 7 (1890), pp. 221-227. Three concluding paragraphs, omitted by Gerhardt, are given
+                 in Couturat's Opuscules, p. 249.
+                      12. FTagment.Gerhardt's Philosophische Schriften, vol. 7 (1890), pp.236-247. English
+                 translation in Lewis's Survey of symbolic logic (1918), pp. 379-387.
+                      13. Elementa characteristicae universalis (dated April 1679). Couturat's Opuscules
+                 (1903), pp. 42-49. "Regula construendorum characterum haec est: cuilibet Termino (id
+                 est subjecto vel praedicato propositionis) assignetur numerus aliquis hoc uno observato,
+                 ut terminus compositus ex aliis quibusdam terminis respondentem sibi habeat numerum
+                 productum ex numeris illorum terminorum invicem multiplicatis. Exempli causa, si
+                 fingeretur terminus Animalis exprimi per numerum aliquem 2 (vel generalius a) terminus
+                 Rationalis per numerum 3 (vel generalius r) terminus hominis exprimetur per numerum
+                 2,3, id est 6, seu productum ex multiplicatis invicem 2 et 3 (vel generalius per numerum
+
+                     14. Elementa calculi (dated April 1679). Ibid., pp. 49-57.
+                     15. Calculi universalis elementa (dated April 1679). Ibid., pp. 57-66.
+                     16. Calculi universalis invesligationes (dated April 1679). Ibid., pp. 66-70.
+                     17. Modus examinandi consequentias per numeros (dated April 1679). Ibid., pp. 70-77.
+                     18. Regulae ex quibus de bonitate consequentiarum formisque et modis syllogismorum
+                categoricorum judicari potest, per numeros (dated April 1679). Ibid., pp. 77-84.
+                     19. Calculus consequentiarum. Ibid., pp. 84-89.
+                     20. Regulae quibus observatis de bonitate consequentiarum per numeros judicari potest.
+                Ibid., pp. 89-92.
+                     21. Fragment. Ibid., pp. 245-247.
+                     22. Fragment. Ibid., pp. 324-326.
+                     23. Conversio logica. Ibid., pp. 253-255.
+                     24. Fragment. Ibid., pp. 556-557.
+                     25. Principia calculi ralionalis. Ibid., pp. 229-231.
+                     26. Fragment. Ibid., pp. 407-408.
+                     27. Fragment. Ibid., p. 252.
+                     28. Two fragments. Ibid., pp. 259-261, 261-264.
+                     29. Generates inquisitiones de analyst notionum et veritatum (dated 1686). Ibid., pp.
+                356-399. "Hie egregie progressus sum"—Leibniz's marginal note.
+                     30. Two fragments. Ibid., pp. 270-273, 274-276.
+                     31. Fragment. Ibid., pp. 321-324.
+                     32. Fragment (dated Aug. 1, 1690). Ibid., pp. 232-235.
+                     33. Primaria calculi logici fundamenta (written by Leibniz on reverse of 32). Ibid.,
+                pp. 235-237.
+                     34. Fundamenta calculi logici (dated Aug. 2, 1690). Ibid., pp. 421-423
+
+
+
+
+                       35. Fragment. Ibid., pp. 264-270.
+                       36. Three fragments. Ibid., pp. 2S0-2S1, 251, 251-252.
+                       37. Fragment. Ibid., p. 256.
+                       38. Deformae logicae comprobatione per linearum duclus. Ibid., pp. 292-321.
+                       39. Fragment. Ibid., p. 255.
+                       40. Fragment. Ibid., p. 546.
+                       Of the above, all except 1 and 2 were unpublished until after Leibniz's death. They
+                  are arranged in the order of their first publication (so far as known to the compiler). The
+                  dates of composition are in many cases not certainly known. Apparently Leibniz's first
+                 attempts at the actual construction of anything in the nature of symbolic logic are con-
+                 tained in 13-21. The starred titles are all of later date and their chronological order is
+                  probably 10, 11, 29, 6, 12. Cf. La logique de Leibniz d'apres des documents inedits, by
+                 Louis Couturat, Paris 1901, xiv+608 pp. See also F. B. Kvet 221, Giovanni Vailati 1811,
+                 Giovanni Vacca 975, and Karl Diirr 4162.

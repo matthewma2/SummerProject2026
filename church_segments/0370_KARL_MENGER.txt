@@ -1,0 +1,26 @@
+=== AUTHOR BLOCK 370 ===
+Name  : KARL MENGER.
+Flags : none
+Lines : 4739–4758
+========================================
+
+370. KARL MENGER.
+                      1. Bemerkungen zu Grundlagenfragen. Jahresb. D. M.-V., vol. 37 (1928), pp. 213-226,
+                 298-325. "Eine Reihe kurzer Noten sei einigen einfachen Bemerkungen uber Grundlagen-
+                fragen gewidmet. Die vier ersten Noten enthalten ein kurzes intuitionistisch-formalistisches
+                 Worterbuch der Mengenlehre, eine neue Aufklarung der mengentheoretischen Paradoxien,
+                einige Bemerkungen Uber Potenzmengen und eine Axiomatik der endlichen Mengen und
+                der projektiven Verknilpfungsbeziehungen."
+
+
+
+
+                      2. Der Intuitionismus. Blatter fiir deutsche Philosophie, vol. 4 (1930), pp. 311-325
+                      3. Uber die sogenannte Konstruktivittit bei arithmetischen Definitionen. Akademie der
+                Wissenschaften in Wien, Mathemalisch-naturwissenschaflliche Klasse, Anzeiger, vol. 67
+                (1930), pp. 257-258.
+                      4. Uber den Konstruktivitatsbegriff. Zweite Mitleilung. Ibid., vol. 68 (1931), pp. 7-9.
+                      5. Eine elementare Bemerkung uber die Struktur logischer Formeln. Ergebnisse eines
+               mathematischen /Colloquiums, Heft 3 (for 1930-1, pub. 1932), pp. 22-23.
+                      6. Die neue Logik. Krise und Neuaufbau in den exakten Wissenschaften, Leipzig
+               and Vienna 1933, pp. 93-122.

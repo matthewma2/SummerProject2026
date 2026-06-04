@@ -1,0 +1,15 @@
+=== AUTHOR BLOCK 255 ===
+Name  : C. D. BROAD.
+Flags : none
+Lines : 3552–3560
+========================================
+
+255. C. D. BROAD.
+                    1. Review of Boole's Collected logical works, vol. 2. Mind, n. s. vol. 26 (1917), pp.
+               81-99.
+                    2. A general notation for the logic of relations. Mind, n. s. vol. 27 (1918), pp. 284-303.
+                "The object of the present paper is to offer a consistent system of notation which shall be
+               extensible to relations of any degree of polyadicity. The notation for the logic of relations
+               developed in Principia Mathematica, so far as that work has gone, is highly convenient
+               for dyadic relations, which alone have as yet been treated. But it is not readily extensible
+               to triadic and higher relations."

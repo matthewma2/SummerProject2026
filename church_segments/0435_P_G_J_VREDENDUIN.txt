@@ -1,0 +1,17 @@
+=== AUTHOR BLOCK 435 ===
+Name  : P. G. J. VREDENDUIN.
+Flags : A
+Lines : 5230–5240
+========================================
+
+A 435. P. G. J. VREDENDUIN.
+                     1. Axiomatische opbouw der verzamelingenleer, in het bijzonder der getallentheorie
+               (Axiomatic construction of the theory of sets, in particular of number theory). Disserta-
+                tion Utrecht 1931. Utrecht, 42 pp.
+                     2. De logika der wiskunde (The logic of mathematics). Annalen der critische philo-
+               sophie, vol. 3 (1933), pp. 31-48.
+         C           3. De autonomie der wiskunde (The autonomy of mathematics). Euclides, vol. 10.
+         C           4. Oordeelsgenese—Wat is wiskunde? (Origin of the judgment—What is mathe-
+                matics?) Annalen der critische philosophie, vol. 4 (1934), pp. 17-32.
+         C           S. Het begrip (The concept). Ibid., vol. 5 (1935), pp. 1-16. A. Definitie van begrip.
+                B. Begripsgenese. C. Paradox van Russell.

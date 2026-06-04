@@ -1,0 +1,19 @@
+=== AUTHOR BLOCK 23 ===
+Name  : R. L. ELLIS.
+Flags : none
+Lines : 426–438
+========================================
+
+23. R. L. ELLIS.
+         *          1. Notes on Boole's Laws of Thought. The mathematical and other writings of Robert
+              Leslie Ellis, M.A., ed. by William Walton, Cambridge, Eng., 1863, pp. 391-394. "Let 5
+              be Shem, N Noah,/father, 5 son; N=fS,sf=\.           Eliminating/ between these two equa-
+              tions, we get S = sN. Nothing can be simpler than this: but the symbols s, f, are of a dis-
+              tinct nature from those employed in the Laws of Thought. For fA does not denote a
+              species of A, but an idea standing in a different relation to it. The distinction between
+              these two kinds of symbols becomes more manifest when we reflect that/ 2 is not identical
+              with/, but denotes 'father of father,' or grandfather."
+                    2. Observations on Boole's 'Laws of Thought.' Report of the fortieth meeting of the
+              British Association for the Advancement of Science; held at Liverpool in September 1870,
+              London 1871, Notices and abstracts, pp. 12-14.
+                    See also Robert Harley 272.

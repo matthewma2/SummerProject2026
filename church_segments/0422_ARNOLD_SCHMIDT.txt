@@ -1,0 +1,15 @@
+=== AUTHOR BLOCK 422 ===
+Name  : ARNOLD SCHMIDT.
+Flags : none
+Lines : 5184–5192
+========================================
+
+422. ARNOLD SCHMIDT.
+                     1. Review of Behmann's Zu den Widersprilchen der Logik und der Mengenlehre.
+                Zenlralblatt filr Mathematik und ihre Grenzgebiele, vol. 1 (1931), p. 50.
+                     2. Review of Curry's The universal quantifier in combinatory logic. Ibid., pp. 261-262.
+                     3. Review of Dubislav's Die Definition, 3rd. edn. Ibid., vol. 2 (1931-2), pp. 1-2.
+                     4. Review of Heyting's Mathematische Grundlagenforschung. Ibid., vol. 9 (1934),
+                p. 385.
+                     5. Review of Gentzen's Untersuchungen Uber das logische Schliessen. Ibid., vol. 10
+                (1934-5), pp. 145-146.

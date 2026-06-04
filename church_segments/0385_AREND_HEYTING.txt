@@ -1,0 +1,42 @@
+=== AUTHOR BLOCK 385 ===
+Name  : AREND HEYTING.
+Flags : A
+Lines : 4884–4919
+========================================
+
+A 385. AREND HEYTING.
+         C            1. Be telbarheidspraedicaten van Prof. Brouwer (The enumerability-predicates of
+                Prof. Brouwer). Nieuw archief voor wiskunde, 2 s. vol. 16 no. 2 (1929), pp. 47-58.
+            *         2. Dieformalen Regeln der intuitionistischen Logik. Sitzungsberichte der Preussischen
+                Akademie der Wissenschaften, Physikalisch-mathematische Klasse, 1930, pp. 42-56.
+           *         3. Dieformalen Regeln der intuitionistischen Mathematik. Ibid., pp. 57-71, 158-169.
+                     4. Sur la logique intuitionniste. Acad. Belg., Bull, des set., 5 s. vol. 16 (1930), pp.
+                957-963.
+                     5. Die intuitionistische Mathematik. Forschungen und Fortschrilte (Berlin), 1931.
+                "Die wichtigsten Merkmale der intuitionistischen Mathematik sind also erstens die
+                Beschrankung auf sinnerfiillte Begriffe und zweitens die Freimachung des Unendlichen
+                vom Gesetzbegriff durch die Einfiihrung der werdenden Folgen."
+                     6. Die intuitionistische Grundlegung der Mathematik. Erkenntnis, vol. 2 (1931-2),
+                pp. 106-115. "Ich habe meine Absicht erreicht, wenn ich Ihnen gezeigt habe, dass der
+                Intuitionismus keine willkurliche Annahmen enthalt, noch weniger kiinstliche Verbote,
+                etwa um die logischen Paradoxien zu vermeiden, sondern dass er den einzig moglichen
+                Weg bildet, von der einmal angenommenen Grundeinstellung aus die Mathematik
+                aufzubauen."
+                     7. A propos d'un article de MM. Barzin el Errera. L'Ens. math., vol. 31 (for 1932,
+                pub. 1933), pp. 121-122.
+                     8. Sur la logique intuitionniste. Riponse a MM. Barzin el Errera. Ibid., pp. 271-272,
+                274-275.
+                     9. Anwendung der intuitionistischen Logik auf die Definition der VollstSndigkeil eines
+                Kalkiils. Verhandlungen des Internationalen Mathematiker-Kongresses Zurich 1932,
+                vol. 2, pp. 344-345.
+           t         10. Mathematische Grundlagenforschung. Intuitionismus. Beweistheorie. Ergebnisse
+                der Mathematik und ihrer Grenzgebiete, vol. 3 no. 4. Berlin 1934, iv+73 pp. "In diesem
+                Referat behandle ich die mathematische Grundlagenforschung nach der intuitionistischen
+                und der formalistischen Richtung. Es ist offenbar unmoglich, auf diesem Gebiet die
+                philosophischen und die mathematischen Betrachtungen voneinander zu trennen. Im
+                Gegenteil bin ich bei der Begrenzung des Stoffes von der engen Verbindung der Philo-
+                sophie mit der Mathematik ausgegangen."
+                     11. Review of Hilbert and Bernays's Grundlagen der Mathematik, vol. 1. Zentral-
+                blattfiir Mathematik und ihre Grenzgebiete, vol. 9 (1934), pp. 145-146.
+                     12. Intuitionistische wiskunde (Intuitionistic mathematics). Mathematica B (Leiden),
+               vol. 4 (1935), pp. 72-83, 123-136, and vol. 5 (1936), pp. 62-80, 105-112.

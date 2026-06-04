@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 417 ===
+Name  : M. PRESBURGER.
+Flags : none
+Lines : 5104–5111
+========================================
+
+417. M. PRESBURGER. 1. Vber die Vollstandigkeit eines gewissen Systems der Arithmetik
+                ganzer Zahlen, in welchem die Addition als einzige Operation hervorlrilt. Sprawozdanie z I
+
+
+
+
+                Kongresu MatematykOw Krajdw Slowiahskich {Compies-rendus du I Congres des Mathi-
+                maliciens des Pays Slaves), Warszawa 1929, Warsaw 1930, pp. 92-101, 395.

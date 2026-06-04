@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 532 ===
+Name  : D. L. WEBB. J. G
+Flags : none
+Lines : 5683–5684
+========================================
+
+532. D. L. WEBB. J. Generation of any n-valued logic by one binary operation. Proc. Nat. Acad.
+                Sci., vol. 21 (1935), pp. 252-254.

@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 69 ===
+Name  : SOPHIE BRYANT.
+Flags : none
+Lines : 1081–1087
+========================================
+
+69. SOPHIE BRYANT.
+                       1. On the nature and functions of a complete symbolic language. Mind, vol. 13 (1888),
+                pp. 188-207.
+         C             2. The relation of mathematics to general formal logic. Proceedings of the Aristotelian
+                Society, n.s. vol. 2 (1902), pp. 105-134. "Boole's fundamental idea that the language of
+                mathematics is the most perfect form of the universal language of thought, and that gen-
+                eral logic, therefore, is mathematics with all conceptions of quantity struck out."

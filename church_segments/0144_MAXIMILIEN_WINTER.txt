@@ -1,0 +1,17 @@
+=== AUTHOR BLOCK 144 ===
+Name  : MAXIMILIEN WINTER.
+Flags : none
+Lines : 2386–2400
+========================================
+
+144. MAXIMILIEN WINTER.
+                   1. Mitaphysique el logique mathimatique. Rev. melaph. mor., vol. 13 (1905), pp.
+             589-619.
+                   2. Application de l'algebre de logique a une controverse juridique. Ibid., vol. 14 (1906),
+             pp. 617-625.
+                   3. SurV introduction logique d la thtorie desfonctions. Ibid., vol. 15 (1907), pp. 186-216.
+                   4. Les principes du cdlcul fonctionnel. Ibid., vol. 21 (1913), pp. 462-510.
+                   5. On the logical introduction to the theory of functions. English translation of 3 by Fred
+             Rothwell. The monisl, vol. 31 (1921), pp. 437-460.
+                   6. The principles of the functional calculus. Condensed English translation of 4 by
+             Fred Rothwell. Ibid., pp. 609-634.

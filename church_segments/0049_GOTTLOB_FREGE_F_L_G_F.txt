@@ -1,0 +1,86 @@
+=== AUTHOR BLOCK 49 ===
+Name  : GOTTLOB FREGE (F. L. G. F
+Flags : A
+Lines : 830–909
+========================================
+
+A49. GOTTLOB FREGE (F. L. G. Frege).
+          **         1. Begriffsschrift, eine der arilhmelischen nachgebildete Formelsprache des reinen
+               Denkens. Halle 1879, viii+88 pp. "Ich hoffe, dass die Logiker, wenn sie sich durch den
+               ersten Eindruck des Fremdartigen nicht zuriickschrecken lassen, den Neuerungen, zu
+               denen ich durch eine der Sache selbst innewohnende Nothwendigkeit getrieben wurde,
+               ihre Zustimmung nicht verweigern werden. Diese Abweichungen vom Hergebrachten
+               finden ihre Rechtfertigung darin, dass die Logik sich bisher immer noch zu eng an Sprache
+             • und Grammatik angeschlossen hat. Insbesondere glaube ich, dass die Ersetzung der Be-
+               griffe Subject und Praedicat durch Argument und Function sich auf die Dauer bewahren
+               wird. Man erkennt leicht, wie die Auffassung eines Inhalts als Function eines Argumentes
+               begriffsbildend wirkt. Es mochte ferner der Nachweis des Zusammenhanges zwischen
+               den Bedeutungen der Worter: wenn, und, nicht, oder, es giebt, eine, alle u.s.w. Beachtung
+               verdienen."
+                  t 2. Anwendungen der Begriffsschrift. Sitzungsberichte der Jenaischen Gessellschaft fur
+                Medicin und Naturwissenschaft fur das Jahr 1879, pp. 29-33.
+                     3. Ueber den Zweck der Begriffsschrift. Ibid. 1882, pp. 1-10. "Unter anderm wird mir
+               vorgeworfen, ich habe die Leistungen Booles unberiicksichtigt gelassen. Diesen Vorwurf
+               erhebt auch E. Schroder in der Recension im XXV. Bd. d. Zeitschr. f. Math. u. Phys."
+                     4. Uber die wissenschaflliche Berechtigung einer Begriffsschrift. Zeitschrift fiir Phi-
+               losophie undphilosophische Kritik, n.s. vol. 81 (1882), pp. 48-56.
+          **         5. Die Grundlagen der Arithmetik, eine logisch-malhemalische Untersuchung iiber
+               den Begriff der Zahl. Breslau 1884,xix + 119 pp. Reprinted Breslau 1934. '
+                     6. Ueber formate Theorien der Arithmetik. Sitzungsb. Jena. Ges. 1885. Supplement
+               zur Zeitschrift fiir Naturwissenschaft. Band XIX., pp. 94-104. "Dass alle arithmetischen
+               Satze allein aus Definitionen rein logisch abgeleitet werden kiinnen und demzufolge auch
+               abgeleitet werden miissen. Hierdurch wird die Arithmetik in einen Gegensatz zur Geometrie
+               gebracht, welche, wie wohl kein Mathematiker bezweifelt, gewisser, ihr eigenthumlicher
+               Axiome bedarf, deren Gegentheil—rein logisch betrachtet—ebenso mtSglich, d.h. ohne
+               Widerspruch ware."
+          *          7. Function und Begriff. Vortrag gehalten in der Sitzung vom 9. Januar. 1891 der
+               Jenaischen Gesellschaftfiir Medicin und Naturwissenschaft. Jena 1891, 31 pp.
+          *          8. Uber Sinn und Bedeutung. Zeitschrift Phil. u. phil. Krit., n.s. vol. 100 (1892), pp.
+               25-50.
+                     9. Ueber Begriff und Gegenstand. Viertelj. wiss. Phil., vol. 16 (1892), pp. 192-205.
+          **         10. Grundgesetze der Arithmelik.bzgriffsschrifllich abgeleitet. Vol. 1, Jena 1893,
+               xxxii+254 pp. "Man findet in diesem Buche Lehrsatze, auf denen die Arithmetik beruht,
+               mit Zeichen bewiesen, deren Ganzes ich Begriffsschrift nenne."
+                     11. he notnbre entier. Revue de metaphysique el de morale, vol. 3 (1895), pp. 73-78.
+                     12. Kritische Beleuchtung einiger Punkte in E. Schroder's Vorlesungen iiber die Algebra
+               der Logik. Archivfur syslematische Philosophie, vol. 1 (1895), pp. 433-456. "Der Umfang
+               eines Begriffes besteht nicht aus den Gegenstanden, die unter den Begriff fallen, etwa
+               wie ein Wald aus Baumen, sondern er hat an dem Begriffe selbst und nur an diesem seinen
+               Halt. Der Begriff hat also den logischen Vorrang vor seinem Umfange."
+                    13. Ueber die Begriffsschrift des Herrn Peano und meine eigene. Berichte Uber die
+               Verhandlungen der Kb'nigl. Sdchsischen Gesellschaft der Wissenschaften zu Leipzig,
+               Mathematisch-physische Klasse, vol. 48 (1896), pp. 361-378.
+                     14. Lettera del sig. G. Frege all'Editore (dated Jena, 29 Sept. 1896). Revue de mathe-
+               maliques (Rivista di matematica), vol. 6 (1896-9), pp. 53-59. "Sie haben die Giite gehabt,
+               meine Grundgesetze der Arithmetik im 5. Bande der Rivista di Matematica ausfiihrlich
+               und wohlwollend zu beurtheilen. Den Dank dafiir glaube ich Ihnen am besten dadurch
+               erweisen zu konnen, dass ich Ihnen freimiithig meine abweichenden Ansichten darlege."
+                    15. Ueber die Zahlen des Herrn H. Schubert. Jena 1899, vi+32 pp.
+          *         16. Grundgesetze der Arithmetik, begriffsschriftlich abgeleitet. Vol. 2, Jena 1903,
+               xv+265 pp. "Einem wissenschaftlichen Schriftsteller kann kaum etwas Unerwiinschteres
+               begegnen, als dass ihm nach Vollendung einer Arbeit eine der Grundlagen seines Baues
+               erschiittert wird. In diese Lage wurde ich durch einen Brief des Herrn Bertrand Russell
+               versetzt, als der Druck dieses Bandes sich seinem Ende nah'erte             Herr Russell hat
+
+
+
+               einen Widerspruch aufgefunden, der nun dargelegt werden mag."—Appendix, dated Oct.
+                1902.
+                     17. Was ist eine Funktionf Festschrift Ludwig Bolizmann gewidmel zum sechzigsten
+                Geburtstage 20. Februar 1904, Leipzig 1904, pp. 656-666.
+                     18. Ober die Grundlagen der Geometrie. Jahresberichl der Deutschen Malhemaliker-
+                Vereinigung, vol. IS (1906), pp. 293-309, 377-103,423-430.
+                     19. Antwort auf die Ferienplauderei des Herrn Thomae. Ibid., pp; 586-590.
+                     20. Die Unmdglichkeit der Thomaeschen formalen Arithmetik aufs neue nachgewiesen.
+                Ibid., vol. 17(1908),pp.52-55.SeealsoSchlussbemerkung, p. 56.
+                     21. The fundamental laws of arithmetic. Translated from Grundgesetze der Arithmetik
+               by Johann Stachelroth and P. E. B. Jourdain. The monist, vol. 25 (1915), pp. 481-494,
+               including an introductory note by Jourdain, pp. 481-484.
+                     22. The fundamental laws of arithmetic: Psychological logic. Translated from Grundge-
+               setze der Arithmetik by Johann Stachelroth and P. E. B. Jourdain. Ibid., vol. 26 (1916),
+               pp. 182-199.
+                   ' 23. Class, function, concept, relation. Translated from Grundgesetze der Arithmetik
+               by Johann Stachelroth and P. E.B. Jourdain. Ibid., vol. 27 (1917), pp. 114-127.
+                     See also reviews of Cantor and Husserl in Zeitschrift Phil. u. phil. Krit., n. s. vol. 100
+               (1892), pp. 269-272, and n. s. vol. 103 (1894), pp. 313-332.
+                     See also P. E. B. Jourdain 121 13.

@@ -38,7 +38,8 @@
     "id": "joseph-delbuf",
     "full_name": "Joseph Delbœuf",
     "alternative_names": [
-      "Delbœuf"
+      "Delbœuf",
+      "Delboeuf"
     ]
   },
   {
@@ -199,14 +200,16 @@
     "id": "johann-friedrich-kruter",
     "full_name": "Johann Friedrich Kräuter",
     "alternative_names": [
-      "Kräuter"
+      "Kräuter",
+      "Krauter"
     ]
   },
   {
     "id": "ernst-schrder",
     "full_name": "Ernst Schröder",
     "alternative_names": [
-      "Schröder"
+      "Schröder",
+      "Schroder"
     ]
   },
   {
@@ -276,6 +279,7 @@
     "id": "augustus-de-morgan",
     "full_name": "Augustus De Morgan",
     "alternative_names": [
+      "De Morgan",
       "Morgan"
     ]
   },
@@ -325,8 +329,7 @@
     "id": "ruth-c-barcan",
     "full_name": "Ruth C. Barcan",
     "alternative_names": [
-      "Barcan",
-      "C. Barcan"
+      "Barcan"
     ]
   },
   {
@@ -340,38 +343,35 @@
     "id": "r-m-martin",
     "full_name": "Richard M. Martin",
     "alternative_names": [
-      "Martin",
-      "R. Martin"
+      "Martin"
     ]
   },
   {
     "id": "gabor-t-herman",
     "full_name": "Gabor T. Herman",
     "alternative_names": [
-      "Herman",
-      "T. Herman"
+      "Herman"
     ]
   },
   {
     "id": "leopold-lwenheim",
     "full_name": "Leopold Löwenheim",
     "alternative_names": [
-      "Löwenheim"
+      "Löwenheim",
+      "Lowenheim"
     ]
   },
   {
     "id": "t-thacher-robinson",
     "full_name": "Theodore Thacher Robinson",
     "alternative_names": [
-      "Robinson",
-      "T. Robinson"
+      "Robinson"
     ]
   },
   {
     "id": "c-j-ducasse",
     "full_name": "Curt John Ducasse",
     "alternative_names": [
-      "C. Ducasse",
       "Ducasse"
     ]
   },
@@ -379,31 +379,27 @@
     "id": "edmund-c-berkeley",
     "full_name": "Edmund C. Berkeley",
     "alternative_names": [
-      "Berkeley",
-      "C. Berkeley"
+      "Berkeley"
     ]
   },
   {
     "id": "w-v-quine",
     "full_name": "Willard Van Orman Quine",
     "alternative_names": [
-      "Quine",
-      "W. Quine"
+      "Quine"
     ]
   },
   {
     "id": "r-k-meyer",
     "full_name": "Robert K. Meyer",
     "alternative_names": [
-      "Meyer",
-      "R. Meyer"
+      "Meyer"
     ]
   },
   {
     "id": "john-g-kemeny",
     "full_name": "John G. Kemeny",
     "alternative_names": [
-      "G. Kemeny",
       "Kemeny"
     ]
   },
@@ -411,7 +407,6 @@
     "id": "alfred-b-manaster",
     "full_name": "Alfred B. Manaster",
     "alternative_names": [
-      "B. Manaster",
       "Manaster"
     ]
   },
@@ -454,7 +449,6 @@
     "id": "frederic-b-fitch",
     "full_name": "Frederic B. Fitch",
     "alternative_names": [
-      "B. Fitch",
       "Fitch"
     ]
   },
@@ -469,8 +463,7 @@
     "id": "john-r-myhill",
     "full_name": "John R. Myhill",
     "alternative_names": [
-      "Myhill",
-      "R. Myhill"
+      "Myhill"
     ]
   },
   {
@@ -491,7 +484,6 @@
     "id": "haskell-b-curry",
     "full_name": "Haskell B. Curry",
     "alternative_names": [
-      "B. Curry",
       "Curry"
     ]
   },
@@ -499,7 +491,6 @@
     "id": "atwell-r-turquette",
     "full_name": "Atwell R. Turquette",
     "alternative_names": [
-      "R. Turquette",
       "Turquette"
     ]
   },
@@ -507,8 +498,7 @@
     "id": "richard-l-call",
     "full_name": "Richard L. Call",
     "alternative_names": [
-      "Call",
-      "L. Call"
+      "Call"
     ]
   },
   {
@@ -522,7 +512,6 @@
     "id": "max-a-zorn",
     "full_name": "Max A. Zorn",
     "alternative_names": [
-      "A. Zorn",
       "Zorn"
     ]
   },
@@ -537,15 +526,13 @@
     "id": "w-w-tait",
     "full_name": "William Walker Tait",
     "alternative_names": [
-      "Tait",
-      "W. Tait"
+      "Tait"
     ]
   },
   {
     "id": "raymond-m-smullyan",
     "full_name": "Raymond Merrill Smullyan",
     "alternative_names": [
-      "M. Smullyan",
       "Smullyan"
     ]
   },
@@ -557,11 +544,10 @@
     ]
   },
   {
-    "id": "carl-g-jockusch-suffixjrsuffix",
+    "id": "carl-g-jockusch-suffixjrsusch",
     "full_name": "Carl G. Jockusch, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>",
-      "G. <suffix>jr.</suffix>"
+      "Jockusch"
     ]
   },
   {
@@ -575,8 +561,7 @@
     "id": "g-h-von-wright",
     "full_name": "Georg Henrik von Wright",
     "alternative_names": [
-      "G. H. Wright",
-      "G. Wright",
+      "von Wright",
       "Wright"
     ]
   },
@@ -591,7 +576,6 @@
     "id": "j-r-shoenfield",
     "full_name": "Joseph R. Shoenfield",
     "alternative_names": [
-      "J. Shoenfield",
       "Shoenfield"
     ]
   },
@@ -599,15 +583,13 @@
     "id": "r-l-goodstein",
     "full_name": "Reuben Louis Goodstein",
     "alternative_names": [
-      "Goodstein",
-      "R. Goodstein"
+      "Goodstein"
     ]
   },
   {
     "id": "e-m-kleinberg",
     "full_name": "Eugene M. Kleinberg",
     "alternative_names": [
-      "E. Kleinberg",
       "Kleinberg"
     ]
   },
@@ -629,32 +611,28 @@
     "id": "m-j-cresswell",
     "full_name": "Maxwell John Cresswell",
     "alternative_names": [
-      "Cresswell",
-      "M. Cresswell"
+      "Cresswell"
     ]
   },
   {
     "id": "yiannis-n-moschovakis",
     "full_name": "Yiannis Nicholas Moschovakis",
     "alternative_names": [
-      "Moschovakis",
-      "N. Moschovakis"
+      "Moschovakis"
     ]
   },
   {
     "id": "r-l-graham",
     "full_name": "Ronald Lewis Graham",
     "alternative_names": [
-      "Graham",
-      "R. Graham"
+      "Graham"
     ]
   },
   {
     "id": "robert-e-clay",
     "full_name": "Robert E. Clay",
     "alternative_names": [
-      "Clay",
-      "E. Clay"
+      "Clay"
     ]
   },
   {
@@ -675,7 +653,6 @@
     "id": "richmond-h-thomason",
     "full_name": "Richmond Hale Thomason",
     "alternative_names": [
-      "H. Thomason",
       "Thomason"
     ]
   },
@@ -683,8 +660,7 @@
     "id": "d-randolph-johnson-suffixjrsuffix",
     "full_name": "D. Randolph Johnson, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>",
-      "D. <suffix>jr.</suffix>"
+      "Johnson"
     ]
   },
   {
@@ -698,8 +674,7 @@
     "id": "s-c-kleene",
     "full_name": "Stephen Cole Kleene",
     "alternative_names": [
-      "Kleene",
-      "S. Kleene"
+      "Kleene"
     ]
   },
   {
@@ -720,7 +695,6 @@
     "id": "n-z-shapiro",
     "full_name": "Norman Z. Shapiro",
     "alternative_names": [
-      "N. Shapiro",
       "Shapiro"
     ]
   },
@@ -728,8 +702,7 @@
     "id": "arnold-f-emch",
     "full_name": "Arnold F. Emch",
     "alternative_names": [
-      "Emch",
-      "F. Emch"
+      "Emch"
     ]
   },
   {
@@ -737,7 +710,7 @@
     "full_name": "Julius Richard Büchi",
     "alternative_names": [
       "Büchi",
-      "J. Büchi"
+      "Buchi"
     ]
   },
   {
@@ -772,7 +745,6 @@
     "id": "robert-l-stanley",
     "full_name": "Robert L. Stanley",
     "alternative_names": [
-      "L. Stanley",
       "Stanley"
     ]
   },
@@ -780,7 +752,6 @@
     "id": "clifford-d-firestone",
     "full_name": "Clifford D. Firestone",
     "alternative_names": [
-      "D. Firestone",
       "Firestone"
     ]
   },
@@ -788,7 +759,8 @@
     "id": "kurt-schtte",
     "full_name": "Kurt Schütte",
     "alternative_names": [
-      "Schütte"
+      "Schütte",
+      "Schutte"
     ]
   },
   {
@@ -802,7 +774,6 @@
     "id": "robert-l-vaught",
     "full_name": "Robert L. Vaught",
     "alternative_names": [
-      "L. Vaught",
       "Vaught"
     ]
   },
@@ -810,8 +781,7 @@
     "id": "m-r-krom",
     "full_name": "Melven R. Krom",
     "alternative_names": [
-      "Krom",
-      "M. Krom"
+      "Krom"
     ]
   },
   {
@@ -819,7 +789,7 @@
     "full_name": "Martin Hugo Löb",
     "alternative_names": [
       "Löb",
-      "M. Löb"
+      "Lob"
     ]
   },
   {
@@ -833,7 +803,6 @@
     "id": "h-jerome-keisler",
     "full_name": "Howard Jerome Keisler",
     "alternative_names": [
-      "H. Keisler",
       "Keisler"
     ]
   },
@@ -841,7 +810,6 @@
     "id": "a-b-slomson",
     "full_name": "Alan B. Slomson",
     "alternative_names": [
-      "A. Slomson",
       "Slomson"
     ]
   },
@@ -856,6 +824,7 @@
     "id": "dirk-van-dalen",
     "full_name": "Dirk Van Dalen",
     "alternative_names": [
+      "Van Dalen",
       "Dalen"
     ]
   },
@@ -863,7 +832,6 @@
     "id": "j-c-shepherdson",
     "full_name": "John C. Shepherdson",
     "alternative_names": [
-      "J. Shepherdson",
       "Shepherdson"
     ]
   },
@@ -913,7 +881,6 @@
     "id": "alan-g-hamilton",
     "full_name": "Alan G. Hamilton",
     "alternative_names": [
-      "G. Hamilton",
       "Hamilton"
     ]
   },
@@ -921,7 +888,8 @@
     "id": "roland-frass",
     "full_name": "Roland Fraïssé",
     "alternative_names": [
-      "Fraïssé"
+      "Fraïssé",
+      "Fraisse"
     ]
   },
   {
@@ -949,15 +917,13 @@
     "id": "ray-h-dotterer",
     "full_name": "Ray H. Dotterer",
     "alternative_names": [
-      "Dotterer",
-      "H. Dotterer"
+      "Dotterer"
     ]
   },
   {
     "id": "j-donald-monk",
     "full_name": "James Donald Monk",
     "alternative_names": [
-      "J. Monk",
       "Monk"
     ]
   },
@@ -979,8 +945,7 @@
     "id": "e-w-beth",
     "full_name": "Evert Willem Beth",
     "alternative_names": [
-      "Beth",
-      "E. Beth"
+      "Beth"
     ]
   },
   {
@@ -1008,14 +973,14 @@
     "id": "vladimir-devid",
     "full_name": "Vladimir Devidé",
     "alternative_names": [
-      "Devidé"
+      "Devidé",
+      "Devide"
     ]
   },
   {
     "id": "m-h-a-newman",
     "full_name": "Maxwell Herman Alexander Newman",
     "alternative_names": [
-      "M. Newman",
       "Newman"
     ]
   },
@@ -1023,7 +988,6 @@
     "id": "a-m-turing",
     "full_name": "Alan Mathison Turing",
     "alternative_names": [
-      "A. Turing",
       "Turing"
     ]
   },
@@ -1038,7 +1002,6 @@
     "id": "susanne-k-langer",
     "full_name": "Susanne K. Langer",
     "alternative_names": [
-      "K. Langer",
       "Langer"
     ]
   },
@@ -1046,15 +1009,13 @@
     "id": "r-a-bull",
     "full_name": "R. A. Bull",
     "alternative_names": [
-      "Bull",
-      "R. Bull"
+      "Bull"
     ]
   },
   {
     "id": "d-a-martin",
     "full_name": "Donald A. Martin",
     "alternative_names": [
-      "D. Martin",
       "Martin"
     ]
   },
@@ -1062,7 +1023,6 @@
     "id": "m-b-pour-el",
     "full_name": "Marian Boykan Pour-el",
     "alternative_names": [
-      "M. Pour-el",
       "Pour-el"
     ]
   },
@@ -1077,22 +1037,21 @@
     "id": "sren-halldn",
     "full_name": "Sören Halldén",
     "alternative_names": [
-      "Halldén"
+      "Halldén",
+      "Hallden"
     ]
   },
   {
     "id": "r-b-angell",
     "full_name": "Richard B. Angell",
     "alternative_names": [
-      "Angell",
-      "R. Angell"
+      "Angell"
     ]
   },
   {
     "id": "j-c-c-mckinsey",
     "full_name": "John Charles Chenoweth McKinsey",
     "alternative_names": [
-      "J. Mckinsey",
       "Mckinsey"
     ]
   },
@@ -1121,15 +1080,13 @@
     "id": "nuel-d-belnap-jr",
     "full_name": "Nuel D. Belnap, Jr.",
     "alternative_names": [
-      "D. Jr.",
-      "Jr."
+      "Belnap"
     ]
   },
   {
     "id": "robert-i-soare",
     "full_name": "Robert I. Soare",
     "alternative_names": [
-      "I. Soare",
       "Soare"
     ]
   },
@@ -1137,7 +1094,6 @@
     "id": "j-jay-zeman",
     "full_name": "J. Jay Zeman",
     "alternative_names": [
-      "J. Zeman",
       "Zeman"
     ]
   },
@@ -1146,14 +1102,13 @@
     "full_name": "I. L. Gál",
     "alternative_names": [
       "Gál",
-      "I. Gál"
+      "Gal"
     ]
   },
   {
     "id": "j-b-rosser",
     "full_name": "John Barkley Rosser",
     "alternative_names": [
-      "J. Rosser",
       "Rosser"
     ]
   },
@@ -1175,8 +1130,7 @@
     "id": "f-r-drake",
     "full_name": "Frank Robert Drake",
     "alternative_names": [
-      "Drake",
-      "F. Drake"
+      "Drake"
     ]
   },
   {
@@ -1190,15 +1144,13 @@
     "id": "r-o-gandy",
     "full_name": "Robin Oliver Gandy",
     "alternative_names": [
-      "Gandy",
-      "R. Gandy"
+      "Gandy"
     ]
   },
   {
     "id": "c-e-m-yates",
     "full_name": "C. E. M. Yates",
     "alternative_names": [
-      "C. Yates",
       "Yates"
     ]
   },
@@ -1206,7 +1158,6 @@
     "id": "gerald-e-sacks",
     "full_name": "Gerald E. Sacks",
     "alternative_names": [
-      "E. Sacks",
       "Sacks"
     ]
   },
@@ -1242,7 +1193,6 @@
     "id": "a-h-lachlan",
     "full_name": "Alistair Henry Lachlan",
     "alternative_names": [
-      "A. Lachlan",
       "Lachlan"
     ]
   },
@@ -1250,7 +1200,8 @@
     "id": "stanisaw-jakowski",
     "full_name": "Stanisław Jaśkowski",
     "alternative_names": [
-      "Jaśkowski"
+      "Jaśkowski",
+      "Jaskowski"
     ]
   },
   {
@@ -1264,8 +1215,7 @@
     "id": "irving-m-copi",
     "full_name": "Irving M. Copi",
     "alternative_names": [
-      "Copi",
-      "M. Copi"
+      "Copi"
     ]
   },
   {
@@ -1279,8 +1229,7 @@
     "id": "j-b-florence",
     "full_name": "J. B. Florence",
     "alternative_names": [
-      "Florence",
-      "J. Florence"
+      "Florence"
     ]
   },
   {
@@ -1294,7 +1243,6 @@
     "id": "william-h-hanson",
     "full_name": "William H. Hanson",
     "alternative_names": [
-      "H. Hanson",
       "Hanson"
     ]
   },
@@ -1302,7 +1250,6 @@
     "id": "emil-l-post",
     "full_name": "Emil L. Post",
     "alternative_names": [
-      "L. Post",
       "Post"
     ]
   },
@@ -1331,7 +1278,6 @@
     "id": "r-l-vaught",
     "full_name": "Robert Lee Vaught",
     "alternative_names": [
-      "R. Vaught",
       "Vaught"
     ]
   },
@@ -1346,7 +1292,7 @@
     "id": "k-jaakko",
     "full_name": "Kaarlo Jaakko Hintikka",
     "alternative_names": [
-      "Jaakko"
+      "Hintikka"
     ]
   },
   {
@@ -1360,7 +1306,6 @@
     "id": "e-mark-gold",
     "full_name": "E. Mark Gold",
     "alternative_names": [
-      "E. Gold",
       "Gold"
     ]
   },
@@ -1382,8 +1327,7 @@
     "id": "l-jonathan-cohen",
     "full_name": "L. Jonathan Cohen",
     "alternative_names": [
-      "Cohen",
-      "L. Cohen"
+      "Cohen"
     ]
   },
   {
@@ -1405,7 +1349,7 @@
     "full_name": "L. P. Gokiéli",
     "alternative_names": [
       "Gokiéli",
-      "L. Gokiéli"
+      "Gokieli"
     ]
   },
   {
@@ -1440,7 +1384,6 @@
     "id": "thomas-e-patton",
     "full_name": "Thomas E. Patton",
     "alternative_names": [
-      "E. Patton",
       "Patton"
     ]
   },
@@ -1448,7 +1391,7 @@
     "id": "c-g-mckay",
     "full_name": "C. G. McKay",
     "alternative_names": [
-      "C. Mckay",
+      "McKay",
       "Mckay"
     ]
   },
@@ -1456,7 +1399,6 @@
     "id": "c-c-chang",
     "full_name": "Chen Chung Chang",
     "alternative_names": [
-      "C. Chang",
       "Chang"
     ]
   },
@@ -1464,7 +1406,6 @@
     "id": "anne-c-morel",
     "full_name": "Anne C. Morel",
     "alternative_names": [
-      "C. Morel",
       "Morel"
     ]
   },
@@ -1472,15 +1413,13 @@
     "id": "eugene-w-madison",
     "full_name": "Eugene W. Madison",
     "alternative_names": [
-      "Madison",
-      "W. Madison"
+      "Madison"
     ]
   },
   {
     "id": "a-r-turquette",
     "full_name": "Atwell R. Turquette",
     "alternative_names": [
-      "A. Turquette",
       "Turquette"
     ]
   },
@@ -1502,22 +1441,23 @@
     "id": "k-i-appel",
     "full_name": "Kenneth Ira Appel",
     "alternative_names": [
-      "Appel",
-      "K. Appel"
+      "Appel"
     ]
   },
   {
     "id": "l-gl",
     "full_name": "L. Gál",
     "alternative_names": [
-      "Gál"
+      "Gál",
+      "Gal"
     ]
   },
   {
     "id": "hans-robert-mller",
     "full_name": "Hans Robert Müller",
     "alternative_names": [
-      "Müller"
+      "Müller",
+      "Muller"
     ]
   },
   {
@@ -1531,7 +1471,6 @@
     "id": "p-b-schwartz",
     "full_name": "P. B. Schwartz",
     "alternative_names": [
-      "P. Schwartz",
       "Schwartz"
     ]
   },
@@ -1539,6 +1478,7 @@
     "id": "h-hiz",
     "full_name": "Henryk Hiż",
     "alternative_names": [
+      "Hiż",
       "Hiz"
     ]
   },
@@ -1546,8 +1486,7 @@
     "id": "philip-k-hooper",
     "full_name": "Philip K. Hooper",
     "alternative_names": [
-      "Hooper",
-      "K. Hooper"
+      "Hooper"
     ]
   },
   {
@@ -1561,8 +1500,7 @@
     "id": "r-w-house",
     "full_name": "R. W. House",
     "alternative_names": [
-      "House",
-      "R. House"
+      "House"
     ]
   },
   {
@@ -1576,8 +1514,7 @@
     "id": "william-s-hatcher",
     "full_name": "William S. Hatcher",
     "alternative_names": [
-      "Hatcher",
-      "S. Hatcher"
+      "Hatcher"
     ]
   },
   {
@@ -1598,15 +1535,13 @@
     "id": "z-p-dienes",
     "full_name": "Zoltan Paul Dienes",
     "alternative_names": [
-      "Dienes",
-      "Z. Dienes"
+      "Dienes"
     ]
   },
   {
     "id": "r-h-thomason",
     "full_name": "Richmond Hale Thomason",
     "alternative_names": [
-      "R. Thomason",
       "Thomason"
     ]
   },
@@ -1621,7 +1556,6 @@
     "id": "donald-a-martin",
     "full_name": "Donald A. Martin",
     "alternative_names": [
-      "A. Martin",
       "Martin"
     ]
   },
@@ -1629,7 +1563,7 @@
     "id": "wilbur-john-walkoe-suffixjrsuffix",
     "full_name": "Wilbur John Walkoe, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>"
+      "Walkoe"
     ]
   },
   {
@@ -1643,8 +1577,7 @@
     "id": "richard-m-friedberg",
     "full_name": "Richard M. Friedberg",
     "alternative_names": [
-      "Friedberg",
-      "M. Friedberg"
+      "Friedberg"
     ]
   },
   {
@@ -1658,15 +1591,13 @@
     "id": "l-p-belluce",
     "full_name": "Lawrence Peter Belluce",
     "alternative_names": [
-      "Belluce",
-      "L. Belluce"
+      "Belluce"
     ]
   },
   {
     "id": "c-a-meredith",
     "full_name": "Carew Arthur Meredith",
     "alternative_names": [
-      "C. Meredith",
       "Meredith"
     ]
   },
@@ -1681,7 +1612,6 @@
     "id": "h-r-strong",
     "full_name": "H. R. Strong",
     "alternative_names": [
-      "H. Strong",
       "Strong"
     ]
   },
@@ -1696,7 +1626,6 @@
     "id": "frank-b-cannonito",
     "full_name": "Frank B. Cannonito",
     "alternative_names": [
-      "B. Cannonito",
       "Cannonito"
     ]
   },
@@ -1718,7 +1647,6 @@
     "id": "paul-c-rosenbloom",
     "full_name": "Paul C. Rosenbloom",
     "alternative_names": [
-      "C. Rosenbloom",
       "Rosenbloom"
     ]
   },
@@ -1768,7 +1696,6 @@
     "id": "joseph-s-wholey",
     "full_name": "Joseph S. Wholey",
     "alternative_names": [
-      "S. Wholey",
       "Wholey"
     ]
   },
@@ -1776,22 +1703,21 @@
     "id": "maurice-labb",
     "full_name": "Maurice L'abbé",
     "alternative_names": [
-      "L'abbé"
+      "L'abbé",
+      "Labbe"
     ]
   },
   {
     "id": "james-k-feibleman",
     "full_name": "James K. Feibleman",
     "alternative_names": [
-      "Feibleman",
-      "K. Feibleman"
+      "Feibleman"
     ]
   },
   {
     "id": "r-m-smullyan",
     "full_name": "Raymond Merrill Smullyan",
     "alternative_names": [
-      "R. Smullyan",
       "Smullyan"
     ]
   },
@@ -1799,7 +1725,8 @@
     "id": "lszl-kalmr",
     "full_name": "László Kalmár",
     "alternative_names": [
-      "Kalmár"
+      "Kalmár",
+      "Kalmar"
     ]
   },
   {
@@ -1813,7 +1740,6 @@
     "id": "m-k-rennie",
     "full_name": "M. K. Rennie",
     "alternative_names": [
-      "M. Rennie",
       "Rennie"
     ]
   },
@@ -1821,8 +1747,7 @@
     "id": "matthew-j-hassett",
     "full_name": "Matthew J. Hassett",
     "alternative_names": [
-      "Hassett",
-      "J. Hassett"
+      "Hassett"
     ]
   },
   {
@@ -1843,8 +1768,8 @@
     "id": "m-h-lob",
     "full_name": "Martin Hugo Löb",
     "alternative_names": [
-      "Lob",
-      "M. Lob"
+      "Löb",
+      "Lob"
     ]
   },
   {
@@ -1858,7 +1783,6 @@
     "id": "gerald-j-massey",
     "full_name": "Gerald J. Massey",
     "alternative_names": [
-      "J. Massey",
       "Massey"
     ]
   },
@@ -1866,8 +1790,7 @@
     "id": "john-t-kearns",
     "full_name": "John T. Kearns",
     "alternative_names": [
-      "Kearns",
-      "T. Kearns"
+      "Kearns"
     ]
   },
   {
@@ -1881,7 +1804,6 @@
     "id": "a-ushenko",
     "full_name": "Andrew Ushenko",
     "alternative_names": [
-      "A. Ushenko",
       "Ushenko"
     ]
   },
@@ -1889,7 +1811,6 @@
     "id": "gerald-b-standley",
     "full_name": "Gerald B. Standley",
     "alternative_names": [
-      "B. Standley",
       "Standley"
     ]
   },
@@ -1904,7 +1825,7 @@
     "id": "robert-a-di-paola",
     "full_name": "Robert A. Di Paola",
     "alternative_names": [
-      "A. Paola",
+      "Di Paola",
       "Paola"
     ]
   },
@@ -1912,7 +1833,6 @@
     "id": "robert-k-meyer",
     "full_name": "Robert K. Meyer",
     "alternative_names": [
-      "K. Meyer",
       "Meyer"
     ]
   },
@@ -1920,15 +1840,13 @@
     "id": "j-michael-dunn",
     "full_name": "J. Michael Dunn",
     "alternative_names": [
-      "Dunn",
-      "J. Dunn"
+      "Dunn"
     ]
   },
   {
     "id": "a-h-kruse",
     "full_name": "A. H. Kruse",
     "alternative_names": [
-      "A. Kruse",
       "Kruse"
     ]
   },
@@ -1936,7 +1854,8 @@
     "id": "h-hi",
     "full_name": "Henryk Hiż",
     "alternative_names": [
-      "Hiż"
+      "Hiż",
+      "Hiz"
     ]
   },
   {
@@ -1964,16 +1883,14 @@
     "id": "c-h-applebaum",
     "full_name": "C. H. Applebaum",
     "alternative_names": [
-      "Applebaum",
-      "C. Applebaum"
+      "Applebaum"
     ]
   },
   {
     "id": "j-c-e-dekker",
     "full_name": "Jacob C. E. Dekker",
     "alternative_names": [
-      "Dekker",
-      "J. Dekker"
+      "Dekker"
     ]
   },
   {
@@ -1987,15 +1904,13 @@
     "id": "n-j-fine",
     "full_name": "Nathan J. Fine",
     "alternative_names": [
-      "Fine",
-      "N. Fine"
+      "Fine"
     ]
   },
   {
     "id": "a-f-bausch",
     "full_name": "A. F. Bausch",
     "alternative_names": [
-      "A. Bausch",
       "Bausch"
     ]
   },
@@ -2031,7 +1946,8 @@
     "id": "lennart-qvist",
     "full_name": "Lennart Åqvist",
     "alternative_names": [
-      "Åqvist"
+      "Åqvist",
+      "Aqvist"
     ]
   },
   {
@@ -2052,8 +1968,7 @@
     "id": "w-h-gottschalk",
     "full_name": "Walter H. Gottschalk",
     "alternative_names": [
-      "Gottschalk",
-      "W. Gottschalk"
+      "Gottschalk"
     ]
   },
   {
@@ -2067,8 +1982,7 @@
     "id": "carol-r-karp",
     "full_name": "Carol R. Karp",
     "alternative_names": [
-      "Karp",
-      "R. Karp"
+      "Karp"
     ]
   },
   {
@@ -2082,7 +1996,6 @@
     "id": "joseph-d-rutledge",
     "full_name": "Joseph D. Rutledge",
     "alternative_names": [
-      "D. Rutledge",
       "Rutledge"
     ]
   },
@@ -2111,8 +2024,7 @@
     "id": "j-a-faris",
     "full_name": "J. A. Faris",
     "alternative_names": [
-      "Faris",
-      "J. Faris"
+      "Faris"
     ]
   },
   {
@@ -2126,15 +2038,15 @@
     "id": "rzsa-pter",
     "full_name": "Rózsa Péter",
     "alternative_names": [
-      "Péter"
+      "Péter",
+      "Peter"
     ]
   },
   {
     "id": "nuel-d-belnap-suffixjrsuffix",
     "full_name": "Nuel D. Belnap, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>",
-      "D. <suffix>jr.</suffix>"
+      "Belnap"
     ]
   },
   {
@@ -2169,7 +2081,6 @@
     "id": "carl-g-hempel",
     "full_name": "Carl G. Hempel",
     "alternative_names": [
-      "G. Hempel",
       "Hempel"
     ]
   },
@@ -2184,15 +2095,13 @@
     "id": "g-d-w-berry",
     "full_name": "George D. W. Berry",
     "alternative_names": [
-      "Berry",
-      "G. Berry"
+      "Berry"
     ]
   },
   {
     "id": "h-r-smart",
     "full_name": "Harold Robert Smart",
     "alternative_names": [
-      "H. Smart",
       "Smart"
     ]
   },
@@ -2207,8 +2116,7 @@
     "id": "robin-o-gandy",
     "full_name": "Robin O. Gandy",
     "alternative_names": [
-      "Gandy",
-      "O. Gandy"
+      "Gandy"
     ]
   },
   {
@@ -2229,8 +2137,7 @@
     "id": "james-r-geiser",
     "full_name": "James R. Geiser",
     "alternative_names": [
-      "Geiser",
-      "R. Geiser"
+      "Geiser"
     ]
   },
   {
@@ -2251,7 +2158,6 @@
     "id": "j-p-jones",
     "full_name": "James P. Jones",
     "alternative_names": [
-      "J. Jones",
       "Jones"
     ]
   },
@@ -2266,22 +2172,21 @@
     "id": "azriel-lvy",
     "full_name": "Azriel Lévy",
     "alternative_names": [
-      "Lévy"
+      "Lévy",
+      "Levy"
     ]
   },
   {
     "id": "james-s-johnson",
     "full_name": "James S. Johnson",
     "alternative_names": [
-      "Johnson",
-      "S. Johnson"
+      "Johnson"
     ]
   },
   {
     "id": "c-h-langford",
     "full_name": "Cooper Harold Langford",
     "alternative_names": [
-      "C. Langford",
       "Langford"
     ]
   },
@@ -2289,7 +2194,6 @@
     "id": "a-c-ewing",
     "full_name": "Alfred Cyril Ewing",
     "alternative_names": [
-      "A. Ewing",
       "Ewing"
     ]
   },
@@ -2318,7 +2222,6 @@
     "id": "peter-h-krauss",
     "full_name": "Peter H. Krauss",
     "alternative_names": [
-      "H. Krauss",
       "Krauss"
     ]
   },
@@ -2333,7 +2236,7 @@
     "id": "e-g-k-lopez-escobar",
     "full_name": "E. G. K. Lopez-Escobar",
     "alternative_names": [
-      "E. Lopez-escobar",
+      "Lopez-Escobar",
       "Lopez-escobar"
     ]
   },
@@ -2341,7 +2244,8 @@
     "id": "g-plya",
     "full_name": "G. Pólya",
     "alternative_names": [
-      "Pólya"
+      "Pólya",
+      "Polya"
     ]
   },
   {
@@ -2355,15 +2259,13 @@
     "id": "w-t-parry",
     "full_name": "William Tuthill Parry",
     "alternative_names": [
-      "Parry",
-      "W. Parry"
+      "Parry"
     ]
   },
   {
     "id": "c-ward-henson",
     "full_name": "C. Ward Henson",
     "alternative_names": [
-      "C. Henson",
       "Henson"
     ]
   },
@@ -2371,8 +2273,7 @@
     "id": "irving-m-copilowish",
     "full_name": "Irving M. Copilowish",
     "alternative_names": [
-      "Copilowish",
-      "M. Copilowish"
+      "Copilowish"
     ]
   },
   {
@@ -2393,8 +2294,7 @@
     "id": "m-d-gladstone",
     "full_name": "M. D. Gladstone",
     "alternative_names": [
-      "Gladstone",
-      "M. Gladstone"
+      "Gladstone"
     ]
   },
   {
@@ -2408,7 +2308,6 @@
     "id": "j-w-thatcher",
     "full_name": "James W. Thatcher",
     "alternative_names": [
-      "J. Thatcher",
       "Thatcher"
     ]
   },
@@ -2416,15 +2315,13 @@
     "id": "w-a-howard",
     "full_name": "William Alvin Howard",
     "alternative_names": [
-      "Howard",
-      "W. Howard"
+      "Howard"
     ]
   },
   {
     "id": "bernard-k-symonds",
     "full_name": "Bernard K. Symonds",
     "alternative_names": [
-      "K. Symonds",
       "Symonds"
     ]
   },
@@ -2432,15 +2329,15 @@
     "id": "roderick-m-chisholm",
     "full_name": "Roderick M. Chisholm",
     "alternative_names": [
-      "Chisholm",
-      "M. Chisholm"
+      "Chisholm"
     ]
   },
   {
     "id": "jnos-surnyi",
     "full_name": "János Surányi",
     "alternative_names": [
-      "Surányi"
+      "Surányi",
+      "Suranyi"
     ]
   },
   {
@@ -2461,15 +2358,13 @@
     "id": "henry-s-leonard",
     "full_name": "Henry S. Leonard",
     "alternative_names": [
-      "Leonard",
-      "S. Leonard"
+      "Leonard"
     ]
   },
   {
     "id": "charles-a-baylis",
     "full_name": "Charles A. Baylis",
     "alternative_names": [
-      "A. Baylis",
       "Baylis"
     ]
   },
@@ -2484,15 +2379,15 @@
     "id": "eugene-p-northrop",
     "full_name": "Eugene P. Northrop",
     "alternative_names": [
-      "Northrop",
-      "P. Northrop"
+      "Northrop"
     ]
   },
   {
     "id": "per-lindstrm",
     "full_name": "Per Lindström",
     "alternative_names": [
-      "Lindström"
+      "Lindström",
+      "Lindstrom"
     ]
   },
   {
@@ -2506,7 +2401,6 @@
     "id": "e-j-lemmon",
     "full_name": "Edward John Lemmon",
     "alternative_names": [
-      "E. Lemmon",
       "Lemmon"
     ]
   },
@@ -2563,7 +2457,6 @@
     "id": "p-g-j-vredenduin",
     "full_name": "P. G. J. Vredenduin",
     "alternative_names": [
-      "P. Vredenduin",
       "Vredenduin"
     ]
   },
@@ -2592,7 +2485,6 @@
     "id": "j-o-wisdom",
     "full_name": "John Oulton Wisdom",
     "alternative_names": [
-      "J. Wisdom",
       "Wisdom"
     ]
   },
@@ -2600,7 +2492,6 @@
     "id": "a-n-prior",
     "full_name": "Arthur Norman Prior",
     "alternative_names": [
-      "A. Prior",
       "Prior"
     ]
   },
@@ -2608,7 +2499,7 @@
     "id": "trenchard-more-suffixjrsuffix",
     "full_name": "Trenchard More, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>"
+      "More"
     ]
   },
   {
@@ -2622,7 +2513,6 @@
     "id": "e-r-lorch",
     "full_name": "Edward R. Lorch",
     "alternative_names": [
-      "E. Lorch",
       "Lorch"
     ]
   },
@@ -2637,15 +2527,13 @@
     "id": "stephen-d-comer",
     "full_name": "Stephen D. Comer",
     "alternative_names": [
-      "Comer",
-      "D. Comer"
+      "Comer"
     ]
   },
   {
     "id": "norman-m-martin",
     "full_name": "Norman M. Martin",
     "alternative_names": [
-      "M. Martin",
       "Martin"
     ]
   },
@@ -2653,7 +2541,6 @@
     "id": "richard-a-platek",
     "full_name": "Richard A. Platek",
     "alternative_names": [
-      "A. Platek",
       "Platek"
     ]
   },
@@ -2661,8 +2548,7 @@
     "id": "m-j-alban",
     "full_name": "M. J. Alban",
     "alternative_names": [
-      "Alban",
-      "M. Alban"
+      "Alban"
     ]
   },
   {
@@ -2690,7 +2576,8 @@
     "id": "vclav-edvard-bene",
     "full_name": "Václav Edvard Beneš",
     "alternative_names": [
-      "Beneš"
+      "Beneš",
+      "Benes"
     ]
   },
   {
@@ -2725,7 +2612,6 @@
     "id": "h-a-schmidt",
     "full_name": "H. Arnold Schmidt",
     "alternative_names": [
-      "H. Schmidt",
       "Schmidt"
     ]
   },
@@ -2733,7 +2619,8 @@
     "id": "k-schtte",
     "full_name": "Kurt Schütte",
     "alternative_names": [
-      "Schütte"
+      "Schütte",
+      "Schutte"
     ]
   },
   {
@@ -2747,8 +2634,7 @@
     "id": "dov-m-gabbay",
     "full_name": "Dov M. Gabbay",
     "alternative_names": [
-      "Gabbay",
-      "M. Gabbay"
+      "Gabbay"
     ]
   },
   {
@@ -2762,7 +2648,6 @@
     "id": "j-a-robinson",
     "full_name": "John Alan Robinson",
     "alternative_names": [
-      "J. Robinson",
       "Robinson"
     ]
   },
@@ -2770,8 +2655,7 @@
     "id": "n-m-martin",
     "full_name": "Norman M. Martin",
     "alternative_names": [
-      "Martin",
-      "N. Martin"
+      "Martin"
     ]
   },
   {
@@ -2792,23 +2676,21 @@
     "id": "marshall-hall-suffixjrsuffix",
     "full_name": "Marshall Hall, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>"
+      "Hall"
     ]
   },
   {
     "id": "daniel-j-bronstein",
     "full_name": "Daniel J. Bronstein",
     "alternative_names": [
-      "Bronstein",
-      "J. Bronstein"
+      "Bronstein"
     ]
   },
   {
     "id": "h-b-curry",
     "full_name": "Haskell Brooks Curry",
     "alternative_names": [
-      "Curry",
-      "H. Curry"
+      "Curry"
     ]
   },
   {
@@ -2822,7 +2704,6 @@
     "id": "saul-a-kripke",
     "full_name": "Saul A. Kripke",
     "alternative_names": [
-      "A. Kripke",
       "Kripke"
     ]
   },
@@ -2830,16 +2711,14 @@
     "id": "daniel-e-anderson",
     "full_name": "Daniel E. Anderson",
     "alternative_names": [
-      "Anderson",
-      "E. Anderson"
+      "Anderson"
     ]
   },
   {
     "id": "frank-l-cleaver",
     "full_name": "Frank L. Cleaver",
     "alternative_names": [
-      "Cleaver",
-      "L. Cleaver"
+      "Cleaver"
     ]
   },
   {
@@ -2853,8 +2732,7 @@
     "id": "w-e-singletary",
     "full_name": "William E. Singletary",
     "alternative_names": [
-      "Singletary",
-      "W. Singletary"
+      "Singletary"
     ]
   },
   {
@@ -2882,7 +2760,6 @@
     "id": "c-i-lewis",
     "full_name": "Clarence Irving Lewis",
     "alternative_names": [
-      "C. Lewis",
       "Lewis"
     ]
   },
@@ -2890,8 +2767,7 @@
     "id": "robert-w-robinson",
     "full_name": "Robert W. Robinson",
     "alternative_names": [
-      "Robinson",
-      "W. Robinson"
+      "Robinson"
     ]
   },
   {
@@ -2912,7 +2788,6 @@
     "id": "e-v-huntington",
     "full_name": "Edward Vermilye Huntington",
     "alternative_names": [
-      "E. Huntington",
       "Huntington"
     ]
   },
@@ -2927,15 +2802,13 @@
     "id": "p-d-finch",
     "full_name": "Peter D. Finch",
     "alternative_names": [
-      "Finch",
-      "P. Finch"
+      "Finch"
     ]
   },
   {
     "id": "d-c-makinson",
     "full_name": "David C. Makinson",
     "alternative_names": [
-      "D. Makinson",
       "Makinson"
     ]
   },
@@ -2971,15 +2844,13 @@
     "id": "john-n-crossley",
     "full_name": "John N. Crossley",
     "alternative_names": [
-      "Crossley",
-      "N. Crossley"
+      "Crossley"
     ]
   },
   {
     "id": "r-l-wilder",
     "full_name": "Raymond Louis Wilder",
     "alternative_names": [
-      "R. Wilder",
       "Wilder"
     ]
   },
@@ -2987,7 +2858,6 @@
     "id": "sherman-k-stein",
     "full_name": "Sherman K. Stein",
     "alternative_names": [
-      "K. Stein",
       "Stein"
     ]
   },
@@ -3002,7 +2872,6 @@
     "id": "b-a-bernstein",
     "full_name": "Benjamin A. Bernstein",
     "alternative_names": [
-      "B. Bernstein",
       "Bernstein"
     ]
   },
@@ -3010,7 +2879,6 @@
     "id": "morton-g-white",
     "full_name": "Morton G. White",
     "alternative_names": [
-      "G. White",
       "White"
     ]
   },
@@ -3018,7 +2886,6 @@
     "id": "john-l-pollock",
     "full_name": "John L. Pollock",
     "alternative_names": [
-      "L. Pollock",
       "Pollock"
     ]
   },
@@ -3026,7 +2893,6 @@
     "id": "raphael-m-robinson",
     "full_name": "Raphael M. Robinson",
     "alternative_names": [
-      "M. Robinson",
       "Robinson"
     ]
   },
@@ -3034,8 +2900,7 @@
     "id": "thomas-j-grilliot",
     "full_name": "Thomas J. Grilliot",
     "alternative_names": [
-      "Grilliot",
-      "J. Grilliot"
+      "Grilliot"
     ]
   },
   {
@@ -3049,8 +2914,7 @@
     "id": "h-b-enderton",
     "full_name": "Herbert Bruce Enderton",
     "alternative_names": [
-      "Enderton",
-      "H. Enderton"
+      "Enderton"
     ]
   },
   {
@@ -3064,23 +2928,20 @@
     "id": "j-n-crossley",
     "full_name": "John N. Crossley",
     "alternative_names": [
-      "Crossley",
-      "J. Crossley"
+      "Crossley"
     ]
   },
   {
     "id": "w-d-ross",
     "full_name": "William David Ross",
     "alternative_names": [
-      "Ross",
-      "W. Ross"
+      "Ross"
     ]
   },
   {
     "id": "h-g-rice",
     "full_name": "Henry Gordon Rice",
     "alternative_names": [
-      "H. Rice",
       "Rice"
     ]
   },
@@ -3088,15 +2949,15 @@
     "id": "r-sherman-lehman",
     "full_name": "R. Sherman Lehman",
     "alternative_names": [
-      "Lehman",
-      "R. Lehman"
+      "Lehman"
     ]
   },
   {
     "id": "bolesaw-sobociski",
     "full_name": "Bolesław Sobociński",
     "alternative_names": [
-      "Sobociński"
+      "Sobociński",
+      "Sobocinski"
     ]
   },
   {
@@ -3110,6 +2971,7 @@
     "id": "karel-de-bouvere",
     "full_name": "Karel De Bouvere",
     "alternative_names": [
+      "De Bouvere",
       "Bouvere"
     ]
   },
@@ -3131,15 +2993,13 @@
     "id": "dennis-f-cudia",
     "full_name": "Dennis F. Cudia",
     "alternative_names": [
-      "Cudia",
-      "F. Cudia"
+      "Cudia"
     ]
   },
   {
     "id": "wilson-e-singletary",
-    "full_name": "Wilson E. Singletary",
+    "full_name": "William E. Singletary",
     "alternative_names": [
-      "E. Singletary",
       "Singletary"
     ]
   },
@@ -3147,7 +3007,6 @@
     "id": "j-h-woodger",
     "full_name": "Joseph Henry Woodger",
     "alternative_names": [
-      "J. Woodger",
       "Woodger"
     ]
   },
@@ -3155,7 +3014,6 @@
     "id": "h-e-vaughan",
     "full_name": "Herbert E. Vaughan",
     "alternative_names": [
-      "H. Vaughan",
       "Vaughan"
     ]
   },
@@ -3163,15 +3021,13 @@
     "id": "james-c-owings-suffixjrsuffix",
     "full_name": "James C. Owings, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>",
-      "C. <suffix>jr.</suffix>"
+      "Owings"
     ]
   },
   {
     "id": "lawrence-h-landweber",
     "full_name": "Lawrence H. Landweber",
     "alternative_names": [
-      "H. Landweber",
       "Landweber"
     ]
   },
@@ -3179,7 +3035,6 @@
     "id": "a-h-lightstone",
     "full_name": "Albert Harold Lightstone",
     "alternative_names": [
-      "A. Lightstone",
       "Lightstone"
     ]
   },
@@ -3194,15 +3049,13 @@
     "id": "m-a-e-dummett",
     "full_name": "Michael Anthony Eardley Dummett",
     "alternative_names": [
-      "Dummett",
-      "M. Dummett"
+      "Dummett"
     ]
   },
   {
     "id": "s-k-thomason",
     "full_name": "S. K. Thomason",
     "alternative_names": [
-      "S. Thomason",
       "Thomason"
     ]
   },
@@ -3210,15 +3063,13 @@
     "id": "nathan-p-levin",
     "full_name": "Nathan P. Levin",
     "alternative_names": [
-      "Levin",
-      "P. Levin"
+      "Levin"
     ]
   },
   {
     "id": "don-c-ferguson",
     "full_name": "Don C. Ferguson",
     "alternative_names": [
-      "C. Ferguson",
       "Ferguson"
     ]
   },
@@ -3254,15 +3105,13 @@
     "id": "kenneth-r-brown",
     "full_name": "Kenneth R. Brown",
     "alternative_names": [
-      "Brown",
-      "R. Brown"
+      "Brown"
     ]
   },
   {
     "id": "leslie-h-tharp",
     "full_name": "Leslie H. Tharp",
     "alternative_names": [
-      "H. Tharp",
       "Tharp"
     ]
   },
@@ -3270,7 +3119,6 @@
     "id": "j-s-ullian",
     "full_name": "Joseph S. Ullian",
     "alternative_names": [
-      "J. Ullian",
       "Ullian"
     ]
   },
@@ -3292,14 +3140,14 @@
     "id": "robert-blanch",
     "full_name": "Robert Blanché",
     "alternative_names": [
-      "Blanché"
+      "Blanché",
+      "Blanche"
     ]
   },
   {
     "id": "c-west-churchman",
     "full_name": "C. West Churchman",
     "alternative_names": [
-      "C. Churchman",
       "Churchman"
     ]
   },
@@ -3335,7 +3183,6 @@
     "id": "almroth-e-wright",
     "full_name": "Almroth E. Wright",
     "alternative_names": [
-      "E. Wright",
       "Wright"
     ]
   },
@@ -3343,8 +3190,7 @@
     "id": "graham-c-driscoll-suffixjrsuffix",
     "full_name": "Graham C. Driscoll, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>",
-      "C. <suffix>jr.</suffix>"
+      "Driscoll"
     ]
   },
   {
@@ -3393,7 +3239,6 @@
     "id": "j-barkley-rosser",
     "full_name": "J. Barkley Rosser",
     "alternative_names": [
-      "J. Rosser",
       "Rosser"
     ]
   },
@@ -3401,7 +3246,6 @@
     "id": "nino-b-cocchiarella",
     "full_name": "Nino B. Cocchiarella",
     "alternative_names": [
-      "B. Cocchiarella",
       "Cocchiarella"
     ]
   },
@@ -3416,7 +3260,7 @@
     "id": "hartley-rogers-suffixjrsuffix",
     "full_name": "Hartley Rogers, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>"
+      "Rogers"
     ]
   },
   {
@@ -3438,22 +3282,20 @@
     "full_name": "L. Novak Gál",
     "alternative_names": [
       "Gál",
-      "L. Gál"
+      "Gal"
     ]
   },
   {
     "id": "george-d-w-berry",
     "full_name": "George D. W. Berry",
     "alternative_names": [
-      "Berry",
-      "D. W. Berry"
+      "Berry"
     ]
   },
   {
     "id": "witold-a-pogorzelski",
     "full_name": "Witold A. Pogorzelski",
     "alternative_names": [
-      "A. Pogorzelski",
       "Pogorzelski"
     ]
   },
@@ -3461,7 +3303,6 @@
     "id": "e-w-madison",
     "full_name": "Eugene W. Madison",
     "alternative_names": [
-      "E. Madison",
       "Madison"
     ]
   },
@@ -3469,7 +3310,6 @@
     "id": "raymond-j-nelson",
     "full_name": "Raymond J. Nelson",
     "alternative_names": [
-      "J. Nelson",
       "Nelson"
     ]
   },
@@ -3519,7 +3359,8 @@
     "id": "s-krner",
     "full_name": "Stephan Körner",
     "alternative_names": [
-      "Körner"
+      "Körner",
+      "Korner"
     ]
   },
   {
@@ -3533,7 +3374,6 @@
     "id": "j-w-swanson",
     "full_name": "J. W. Swanson",
     "alternative_names": [
-      "J. Swanson",
       "Swanson"
     ]
   },
@@ -3541,7 +3381,6 @@
     "id": "r-w-ritchie",
     "full_name": "Robert W. Ritchie",
     "alternative_names": [
-      "R. Ritchie",
       "Ritchie"
     ]
   },
@@ -3549,40 +3388,35 @@
     "id": "john-p-burgess",
     "full_name": "John P. Burgess",
     "alternative_names": [
-      "Burgess",
-      "P. Burgess"
+      "Burgess"
     ]
   },
   {
     "id": "leonard-p-sasso-suffixjrsuffix",
     "full_name": "Leonard P. Sasso, <suffix>jr.</suffix>",
     "alternative_names": [
-      "<suffix>jr.</suffix>",
-      "P. <suffix>jr.</suffix>"
+      "Sasso"
     ]
   },
   {
     "id": "george-e-collins",
     "full_name": "George E. Collins",
     "alternative_names": [
-      "Collins",
-      "E. Collins"
+      "Collins"
     ]
   },
   {
     "id": "r-r-rockingham-gill",
     "full_name": "R. R. Rockingham Gill",
     "alternative_names": [
-      "Gill",
-      "R. Gill",
-      "R. R. Gill"
+      "Rockingham Gill",
+      "Gill"
     ]
   },
   {
     "id": "william-h-jobe",
     "full_name": "William H. Jobe",
     "alternative_names": [
-      "H. Jobe",
       "Jobe"
     ]
   },
@@ -3604,7 +3438,6 @@
     "id": "paul-r-young",
     "full_name": "Paul R. Young",
     "alternative_names": [
-      "R. Young",
       "Young"
     ]
   },
@@ -3619,7 +3452,6 @@
     "id": "michael-o-rabin",
     "full_name": "Michael O. Rabin",
     "alternative_names": [
-      "O. Rabin",
       "Rabin"
     ]
   },
@@ -3627,7 +3459,6 @@
     "id": "joseph-r-shoenfield",
     "full_name": "Joseph R. Shoenfield",
     "alternative_names": [
-      "R. Shoenfield",
       "Shoenfield"
     ]
   },
@@ -3635,8 +3466,7 @@
     "id": "p-c-gilmore",
     "full_name": "Paul C. Gilmore",
     "alternative_names": [
-      "Gilmore",
-      "P. Gilmore"
+      "Gilmore"
     ]
   },
   {
@@ -3657,15 +3487,13 @@
     "id": "burton-s-dreben",
     "full_name": "Burton S. Dreben",
     "alternative_names": [
-      "Dreben",
-      "S. Dreben"
+      "Dreben"
     ]
   },
   {
     "id": "f-m-sioson",
     "full_name": "Fabian M. Sioson",
     "alternative_names": [
-      "F. Sioson",
       "Sioson"
     ]
   },
@@ -3680,7 +3508,6 @@
     "id": "calvin-c-elgot",
     "full_name": "Calvin C. Elgot",
     "alternative_names": [
-      "C. Elgot",
       "Elgot"
     ]
   },
@@ -3688,9 +3515,7 @@
     "id": "k-jaakko-j-hintikka",
     "full_name": "Kaarlo Jaakko Juhani Hintikka",
     "alternative_names": [
-      "Hintikka",
-      "K. Hintikka",
-      "K. J. Hintikka"
+      "Hintikka"
     ]
   },
   {
@@ -3718,7 +3543,7 @@
     "id": "c-ryll-nardzewski",
     "full_name": "Czesław Ryll-Nardzewski",
     "alternative_names": [
-      "Ryll-nardzewski",
+      "Ryll-Nardzewski",
       "Nardzewski"
     ]
   },
@@ -3775,7 +3600,8 @@
     "id": "de-morgan",
     "full_name": "Augustus De Morgan",
     "alternative_names": [
-      "De Morgan"
+      "De Morgan",
+      "Morgan"
     ]
   },
   {
@@ -3811,7 +3637,7 @@
     "full_name": "Kurt Gödel",
     "alternative_names": [
       "Gödel",
-      "Goedel"
+      "Godel"
     ]
   },
   {
@@ -3888,8 +3714,8 @@
     "id": "jan-lukasiewicz",
     "full_name": "Jan Łukasiewicz",
     "alternative_names": [
-      "Lukasiewicz",
-      "Łukasiewicz"
+      "Łukasiewicz",
+      "Lukasiewicz"
     ]
   },
   {
@@ -4015,7 +3841,6 @@
     "id": "sextus-empiricus",
     "full_name": "Sextus Empiricus",
     "alternative_names": [
-      "Sextus",
       "Empiricus"
     ]
   },
@@ -4075,5 +3900,4 @@
       "Drobisch"
     ]
   }
-
 ]

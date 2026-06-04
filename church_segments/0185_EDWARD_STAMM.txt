@@ -1,0 +1,36 @@
+=== AUTHOR BLOCK 185 ===
+Name  : EDWARD STAMM.
+Flags : A
+Lines : 2728–2757
+========================================
+
+A 185. EDWARD STAMM.
+                     1. O apriorycznoSci matematyki (On the apriority of mathematics). Przeglad filozo-
+               ficzrty (Warsaw), vol. 12 (1909), pp. 504-514.
+                     2. Zur Theorie der Beziehungen und Operationen. Prace matemalyczno-fizyczne
+                (Warsaw), vol. 21 (1910), pp. 43-54.
+         C            3. Czem jest i czem bedzie matematyka (What mathematics is and what it will be).
+                Wiadomosci matematyczne (Warsaw), vol. 14 (1910), pp. 189-196.
+                     4. Beitrag zur Algebra der Logik. Monatsh. Math. Phys., vol. 22 (1911), pp. 137-149.
+                "Diese Arbeit besteht aus zwei miteinander ziemlich lose verbundenen Teilen. Im ersten
+                Teile wollte ich ein neues System der Axiome der Algebra der Logik geben, im zweiten
+                eine Erweiterung des gewohnlichen Bereiches."
+                      5. Zasady algebry logiki {Principles ot the algebra of logic). Wiad. mat., vol. 15(1911),
+                pp. 1-87, and vol. 16 (1912), pp. 1-31. Reprinted Warsaw 1913.
+                      6. Alessandro Padoa. La logique deductive dans sa derniere phase de dlveloppement.
+                Wiad. mat., vol. 17 (1913), pp. 339-346.
+                      7. Zastosowanie algebry logiki do teorji szyfrdw (Application of the algebra of logic to
+                cryptography). Rozprawy Polshiego Towarzyslwa Matematycznego, vol. 1 (Krak6w
+                1921), pp. 40-52.
+                      8. Connexione inter operationes arithmetica et logica. Rocznik Polskiego Towarzystwa
+                Matematycznego (Annales de la Societe Polonaise de Mathematique) (Krak6w), vol. 1
+                (1922), pp. 58—69. "Nos vol in presente dissertatione demonstra, in que modo pote esse
+                operationes de algebra de logica reducta in dominio de numeros ad operationes arithmetica."
+                      9. Algebra logiki jako czeSd arylmetyki (The algebra of logic as a part of arithmetic).
+                Przegl.fil; vol. 25 (1922), pp. 353-358.
+                      10. Geometrische Theorie logischer Funktionen. Prace mat.-fiz., vol.34 (1926), pp.
+                119-158.
+                      11. O algebrze logiki (On the algebra of logic). Wiad. mat., vol. 30 (1927-8), pp. 1-49.
+                      12. t)ber Relativfunktionen und Relativgleichungen. Monatsh. Math. Phys., vol. 38
+                (1931), pp. 147-166. "Im folgenden soil die Methode des Relativkalkiils an einigen
+                einfachen Beispielen aus verschiedenen mathematischen Disziplinen illustriert werden."

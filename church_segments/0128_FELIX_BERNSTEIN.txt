@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 128 ===
+Name  : FELIX BERNSTEIN.
+Flags : none
+Lines : 2139–2146
+========================================
+
+128. FELIX BERNSTEIN.
+                    / . Uber die Reihe der transfiniten Ordnungszahlen. Math. Annalen, vol. 60 (1905),
+              pp. 187-193. "Wir wollen jede wohlgeordnete Menge, welche Abschnitt einer wohlgeord-
+              neten Menge sein kann, als forlsetzbare wohlgeordnete Menge bezeichnen.«-Wir konnen
+              dann sagen: 'Die Typen aller fortsetzbaren wohlgeordneten Mengen bilden die einzige
+              nicht fortsetzbare wohlgeordnete Menge W.'"
+                   2. Die Mengenlehre Georg Cantors und der Finiiismus. Jahresb. D. M.-V., vol. 28
+              (1919), pp. 63-78.

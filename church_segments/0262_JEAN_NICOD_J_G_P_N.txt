@@ -1,0 +1,19 @@
+=== AUTHOR BLOCK 262 ===
+Name  : JEAN NICOD (J. G. P. N
+Flags : none
+Lines : 3649–3666
+========================================
+
+262. JEAN NICOD (J. G. P. Nicod).
+                   1. A reduction in the number of primitive propositions of logic (received 30 Oct. 1916).
+              Ibid., pp. 32-41.
+                   2. Les tendances philosophiques de M. Bertrand Russell. Rev. metaph. mor., vol. 29
+              (1922), pp. 77-84.
+                   3. Mathematical logic and the foundations of mathematics. The encyclopaedia Brilannica,
+              12th. edn., vol. 31 (The second of the new volumes, London and New York 1922), pp.
+              874-876.
+                   4. Les relations de valeurs et les relations de sens en logique formelle. Rev. milaph. mor.,
+             vol. 31 (1924), pp. 577-583. "Cependant, ces relations de sens des propositions, 6tant des
+              relations de constitution entre des complexes, ne se repr^sentent pas par des signes propres,
+              mais par les relations memes de constitution entre les signes de ces complexes: elles seront
+              montrdes, non pas nominees, dans I'enonc6 des lois de I'inf6rence."

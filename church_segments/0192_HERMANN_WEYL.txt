@@ -1,0 +1,45 @@
+=== AUTHOR BLOCK 192 ===
+Name  : HERMANN WEYL.
+Flags : none
+Lines : 2827–2865
+========================================
+
+192. HERMANN WEYL.
+                   1. Uber die Definitionen der malhematischen Grundbegriffe. Mathemalisch-naluribissen-
+             schaftliche Blatter (Leipzig), vol. 7 (1910), pp. 93-95, 109-113.
+         *         2. Das Kontinuum. Kritische Untersuchungen iiber die Grundlagen der Analysis.
+             Leipzig 1918, iv+83 pp. Reprinted Leipzig 1932, iv+83 pp. "In dieser Schrift handelt es
+             sich nicht darum, den 'sicheren Fels,' auf den das Haus der Analysis gegrtindet ist, im
+           • Sinne des Formalismus mit einem holzernen Schaugeriist zu umkleiden und nun dem Leser
+             und am Ende sich selber weiszumachen: dies sei das eigentliche Fundament. Hier wird
+             vielmehr die Meinung vertreten, dass jenes Haus zu einem wesentlichen Teil auf Sand
+             gebaut ist."
+                   3. Der circulus vitiosus in der heutigen Begriindung der Analysis. Jahresb. D. M.-V.,
+             vol. 28 (1919), pp. 85-92. "Ihnen den circulus vitiosus, den ich in meiner Schrift 'Das
+              Kontinuum' der Analysis vorwerfe, auf moglichst direkte Weise vor Augen zu stellen."
+                . 4. liber die neue Grundlagenkrise der Mathematik. Malhematische Zeitschrift, vol. 10
+             (1921), pp. 39-79. "Der eine [Versuch] ruhrt von Brouwer her; schon seit 1907 liegen
+             gewisse richtunggebende Ideen der von ihm angestrebten Reform der Mengenlehre und
+             Analysis vor; doch hat er erst in den Ietzten Jahren seine Ansatze zu einer konsequenten
+             Lehre ausgebildet. Unabhangig davon habe ich 1918 in einer Schrift 'das Kontinuum'
+             lang gehegte Gedanken zu einer neuen Grundlegung der Analysis ausgestaltet."
+                   5. Randbemerkungen zu Hauptproblemen der Mathematik. Ibid., vol. 20 (1924), pp.
+              131-150. See pp. 146-150. "Aber neben dem Brouwerschen wird man den Hilbertschen
+             Weg verfolgen miissen."
+                   6. Die heutige Erkennlnislage in der Mathematik. Sonderdrucke des Symposion,
+              Heft 3. Erlangen 1926, 32 pp. Also in Symposion (Berlin), vol. 1 (1925-7), pp. 1-32.
+                   7. Philosophic der Mathematik und Naturwissenschaft (Teil /.). Handbuch der
+              Philosophic Abtlg. II, Beitnag A. Munich and Berlin 1926, 64 pp.
+                   8. Diskussionsbemerkungen zu dem zweiten Hilbertschen Vortrag iiber die Grundlagen
+             der Mathematik. Abh. Math. Sem. Hamburg. Univ., vol. 6 (1928), pp. 86-88. See David
+             Hilbert 108J5. "Zur Verteidigung des Intuitionismus mbgen mir zunachst ein paar Worte
+             gestattet sein."
+                   9. Consistency in mathematics. The Rice Institute pamphlet, vol. 16 (1929), pp. 245-
+             265. "It is evidently impossible and without meaning to negate such a hypothetical
+             proposition. This fact that the negation cannot be carried out, and not the invalidity of
+             the tertium non datur, is the point on which the matter hinges."
+                   10. Die Stufen des Unendlichen. Vortrag gehalten am 27. Oktober 1930 bei der
+             Erb'ffnung der Gastetagung der Malhematischen Gesellschaft an der Universitat Jena in •
+             Abbeanum. Jena 1931, 19 pp.
+                   11. Infinity. The open world, by Hermann Weyl, New Haven, Conn., 1932, pp.
+             57-84.

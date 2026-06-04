@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 397 ===
+Name  : K. E. ROSINGER.
+Flags : none
+Lines : 4996–5003
+========================================
+
+397. K. E. ROSINGER.
+                      1. The formalization of implication. The monist, vol. 39 (1929), pp. 273-280.
+                      2. Concerning the symbols <j>x and 4>x. Annals of mathematics, 2 s. vol. 31 (1930),
+                 pp. 181-184.
+                      3. Mathematical logic and the implicative function. Harvard University, Graduate
+                School of Arts and Sciences, Summaries of theses accepted in partial fulfilment of the
+                requirements for the degree of Doctor of Philosophy, 1928, Cambridge, Mass., 1931,
+                 pp. 187-189.

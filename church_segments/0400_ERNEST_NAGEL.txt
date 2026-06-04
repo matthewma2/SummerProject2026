@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 400 ===
+Name  : ERNEST NAGEL.
+Flags : A
+Lines : 5020–5026
+========================================
+
+A 400. ERNEST NAGEL.
+                    ' 1. Review of Fraenkel's Zehn Vorlesungen iiber die Grundlegung der Mengenlehre.
+                Jour, philos., vol. 26 (1929), pp. 76-80.
+                      2. Intuition, consistency, and the excluded middle. Ibid., pp. 477-489.
+                      3. Review of Korzybski's Science and sanity. Ibid., vol. 31 (1934), pp. 80-81.
+                      4. Review of Carnap's Logische Syntax der Sprache. Ibid., vol. 32 (1935), pp. 49-52.
+                      See also M. R. Cohen and Ernest Nagel 525.

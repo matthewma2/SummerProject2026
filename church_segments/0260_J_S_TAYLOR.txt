@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 260 ===
+Name  : J. S. TAYLOR.
+Flags : none
+Lines : 3639–3646
+========================================
+
+260. J. S. TAYLOR.
+                   1. Complete existential theory of Bernstein's set of four postulates for Boolean algsbras.
+              Annals of mathematics, 2 s. vol. 19 (1917-8), pp. 64-69.
+                   2. A set of five postulates for Boolean algebras in terms of the operation "exception."
+              University of California publications in mathematics, vol. 1 (1912-24), no. 12 (12 April
+              1920), pp. 241-248.
+                   3. Sheffer's set offivepostulates for Boolean algebras in terms of the operation "rejection"
+             made completely independent. Bull. Amer. Math. Soc, vol. 26 (1919-20), pp. 449-454.

@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 526 ===
+Name  : A. A. BENNETT
+Flags : none
+Lines : 5669–5674
+========================================
+
+526. A. A. BENNETT and C. A. BAYLIS. 1. A calculus for propositional concepts. Mind, n. s.
+                vol.44 (1935), pp. 152-167. "An abstract deductive structure capable of interpretation not
+                only extensionally . . . but also intensionally, as a calculus of unasserted propositional
+                meanings. In this latter interpretation the calculus deals with those relations which hold
+                on the basis of the structure and not of the significance or truth values of these proposi-
+                tional meanings."

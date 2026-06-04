@@ -1,0 +1,17 @@
+=== AUTHOR BLOCK 116 ===
+Name  : GERRIT MANNOURY.
+Flags : A
+Lines : 1895–1905
+========================================
+
+A116. GERRIT MANNOURY.
+                    1. Over de beleekenis der wiskundige logica voor de philosophie (On the significance
+               of mathematical logic for philosophy). Rotterdam 1903, 16 pp.
+                    2. Review of Brouwer's Over de grondslagen der wiskunde. Nieuw archief voor
+               wiskunde, 2 s. vol. 8 (1907-9), pp. 175-180.
+                    3. Melhodologisches und Philosophisches zur Elementar-Mathemalik. Haarlem
+               1909, 276 pp.
+                    4. Die signifischen Grundlagen der Mathematik. Erkenntnis, vol. 4 (1934), pp. 288-309,
+              317-345.
+                    5. Review of Carnap's Logische Syntax der Sprache. Nieuw archief voor wiskunde,
+               2 s. vol. 18 part 3 (1935), pp. 94-97.

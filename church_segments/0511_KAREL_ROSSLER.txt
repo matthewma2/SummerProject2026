@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 511 ===
+Name  : KAREL ROSSLER.
+Flags : none
+Lines : 5631–5634
+========================================
+
+511. KAREL ROSSLER. 1. Beweis der Widerspruchsfreiheit des Funktionenkalkuls der mathe-
+                matischen Logik (Demonstration aue le calcul fonctionnel est sans contradictions). German
+                with French abstract. Mimoires de la Societe Royale des Sciences de Boheme, Classe
+                des sciences, 1934, no. 18, 8 pp.

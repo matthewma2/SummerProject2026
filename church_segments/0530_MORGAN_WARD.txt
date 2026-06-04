@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 530 ===
+Name  : MORGAN WARD.
+Flags : none
+Lines : 5679–5680
+========================================
+
+530. MORGAN WARD. 1. A determination of all possible systems of strict implication. Amer.
+               jour, math., vol. 57 (1935), pp. 261-266.

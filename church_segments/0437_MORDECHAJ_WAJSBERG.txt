@@ -1,0 +1,20 @@
+=== AUTHOR BLOCK 437 ===
+Name  : MORDECHAJ WAJSBERG.
+Flags : none
+Lines : 5246–5259
+========================================
+
+437. MORDECHAJ WAJSBERG.
+                     1. Aksjomatyzacja trdjwartofciowego rachunku zdan (Ein Axiomensystem des dreiwer-
+               tigen Aussagenkalkiils). Polish with German abstract. C.r. Soc.Sci.Lett. Varsovie, vol.24
+                (1931), pp. 126-148.
+                     2. Uber Axiomensysteme des Aussagenkalkiils. Monatsh. Math. Phys., vol. 39 (1932),
+                pp. 149-156. See errata, ibid., vol. 40, p. 126.
+                     J. Ein neues Axiom des Aussagenkalkiils in der Symbolik von Sheffer. Ibid., vol. 39
+                (1932), pp. 259-262.
+                     4. Untersuchungen Uber den Funktionenkalkiil filr endliche Individuenbereiche. Math.
+                Annalen, vol. 108 (1933), pp. 218-228.
+                     5. Ein erweilerter Klassenkalkiil. Monalsh. Math. Phys., vol. 40 (1933), pp. 113-126.
+                     6. Beitrag zur Metamalhematik. Math. Annalen, vol. 109 (1933-4), pp. 200-229.
+                     7. Beilrage zum Melaaussagenkalkiil I. Monatsh. Math. Phys., vol. 42 (1935), pp.
+                221-242.

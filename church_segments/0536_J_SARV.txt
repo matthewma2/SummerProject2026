@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 536 ===
+Name  : J. SARV.
+Flags : none
+Lines : 5692–5693
+========================================
+
+536. J. SARV. 1. Foundations of arithmetic. Ada et commentationes Universitalis Tartuensis
+                (Dorpatensis), A, Mathematica, physica, medica, vol. 28 (1935), no. 2, 33 pp.

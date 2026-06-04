@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 268 ===
+Name  : MORITZ PASCH.
+Flags : none
+Lines : 3687–3693
+========================================
+
+268. MORITZ PASCH.
+                      1. Die Forderung der Entscheidbarkeit. Jahresb. D. M.-V., vol. 27 (1918-9), pp. 228-
+                 232. "Bekanntlich hat zuerst Kronecker (1823-1891) die Forderung der Entscheidbarkeit
+                aufgestellt und die Ansicht verfochten, dass Begriffe, bei deren Definition der Beweis der
+                 Entscheidbarkeit fehlt, zu verwerfen sind."
+                      2. Betrachtungen zur Begriindung der Mathematik. Math. Z., vol. 20 (1924), pp. 231-
+                 240, and vol. 25 (1926), pp. 166-171.

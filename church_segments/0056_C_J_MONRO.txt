@@ -1,0 +1,7 @@
+=== AUTHOR BLOCK 56 ===
+Name  : C. J. MONRO.
+Flags : A
+Lines : 931–931
+========================================
+
+A 56. C. J. MONRO. 1. Review of Venn's Symbolic logic. Mind, vol. 6 (1881), pp. 574-581.

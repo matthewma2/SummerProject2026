@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 475 ===
+Name  : MAX BLACK.
+Flags : none
+Lines : 5470–5474
+========================================
+
+475. MAX BLACK. /. The nature of mathematics. A critical survey. London 1933. New York
+                1934, xiv+219 pp. "I have had two aims in mind: to present a considered critical exposi-
+               tion of Principia Mathematica and to give supplementary accounts of the formalist and
+               intuitionist doctrines in sufficient detail to lighten the paths of all who may be provoked
+               to read the original papers."

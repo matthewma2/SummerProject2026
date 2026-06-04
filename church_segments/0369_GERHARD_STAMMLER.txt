@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 369 ===
+Name  : GERHARD STAMMLER.
+Flags : none
+Lines : 4731–4738
+========================================
+
+369. GERHARD STAMMLER. /. Begriff, Urteil, Schluss. Vnlersuchungen uber Gmndlagen
+                und Aufbau der Logik. Halle a. S. 1928, xii+331 pp. "Die Frage, ob sich Kriterien finden
+                 lassen, die die Richtigkeit von Satzen, unabhangig vom besonderen Inhalt der letzteren,
+                 beurteilen lassen—die logische Frage—, und die Frage, wie diese Kriterien beschaffen sein
+                 milssen, wenn sie selbst ein exaktes System bilden sollen—die logistische Frage—, diese
+                 beiden Fragen stimmen nicht ganz iiberein. Welche von beiden der anderen ubergeordnet
+                ist, lasst sich nicht so kurzweg entscheiden. Dazu werden wir erst ganz am Schluss unserer
+                 Erorterung einiges sagen konnen."

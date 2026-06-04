@@ -1,0 +1,22 @@
+=== AUTHOR BLOCK 15 ===
+Name  : G. F. CASTILLON.
+Flags : none
+Lines : 334–349
+========================================
+
+15. G. F. CASTILLON.
+         *          1. Memoire sur un nouvel algorithme logique (read 3 Nov. 1803). Mimoires de
+             I'Academie Royale des Sciences'et Belles-Lettres (Berlin), vol. 53 (1805), Classe de
+
+
+
+
+               philosophic speculative, pp. 3-24. "Chaque concept ou notion s'indique par une lettre. La
+               synthese ou composition des concepts, s'indique par l'addition algebrique ou par le signe + ,
+               & l'analyse ou decomposition, par la soustraction alg^brique ou par le signe —. Le jugement
+               s'indique par une Equation; a gauche du signe d'£galit£ se place le sujet & a droite l'attribut,
+               qui lorsque le jugement est negatif, est prec£d£ du signe negatif; cet attribut est joint par
+               le signe + i u n autre concept, parce que pour l'ordinaire le concept du sujet dans un
+               jugement affirmatif est composfi de plus de concepts que celui de l'attribut, & que dans un
+               jugement negatif, il est necessairement compos6 de quelqu'autre concept que celui de
+               l'attribut qu'il ne comprend point."

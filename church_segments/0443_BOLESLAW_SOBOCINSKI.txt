@@ -1,0 +1,15 @@
+=== AUTHOR BLOCK 443 ===
+Name  : BOLESLAW SOBOCINSKI.
+Flags : none
+Lines : 5296–5304
+========================================
+
+443. BOLESLAW SOBOCINSKI.
+                      / . Z badaA nad teorjtf dedukcji (Some investigations upon the theory of deduction).
+               Przegl.fil., vol. 35 (1932), pp. 171-193.
+         C            2. 0 kolejnych uproszczeniach aksjomatyki "ontologji" Prof. St. Letniewskiego (On
+               alternative simplifications of the axiomatic of Prof. St. Lesniewski's "ontology"). Ksiega
+               pamiatkowa ku uczczeniu lS-lecia pracy nauczycielskiej w Uniwersytecie Warszawskim
+               Prof. Tadeusza Kotarbinskiego, Warsaw 1934, pp. 143-160.
+                     3. Aksjomatyzacja implikacyjno-konjunkcyjnej teorji dedukcji (Axiomatization of an
+                implicative-conjunctive theory of deduction). Przegl. fil., vol. 38 (1935), pp. 85-95.

@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 373 ===
+Name  : W. A. HURWITZ.
+Flags : none
+Lines : 4771–4772
+========================================
+
+373. W. A. HURWITZ. 1. On Bell's arithmetic of Boolean algebra. Trans. Amer. Math. Soc,
+               vol. 30 (1928), pp. 420-424.

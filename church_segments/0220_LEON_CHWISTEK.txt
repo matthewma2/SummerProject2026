@@ -1,0 +1,96 @@
+=== AUTHOR BLOCK 220 ===
+Name  : LEON CHWISTEK.
+Flags : none
+Lines : 3102–3191
+========================================
+
+220. LEON CHWISTEK.
+         '         1. Zasada sprzecznoSci w Swietle nowszych badafi Bertranda Russella (The principle of
+              contradiction in the light of recent investigations of Bertrand Russell). Rozprawy Akademii
+              Umiejelnosci (Krak6w), Wydzial historyczno-filozoficzny, 2 s. vol. 30 (1912), pp. 270-334.
+              "Zapytajmy sie. teraz, w jakim stosunku stoja. nasze rezultaty do postawionego na czele
+              pytania, czy mozliwy jest system logiki wolny od sprzecznosci. PrzekojialiSmy sie., ze
+             system taki dotychczas nie istnieje, gdyz najdoskonalszy z wszystkich system6w, system
+              Russella, implikuje sprzecznoSf. Czyz jednak z tego wynika, ze rzeczywiscie systemu
+             takiego zbudowafi nie mozna? Rzecz jasna, ze nie. Przeciwnie, mozna natychmiast wskazad
+              system aksyomat6w, kt6re definiuja. system logiki posiadaja.cy za.dana. wlasnoSd. Sys-
+              temem takim jest system aksyomat6w Russella z wyja,tkiem zasady sprowadzalnosci."
+                   2. Trzy odczyty odnoszqce sie do pojtcia istnienia (Three lessons relating to the con-
+             cept of existence). Przegl.fil., vol. 20 (1917), pp. 122-151.
+         '         3. Antynomje logikiformalnej (Antinomies of formal logic). Przegl.fil., vol. 24 (1921),
+             pp. 164-171. "Do usuniecia tej antynomji wystarcza prosta teorja typ6w, polegaja.ca na
+             odr6znieniu indywidu6w, funkcji indywidu6w, funkcji tych funkcji i t. d. Odr6znienie
+             rzed6w funkcji danego argumentu, a temsamem wprowadzenie funkcji predykatywnych,
+             a w dalszej konsekwencji odworywanie sie. do zasady sprowadzalnosci jest z tego punktu
+
+
+
+ ynili to niew?tpliwie skutkiem przeswiadczenia, ze system logiki dopuszczajacy anty-
+mjg Richard'a nie moze bye uwazany za ostateczny wyraz tego, co w danym zakresie
+zna osiggnqc. Zostawiaj^c tg sprawg na boku, ograniczmy sig do stwierdzenia, ze teorja
+6w wraz z zasada. sprowadzalnosci nie da sig utrzymac, gdyz albo jest falszywa, albo
+ przedstawia w formie zawilej to, co w gruncie rzeczy jest proste."
+   4. Zasady czystej teorji typdw (Principles of the pure theory of types). Przegl. fit.,
+   25 (1922), pp. 359-391.
+   5. Miara Lebesgue'a. Logiczna analiza i konslrukcya pojfcia miary Lebesgtie'a.
+ besgue measure. Logical analysis and construction of the Lebesgue measure.) Archiwum
+warzystwa Naukowego we Lwowie, Wydzial III matematyczno-przyrodniczy, vol. 2
+22-3), pp. 111-121.
+   6. Uber die Antinomien der Prinzipien der Mathematik. Mathemalische Zeilschrifl,
+   14 (1922), pp. 236-243. "Sprechen wirder Richardschen Antinomie jeden theoretischen
+ rt ab, so bekommt die formale Logik eine wesentliche Vereinfachung, da wir nun wohl
+   Typen, aber nicht mehr mit Rangen von Funktionen zu tun haben, womit es uns
+ oglicht wird, kurzweg von 'alien Eigenschaften' eines Dinges zu sprechen. Auf diese
+  se konnen wir ohne weiteres aus dem Whjtehead-Russellschen System ein neues Sys-
+   gewinnen, welches denselben theoretischen Wert wie jenes haben muss. Es bleibt aber
+mer mancher Zweifel iiber die Widerspruchslosigkeit dieses Systems iibrig, und un-
+chtet dieses Bedenkens—bleibt immer folgende Frage von prinzipieller Wichtigkeit
+  g: 1st ein System der formalen Logik mb'glich, welches auf der allgemeinen Typentheorie—
+ e Reduzibilitdtssatz gegriindet ware und sonst keine neuen Axiome vorauszuselzen hatte?
+   diese Frage bin ich imstande eine bejahende Antwort zu geben."
+   7. The theory of constructive types (Principles of logic and mathematics). Rocznik
+skiego Towarzystwa Matematycznego (Annales de la Societe Polonaise de Math€-
+ ique), vol. 2 (1924), pp. 9-48, and vol. 3 (1925), pp. 92-141. "We have to take directly
+m Principia all that remains true, if the axiom of reducibility is false and if functions
+   given type are used as variables instead of matrices." "The name 'constructive types'
+ ased on the theoretical possibility of construction of all functions belonging to a given
+e of my system."
+   8. Sur les fondements de la logique moderne. Atti del V Congresso Internazionale di
+  sofia, Napoli 5-9 tnaggio 1924, Naples 1925, pp. 24-28.
+   9. Uber die Hypothesen der Mengenlehre. Math. Z., vol. 25 (1926), pp. 439-473.
+ ese Theorie, welche uns Mengen eines gegebenen Typus mit 'konstruierbaren' Mengen
+ es Typus zu identifizieren erlaubt, lasst uns das Axiom der Abzahlbarkeit in einem
+ ebigen Typus annehmen."
+   10. Neue Grundlagen der Logik und Mathematik. Ibid., vol. 30 (1929), pp. 704-724.
+ er handelt es sich bloss um die elementare Semantik, welche so weit entwickelt wurde,
+es zur mechanischen Konstruktion der im System der Logik und Mathematik vorkom-
+  den Ausdriicke notig ist."
+   11. Nouvelles recherches sur les fondements des mathimatiques. Atti del Congresso
+  rnazionale dei Matematici, Bologna 3-10 settembre 1928 (VI), vol. 3 (BolognaJ930),
+ 375-380.
+   12. Une mUhode mttamathimalique d'analyse. Sprawozdanie z I Kongresu Mate-
+ ykow Krajow Slowianskich (Comples-rendus du I Congres des Mathematiciens des
+ s Slaves), Warszawa, 1929, Warsaw 1930, pp. 254-263.
+   13. Neue Grundlagen der Logik und Mathematik. Zweite Mitteilung. Math. Z., vol. 34
+32), pp. 527-534. "Die eingehende Revision der Grundbegriffe der Semantik und der
+ ik, die ich auf Anregung von Herrn Hetper unternommen habe und an welcher die
+ ren Hetper und Herzberg erfolgreich mitgearbeitet haben, hat eine unerwartete
+ einfachung der von mir gegebenen Grundlagen der apriorischen Wissenschaften
+beigefuhrt. Der Umschwung der Fundamentalideen, der dadurch verursacht wurde,
+eint dazu geeignet zu sein, die reine (verzweigte) Typenlehre auf eine einfache typen-
+ge Semantik zuriickzufiihren, wodurch das System der apriorischen Wissenschaften
+
+
+
+
+
+
+
+              eine monumentale Einheit erreichen diirfte. Uber diese Arbeiten mo'chte ich hier kurz
+              berichten."
+                    14. Die nominalistische Grundlegung der Mathematik. Erkenntnis, vol. 3 (1932-3),
+               pp. 367-388.
+                    15. Granice nauki. Zarys logiki i metodologji nauk scislych. (Boundaries of science.
+               Outline of logic and methodology of the exact sciences.) Lw6w and Warsaw c. 1935,
+               xxiv+264 pp.
+                    See also Leon Chwistek, W. Hetper, and J. Herzberg 491.

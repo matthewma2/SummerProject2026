@@ -1,0 +1,78 @@
+=== AUTHOR BLOCK 58 ===
+Name  : P. S. POR
+Flags : A
+Lines : 934–1010
+========================================
+
+A 58. P. S. PORfiCKIJ (Platon Poretsky).
+                     1. An article in Russian on the elements of mathematical logic. Prolokol tret ago
+               zasedania sSkcii fiziko-matimaticeskih nauk Obsieslva Estestvoispytatelej pri Im-
+               piratorskom Kazanskom UnivSrsitete, 17 mad 1880 goda, pp. 2-30 (issued as part of Pro-
+               tokoly zasedanij ObscSslva tstistvoispytatelej pri ImpSratorskom Kazanskom Univir-
+               sitSle, vol. 12 (1880-lj, Kazan, Russia, 1881).1
+                 1
+                   We adopt the following method of transliterating Russian: A as A, E as B, B as V,
+            r as G, K as D, E as t, 3K as Z, 3 as Z, H as I, ft as J, Las I, K as K, JI as L, M as M,
+            H as N, O as O, II as P, P as R, C as S, T as T, V as U, <D as F, X as H, JX as C, ^ as C,
+            III as S, m as §£, T> omitted in transliteration, LI as Y, B as '.'B as £, 9 as E, K> as C, fl. as A,
+            GasF.
+
+
+
+
+               2. 0 sposobah rliinid logiilskih ravenstv i ob obratnom sposobl maHmatictskoj logiki
+         (On methods of solution of logical equations and on the inverse method of mathematical
+         logic). Sobranie protokolov zasedanij sekcii fiziko-matematiceskih nauk Oblcesiva
+         £s(estvoispylalelejpri Imperatorskom Kazanskom Universilete, vol. 2 (1884), pp. 161-
+         330, with added pp. i-iv, i-xxiv, following p. 162. "Obrascaas' k na56mu socine'niu,
+         pre'dlagae'momu nyn£ na sud Citate'Ia, my dolzny skazat', cto: 1) ono zakluca6t v s6bS
+         plrvyj opyt (n€ tol'ko v naSeJ , no i v inostrannoj lite'raturS) postrofinia polnoj i vpoln£
+         zakoncfinnoj teorii kace'stve'nnyh umozaklucfinij i 2) ono pr£dstavla6t sobou (za iskluc6-
+         ni£m ne'mnogih stranic, posva5c6nnyh izloie'niu prifimov drugih avtorov) vpolnS samo-
+         stodtel'nuA rabotu, imiuscuu t6m bol'se^ znac6ni£, Cto samya obicid formuly i pri^my
+         etoj t£orii poluc6ny vpSrvye1 tol'ko nami. C61aa-26 fast' etoj tdorii (peV^hod ot umoza-
+         kluifinij k posylkam) vpolnS i b6zrazdSl'no prinadlfiiiit nam, kak po pri6mam, tak i po
+         samoj id66 o vozmoinosti r556nid etoj zadaci."
+               3. RUinil obicij zadaci liorii viro&tnostij pri pomoili mattmatiHskoj logiki (Solution
+         of the general problem of the theory of probabilities by the aid of mathematical logic).
+         Ibid., vol. S (1887), pp. 83-108.
+               4. Priloienil. O numerizacii logictskih ravlnstv voobict (Appendix. On the numerical
+         form of logical equations in general). Ibid., pp. 108-116. " N(a+b)= N(a)+ N(b)
+          - N(ab)."
+               5. Po povody broWry g. Volkova "Logiliskot iscisUnU" (Apropos of Mr. Volkov's
+         pamphlet "Logical calculus"). Ibid., vol. 7 (1889), pp. 260-268.
+               6. La lot de racines en logique. Revue de mathematiques (Rivista di matematica),
+         vol. 6 (1896-9), pp. 5-8. "Soit donnie une Equation logique g6n£rale f(o, b, c, d, • • • ) = 0
+         contenant « + l lettres a, b,c,d, • • • Nous pouvons rfisoudre cette Equation a chacun des
+         n + l symbolesa, b, c, • • • et auxn-f-1 negationsoo, bo,Co, • • • ."
+               7. Sept loisfondamentales dela thtorie des tgalitis logiques. Izvestia Fiziko-Malematice-
+         skago Obsceslva pri Imperatorskom Kazanskom Universitete (Bulletin de la SocielS
+         Physico-Mathematique de Kasan), 2 s. vol. 8 (1898-9), pp. 33-103, 129-181, 183-216.
+         "J'espere que l'ensemble des sept lois formule'es et d£montr6es dans ce me'moire doit Clever
+         la theorie des e'galite's logiques a la hauteur inadmissible a toujours pour la thforie des
+         subsumtions (des ine'galite's logiques) qui domine en ce moment dans la science nouvelle
+         et jeune que nous nommons la Logique Mathdmatique. La tendance d'appoprier les
+         formules scientifiques aux retours du langage familier, la tendance qui a forcG de pr6f£rer
+         la formule vague et inexacte a<b a la formule rigoureuse et exacte a = ab, doit etre aban-
+         donne'e totalement comme nuisible pour la science et adverse a son Esprit mSme. II n'est
+         pas permis, sans pertes pour la science, d'oublier la veVitfi eVidente qui nous dit que I'6galit6
+         a e'te' toujours et doit etre toujours plus pr£f£rable que toutes les ine'galite's possibles. A la
+         fin des fins je dois dire que la d£couverte des sept lois mentionndes ne me serait point possi-
+         ble sans l'invention pre'alable de la determination bipartible, c'est a dire de I'6galit6 simple:
+         A=AB+A0C          qui est fiquivalente au systeme des deux subsumtions: A<B, A>C et
+         qui 6tait trouve'e et publide par moi en 1884 dans mon traite' russe 'Sur les moyens de
+         rfisoudre les e'galite's logiques.'"
+               8. Exposi illmentaire de la theorie des egaliUs logiques d deux termes a et b. Revue de
+         mSlaphysique et de morale, vol. 8 (1900), pp. 169-188.
+               9. Quelques lois ultirieures de la thiorie des (galitis logiques. (Supplement au traite:
+         "Sept lois fondamentales de la theorie des egalites logiques"). Bull. Soc. Phys.-Math. de
+         Kasan, 2 s. vol. 10 (1900), pp. 50-84,132-180,191-230, and 2 s. vol. 11 (1901), pp. 17-63.
+               10. Thiorie des egalites logiques a trots termes, a, b, et c. Bibliotheque du Congres
+         International de Philosophie, vol. 3 (Paris 1901), pp. 201-233.
+               11. Theorie des non-lgalites logiques. Supplement aux deux traites: "Sept lois fonda-
+         mentales de la theorie des egalites logiques" et "Quelques lois ulterieures de la theorie des egalites
+         logiques." Bull. Soc. Phys.-Math. de Kasan, 2 s. vol. 13 (1903-4), pp. 80-119, 127-184.
+               12. Appendice sur mon travail "Theorie des non-tgalites logiques." Ibid., 2 s. vol. 14
+         (1904), pp. 118-131.
+               13. Theorie conjointe des egalitis et des non-egalites logiques. Ibid., 2 s. vol. 16 no 1
+          (1908), pp. 8^0, and 2 s. vol. 16 no. 2 (1910), pp. 41-118.

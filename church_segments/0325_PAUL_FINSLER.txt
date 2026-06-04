@@ -1,0 +1,24 @@
+=== AUTHOR BLOCK 325 ===
+Name  : PAUL FINSLER.
+Flags : none
+Lines : 4281–4298
+========================================
+
+325. PAUL FINSLER.
+                     / . Gibt es Widerspruche in der Mathematik? Jahresb. D. M.-V., vol. 34 (1925-6),
+               pp. 143-155.
+           •         2. Formate Beweise und die Entscheidbarkeit. Math. Z., vol. 25 (1926), pp. 676-682.
+               "Es soil nun aber an einem Beispiel gezeigt werden, dass man tatsSchlich Satze angeben
+                kann, die in allgemeiner Weise formal nicht entscheidbar, also formal widerspruchsfrei
+               sind, bei denen man aber doch auf anderem Wege einen Widerspruch erkennen kann. Es
+               folgt also, dass der Beweis der formalen Widerspruchsfreiheit eines Systems keine Sicher-
+               heit gibt gegen erkennbare Widerspruche."
+                     3. flber die Grundlegung der Mengenlehre. I. Teil. Die Mengen und ihre Axiome.
+                Ibid., pp. 683-713.
+                     4. Erwiderung auf die vorstehende Note des Herrn R. Baer. Ibid., vol. 27 (1927-8),
+               pp. 540-542.
+                     5. Vber die Lb'surig von Paradoxien. Philosophischer Anzeiger, vol. 2 (1927-8), pp.
+                183-192.
+                     6. Antwort auf die Entgegnung des Herrn Lipps. Ibid., pp. 202—203.
+                     7. Die Existenz der Zahlenreihe und des Kontinuums. Commentarii mathematici
+               Helvetici, vol. 5 (1933), pp. 88-94.

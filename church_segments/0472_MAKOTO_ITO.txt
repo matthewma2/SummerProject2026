@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 472 ===
+Name  : MAKOTO ITO.
+Flags : none
+Lines : 5447–5454
+========================================
+
+472. MAKOTO ITO.
+                     /. Einige Anwendungen der Theorie des Entscheidungsproblems zur Axiomatik. The
+                Tohoku mathematical journal, vol. 37 (1933), pp. 222-235, and vol. 40 (1935), pp. 241-251.
+                     2. Meidaikeisan ni okeru meidai no teigui ni tuite (On the general formal definition
+               of a proposition in the propositional calculus). Osaka shijo danwakai (Osaka University),
+                1935: no. 58, pp. 27-35; no. 59, pp. 15-23; no. 60, pp. 6-15.
+                     3. YUgenko-rySiki ni okeru kansH ni tuite (On the generation of all functions in the
+               finitely many-valued algebra of logic). Ibid., 1935.

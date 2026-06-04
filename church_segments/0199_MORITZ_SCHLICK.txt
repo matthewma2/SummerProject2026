@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 199 ===
+Name  : MORITZ SCHLICK.
+Flags : none
+Lines : 2919–2924
+========================================
+
+199. MORITZ SCHLICK.
+                   1. Review of Schroder's Abriss der Algebra der Logik, parts 1 and 2. Vierteljahrs-
+              schriftfiir wissenschaftliche Philosophie und Soziologie, vol. 35 (1911), pp. 265-266.
+                   2. Review of Carnap's Der logische Aufbau der Welt. Die Naturwissenschaften,
+              vol. 17 (1929), pp. 550-551.
+                   See also Friedrich Waismann 3362.

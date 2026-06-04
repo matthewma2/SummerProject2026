@@ -1,0 +1,26 @@
+=== AUTHOR BLOCK 91 ===
+Name  : ALWIN KORSELT.
+Flags : none
+Lines : 1464–1483
+========================================
+
+91. ALWIN KORSELT.
+                     1. Bemerkung zur Algebra der Logik. Math. Annalen, vol. 44 (1894), pp. 156-157.
+                     2. Review of Schroder's Vorlesungen Uber die Algebra der Logik, vol. 1. Zeitschrift
+               fiir malhematischen und naturwissenschaftlichen Unterricht (Leipzig), vol. 28 (1897), pp.
+               578-599, and vol. 29 (1898), pp. 30-43.
+                     3. tfber die Grundlagen der Geometrie. Jahresbericht der Deutschen Mathematiker-
+                Vereinigung, vol. 12 (1903), pp. 402^07.
+                     4. Ober die Grundlagen der Mathematik. Ibid., vol. 14 (1905), pp. 365-389.
+                     5. A proof of the distributive law. See Schroder's Vorlesungen Uber die Algebra der
+                Logik, vol. 2 part 2, pp. 421-423, 596-597 (Ernst Schroder 4229).
+                     6. Paradoxien der Mengenlehre. Jahresb. D. M.-V., vol. 15 (1906), pp. 215-219.
+                     7. Ober die Logik der Geometrie. Ibid., vol. 17 (1908), pp. 98-124.
+                     8. Uber einen Beweisdes Aquivalenzsatzes. Math. Annalen, vol. 70 (1911), pp. 294-296.
+                     9. Ober mathematische Erkenntnis. Jahresb. D. M.-V., vol. 20 (1911), pp. 364-380.
+                     10. Was ist Mathematik? Archiv der Mathematik und Physik, 3 s. vol. 21 (1913),
+                pp. 371-373.
+                     77. Review of Bolzano's Wissenschaftslehre, vol. 1 (reprinted 1914). Jahresb.
+               D. M.-V., vol. 23 (1914-5), 2. Abteilung, pp. 83-85.
+                     12. Review of the same, vol. 2. Ibid., vol. 24 (1915-6), 2. Abteilung, pp. 120-122.
+                     13. Auflosung einiger Paradoxien. Jahresb. D. M.-V., vol. 25 (1916-7), pp. 132-138.

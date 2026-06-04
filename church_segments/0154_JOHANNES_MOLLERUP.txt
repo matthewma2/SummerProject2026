@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 154 ===
+Name  : JOHANNES MOLLERUP.
+Flags : none
+Lines : 2440–2441
+========================================
+
+154. JOHANNES MOLLERUP. 1. Die Definition des Mengenbegriffs. Math. Annalen, vol. 64
+                (1907), pp. 231-238.

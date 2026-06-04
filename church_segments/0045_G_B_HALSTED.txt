@@ -1,0 +1,19 @@
+=== AUTHOR BLOCK 45 ===
+Name  : G. B. HALSTED.
+Flags : none
+Lines : 783–795
+========================================
+
+45. G. B. HALSTED.
+                    1. Boole's logical method. The journal of speculative philosophy (St. Louis, Mo.), vol.
+               12 (1878), pp. 81-91.
+                    2. Professor Jevons's criticism of Boole's logical system. Mind, vol. 3 (1878), pp. 134-
+               137.
+                    3. Statement and reduction of the syllogism. Jour, specul.phil., vol. 12 (1878), pp. 418-
+              426.
+                    4. Algorithmic division in logic. Ibid., vol. 13 (1879), pp. 107-112.
+                    5. Algebras, spaces, logics. An untechnical illustration of development in pure science.
+               The popular science monthly (New York), vol. 17 (1880), pp. 516-522.
+                    6. The modern logic. Jour, specul. phil., vol. 17 (1883), pp. 210-213.
+                    7. De Morgan as logician. Ibid., vol. 18 (1884), pp. 1-9.
+                    See also David Hilbert 1087, Henri Poincare 137 10, 11, 12.

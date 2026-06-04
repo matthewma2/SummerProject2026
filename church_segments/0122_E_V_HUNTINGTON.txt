@@ -1,0 +1,45 @@
+=== AUTHOR BLOCK 122 ===
+Name  : E. V. HUNTINGTON.
+Flags : none
+Lines : 2045–2083
+========================================
+
+122. E. V. HUNTINGTON.
+          *          1. Sets of independent postulates for the algebra of logic. Transactions of the American
+               Mathematical Society, vol. 5 (1904), pp. 288-309.
+                    2. A new set of independent postulates for the algebra of logic, with special reference to
+               Whitehead and Russell's Principia Mathematica. Proceedings of the National Academy of
+               Sciences of the United States of America, vol. 18 (1932), pp. 179-180.
+                     3. New sets of independent postulates for the algebra of logic, with special reference to
+               Whitehead and Russell's Principia Mathematica. Trans. Amer. Math. Soc, vol. 35 (1933),
+               pp. 274-304. See corrections thereto, ibid., pp. 557-558, 971.
+                     4. A simplification of Lewis and Langford's postulates for Boolean algebra. Mind, n.s.
+               vol. 42 (1933), pp. 203-207.
+                    5. The postulational method in mathematics. The American mathematical monthly,
+               vol. 41 (1934), pp. 84-92. "The problem of finding a set of postulates for the theory of
+              deduction is mathematically just as legitimate a problem as the problem of finding a set
+              of postulates for the theory of betweenness or the theory of Boolean algebra or the theory
+               of geometry. In each case the postulational problem is a problem of classification; and all
+              the postulational technique—consistency, independence, complete independence, etc.—
+              appears to be just as applicable in the one case which is not yet satisfactorily solved as it
+              is in the other cases where solutions are already familiar."
+                    6. Independent postulates for the "informal" part of Principia Mathematica. Bulletin
+              of the American Mathematical Society, vol. 40 (1934), pp. 127-136.
+                    7. Independent postulates for an "informal Principia system with equality." Ibid.,
+              pp. 137-143.
+                    8. Independent postulates related to C. I. Lewis's theory of strict implication. Mind,
+              n.s. vol. 43 (1934), pp. 181-198.
+                    9. The relation between Lewis's strict implication and Boolean algebra. Bull. Amer.
+              Math. Soc, vol. 40 (1934), pp. 729-735.
+                    10. The inter-deducibility of the new Hilbert-Bernays theory and Principia Mathe-
+              matica. Annals of mathematics, 2 s. vol. 36 (1935), pp. 313-324. "A sixteenth example can
+              be constructed which provides a formal proof of independence for the rule of inference
+              itself."
+                    11. Effective equality and effective implication in formal logic. Proc. Nat. Acad. Sci.,
+              vol. 21 (1935), pp. 266-271. "The purpose of the present paper is to present an abstract
+              mathematical theory which is capable of being interpreted as a part of the calculus of
+              propositions—the part, namely, which is expressible in terms of the operation of conjunc-
+              tion and the relation of equality, without use of negation or 'truth values.' "
+                    12. The mathematical structure of Lewis's theory of strict implication. Fundamenta
+              mathematicae, vol. 25 (1935), pp. 147-156.
+                    See also E. V. Huntington and Christine Ladd-Franklin 127.

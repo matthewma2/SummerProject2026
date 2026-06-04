@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 534 ===
+Name  : R. VAIDYANATHASWAMY.
+Flags : none
+Lines : 5687–5689
+========================================
+
+534. R. VAIDYANATHASWAMY. 1. On the arithmetico-logical symmetric functions of n at-
+                tributes. Proceedings of the Indian Academy of Sciences, vol. 2, no. 1, sec. A, 1935, pp. 54-
+                62.

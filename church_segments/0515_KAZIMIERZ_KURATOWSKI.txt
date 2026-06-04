@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 515 ===
+Name  : KAZIMIERZ KURATOWSKI
+Flags : none
+Lines : 5646–5647
+========================================
+
+515. KAZIMIERZ KURATOWSKI and T. POSAMENT. 1. Sur Visomorphie alglbro-logique
+               et les ensembles relativement boreliens. Fund, math., vol. 22 (1934), pp. 281-286.

@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 512 ===
+Name  : JOSEF HAUPT.
+Flags : C
+Lines : 5635–5636
+========================================
+
+C 512. JOSEF HAUPT. 1. Vber die koassoziativen Gesetze. Dissertation. Munster i. W. 1934,
+                25 pp.

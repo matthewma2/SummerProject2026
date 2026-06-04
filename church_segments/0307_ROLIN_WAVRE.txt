@@ -1,0 +1,22 @@
+=== AUTHOR BLOCK 307 ===
+Name  : ROLIN WAVRE.
+Flags : none
+Lines : 4155–4170
+========================================
+
+307. ROLIN WAVRE.
+                     1. Y a-t-il une crise des mathematiques? A propos de la notion d'existence et d'une
+               application suspecte du principe du tiers exclu. Rev. mStaph. mor., vol. 31 (1924), pp. 435-
+               470. See errata, ibid., vol. 33 (1926), p. 430.
+                     2. Logique formelle et logique empirisle. Ibid., vol. 33 (1926), pp. 65-75. Reprinted in
+               Lecons sur la thSorie des fonctions, by fimile Borel, 3rd. edn., Paris 1928, pp. 257-265.
+                     3. Sur le principe du tiers exclu. Ibid., vol. 33 (1926), pp. 425-430. Reprinted ibid.,
+               pp. 270-273.
+                     4. Sur Us propositions indtmontrables. L'Ens. math., vol. 27 (1928), pp. 321-323.
+                     5. Review of Hilbert and Ackermann's Grundziige der theoretischen Logik. Ibid.,
+               vol. 28 (1929-30), pp. 345-347.
+                     6. Mathimatique et philosophie. Archives de la Sociit€ Beige de Philosophie, vol. 5
+               (1933), no. 1, 16 pp.
+                     7. Is there a crisis in mathematics? With reference to the notion of existence and a doubtful
+               application of the law of excluded mean. Abridged English translation of I by Alice Ambrose.
+               The American mathematical monthly, vol. 41 (1934), pp. 488-499.

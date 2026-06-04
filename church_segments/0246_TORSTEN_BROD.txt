@@ -1,0 +1,32 @@
+=== AUTHOR BLOCK 246 ===
+Name  : TORSTEN BROD
+Flags : none
+Lines : 3404–3429
+========================================
+
+246. TORSTEN BRODfiN.
+                    1. Om begreppens dialektiska upprinnelse. Logisk-matematiska prolegomena. (On
+              the dialectic origin of the concept. Logico-mathematical prolegomena.) Lund 1915, 127 pp.
+                   2. Ueber reducible und irreducible Mengen. Nyt tidsskrift for malematik, vol. 27
+               (1916), afdeling B, pp. 28-35.
+                   3. fiber die vermeintliche Exislenz von Mengen welche sich selbst enthalten, und iiber eine
+              Schriftdes Herrn Hj. Eklund. Ibid., vol. 28 (1917), afd. B, pp. 21-32.
+                   4. Ober uneigentliche Redeweisen in der Mengenlehre und iiber einen Aufsatz des Herrn
+              Hj. Eklund. Ibid., vol. 29 (1918), afd. B, pp. 36-43.
+                   5. Mangdla'ra. Icke-Euklidisk geometri. Malematisk logik. (Set theory. Non-Euclidean
+              geometry. Mathematical logic.) Matematiken och de exakta naturvetenskaperna under
+              det nittonde arhundradet, by Torsten Brod£n, Niels Bjerrum, and EHs Stromgren, Stock-
+              holm 1922, pp. 25-31.
+                   6. Eine realistische Grundlegung der Mathematik. Lunds Vniversitets arsskrift, n. s.
+              section 2 vol. 20 (1924), no. 1, 73 pp.
+                   7. Einige Worte iiber aktuelle mathematische Prinzipfragen. Den Sjette Skandinaviske
+              Matematikerkongres i Kpbenhavn, 31. August—4. September 1925, Copenhagen 1926,
+
+
+
+
+             pp. 229-239. "Handelt es sich aber nur um die Bedeutung der bis jetzt dargestellten
+             'mengentheoretischen Antinomieen,' so kann man fragen, ob das Auftreten derselben
+             wirklich als hinreichender Grund fur die Aufgebung der Cantorschen Mengenbegriffes
+             betrachtet werden kann."
+                    8. Omden Russellska antinomien (On the Russell antinomy). Lund 1926, 21 pp.

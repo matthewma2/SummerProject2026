@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 445 ===
+Name  : F. C. S. SCHILLER.
+Flags : A
+Lines : 5310–5313
+========================================
+
+A 445. F. C. S. SCHILLER.
+                      1. The value oj formal logic. Mind, n. s. vol. 41 (1932), pp. 53-71.
+                      2. The principles of symbolic logic. Jour, philos., vol. 29 (1932), pp. 550-552.
+                      J. Multi-valued logics—and others. Mind, n. s. vol. 44 (1935), pp. 467-483.

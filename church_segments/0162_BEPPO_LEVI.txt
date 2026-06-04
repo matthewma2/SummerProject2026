@@ -1,0 +1,33 @@
+=== AUTHOR BLOCK 162 ===
+Name  : BEPPO LEVI.
+Flags : none
+Lines : 2550–2576
+========================================
+
+162. BEPPO LEVI.
+                    I. Anlinomie logiche? Annali di matematica pura ed applicala, 3 s. vol. 15 (1908),
+              pp. 187-216.
+                    2: Riflessioni sopra alcuni principii della teoria degli aggregati e delle funzioni. Scritti
+              matematici offerti ad Enrico d'Ovidio in occasione del suo LXXV genetliaco 11 agosto
+              1918, Turin 1918, pp. 305-324.
+                    3. Sui procedimenti transfiniti. Math. Annalen, vol. 90 (1923), pp. 164-173.
+                    4. Fondamenti della logica efondamenti della meccanica quantislica. Annuario scienlifico
+              ed industriale (Milan), anno 64 vol. 2 (for 1927, pub. 1931), pp. 163-206.
+                    5. L'opera matematica di Giuseppe Peano. Bollettino della Unione Malematica
+              Ilaliana, vol. 11 (1932), pp. 253-262.
+                    6. Intorno alle vedute di G. Peano circa la logica matematica. (A proposito del pre-
+              cedenle arlicolo del prof. Ugo Cassina.) Ibid., vol. 12 (1933), pp. 65-68.
+                    7. Nota di logica matematica. Reale Istitulo Lombardo di Scienze e Lettere, Rendi-
+               conli, 2 s. vol. 66 (1933), pp. 239-252. "Si espongono alcune considerazioni sopra la
+              deduzione logica e sopra l'ufficio che ha la 'sostituzione' nel procedimento deduttivo: si
+              definisce l'operatore 9 che trasforma una condizione in una classe, confrontando il
+               significato che per tal modo acquista il simbolo 3 con quello che gli si attribuisce nella
+               ideografia del Peano."
+                    8. Logica matematica. Enciclopedia italiana di scienze, lettere ed arti, vol. 21 (Rome
+               1934), pp. 398-401.
+                    9. La nozione di "dominio deduttivo" e la sua importanza in taluni argomenti relativi ai
+              fondamenti dell'analisi. Fund, math., vol. 23 (1934), pp. 63-74.
+                     10. Review of Hilbert and Bernays's Grundlagen der Mathematik, vol. 1. Boll. Un.
+               Mat. Hal., vol. 14 (1935), pp. 32-36.
+                     II. Review of Heyting's Mathematische Grundlagenforschung. Ibid., pp. 36-37.
+                     See also review of Sierpinski's Hypothese du continu, ibid., pp. 179-182.

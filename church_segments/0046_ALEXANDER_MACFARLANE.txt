@@ -1,0 +1,28 @@
+=== AUTHOR BLOCK 46 ===
+Name  : ALEXANDER MACFARLANE.
+Flags : A
+Lines : 796–817
+========================================
+
+A46. ALEXANDER MACFARLANE.
+                    1. Principles of the algebra of logic, with examples. Edinburgh 1879, x + 155 pp.
+                    2. On a calculus of relationship (read 19 May 1879). Proceedings of the Royal Society
+               of Edinburgh, vol. 10 (1878-80), pp. 224-232.
+                    3. Algebra of relationship.—Part II (read 6 Dec. 1880). Ibid., vol. 11 (1880-2), pp.
+               5-13.                                 .
+                    4. Algebra of relationship. Part ///(read 7 March 1881). Ibid., pp. 162-163.
+                    5. An analysis of relationships. The London, Edinburgh, and Dublin philosophical
+               magazine and journal of science, 5 s. vol. 11 (1881), pp. 436-446.
+                    6. An analysis of relationship. Math, questions, vol. 36 (1881), pp. 78-81.
+                    7. Analysis of relationships of consanguinity and affinity. The Journal of the Anthro-
+              pological Institute (London), vol. 12 (1883), pp. 46-63.
+                    8. Deduce the necessary consequences of the law that a man cannot be the husband of his
+               wife's sister. Math, questions, vol. 38 (1883), pp. 27-28.
+                    9. The logical spectrum. Phil, mag., 5 s. vol. 19 (1885), pp. 286-290.
+                    10. The logical form of geometrical theorems. Annals of mathematics, vol. 3 (1887), pp.
+               154-155.
+                     / / . Problem in relationship (read 16 Jan. 1888). Proc. Roy. Soc. Edinburgh, vol. 15
+               (1887-8), pp. 116-117. See also Maih. questions, vol. 49 (1888), pp. 114-116.
+                     12. Application of the method of the logical spectrum to Boole's problem. Proceedings
+               of the American Association for the Advancement of Science for the thirty-ninth meeting,
+               held at Indianapolis, Indiana, August 1890, Salem, Mass., 1891, pp. 57-60.

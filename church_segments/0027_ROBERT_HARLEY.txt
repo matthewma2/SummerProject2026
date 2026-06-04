@@ -1,0 +1,23 @@
+=== AUTHOR BLOCK 27 ===
+Name  : ROBERT HARLEY.
+Flags : A
+Lines : 477–493
+========================================
+
+A 27. ROBERT HARLEY.
+                     1. George Boole, F. R. S. The British quarterly review, vol. 44 (1866), pp. 141-181.
+                     2. Remarks on Boole's mathematical analysis of logic. Report of the thirty-sixth meet-
+                ing of the British Association for the Advancement of Science; held at Nottingham in
+                August 1866, London 1867, Notices and abstracts, pp. 3-6. R. L. Ellis "gave his reasons
+                for believing that, when the 'exceptional cases' referred to in the above passage are fully
+                investigated, and a calculus is devised for their symbolical solution, it will be found that
+                the processes involved in such a calculus formally coincide with the processes commonly
+                employed in the solution of functional equations. He also pointed out that it was in this
+                direction probably that Boole's method would be found to admit of extension."
+                     3. On Boole's 'Laws of Thought.' Report of the fortieth meeting of the British Asso-
+                ciation for the Advancement of Science; held at Liverpool in September 1870, London
+                1871, Notices and abstracts, pp. 14-15.
+                     4. Solution of a question. Mathematical questions, with their solutions, from the
+                "Educational Times" (London), vol. 34 (1880), p. 74.
+                      5. Remarks on Mr. Murphy's paper. Proceedings of the Literary and Philosophical
+                Society of Manchester, vol. 23 (1884), pp. 36-40.

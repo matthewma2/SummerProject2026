@@ -1,0 +1,80 @@
+=== AUTHOR BLOCK 155 ===
+Name  : L. E. J. BROUWER.
+Flags : none
+Lines : 2442–2515
+========================================
+
+155. L. E. J. BROUWER.
+           *          1. Over de grondslagen der wiskunde (On the foundations of mathematics). Disser-
+                tation. Amsterdam and Leipzig 1907, 183 pp.
+           **        2. De onbetrouwbaarheid der logische principes (The untrustworthiness of the princi-
+                ples of logic). Tijdschrift voor wijsbegeerle, vol. 2 (1908), pp. 152-158. Reprinted in
+                 Wiskunde, waarheid, werkelijhheid, by L. E. J. Brouwer, Groningen 1919, 12 pp. "Zoodat
+                in oneindige systemen het principium tertii exclusi vooralsnog niet betrouwbaar is."
+                     3. Over de grondslagen der wiskunde. Nieuw archief voor wiskunde, 2 s. vol. 8 (1907-9),
+                pp. 326-328.
+                     4. Die moglichen Machtigkeiten. Atti del IV Congresso Internationale dei Matematici
+                (Roma, 6-11 Aprile 1908), vol. 3 (Rome 1909), pp. 569-571. "Es existiert also nur eine
+                Machtigkeit fiir mathematische unendliche Mengen, namlich die abzahlbare. Man kann
+                aber hinzufiigen: (1) die abzahlbar-unfertige, aber dann wird eine Methode, keine Menge
+
+
+
+
+
+
+
+                  gemeint; (2) die continuierliche, aa.in wird freilich etwas Fertiges gemeint, aber nur als
+                   Matrix, nicht als Menge."
+                         5. Review of Mannoury's Methodologisches und Philosophisches zur Elementar-
+                  Malhematik. Nieuw archief voor wiskunde, 2 s. vol. 9 (1909-11), pp. 199-201.
+             •           6. Intuitionisme en formalisme. Groningen 1912, 32 pp. Reprinted in Wiskunde,
+                  waarheid, werkelijkheid, Groningen 1919, 29 pp. "Uiteenzetting van de fundamenteele
+                  strijdvraag, die de wiskundige wereld verdeeld houdt."
+                         7. Inluitionism and formalism. English translation of the preceding by Arnold Dres-
+                  den. Bull. Amer. Math. Soc, vol. 20 (1913-4), pp. 81-96. "Exposition of the fundamental
+                  issue which divides the mathematical world."
+                         8. Review of Schoenflies's Entwickelung der Mengenlehre. Jahresb. D. M.-V., vol.
+                  23 (1914), 2. Abteilung, pp. 78-83.
+                         9. Addenda en corrigenda over de grondslagen der wiskunde. Koninklijke Akademie van
+                   Wetenschappen te Amsterdam, Verslagen van de gewone vergaderingen der wis- en
+                  natuurkundige afdeeling, vol. 25 (1917), pp. 1418-1423. Reprinted in- Nieuw archief voor
+                  wiskunde, 2 s. vol. 12 (1914-8), pp. 439-445.
+             *           10. Begrtindung der Mengenlehre unabhangig vom logischen Satz vom ausge-
+                  schlossenen Dritten. Erster Teil: Allgemeine Mengenlehre. Verhandelingen der Konink-
+                  lijke Akademie van Wetenschappen te Amsterdam (Eerste sectie), vol. 12 no. 5 (Amster-
+                  dam 1918), 43 pp. See errata on last page of Zweiter Teil: Theorie der Punktmengen,
+                  ibid., vol. 12 no. 7 (Amsterdam 1919).
+                         11. Intuitionistische Mengenlehre. Jahresb. D. M.-V., vol. 28 (1919), pp. 203-208.
+                  Reprinted in Koninklijke Akademie van Wetenschappen te Amsterdam, Proceedings of
+                  the section of sciences, vol. 23 part 2 (1922), pp. 949-954.
+                         12. Intuitionistische verzamelingsleer. Dutch translation of the preceding. K. Akad.
+                   Wet. Amsterdam, Versl., vol. 29 (1921), pp. 797-802.
+                        13. Besitzt jede reelle Zahl eine Dezimalbruchentwickelung? Math. Annalen, vol. 83
+                  (1921), pp. 201-210. Reprinted in K. Akad. Wet. Amsterdam, Proc, vol. 23 part 2 (1922),
+                  pp. 955-964.
+                        14. Intuitionistische splitsing van mathematische grondbegrippen (Intuitionistic splitting
+                  up of the fundamental ideas of mathematics). K.Akad. Wet. Amsterdam, Versl., vol.32
+                  (1923), pp. 877-880.
+                        15. Over de rol van het prindpium terlii exclusi in de wiskunde, in het bijzonder in de
+                 functietheorie. Wis- en natuurkundig tijdschrift, vol. 2 (1923), pp. 1-7.
+                        16. Uber die Bedeutung des Satzes vom ausgeschlossenen Dritten in der Mathematik,
+                 insbesondere in der Funktionentheorie. German translation of the preceding. Journal fur
+                 die reine und angewandte Mathematik, vol. 154 (1925), pp. 1-7.
+                       17. Intuitionistiscke Zerlegung mathematischer Crundbegriffe. Jahresb. D. M.-V., vol.
+                 33 (1925), pp. 251-256.
+                       18. Zur Begrtindung der intuitionistischen Mathematik. Math. Annalen, vol. 93
+                 (1924-5), pp. 244-257; vol. 95 (1925-6), pp. 453-472; vol. 96 (1926-7), pp. 451-488.
+                       19. Zur intuitionistischen Zerlegung mathematischer Grundbegriffe. Jahresb. D. M.-V.,
+                 vol. 36(1927), pp. 127-129.
+            *          20. Intuitionistische Betrachtungen uber den Formalismus. Sitzungsberichte der
+                 Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse, 1928,
+                 pp. 48-52. Also K. Akad. Wet. Amsterdam, Proc, vol. 31 (1928), pp. 374-379.
+                       21. Beweis dass jede Menge in einer individualisierten Menge enthalten ist. K. Akad.
+                 Wet. Amsterdam, Proc, vol. 31 (1928), pp. 380-381.
+                       22. Mathematik, Wissenschaft und Sprache. Monatsh. Math. Phys., vol. 36 (1929),
+                 pp. 153-164.
+                       23. Review of Fraenkel's Zehn Vorlesungen uber die Grundlegung der Mengenlehre.
+                 Jahresb. D. M.-V., vol. 39 (1930), 2. Abteilung, pp. 10-11.
+          :            24. Willen, weten, spreken (Volition, knowledge, speech). Euclides, vol. 9 (1933),
+                pp. 177-193. Also in De uitdrukkingswijzen der wetenschap, Groningen 1933.

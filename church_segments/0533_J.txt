@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 533 ===
+Name  : J.
+Flags : none
+Lines : 5685–5686
+========================================
+
+533. J. v. NEUMANN and M. H. STONE. / . The determination of representative elements in
+                the residual classes of a Boolean algebra. Fund, math., vol. 25 (1935), pp. 353-378.

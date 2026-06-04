@@ -1,0 +1,17 @@
+=== AUTHOR BLOCK 347 ===
+Name  : MARCEL BARZIN
+Flags : none
+Lines : 4480–4490
+========================================
+
+347. MARCEL BARZIN and ALFRED ERRERA.
+                   1. Sur la logique de M. Brouwer. Academie Royale de Belgique, Bulletins de la classe
+              des sciences, 5 s. vol. 13 (1927), pp. 56-71. Abstract in Lecons surla thiorie des fonctions,
+              by fimile Borel, 3rd. edn., Paris 1928, pp. 283-285.
+                   2. Sur le principe du tiers exclu. Archives de la Sociele Beige de Philosophie, vol. 1
+              (1929), no. 2, 26 pp.
+                   3. Sur la logique de M. Heyting. L'Ens. math., vol. 30 (1931-2), pp. 248-250.
+                   4. Note sur la logique de M. Heyting. Ibid., vol. 31, pp. 122-124.
+                   5. Sur la logique intuitionnisle. Rtponse a M. A. Heyting. Ibid., pp. 273-274.
+                   6. La logique de M. Brouwer. &lat de la question. Bulletin mathematique de la SociSti
+              Roumaine des Sciences, vol. 35 (1933), pp. 51-52.

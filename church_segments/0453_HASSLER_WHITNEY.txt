@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 453 ===
+Name  : HASSLER WHITNEY.
+Flags : none
+Lines : 5333–5339
+========================================
+
+453. HASSLER WHITNEY.
+                      1. A logical expansion in mathematics. Bull. Amer. Math. Soc, vol. 38 (1932), pp.
+                572-579.
+                      2. Characteristic functions and the algebra of logic. Annals of mathematics, 2 s. vol. 34
+                (1933), pp. 405-414. "We shall show in this paper how, by means of 'characteristic func-
+                tions,' the formulas of the algebra of logic can be expressed as equations of ordinary
+                algebra."

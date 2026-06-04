@@ -1,0 +1,15 @@
+=== AUTHOR BLOCK 235 ===
+Name  : DMITRY MIRIMANOFF.
+Flags : none
+Lines : 3276–3284
+========================================
+
+235. DMITRY MIRIMANOFF.
+                     1. Review of Konig's Neue Grundlagen der Logik, Arilhmetik und Mengenlehre.
+                L'Ens. math., vol. 16 (1914), pp. 399-402.
+                     2. Les antinomies de Russell el de Burali-Forti et le problime fondamental de la thlorie
+                des ensembles. Ibid., vol. 19 (1917), pp. 37-52.
+                     3. Remarques sur la thlorie des ensembles et les antinomies cantoriennes.—I. Ibid.,
+                pp. 209-217.
+                     4. Remarques sur la thforie des ensembles et les antinomies cantoriennes.—II. Ibid.,
+                vol. 21 (1920), pp. 29-52.

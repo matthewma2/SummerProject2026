@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 63 ===
+Name  : J.'N. KEYNES.
+Flags : none
+Lines : 1042–1045
+========================================
+
+63. J.'N. KEYNES. 1. Studies and exercises informal logic including a generalization of
+                logical processes in their application to complex inferences. London 1884, xii+414 pp.
+                2nd. edn., London and New York 1887, xii+455 pp. 3rd. edn., London and New York
+                1894, xviii+476 pp. 4th. edn., London 1906, xxiv+548 pp.

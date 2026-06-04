@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 403 ===
+Name  : HENRYK GRENIEWSKI.
+Flags : C
+Lines : 5036–5041
+========================================
+
+C 403. HENRYK GRENIEWSKI. 1. O jedynym terminie pierwolnym logiki matematycznje
+                (On a single primitive term of mathematical logic). Ksiega pamiqtkowa Pierwszego
+                Polskiego Zfazdu Matematycznego, Lxvow, 7-10, IX. 1927, Krak6w 1929, pp. 16-28.
+                "Wkr6tce potem postawilis'my sobie zadanie nastepujace: Zbudowafi system logiki mate-
+                matycznej oparty na jedynym terminie pierwotnym i zawieraja.cy tylko nominalne
+                definicje!"

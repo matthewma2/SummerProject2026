@@ -1,0 +1,71 @@
+=== AUTHOR BLOCK 100 ===
+Name  : LOUIS COUTURAT.
+Flags : A
+Lines : 1607–1673
+========================================
+
+A 100. LOUIS COUTURAT.
+                      1. La logique mathimatique de M. Peano. Rev. metaph. mor., vol. 7 (1899), pp. 616-646.
+                      2. Sur une definition logique du nombre. Ibid., vol. 8 (1900), pp. 23—36.
+                      3. L'algebreuniversellede M. Whitehead. Ibid., pp. 323-362.
+
+
+
+                      4. Review of Schroder's Vorlesungen tiber die Algebra der Logik, vol. 1 and vol.
+                 part 1. Bulletin des sciences mathematiques, 2 s. vol. 24 (1900), premiere partie, pp. 49-6
+                      5. Review of the same, vol. 3 part 1. Ibid., pp. 83-102.
+                      6. Review of Peano's Formulaire de mathematiques, vols. 1-3. Ibid., 2 s. vo\.".
+                (1901), premiere partie, pp. 141-159.
+                      7. La logique de Leibniz d'apres des documents inedits. Paris 1901, xiv+608 pp.
+                      8. Part of the article Symbolic logic or algebra of logic. Dictionary of philosophy at
+               psychology, ed. by J. M. Baldwin, vol. 2 (New York and London 1902), pp. 640-64S.
+                      9. II™ Congres de Philosophie.—Geneve. Comptes rendus critiques. II. Logique
+                philosophic des sciences. Stances de section et stances glntrales. Rev. mStaph. mor., vol. 1
+                (1904), pp. 1037-1077.
+                      10. Sur VutiliU de la logique algorithmique. Congres International de Philosophic
+                IIme session, tenue d Geneve du 4 au S Seplembre 1904, Geneva 1905, pp. 706-71:
+                      11. Review of Russell's The principles of mathematics. Bull. sci. math., 2 s. vol. 2
+                (1904), premiere partie, pp. 129-147.
+                      12. Les principes des mathematiques. Rev. metaph. mor., vol. 12 (1904), pp. 19-5(
+                211-240, 664-698,810-844, and vol. 13 (1905), pp. 224-256.
+                      13. Les definitions mathtmatiques. L'Enseignement mathematique, vol. 7 (1905), pf
+                27-40.
+                      14. Definitions et demonstrations mathlmatiques. Ibid., pp. 104-121.
+                      75. Les principes des mathematiques avec un appendice sur la philosophie des mathi
+                maliques de Kant. Paris 1905, viii+310 pp. "Le present livre n'a aucune prevention
+                l'originalitfi, et c'est precis6ment ce qui doit Ie recommander au lecteur, II doit l'existenc
+                a l'apparition du magistral ouvrage de M. Bertrand RUSSELL qui porte Ie meme titre. Ei
+                principe, il n'6tait qu'un compte rendu de cet ouvrage."
+                      16. L'algebre de la logique. Paris 1905, 100 pp. 2nd. edn., Paris 1914, 100 pp. "Le
+                lois fondamentales de ce calcul ont 6t€ inventees pour exprimer les principes du raisonne
+                ment, les 'lois de la pens6e'; mais on peut consid£rer ce calcul au point de vue puremen
+                formel, qui est celui des Mathematiques, comme une Algebre reposant sur certains prin
+                cipes arbitrairement pos£s."
+                      17. Pour la logistique {rtponse a M. Poincari). Rev. metaph. mor., vol. 14 (1906)
+                pp. 208-250.
+                      18. Die philosophischen Prinzipien der Mathemalik. German translation of IS b>
+                Carl Siegel. Leipzig 1908, xiii+328 pp.
+                      19. A logika algebrdja. Hungarian translation of 16 by Denes Konig. Mathemalika
+                is physikai lapok (Budapest), vol. 17 (1908), pp. 109-202.
+                      20. Algebra logiki. Russian translation of the same. Odessa 1909, iv+107+xii+6 pp
+                      21. Filosofskie principy matemaliki. Russian translation of 15. St. Petersburg 1912,
+               260 pp. Also with a French preface by F. F. Linde, St. Petersburg 1913, viii+260 pp.
+                      22. For logistics. English translation of 17 by P. E. B. Jourdain. The monist, vol. 22
+               (1912), pp. 483-523, with an introductory note by P. E. B. Jourdain, pp. 481-483.
+                     23. Die prinzipien der Logik. Encyclopddie der philosophischen Wissenschaften, ed.
+               by Wilhelm Windelband and Arnold Ruge, vol. 1 Logik (Tubingen 1912), pp. 137-201.
+                     24. The principles of logic. English translation of the preceding by B. Ethel Meyer.
+               Encyclopaedia of the philosophical sciences, English edn. ed. by Sir Henry Jones, vol. 1
+               Logic (London 1913), pp. 136-198.
+                     25. Des propositions particulieres et de leur portie existentielle. Rev. mitaph. mor.,
+               vol. 21 (1913), pp. 256-259.
+                     26. Logistique et intuition. Ibid., pp. 260-268.
+                     27. The algebra of logic. English translation of 16 by Lydia Gillingham Robinson,
+               with a preface by P..E. B. Jourdain. Chicago and London 1914, xiv+98 pp. "The formal
+               value of this calculus and its interest for the mathematician are absolutely independent
+               of the interpretation given it and of the application which can be made of it to logical
+               problems. In short, we shall discuss it not as logic but as algebra."
+                     28. Sur les rapports logiques des concepts et des propositions. Rev. metaph. mor., vol. 24
+               (1917), pp. 15-58.
+                     29. La logique algorithmique it le calcul des probabilitls. Ibid., pp. 291-313.
+                     See also G. W. v. Leibniz 110,11,13-40.

@@ -1,0 +1,92 @@
+=== AUTHOR BLOCK 238 ===
+Name  : NORBERT WIENER.
+Flags : none
+Lines : 3293–3378
+========================================
+
+238. NORBERT WIENER.
+                      1. A simplification of the logic of relations (read 23 Feb. 1914). Proceedings of the
+                 Cambridge Philosophical Society, vol. 17 (1912-4), pp. 387-390.
+                "xy4(x, y) = & {(3*, y) . <#>(*, y) . a = i'(iV* U i'A) U i-i'i'y} Df."
+                     2. A contribution to the theory of relative position (received 14 March 1914). Ibid.,
+                pp. 441-449. "Examples of the sort of relation to which I am referring are the relation
+
+
+
+
+
+              between two events in time when one completely precedes the other, or the relation be-
+              tween two intervals on a line when one lies to the left of the other, and does not overlap
+              it."
+                    3. Studies in synthetic logic (received 13 July 1914). Ibid., vol. 18 (1914-6), pp. 14-28.
+              "I first mean to bring the definitions of order through triadic and tetradic relations under
+              a single very general heading, and to show that Frege's theory of hereditary relations and
+              the theory of series-synthesis developed in my former article can be generalized so as to
+              apply to these. Then I shall give an alternative method of constructing series from non-
+              serial relations which bears much the same relation to the various series of sensation-
+              intensilies that the method of my previous article bears to the series of instants that con-
+              stitutes one sort of extension, time."
+                    4. Mr. Lewis and implication. Jour, philos. etc., vol. 13 (1916), pp. 656-662.
+                    5. Certain formal invariances in Boolean algebras. Trans. Amer. Math. Soc, vol. 18
+              (1917), pp. 65-72.
+                    6. Review of Lewis's A survey of symbolic logic. Jour, philos. etc., vol. 17 (1920),
+              pp. 78-79.
+                    7. A new theory of measurement: A study in the logic of mathematics. Proc. London
+              Math. Soc, 2 s. vol. 19 (1919-20), pp. 181-205.
+          239. B. A. BERNSTEIN.
+                    1. A complete set of postulates for the logic of classes expressed in terms of the operation
+              "exception," and a proof of the independence of a set of postulates due to Del Re. University
+              of California publications in mathematics, vol. 1 (1912-24), no. 4 (15 May 1914), pp.
+              87-96.
+                    2. A set of four independent postulates for Boolean algebras. Trans. Amer. Math. Soc,
+              vol. 17 (1916), pp. 50-51.
+                    3. A simplification of the Whitehead- Huntington set of postulates for Boolean algebras.
+              Bull. Amer. Math. Soc, vol. 22 (1915-6), pp. 458-459.
+                    4. Complete sets of representations of two-element algebras. Ibid., vol. 30 (1924), pp.
+               24-30.
+                    5. A generalization of the syllogism. Ibid., pp. 125-127.
+                    6. Operations with respect to which the elements of a Boolean algebra form a group.
+               Trans. Amer. Math. Soc, vol. 26 (1924), pp. 171-175. See Errata, ibid., vol. 27 (1925),
+               p. 600.
+                    7. Sets of postulates for the logic of propositions. Ibid., vol. 28 (1926), pp. 472-478.
+                    8. On the serial relation in Boolean algebras. Bull. Amer. Math. Soc, vol. 32 (1926),
+               pp. 523-524.
+                    9. On the existence of fields in Boolean algebras. Trans. Amer. Math. Soc, vol. 28
+               (1926), pp. 654-657.
+                    10. Review of Whitehead and Russell's Principia mathematica, 2nd. edn., vol. 1.
+               Bull. Amer. Math. Soc, vol. 32 (1926), pp. 711-713.
+                    11. The dual of a logical expression. Ibid., vol. 33 (1927), pp. 309-311.
+                    12. Irredundant sets of postulates for the logic of propositions. Ibid., vol. 35 (1929),
+               pp. 545-548?
+                    13. Whitehead and Russell's theory of deduction as a mathematical science. Ibid., vol. 37
+               (1931), pp. 480-188.
+                    14. A pplication of Boolean algebra to proving consistency and independence of postulates.
+               Ibid., pp. 715-719.
+                    15. Note on the condition that a Boolean equation have a unique solution. Amer. jour,
+               math., vol. 54 (1932), pp. 417-418.
+                    16. On proposition *4.78 of Principia Mathematica. Bull. Amer. Math. Soc, vol. 38
+               (1932), pp. 388-391.
+                    17. Relation of Whitehead and Russell's theory of deduction to the Boolean logic of
+               propositions. Ibid., pp. 589-593. "The theory of deduction is derivable from the Boolean
+               logic of propositions, but not conversely. The latter fact makes the theory inadequate as
+               'the calculus of propositions."
+                    18. Review of Ramsey's The foundations of mathematics. Ibid., pp. 611-612.
+                    19. On unit-zero Boolean representations of operations and relations. Ibid., pp. 707-712.
+
+
+
+
+                  20. On Nicod's reduction in the number of primitives of logic. Proceedings of the Cam-
+             bridge Philosophical Society, vol. 28 (1932), pp 427-432. "I shall show that Nicod's
+             postulates, when written in customary mathematical language, and with certain informal
+             implications made formally explicit, are consistent and independent; that the primitives
+             '<j>x,' *r- .4>x,' *l • 11, *1 -72 of the Principia are redundant; and that Nicod's postulates
+             are derivable from the primitives of the Principia."
+                   21. Remarks on propositions *1.1 and *3.35 of Principia Malhematica. Bull. Amer.
+             Math. Soc, vol 39 (1933), pp. 111-114.
+                   22. Simplification of the set of four postulates for Boolean algebras in terms of rejection.
+              Ibid., pp. 783-787.
+                   23. On Section A of Principia Malhematica. Ibid., pp. 788-792.
+                   24. A set of four postulates for Boolean algebra in terms of the "implicative" operation.
+              Trans. Amer. Math. Soc, vol. 36 (1934), pp. 876-884.
+                   25. On finite Boolean algebras. Amer. jour, math., vol. 57 (1935), pp. 733-742.

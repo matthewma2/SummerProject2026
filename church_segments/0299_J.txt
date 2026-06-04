@@ -1,0 +1,34 @@
+=== AUTHOR BLOCK 299 ===
+Name  : J.
+Flags : none
+Lines : 4078–4105
+========================================
+
+299. J. v. NEUMANN.
+                    1. Zur EinfUhrung der transfiniten Zahlen. Ada litterarum ac scientiarum Regiae
+              Vniversitatis Hungaricae. Francisco-Josephinae, Sectio scientiarum mathematicarum,
+             vol. 1 (1923), pp. 199-208.
+         * . 2 . Eine Axiomatisierung der Mengenlehre. Jour. r. angew. Math., vol. 154 (1925),
+             pp. 219-240. See Berichtigung, ibid., vol. 155 (1926), p. 128.
+
+
+
+
+          *        3. Zur Hilbertschen Beweistheorie. Math. Z., vol. 26 (1927), pp. 1-46.
+                   4. Uber die Definition durch transfinite Induktion und verwandte Fragen der allgemeinen
+              Mengenlehre. Math. Annalen, vol. 99 (1928), pp. 373-391.
+                   5. Die Axiotnatisierung der Mengenlehre. Math. Z., vol. 27 (1928), pp. 669-752.
+              "In meiner Arbeit 'Eine Axiomatisierung der Mengenlehre' habe ich ein Axiomensystem
+              fur die allgemeine Mengenlehreangegeben, und dasselbe vom allgemeinen und prinzipiellen
+              Standpunkte aus naher untersucht. Eine detaillierte Diskussion desselben, d.h. die tatsach-
+              liche Herleitung der allgemeinen Mengenlehre oder wenigstens ihrer hauptsachlichsten
+              Resultate, wurde dort nicht vorgenommen. Diese Herleitung soil nun in der vorliegenden
+              Arbeit erfolgen."
+                   6. Ober eine Widerspruchsfreiheilsfrage in der axiomatischen Mengenlehre. Jour. r.
+              angew. Math., vol. 160 (1929), pp. 227-241.
+                   7. Bemerkungen zu den Ausfiihrungen von Herrn St. Leiniewski uber meine Arbeit
+              "Zur Hilbertschen Beweistheorie." Fund, math., vol. 17 (1931), pp. 331-334.
+                   8. Die formalistische Grundlegung der Mathematik. Erkenntnis, vol. 2 (1931-2), pp.
+              116-121.
+                   9. Diskussion zur Grundlegung der Mathematik. Ibid., pp. 144-145, 146, 148.
+                   See also J. v. Neumann and M. H. Stone 533.

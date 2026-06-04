@@ -1,0 +1,86 @@
+=== AUTHOR BLOCK 111 ===
+Name  : BERTRAND RUSSELL (B. A. W. R
+Flags : A
+Lines : 1806–1885
+========================================
+
+A 111. BERTRAND RUSSELL (B. A. W. Russell).
+                      1. On the notion of order. Mind, n.s. vol. 10 (1901), pp. 30-51.
+                     2. Recent work on the principles of mathematics. The international monthly (Burling-
+               ton, Vt.), vol. 4 (1901), pp. 83-101. Reprinted as Mathematics and the metaphysicians in
+               Mysticism and logic and other essays, by Bertrand Russell, London and New York 1921,
+               pp. 74-96; also translated into French by J. de Menasce in Le mysticisme el la logique,
+                Paris 1922.
+           *         3. Sur la logique des relations avec des applications d la thlorie des slries. Rev. de math.
+                (Riv. di mat), vol. 7 (1900-1), pp. 115-148.
+                     4. Onfiniteand infinite cardinal numbers (Section III of A. N. Whitehead's On cardinal
+               numbers). Amer. jour, math., vol. 24 (1902), pp. 378-383.
+                     5. Thlorie glnlrale des series bien-ordonnles. Rev. de math., vol. 8 (1902-6), pp. 12-43.
+           *t        6. The principles of mathematics. Vol. 1, Cambridge, England, 1903, xxix+534 pp.
+               "The present work has two main objects. One of these, the proof that all pure mathematics
+               deals exclusively with concepts definable in terms of a very small number of fundamental
+               logical concepts, and that all its propositions are deducible from a very small number of
+               fundamental logical principles. The other object of this work is the explanation of the
+               fundamental concepts which mathematics accepts as indefinable."
+                     7. The axiom of infinity. The Hibbert journal, vol. 2 (1903-4), pp. 809-812.
+                     8. The existential import of propositions. Mind, n.s. vol. 14 (1905), pp. 398^01.
+           *          9. On denoting. Mind, n.s. vol. 14 (1905), pp. 479-493.
+                     10. Sur la relation des mathlmaliques a la logislique. Rev. melaph. mor., vol. 13 (1905),
+               pp. 906-916. "L'intention premiere de cet article est de r6pondre a certains points de la
+               discussion de M. P. Boutroux: 'Correspondance mathe'matique et relation logique.'"
+                     11. On some difficulties in the theory of transfinite numbers and order types. Proc. London
+               Math. Soc, 2 s. vol. 4 (1906), pp. 29-53. "There are two wholly distinct difficulties to be
+               considered-in the theory of transfinite cardinal numbers, namely: (1) The difficulty as to
+               inconsistent aggregates (as they are called by Jourdain); (2) The difficulty as to what we
+               may call Zermelo's axiom."
+                     12. The theory of implication. Amer. jour, math., vol. 28 (1906), pp. 159-202. "The
+               subject to be treated in what follows is not quite properly described as the theory of
+               propositions. It is in fact the theory of how one proposition can be inferred from another."
+                     13. Reply to M. Poincarl's letter. Mind, n.s. vol. 15 (1906), p. 143.
+                     14. Les paradoxes de la logique. Rev. metaph. mor., vol. 14 (1906), pp. 627-650.
+               "L'article de M. Poincare', Les Malhtmatiques el la Logique, illustre ce qui me paralt etre
+               une mSprise sur la nature et les fins de la Logistique."
+                     15. Review of MacColl's Symbolic logic and its applications. Mind, n.s. vol. 15.
+               (1906), pp. 255-260.
+           **        16. Mathematical logic as based on the theory of types. Amer. jour, math., vol. 30 (1908),
+               pp. 222-262. "The following theory of symbolic logic recommended itself to me in the
+               first instance by its ability to solve certain contradictions, of which the one best known to
+               mathematicians is Burali-Forti's concerning the greatest ordinal."
+                     17. 'If and 'imply,' a reply to Mr. MacColl. Mind, n.s. vol. 17 (1908), pp. 300-301.
+                     18. La thlorie des types logiques. Rev. m&taph. mor., vol. 18 (1910), pp. 263-301.
+                     19. Some explanations in reply to Mr. Bradley. Mind, n.s. vol. 19 (1910), pp. 373-378.
+                     20. L'importance philosophique de la logistique. Rev. mitaph. mor., vol. 19 (1911),
+               pp. 281-291.
+                     21. Knowledge by acquaintance and knowledge by description. Proceedings of the
+
+
+
+
+               Aristotelian Society, n.s. vol. 11 (1911), pp. 108-128. Reprinted with some changes in
+               The problems of philosophy, by Bertrand Russell, New York and London 1912, pp. 72-92.
+               Reprinted in Mysticism and logic and other essays, pp. 209-232; also translated into
+               French in Le mysticisme et la logique; and in Les problemes de la philosophie (translated
+               by J. F. Renauld), Paris. 1923.
+                    22. Rtponse a M. Koyrl. Rev. metaph. mor., vol. 20 (1912), pp. 725-726.
+                    23. The philosophical importance of mathematical logic. English translation of 20 by
+               P. E. B. Jourdain. Themonist, vol. 23 (1913), pp. 481-493.
+                    24. Our knowledge of the external world. Chicago and London 1914, vii+245 pp.
+               2nd. edn., London 1926, 251 pp. New York 1929, ix+268 pp.
+                    25. The philosophy of logical atomism. The monist, vol. 28 (1918), pp. 495-527; vol 29.
+               (1919), pp. 32-63, 190-222, 345-380.
+          t         26. Introduction to mathematical philosophy. London 1919, viii+206 pp. 2nd. edn.,
+               London 1920, viii+206 pp. "This book is intended essentially as an 'Introduction,' and
+               does not aim at giving an exhaustive discussion of the problems with which it deals. It
+               seemed desirable to set forth certain results, hitherto only available to those who have
+               mastered logical symbolism, in a form offering the minimum of difficulty to the beginner."
+          t         27. Einfiihrung in die mathemalische Philosophie. German translation of the pre-
+               ceding by E. J. Gumbel and W. Gordon. Munich 1923. 2nd. edn., with preface by David
+               Hilbert, Munich 1930, viii+212 pp.
+                    28. Unser Wissen von der Aussenwelt. German translation of 24 by W. Rothstock.
+               Leipzig 1926, viii+331 pp.
+          t         29. Introduction a la philosophie mathematique. French translation of 26 by G.
+               Moreau. Paris 1928, 245 pp.
+                    30. Review of Ramsey's The foundations of mathematics and other logical essays.
+               Mind, n.s. vol. 40 (1931), pp. 476-482.
+                    See also A. N. Whitehead and Bertrand Russell 194, Henri Poincarfi 13776, Ludwig
+               Wittgenstein 2817, 2.

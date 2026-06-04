@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 470 ===
+Name  : K. HIRSCH.
+Flags : C
+Lines : 5438–5439
+========================================
+
+C 470. K. HIRSCH. 1. Intuition und logische Form. Zur gegenwartigen Philosophie der Mathe-
+                matik. Dissertation Berlin 1933. 48 pp.

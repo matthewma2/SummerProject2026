@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 70 ===
+Name  : PIGTKIEWICZ.
+Flags : C
+Lines : 1088–1089
+========================================
+
+C 70. PIGTKIEWICZ. 1. Algebra w logice (Algebra in logic). Programmabhandlung des Gym-
+                nasiums, Lemberg 1888.

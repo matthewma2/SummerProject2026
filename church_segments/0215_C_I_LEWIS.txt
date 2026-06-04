@@ -1,0 +1,60 @@
+=== AUTHOR BLOCK 215 ===
+Name  : C. I. LEWIS.
+Flags : none
+Lines : 3040–3093
+========================================
+
+215. C. I. LEWIS.
+                   1. Implication and the algebra of logic. Mind, n. s. vol. 21 (1912), pp. 522-531. "In-
+             tensional disjunction bears the same relation to inferential or 'strict' implication that ex-
+             tensional disjunction bears to the algebraic or 'material' implication."
+                   2. Interesting theorems in symbolic logic. Jour, philos. etc., vol. 10 (1913), pp. 239-242.
+             "Two propositions in the algebra of implication or 'calculus of propositions' have been
+             much discussed. They are: 'A false proposition implies any proposition,' and 'A true propo-
+             sition is implied by any proposition.' These theorems have been hailed as discoveries and
+             repudiated as absurdities. But on all sides the impression seems to prevail that these two
+             are sui generis in the algebra. For this reason, it may be worth while to present a partial
+             list of propositions which are of the same kind, involve the same principles, and can be
+             proved from the same assumptions."
+                   3. A new algebra of implication and some consequences. Ibid., pp. 428-438.
+                   4. The calculus of strict implication. Mind, n. s. vol. 23 (1914), pp. 240-247.
+                   5. The matrix algebra for implications. Jour, philos. etc, vol. 11 (1914), pp. 589-600.
+             "The addition of the idea 'impossibility' gives us five truth values "
+                   6. A too-brief set of postulates for the algebra of logic. Ibid., vol. 12 (1915), pp. 523-525.
+                   7. Types of order and the system 2. The philosophical review, vol. 25 (1916), pp. 407-
+             419. "This second method appears in its best and clearest form in the paper of Professor
+              Royce on 'The Relation of the Principles of Logic to the Foundations of Geometry.'"
+
+
+
+
+                   8. The issues concerning material implication. Jour, philos. etc., vol. 14 (1917), pp.
+              350-356.
+          t        9. A survey of symbolic logic. Berkeley, Cal., 1918, vi+406 pp. "What such a student
+               most needs is a comprehensive survey of the subject—one which will familiarize him with
+              more than the single system which he knows, and will indicate not only the content of
+              other branches and the alternative methods of procedure, but also the relation of these to
+              the Boole-Schroder algebra and to one another. The present book is an attempt to meet
+              this need, by bringing within the compass of a single volume, and reducing to a common
+              notation (so far as possible), the most important developments of symbolic logic." Certain
+              errors of earlier papers are corrected in Chapter V.
+         *         10. Strict implication—an emendation. Jour, philos. etc., vol. 17 (1920), pp. 300-302.
+              "Mr. E. L. Post, of the department of mathematics in Columbia University, calls my atten-
+              tion to an error in the development of the system of 'Strict Implication,' as presented in
+              Chapter V of A Survey of Symbolic Logic." See further Appendix II of Lewis and Lang-
+              ford's Symbolic logic.
+                   11. The structure of logic and its relation to other systems. The journal of philosophy,
+              vol. 18 (1921), pp. 505-516.
+                   12. La logique el la mUhode mathimatique. Rev. metaph. mor., vol. 29 (1922), pp. 455-
+              474.
+                   13. Review of Smart's The philosophical presuppositions of mathematical logic.
+              Jour.philos., vol. 23 (1926), pp. 220-222.
+                   14. Review of Whitehead and Russell's Principia mathemalica, 2nd. edn., vols. 1-3.
+               The American mathematical monthly, vol. 35 (1928), pp. 200-205.
+                   15. Alternative systems of logic. The monist, vol. 42 (1932), pp. 481-507.
+                   16. Reply to Mr. Ushenko. Ibid., vol. 43 (1933), pp. 292-293.
+                   17. Reply to Mr. Ushenko's addendum. Ibid., pp. 295-296.
+                   18. Note concerning many-valued logical systems. Jour, philos., vol. 30 (1933), p. 364.
+                   19. Paul Weiss on alternative logics. The philosophical review, vol. 43 (1934), pp.
+              70-74.
+                   See also C. I. Lewis and C. H. Langford 456.

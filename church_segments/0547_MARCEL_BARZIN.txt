@@ -1,0 +1,16 @@
+=== AUTHOR BLOCK 547 ===
+Name  : MARCEL BARZIN.
+Flags : none
+Lines : 5732–5747
+========================================
+
+547. MARCEL BARZIN.
+                     1. Sur les dimonstrations de non-contradiction des axiomes. 2me Congres National des
+               Sciences, Comples rendus, vol. 1 (Brussells 1935), pp. 156-159. "On voit que la m6thode
+               de Bernays, malgre' son 616gance, ne nous apporte aucune raison nouvelle d'avoir confiance
+               dans le systeme d'axiomes examine1."
+                    2. Sur la crise contemporaine des mathlmatiques. L'Ens. math., vol. 34 (1935-6), pp.
+               5-11. "II semble done que, ni la nature des sciences mathfrnatiques, ni m4me la philoso-
+               phie de M. Brouwer ne nous contraignent it accepter la regie, qui'il veut introduire de
+               n'admettre comme ve'rite's que celles que Ton peut construire."
+                    See also Marcel Barzin and Alfred Errera 347.

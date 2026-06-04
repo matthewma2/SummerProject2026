@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 166 ===
+Name  : L. J. RUSSELL.
+Flags : A
+Lines : 2600–2604
+========================================
+
+A166. L. J. RUSSELL.
+                    1. Space and mathematical reasoning. Mind, n.s. vol. 17 (1908), pp. 321-349.
+                    2. An elementary symbolism for logic. Mind, n.s. vol. 37 (1928), pp. 40-61. "The object
+              of this paper is to suggest a symbolism for Formal Logic which will mediate between the
+              traditional formal logic and the new symbolic logic."

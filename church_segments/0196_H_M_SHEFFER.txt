@@ -1,0 +1,21 @@
+=== AUTHOR BLOCK 196 ===
+Name  : H. M. SHEFFER.
+Flags : none
+Lines : 2895–2909
+========================================
+
+196. H. M. SHEFFER.
+                   1. Review of Reymond's Logique el mathematiques. The philosophical review, vol. 19
+              (1910), pp. 89-90.
+         *         2. A set of five independent postulates for Boolean algebras, with application to logical
+              constants. Trans. Amer. Math. Soc, vol. 14 (1913), pp. 481-^188. "If in any list of primitive
+             ideas for logic both negation and disjunction are primitive, they may be replaced by the single
+              primitive idea rejection."
+                   3. Review of Lewis's A survey of symbolic logic. The American mathematical
+              monthly, vol. 27 (1920), pp. 309-311.
+                   4. Review of Whitehead and Russell's Principia malhematica, 2nd. edn., vol. 1. Isis
+              (Bruges), vol. 8 (1926), pp. 226-231.
+                   5. Notational relativity. Proceedings of the Sixth International Congress of Philos-
+             ophy, Harvard University, Cambridge, Massachusetts, United Stales of America, Septem-
+              ber 13, 14, IS, 16,17,1926, New York 1927, pp. 348-351. See also The general theory of
+              notational relativity, a mimeographed manuscript, privately circulated (1921).

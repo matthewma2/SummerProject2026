@@ -1,0 +1,17 @@
+=== AUTHOR BLOCK 423 ===
+Name  : PAUL HOFMANN.
+Flags : none
+Lines : 5193–5203
+========================================
+
+423. PAUL HOFMANN. 1. Das Problem des Satzes vom ausgeschlossenen Dritten. Kanl-
+                Studien, vol. 36 (1931), pp. 84-125.
+           424. J0RGEN J0RGENSEN.
+           t         1. A treatise of formal logic. Its evolution and main branches, with its relations to
+                mathematics and philosophy. Copenhagen and London 1931, 3 vols.
+                     2. Uber die Ziele und Probleme der Logistik. Erkenntnis, vol. 3 (1932-3), pp. 73-100.
+                     3. Den malemaliske grundlagskrise i filosofisk belysning (The foundational crisis in
+                mathematics in a philosophical light). Ajatus filosofisen yhdistyksen vuosikirja, vol. 6
+                (Porvoo 1933), pp. 85-117.
+                     4. Einige Hauptpunkte der Entwicklung der formalen Logik seit Boole. Erkenntnis,
+                vol. 5 (1935-6), pp. 131-142.

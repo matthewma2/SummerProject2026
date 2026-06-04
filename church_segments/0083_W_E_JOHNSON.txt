@@ -1,0 +1,26 @@
+=== AUTHOR BLOCK 83 ===
+Name  : W. E. JOHNSON.
+Flags : none
+Lines : 1360–1379
+========================================
+
+83. W. E. JOHNSON.
+                   1. The logical calculus. Mind, n.s. vol. 1 (1892), pp. 3-30, 235-250,340-357. "In offer-
+             ing an exposition of the Logical Calculus, my aim is not to add one more to the numerous
+             systems of notation and symbolic method that have already been worked out more or less
+             independently, but rather to bring out some underlying principles and assumptions which
+             belong equally to the ordinary Formal Logic, to Symbolic Logic, and to the so-called Logic
+             of Relatives. I hope at the same time to be able to present the work of different writers on
+             different branches in a more systematic and comprehensive form than has hitherto been
+             done."
+
+
+
+
+
+                    2. A logical paradox. Mind, n.s. vol. 3 (1894), p. 583.
+                    3. Reply to Alfred Sidgwick. Mind, n.s. vol. 4 (1895), pp. 143-144.
+                    4. Sur la thlorie des equations logiques. Bibliotheque du Congres International de
+               Philosophie, vol. 3 (Paris 1901), pp. 185-199.
+                    5. Logic. Part II. Demonstrative inference, deductive and inductive. Cambridge,
+               Eng., 1922, xx+258 pp.

@@ -1,0 +1,27 @@
+=== AUTHOR BLOCK 355 ===
+Name  : ZYGMUNT ZAWIRSKI.
+Flags : A
+Lines : 4636–4656
+========================================
+
+A 355. ZYGMUNT ZAWIRSKI.
+         C            1. Stosunek logiki do matematyki w fwielle badafi wspdlczesnych (Relation of logic to
+                 mathematics in the light of modern investigations). Ksiega pamiqikowa ku czi prof.
+                 Wladyslawa Heinricha, Krak6w 1927, pp. 171-206.
+                     2. Stosunek logiki do matematyki (Relation of logic to mathematics). Ksiega pamiql-
+                 kowa Pierwszego Polskiego Zjazdu Malematycznego, Lw6w, 7-10. IX. 1927, Krak6w
+                 1929, pp. 35-36.
+                     3. Les logiques nouvelles et le champ de leur application. Rev. mSlaph. mor., vol. 39
+                 (1932), pp. 503-519.
+                     4. Stosunek logiki wielowartoSciowej do rachunku prawdopodobiefistwa (Le rapport de
+                la logique a plusieurs valeurs au calcul des probabililis). Polish with French abstract. Prace
+                Komisji Filozoficznej Poznanskiego Towarzystwa Przyjacidl Nauk, vol. 4 (1934), pp.
+                 155-240.
+                     5. Znaczenie logiki wielowarlotciowej dla poznania i zwiazek jej z rachunkiem prawdo-
+                podobiefistwa (Significance of many-valued logic for cognition and its connection with the
+                calculus of probability). Przegl.fil., vol. 37 (1934), pp. 393-398.
+                     6. i)ber das Verhiiltnis der mehrwerligen Logik zur Wahrscheinlichkeitsrechnung.
+                Abridged German translation of 4 with added ErgUnzung. Studia philosophica, vol. 1
+                (1935), pp. 407-442.
+                     7. Les tendances actuelles de la philosophie polonaise. Revue de synlhese, vol. 10
+                (Sciences de la nature et synthese g£n6rale, 1935), pp. 129-143.

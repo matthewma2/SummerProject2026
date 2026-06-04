@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 222 ===
+Name  : A. CORALNIK.
+Flags : none
+Lines : 3194–3196
+========================================
+
+222. A. CORALNIK. 1. Zur Kritik der mathematischen Logik. Ibid., vol. 149 (1913), pp. 183-
+               192. "Denn wenn auch die Mathematik bloss Logik sein sollte, so ist das auch nur eine
+               Logik sui generis, die auf kein anderes Gebiet des Denkens ubertragen werden kann."

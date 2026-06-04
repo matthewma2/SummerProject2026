@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 53 ===
+Name  : C. T. MICHAELIS.
+Flags : none
+Lines : 920–924
+========================================
+
+53. C. T. MICHAELIS.
+                  ' 1. Review of Frege's Begriffsschrift. Zeitschrift fiir Volkerpsychologie und Sprach-
+               wissenschaft (Berlin), vol. 12 (1880), pp. 232-240.
+                     2. Review of Peirce's On the algebra of logic. Jahrbuch iiber die Fortschritte der Ma-
+               thematik, vol. 12 (for 1880, pub. 1882), pp. 41-44.

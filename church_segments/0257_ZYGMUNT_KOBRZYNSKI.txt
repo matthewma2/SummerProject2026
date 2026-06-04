@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 257 ===
+Name  : ZYGMUNT KOBRZYNSKI.
+Flags : none
+Lines : 3568–3573
+========================================
+
+257. ZYGMUNT KOBRZYNSKI.
+                       1. 0 wyznacznikach termindw logicznych (On determinants of logical terms). Pnegl.
+                fit., vol. 20 (1917), pp. 264-287.
+                       2. Deux types de relations logiques et la methode de Poretsky. Rocznik Polskiego
+                 Towarzystwa Matematycznego (Annales de la Societe Polonaise de Mathematique), vol.
+                 8 (1930), pp.. 244-246.

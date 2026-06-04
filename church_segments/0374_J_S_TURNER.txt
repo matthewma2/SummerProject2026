@@ -1,0 +1,7 @@
+=== AUTHOR BLOCK 374 ===
+Name  : J. S. TURNER.
+Flags : C
+Lines : 4773–4773
+========================================
+
+C 374. J. S. TURNER. 1. Mathematical logic. Ames, Iowa, 1928, 50 pp.

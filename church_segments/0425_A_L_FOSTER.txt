@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 425 ===
+Name  : A. L. FOSTER.
+Flags : none
+Lines : 5204–5205
+========================================
+
+425. A. L. FOSTER. 1. Formal logic in finite terms. Annals of mathematics, vol. 32 (1931),
+                pp. 407-430.

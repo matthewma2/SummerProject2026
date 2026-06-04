@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 505 ===
+Name  : OLAF HELMER.
+Flags : none
+Lines : 5603–5608
+========================================
+
+505. OLAF HELMER.
+                     1. Bemerkungen zum Paradoxienproblem. Philosophisches Jahrbuch, vol. 47 (1934),
+                pp. 421-124.
+                     2. Axiomatischer Aufbau der Geometrie in formalisierter Darstellung. Schriftcn des
+                Berliner Mathemalischen Seminars, vol 2 (1935), pp. 175-201.
+                     3. On the theory of axiom-systems. Analysis, vol. 3 (1935-6), pp. 1-11.

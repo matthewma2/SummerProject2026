@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 477 ===
+Name  : A. H. DIAMOND.
+Flags : none
+Lines : 5477–5481
+========================================
+
+477. A. H. DIAMOND.
+         C           1. The complete existential theory of the Whitehead-Huntington set of postulates for the
+               algebra of logic. Trans. Amer. Math. Soc, vol. 35 (1933), pp. 940-948.
+                     2. Simplification of the Whitehead-Huntington set of postulates for the algebra of logic.
+                Bull. Amer. Math. Soc, vol. 40 (1934), pp. 599-601.

@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 33 ===
+Name  : A. J. ELLIS.
+Flags : none
+Lines : 596–597
+========================================
+
+33. A. J. ELLIS. 1. On the algebraical analogues of logical relations. Proceedings of the Royal
+                Society of London, vol. 21 (1873), pp. 497-498.

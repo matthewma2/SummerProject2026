@@ -1,0 +1,66 @@
+=== AUTHOR BLOCK 259 ===
+Name  : H. B. SMITH.
+Flags : none
+Lines : 3579–3638
+========================================
+
+259. H. B. SMITH.
+                       1. A primer of logic. Pulaski, Va.,1917, 48 pp.                              .
+                       2. Non-Aristotelian logic. Jour, philos. etc., vol. 15 (1918), pp. 453-458.
+                       3. On the construction of a non-Aristotelian logic. The monist, vol. 28 (1918), pp. 465-
+
+                      4. Non-Aristotelian logic. Philadelphia 1919, v+40 pp.
+                      5. On the extension of the common logic. Jour, philos. etc., vol. 16 (1919), pp. 379-383.
+                      6. Note on the relation of subalternation. Ibid., pp. 522-523.                •••.•••
+                      7. Letters on logic to a young man without a master. Philadelphia 1920, 53 pp.
+                      8. On certain supposed fallacies of the classical logic. The monist, vol. 31 (1921), pp.
+                 304-309.
+                      9. Foundations of formal logic. Philadelphia 1922, 56 pp.
+                      10. A first book in logic. New York 1922, viii + 178 pp. Reprinted as part of 24.
+                      11. Certain conceptions which have confused a modernist. Jour, philos., vol. 20 (1923),
+                 pp. 48—49. "Mr. Eaton's review of the Foundations of Formal Logic is a record of such
+                 thorough-going misunderstanding, that the writer feels forced, though quite unwillingly,
+                 to reply."
+                      12. In reply to Mr. Lodge. Ibid., p. 525.
+                      13. A further note on subalternation and the disputed syllogistic moods. Ibid., vol. 21
+                 (1924), pp. 631-633.
+                      14. Review ofSmart's The philosophical presuppositions ofmathematical logic. The
+                 philosophical review, vol. 35 (1926), pp. 293-294.
+
+
+
+
+                                                                 •
+                      15. The general solution of multiple implication. Jour, philos., vol. 23 (1926), pp. 348-
+               351.
+                   16. Symbolic logic, method and development. New York 1927, 135 pp. "We shall
+             demonstrate a fact, denied by all algebrists of logic, that the postulates of Aristotle's
+             system hold true."
+                   17. The theory of multiple implication and its application to the generalized problem of
+              Epimenides. Bull. Amer. Math. Soc, vol. 35 (1929), pp. 60-66.
+                   18. How a logic of "propositions" fails of complete generality. Jour, philos., vol. 28
+             (1931), pp. 296-298.
+                   19. Double implication and beyond. Amer. jour, math., vol. 53 (1931), pp. 685-696.
+                   20. On the construction of a logic in which inclusion has the meaning of the species-genus
+             relation. The monist, vol. 42 (1932), pp. 279-281.
+                   21. On the relation of the Aristotelean algebra to that of Boole-Schroeder. Ibid., pp.
+             282-289.
+                   22. On the derivation of the Aristotelean algebra from the properties of a Hamiltonian set.
+              Ibid., pp. 290-293.
+                   23. Symbolic logic, problem and method. Photo-lithoprint. 1932, 31 pp. "It is com-
+             mon today to distinguish between propositions and propositional functions; the first being
+             either true or false for all meanings of the terms that enter into them, the truth or falsity
+             of the second depending on what special meanings are assigned to the terms. But we doubt
+             if the terminology is worth preserving. We shall mean by a proposition a sentence that is
+             either true or false and we shall simply note in any given case whether it is constant or
+             variable. The use of the word proposition as currently employed has been unfortunate.
+             A 'logic of propositions' is an euphuism used to describe a logic which is not general and
+             consequently, a logic which is not true."
+                   24. A first book in logic. New York 1933.
+                   25. Review of Lewis and Langford's Symbolic logic. Jour, philos., vol. 30 (1933),
+             pp. 302-306.
+                   26. Review of the same. Philosophy of science, vol. 1 (1934), pp. 239-246.
+                   27. Abstract logic or the science of modality. Ibid., pp. 369-397.
+                   28. Review of Cohen and Nagel's An introduction to logic and scientific method.
+              Ibid., pp. 488-491.
+                   29. Reply to Paul Henle. Ibid., vol. 2 (1935), pp. 113-114.

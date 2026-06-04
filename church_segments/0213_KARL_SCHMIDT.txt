@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 213 ===
+Name  : KARL SCHMIDT.
+Flags : none
+Lines : 3029–3034
+========================================
+
+213. KARL SCHMIDT.
+                   1. "Inversion." Jour, philos. etc., vol. 9 (1912), pp. 232-234.
+                   2. The theory of functions of one Boolean variable. Trans. Amer. Math. Soc, vol. 23
+              (1922), pp. 212-222.
+                   3. Studies in the structure of systems. 5. The nature and function of definitions in a
+             deductive system. The journal of philosophy, vol. 30 (1933), pp. 645-659.

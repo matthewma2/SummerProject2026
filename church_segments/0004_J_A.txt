@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 4 ===
+Name  : J. A.
+Flags : C
+Lines : 263–265
+========================================
+
+C 4. J. A. v. SEGNER. 1. Specimen logicae universaliter demonstrate. Jena 1740.
+            5. I. H. TONNIES.
+                      1. De logicae scientiae ad exemplar arithmelicae inslituenda ratione. 1752.

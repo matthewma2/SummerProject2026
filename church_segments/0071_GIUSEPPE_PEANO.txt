@@ -1,0 +1,137 @@
+=== AUTHOR BLOCK 71 ===
+Name  : GIUSEPPE PEANO.
+Flags : A
+Lines : 1090–1220
+========================================
+
+A 71. GIUSEPPE PEANO.
+                       I. Calcolo geometrico secondo I'Ausdehnungslehre di H. Grassmann, preceduto
+                dalle operazioni delta logica dedultiva. Turin 1888', x+170 pp.
+            *          2. Arithmetices principia, nova methodo exposita. Turin 1889, xvi+20 pp.
+                       3. I principii di geometria, logicamente esposti. Turin 1889, 40 pp. "Quali fra gli
+                enti geometrici si possono definire, e quali occorre assumere senza definizione? E fra le
+                proprieta, sperimentalmente vere, di questi enti, quali bisogna assumere senza dimostra-
+                zione, e quali si possono dedurre in conseguenza? L'analisi di queste questioni, appar-
+                tenenti ad un tempo alia Logica e alia Geometria, forma l'oggetto del presente scritto."
+                       4. Dtmonstration de Vintlgrabilili des equations difflrenlielles ordinaires. Math. An-
+                 nalen, vol. 37 (1890), pp. 182-228.                  • . ..
+                       5. Principii di logica matematica. Rivista dvfrtatematica (Turin), vol. 1 (1891), pp.
+                 1-10. "Nella presente Nota espongo sommariamente tali teorie, collo scopo di invogliare
+                 il lettore a questo genere di studi interessanti^ e di prepararmi uno strumento quasi indis-
+                 pensabile in ricerche successive."
+                       6. Formoledi logica matematica. Ibid., pp. 24-31, 182-184.
+            *           7. Sul concetto dinumero. Ibid., pp. 87-102, 256-267. "Le proposizioni primitive, vale
+                 a dire le proposizioni esprimenti le piu semplici proprieta dei numeri interi, da cui derivano
+                 tuttelealtre, sono: 1. 'L'unitaeun numero.' 2. 'II segno + messodopo un numero produce
+                 un numero.' 3. 'Se a e b sono due numeri, e se i loro successivi sono equali, anche essi sono
+                 eguali.' 4. 'L'unita non segue alcun numero.' 5. 'Se s e una classe, contenente Punitil, e se
+                 la classe formata dai successivi di s e contenuta in s, allora ogni numero e contenuto nella
+                 classes." 1
+                       8. Review of Schroder's Vorlesungen iiber die Algebra der Logik, vol. 1. Ibid., pp.
+                 164-170.
+                       9. Principios de Idgica matem&tica. Spanish translation olS.El progreso matemalico
+                 (Saragossa), vol. 2 (1892), pp. 20-24, 49-53.
+                        10. Sul Formulario di Matematica. Riv. di. mat., vol. 3 (1893), p. 185.
+                        II. Sul parte V del Formulario: " Teoria dei gruppi di punti." Ibid., vol. 4 (1894), pp.
+                 33-35.
+                       12. Sui fondamenli della geometria. Ibid., pp. 51-90.
+                        13. Un precursore della logica matematica. Ibid., p. 120.
+             *          14. Notations de logique malhematique. Introduction au Formulaire de Matht-
+                 matique. Turin 1894, 52 pp.
+                        15. Estensione di alcuni teoremi di Cauchy sui limiti. Atti della R. Accademia delle
+         ..•-. Scienze di Torino, vol. 30 (1895), pp. 20-41.
+                        16. Notions de logique mathematique. Association Francaise pour I'Avancement des
+
+
+
+
+                   Sciences fusionnSe avec VAssociation Scientifique de France, Compte rendu de la 23ma
+                   session, Caen 1894, Secondeparlie, Notes et mimoires. Paris 1895, pp. 222-226. "II est
+                   4 d£sirer qu'un plus grand nombre de savants publient, dans les divers p6riodiques de
+                   mathe'matique, des recueils de cette nature. Us seront tres utiles, plus utiles meme que les
+                   repertoires bibliographiques; car toutes les propositions sur un sujet, traduites en symboles,
+                   occupent peu de place, moins de place que le recueil des titres des publications & ce sujet."
+                        17. Formulaire de mathematiques. Vol. 1, Turin 1895, vii + 144 pp. Published in in-
+                   stalments over a period of years, and completed in 1895; edited by Peano and written by
+                   him in collaboration with Rodolfo Bettazzi, Cesare Burali-Forti, F. Castellano, Gino
+                   Fano, Francesco Giudice, Giovanni Vailati, Giulio Vivanti. "Le Formulaire de Mathf-
+                   matiques a pour but de publier les propositions connues sur plusieurs sujets des sciences
+                   math^matiques. Ces propositions sont exprime'es en formules par les notations de la
+                   Logique mathe'matique, expliqu6es dans I1 Introduction au Formulaire."
+                        18. Sur la definition de la Hmile d'une fonction. Exercice de logique mathimatique.
+                   Amer.jour. math., vol. 17 (1895), pp. 37-68.
+                        19. Review of Frege's Grundgesetze der Arithmetik, vol. 1. Riv. di mat., vol. 5 (1895),
+                   pp. 122-128.
+                        20. Introduction au tome II du "Formulaire de Mathtmaliques." Revue de mathe-
+                   matiques (Rivista di matematica), vol. 6 (1896-9), pp. 1-4.
+              *         21. Formulaire de mathematiques. Vol. 2 §1 Logique mathimatique, Turin 1897,
+                   63 pp.
+                        22. Sulleformule di logica (Fi 11). Rev. de math. (Riv. dimat.), vol. 6 (1896-9), pp.
+                   48-52.
+                        23. Risposta. Ibid., pp. 60-61. "Importantissima letteradelsig. Frege.la quale con-
+                   tribuira a rischiarare parecchi punti difficili e controversi di Logica matematica. Risponderd
+                   brevemente ad alcune sue osservazioni."
+              *         24. Studii di logica matematica. Atti Acad. Torino, vol. 32 (1897), pp. 565-583.
+              *         25. Formulaire de. mathematiques. Vol. 2 §2 Arithmetique, Turin 1898, viii+59 pp.
+                        26. Additions et corrections a Ft. Rev. de math. (Riv. di mat.), vol. 6 (1896-9), pp.
+                   65-74.
+                        27. Sul §J del Formulario, t. II: Aritmetica. Ibid., pp. 75-89.
+                        28. Analisi delta teoriadei vettori. Atti Accad. Torino, vol. 33 (1898), pp. 513-534.
+          ;             29. Review of Schroder's Ober Pasigraphie. Rev. de math. (Riv. di mat.), vol. 6
+                   (1896-9), pp. 95-101.
+                        30. Formulaire de mathematiques. Vol. 2 §3 Logique mathematique—Arithmitique—
+                   Limites—Nombres complexes—Vecteurs—Derivees—Integrates, Turin 1899, 198 pp.
+                        31. Ober mathematische Logik. German translation of 24. Angelo Genocchi Diffe-
+                   rentialrechnung und Grundziige der Integralrechnung herausgegeben von Giuseppe
+                   Peano, Aulorisierte deulsche iibersetzung von G. Bohlmann und A. Schlepp, Leipzig 1899,
+                   pp. 336-352.
+                        32. Definitionen der Arithmetik. German translation of a portion of 25. Ibid., pp. 353-
+                   358.
+                        33. Sui numeri irrazionali. Rev. de math. (Riv. di mat.), vol. 6 (1896-9), pp. 126-140.
+                        34. Formules de logique mathimatique. Ibid., vol. 7 (1900-1), pp. 1-41.
+                        35. Formulaire de mathematiques. Vol. 3, Paris 1901, viii+230 pp.
+                        36. Additions et corrections au Formulaire a. 1901. Rev. de math. (Riv. di mat.), vol. 7
+                   (1900-1), pp. 85-110. By E. Cantoni, E. Ciamberlini, G. Enestrom, A. Padoa, G. Peano,
+                   A. Ramorino, O. Stolz, and G. Vacca.
+                        37. Dizionario di matematica. Parte 1"—Logica matematica. Ibid., pp. 160-172.
+                        38. Additions au Formulaire a. 1901. Ibid., pp. 173-184. By A. Arbicone, T. Boggio,
+                   E. Cantoni. F. Castellano, G. Peano, and G. Vacca.
+                        39. Aritmetica generate e algebra elementare. Turin 1902, vii+143 pp.
+              *         40. Formulaire mathematique. Vol. 4, Turin 1902-3, xvi+406 pp.
+                        41. La geometria basata suite idee di punto e distanza. Atti Accad. Torino, vol. 38
+                   (1903), pp. 6-10.
+                        42. Origine du signe 3 . V'Intermediate des mathematiciens, vol. 10 (1903), p. 70.
+                   See also H. Brocard, ibid., vol. 13* (1906), p. 18.
+
+
+
+
+                      43. Super theorema de Cantor-Bernstein. Rendiconli del Circolo Matematico di
+                Palermo, vol. 21 (1906), pp. 360-366. Reprinted in Revisla de mathematica (Revue de
+                mathematiques), vol. 8 (1902-6), pp. 136-143. "Ita demonstratione de Bernstein, facto
+                per intuitione, es reducto ad operationes elementare de Logica, in numero finite"
+                      44. Additione. Revisla de mathematica, vol. 8 (1902-6), pp. 143-157. An addition to
+                the preceding. §1 Principio de Zermelo. §2 Theorema de Cantor. §3 Antinomia Richard.
+                §4 "La vraie solution" de M. Poincarfi. §5 Novo solutione.
+           *          45. Formulario malhematico. Vol. 5, Turin 1905-8, xxxvi+463 pp.
+                      46. Sui fondamenli dell'analisi. Bollettino delta "Mathesis" societi italiana di
+                matematka, n.s. vol. 2 (1910), pp. 31-37.
+                      47. Sulla definizione di funzione. Atti delta Reale Accademia dei Lincet, Rendiconti,
+                Classe discienzefisiche, malematiche e naturali, 5 s. vol. 201 (1911), pp. 3-5. "Funzione e
+                ogni relazionen tale che, sedue coppiey;x ez;x, aventi lo stesso secondo elemento, soddis-
+                fano alia relazione u, necessariamente segua, qualunque si siano x, y, z, chey = z."
+                      48. he definizioni in malematica. Arxius de VInstitut de Ciencies (Barcelona), vol. 1,
+                no. 1 (1911), pp. 49-70.
+                      49. Delle proposizioni esislenziali. Proceedings of the Fifth International Congress of
+                Mathematicians (Cambridge, 22-28 August 1912), vol. 2 (Cambridge, Eng., 1913), pp.
+                497-500.
+                      50. Review of Whitehead and Russell's Principia malhematica, vols. 1 and 2. Bol-
+                lettino di bibliografia e sloria delle scienze matematiche (Turin), vol. 15 (1913), pp. 47-53,
+                75-81.
+                      57. Importanza dei simboli in matematica. "Scientia" (Rivista di scienza), vol. 18
+                (1915), pp. 165-173.
+          2           52. Le definizioni per astrazione. Boll, della "Mathesis," n.s. vol. 7 (1915).
+                      53. Operazioni sulle grandezze. Atti Accad. Torino, vol. 57 (1921-2), pp. 169-189.
+                      54. Operationes super magnitudines. Rassegna di malematica efisica (Rome), vol. 2
+                (1922).
+                      See also Alessandro Padoa 9877 and P. E. B. Jourdain 121/.?.

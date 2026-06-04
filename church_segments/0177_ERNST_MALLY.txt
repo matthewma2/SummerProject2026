@@ -1,0 +1,31 @@
+=== AUTHOR BLOCK 177 ===
+Name  : ERNST MALLY.
+Flags : A
+Lines : 2666–2690
+========================================
+
+A 177. ERNST MALLY.
+                       1. Grundgesetze der Determination. Bericht Uber den III. Internationalen Kongress
+                fiir Philosophie zu Heidelberg, 1. bis S. September 1908, Heidelberg 1909, pp. 862-867.
+                 "1st a < b , so ist b<ap. D.h. ist die Folge (b), so ist moglicherweise der Grund.(a)."
+                      2. Gegenstandslheoretische Grundlagen der Logik und Logistik. Zeitschrift fiir
+                 Philosophie und philosophische Kritik, Erganzungsheft zu Bd. 148. Leipzig 1912, 87 pp.
+                      3. Die neuere Syllogistik im Logikunterricht. Zeitschrift fiir die bsterreichischen
+                 Gymnasien (Vienna), vol. 65 (1914), pp. 939-949. "In der modernen symbolischen Logik
+                 tritt die Syllogistik als ein besonderes Anwendungsgebiet der viel allgemeineren Lehre
+                 von der Elimination auf. Man kann indes, ohne auf das allgemeine Eliminationsproblem
+                 einzugehen und ohne irgend vvelche in der gewbhnlichen, alteren Logik nicht bekannte
+                 Theoreme oder Verfahrensweisen der modernen Logik vorauszusetzen, ihre Ergebnisse
+                 verwerten, zu einer vollkommen befriedigenden und dabei sehr einfachen Ableitung der
+                 syllogistischen Modi. Eine solche Ableitung, wie sie insbesondere im Anschluss an die von
+                 Chr. Ladd-Franklin angegebene Methode sich gewinnen lasst, soil hier vorgefiihrt wer-
+                 den."
+                       4. Die Ausgangspunkte der Gebietetheorie. Logik, by Alois Hofler, 2nd. edn., Vienna
+                 and Leipzig 1922, pp. 213-215.
+                       5. Die Axiomengruppen in zwei Systemen gegenwdrtiger Logistik. Ibid., pp. 577-592.
+                       6. Uber formlose Schliisse. Ibid., pp. 658-668.
+                       7. Allgemeines uber die Axiomatik gegenwdrtiger Logistik. Ibid., pp. 886-892.
+            178. B. JAKOWENKO. 1. Die Logistik und die transzendenlale Begriindung der Mathematik.
+                 Bericht uber den III. Internationalen Kongress fiir Philosophie zu Heidelberg, 1. bis 5.
+                 September 1908, Heidelberg 1909, pp. 868-880. "Die Logistik ist also nicht imstande, die
+                 Mathematik zu begriinden, aber eine solche Begriindung vorbereiten kann sie wohl."

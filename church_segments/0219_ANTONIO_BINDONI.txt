@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 219 ===
+Name  : ANTONIO BINDONI.
+Flags : none
+Lines : 3100–3101
+========================================
+
+219. ANTONIO BINDONI. 1. Sulle definizioni per astrazione e mediante classi. Boll, di mat.,
+             vol. 11 (1912), pp. 153-156.

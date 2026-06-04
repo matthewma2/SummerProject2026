@@ -1,0 +1,27 @@
+=== AUTHOR BLOCK 349 ===
+Name  : HASSO HARLEN.
+Flags : none
+Lines : 4493–4513
+========================================
+
+349. HASSO HARLEN.
+                   1. Sur la paradoxie logique dans la thiorie des ensembles. Comptes rendus hebdoma-
+             daires des stances de I'AcadSmie des Sciences (Paris), vol. 184 (1927), pp. 367-369.
+                   2. t)ber Vollstandigkeit und Entscheidbarkeit. Jahresb. D. M.-V., vol. 37 (1928), pp.
+             226-228.
+                   3. Die Existenz minimaler Interprelationen eines Axiomensystems und die Entscheid-
+             barkeit vollstindiger Systeme. Ibid., pp. 229-230.
+                   4. Ueber Axiomensysteme als Satzfunktionen. Atti del Congresso Internazionale dei
+             Matemalici, Bologna 3-10 seltembre 1928 (VI), vol. 3 (Bologna 1930), pp. 389-391.
+
+
+
+
+
+                     5. Die logiscke Grundlage eines mathematischen Beweisverfahrens. Sprawozdanie z I
+               Kongresu Matematykdw Krajow Slowianskich {Comptes-rendus du I Congres des Mathi-
+               maticiens des Pays Slaves), Warszawa, 1929, Warsaw 1930, pp. 102-105.
+                     6. Ober die logische Grundlage eines mathematischen Beweisverfahrens. Erkenntnis, vol.
+                1 (1930-1), pp. 309-310.
+                     7. Bemerkungen zu dem Aufsatz des Herrn Behmann: "Zu den Wider•spriichen der
+                Logik und Mengenlehre" in diesem Bande. Jahresb. D. M.-V., vol. 40 (1931), pp. 156-159.

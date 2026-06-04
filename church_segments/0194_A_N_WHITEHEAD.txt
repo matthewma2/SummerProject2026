@@ -1,0 +1,25 @@
+=== AUTHOR BLOCK 194 ===
+Name  : A. N. WHITEHEAD
+Flags : none
+Lines : 2873–2891
+========================================
+
+194. A. N. WHITEHEAD and BERTRAND RUSSELL.
+         *         / . Principia mathematical.Vol. 1, Cambridge, England, 1910, xv+666pp. 2nd. edn.,
+             vol. 1, Cambridge, England, 1925, xlvi+674 pp.
+         *         2. Principia mathematica. Vol. 2, Cambridge, England, 1912, xxiv+772 pp. 2nd. edn.,
+             vol. 2, Cambridge, England, 1927, xxxi + 742 pp.
+         *         3. Principia mathematica. Vol. 3, Cambridge, England, 1913, x+491 pp. 2nd. edn.,
+             vol. 3, Cambridge England, 1927, viii+491 pp.
+                   4. Introduction to the second edition. In 2nd. edn. of 1, pp. xiii-xlvi.
+
+
+
+                                                         •
+                   5. Appendix A. The theory of deduction for propositions containing apparent variables.
+              In 2nd. edn. of 1, pp. 635-649.
+                   6. Appendix B. Mathematical induction. In 2nd. edn. of 1, pp. 650-658.
+                   7. Appendix C. Truth-functions and others. In 2nd. edn. of / , pp. 659-666.
+         t         8. Einfiihrung in die malhemalische Logik. (Die Einleitung der "Principia'Mathe-
+              malica.") German translation by Hans Mokre. Munich and Berlin 1932, viii + 168 pp.
+                   Titles 4-7 are the work of Russell. See Mind, n.s. vol. 35 (1926), p. 130.

@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 407 ===
+Name  : JAN LUKASIEWICZ
+Flags : C
+Lines : 5058–5059
+========================================
+
+C 407. JAN LUKASIEWICZ and ALFRED TARSKI. 1. Untersuchungen iiber den Aussagen-
+                 kalkiil. C. r. Soc. Sci. Lett. Varsovie, Classe III, vol. 23 (1930), pp. 1-21.

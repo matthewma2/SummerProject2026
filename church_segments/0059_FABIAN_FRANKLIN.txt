@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 59 ===
+Name  : FABIAN FRANKLIN.
+Flags : C
+Lines : 1011–1012
+========================================
+
+C 59. FABIAN FRANKLIN. / . A point of logical notation {proposing a numerical notation).
+                 The Johns Hopkins University circulars, vol. 1 (1879-82), p. 131.

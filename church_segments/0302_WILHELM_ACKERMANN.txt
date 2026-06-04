@@ -1,0 +1,26 @@
+=== AUTHOR BLOCK 302 ===
+Name  : WILHELM ACKERMANN.
+Flags : none
+Lines : 4114–4133
+========================================
+
+302. WILHELM ACKERMANN.
+         *         1. Begrundung des "tertium non datur" mittels der Hilbertschen Theorie der Wider-
+              sprucksfreiheit. Math. Annalen, vol. 93 (1924-5), pp. 1-36.
+                   2. Die Widerspruchsfreiheit des Auswahlaxioms. (Vorlaufige Mitteilung.) Nachrichten
+              von der Gesellschaft der Wissenschaften zu Gottingen, Mathematisch-physikalische
+              Klasse 1924 (pub. 1925), pp. 246-250.
+                   3. Was ist Mathematik? Zeitschrift fur malhematischen und naturwissenschaftlichen
+              Unlerrichl alter Schulgattungen, vol. 58 (1927), pp. 449-455.
+         *         4. Zum Hilbertschen Aufbau der reellen Zahlen. Math. Annalen, vol. 99 (1928), pp.
+              118-133.
+                   5. Ober die Erfullbarkeit gewisser Zahlausdrucke. Ibid., vol. 100 (1928), pp. 638-649.
+                   6. Review of Chwistek's NeueGrundlagen der Logik und Mathematik. Jahrb. Fortschr.
+              Math., vol. 56 (for 1930), Erster Halbband (pub. 1932-3), pp. 47-48.
+                   7. Untersuchungen uber das Eliminalionsproblem der mathematischen Logik. Math.
+              Annalen, vol. 110 (1934), pp. 390-113.
+                   8. Review of Hilbert and Bernays's Grundlagen der Mathematik, vol. 1. Jahrb.
+             Fortschr. Math., vol. 60 (1934), pp. 17-19.
+                   9. Zum Eliminationsproblem der mathematischen Logik. Math. Annalen, vol. \\\
+             (1935), pp. 61-63.
+                   See also David Hilbert and Wilhelm Ackermann 365.

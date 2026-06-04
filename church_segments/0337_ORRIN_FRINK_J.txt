@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 337 ===
+Name  : ORRIN FRINK, J
+Flags : none
+Lines : 4418–4422
+========================================
+
+337. ORRIN FRINK, Jr.
+                      1. The operations of Boolean algebras. Annals of mathematics, 2 s. vol. 27 (1925-6),
+                pp. 477-490.
+                      2. On the existence of linear algebras in Boolean algebras. Bull. Amer. Math. Soc,
+                vol. 34 (1928), pp. 329-333.

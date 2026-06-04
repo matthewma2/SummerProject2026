@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 123 ===
+Name  : MAXIME BOCHER.
+Flags : none
+Lines : 2084–2085
+========================================
+
+123. MAXIME BOCHER. 1. The fundamental conceptions and methods of mathematics.
+              Bull. Amer. Math. Soc, vol. 11 (1904-5), pp. 115-135.

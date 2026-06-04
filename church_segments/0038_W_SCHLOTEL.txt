@@ -1,0 +1,70 @@
+=== AUTHOR BLOCK 38 ===
+Name  : W. SCHLOTEL.
+Flags : none
+Lines : 654–717
+========================================
+
+38. W. SCHLOTEL.
+                     1. Kleine Bausteine zu einem Denkmale. Zur Privatmittheilung an Gelehrte
+               bestimmt. Freiburg i. B. 1876, 206 pp.
+                     2. Eine Berichtigung zu dem Aufsatz von A. Riehl: "Die englische Logik der Gegen-
+               wart." Vierteljahrsschrift fur wissenschaftliche Philosophie, vol. 1 (1877), pp. 455-457.
+                     3. Eine Selbstberichtigung. A correction to the preceding. Ibid., pp. 614-615.
+         <V39. HUGH MACCOLL.
+                     1. Symbolical or abbreviated language, with an application to mathematical probability.
+               Mathematical questions, with their solutions, from the "Educational Times" (London),
+               vol. 28 (1877), pp. 20-23.
+                     2. Symbolical language:—No. 2. Ibid., p. 100.
+          *          3. The calculus of equivalent statements and integration limits. Proceedings of the
+               London Mathematical Society, vol. 9 (1877-8), pp. 9-20. "The chief use of the method, as
+               far as I have yet carried it, is to determine the new limits of integration when we change
+               the order of integration or the variables in a multiple integral, and also to determine the
+               limits of integration in questions relating to probability."
+                     4. The calculus of equivalent statements (second paper). Ibid., pp. 177-186.
+                     5. The calculus of equivalent statements (third paper). Ibid., vol. 10 (1878-9), pp. 16-28.
+                     6. The calculus of equivalent statements. (Fourth paper.) Ibid., vol. 11 (1879-80), pp.
+               113-121.
+                     7. Solution of a question. Math, questions, vol. 34 (1880), p. 51.
+                     8. Symbolical reasoning. Mind, vol. 5(1880), pp. 45-60.
+                   , 9. Implicational and equalional logic. The London, Edinburgh, and Dublin philo-
+               sophical magazine and journal of science, 5 s. vol. 11 (1881), pp. 40-43.
+                     10. On the growth and use of a symbolical language. Memoirs of the Manchester
+               Literary and Philosophical Society, 3 s. vol. 7 (1882), pp. 225-248.
+                     11. Questions in Math, questions, vol. 66 (1896), pp. 95-97, 119-120; solutions by
+               H. W. Curjel and Krishmachandra De.
+                     12. The calculus of equivalent statements. (Fifth paper.) Proc. London Math. Soc,
+               vol. 28 (1896-7), pp. 156-183.
+                     13. The calculus of equivalent statements. (Sixth paper.) Ibid., pp. 555-579.
+                     14. Symbolic reasoning. (II.) Mind, n.s. vol. 6 (1897), pp. 493-510.              :
+                     15. The calculus of equivalent statements. (Seventh paper.) Proc. London Math. Soc,
+               vol. 29 (1897-8), pp. 98-109.
+                     16. Explanatory note and correction. Ibid., vol. 30 (1898-9), pp. 330-332.
+                     17. Review of Whitehead's Universal Algebra. Mind, n.s. vol. 8 (1899), pp. 108-113.
+                     18. Symbolic reasoning (III.). Mind, n.s. vol. 9 (1900), pp. 75-84.
+                     19. Question for logicians. Ibid., p. 144.
+                     20. La logique symbolique et ses applications. Bibliotheque du Congres International
+               de Philosophie, vol. 3 (Paris 1901), pp. 135-183.
+                     21. Logique tabulaire. Revue de metaphysique el de morale, vol. 10 (1902), pp. 213—
+               217.
+                     22. Symbolic reasoning (I V.). Mind, n.s. vol. 11 (1902), pp. 352-368.
+                     23. Paradoxes in symbolic logic. Math, questions, 2 s. vol. 4 (1903), pp. 34-36.
+                     24. Symbolic reasoning (V.). Mind, n.s. vol. 12 (1903), pp. 355-364.
+                     25. La logique symbolique. L'Enseignement mathematique, vol. 5 (1903), pp. 415-430.
+               "Dans aucun des systemes qui me sont connus je ne trouve la distinction que je fais entre
+               les mots vrai et certain, et entre les*mots/a«a; et impossible."
+
+
+
+
+                    26. La logique symbolique (Deuxieme article). Ibid., vol. 6 (1904), pp. 372-375.
+                    27. Symbolic reasoning (VI.). Mind, n.s. vol. 14 (1905), pp. 74-81.
+                    28. Existential import. Ibid., pp. 295-296.
+                    29. Symbolic reasoning (VII.). Ibid., pp. 390-397.
+                    30. Note in reply to Bertrand Russell. Ibid., pp. 401-402.
+                    31. The existential import of propositions. Ibid., pp. 578-580.
+                    32. Symbolic logic and Us applications. London 1906, xi-f 141 pp.
+                    33. Symbolic reasoning (VIII.). Mind, n.s. vol. 15 (1906), pp. 504-518.
+                    34. Question. Math, questions, 2 s. vol. 13 (1907), pp. 98-99.
+                    35. Symbolic logic (A reply). Mind, n.s. vol. 16(1907), pp. 470^173.
+                    36. 'If and 'imply.' Mind, n.s. vol. 17 (1908), pp. 151-152, 453-455.
+                    37. Linguistic misunderstandings. Mind, n.s. vol. 19 (1910), pp. 186-199, 337-355.

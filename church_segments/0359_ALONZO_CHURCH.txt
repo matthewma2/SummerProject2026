@@ -1,0 +1,40 @@
+=== AUTHOR BLOCK 359 ===
+Name  : ALONZO CHURCH.
+Flags : none
+Lines : 4667–4700
+========================================
+
+359. ALONZO CHURCH.
+                     1. Alternatives to Zermelo's assumption. Trans. Amer. Math. Soc, vol. 29 (1927),
+                pp. 178-208. "To consider the possibility of setting up a logic in which the axiom of
+               choice is false. The way of approach is through the second ordinal class."
+                     2. On the law of excluded middle. Bull. Amer. Math. Soc, vol. 34 (1928), pp. 75-78.
+               "To discuss the possibility of a system of logic in which the law of excluded middle is not
+               assumed."
+                     3. Review of Whitehead and Russell's Principia mathematica, 2nd. edn., vols. 2 and 3.
+               Ibid., pp. 237-240.
+                     4. A set of postulates for the foundation of logic. Annals of mathematics, 2 s. vol. 33
+               (1932), pp. 346-366.
+                     5. Review of Ramsey's The foundations of mathematics. The American mathemat-
+               ical monthly, vol. 39 (1932), pp. 355-357.
+                     6. A set of postulates for the foundation of logic. (Second paper.) Annals of mathematics,
+               2 s. vol. 34 (1933), pp. 839-864. "l-*X/X*./(x). S-»XPX/Xx./(p(/, x% . . . The form of these
+               expressions provides a convenient method of writing definitions by induction."
+                     7. The Richard paradox. The American mathematical monthly, vol. 41 (1934), pp.
+               356-361. "We seek a system of symbolic logic in which the notion of implication between
+               propositional functions is obtained-by definition, and in which there are a variety of notions
+               of implication, obtainable by different definitions. In the case of each definition we desire
+
+
+
+
+                 that it shall be possible by an intuitive argument to prove the character of the defined
+                symbol as an implication symbol. But there shall be no uniform means of determining
+                whether a given formula is an implication symbol."
+                      8. A proof of freedom from contradiction. Proc. Nat. Acad. Sci., vol. 21 (1935), pp.
+                 275-281. "We obtain, in a certain sense, a metamathematical proof of the freedom from
+                 contradiction of elementary number theory."
+                      9. Review of Quine's A system of logistic. Bull. Amer. Math. Soc, vol. 41 (1935),
+                 pp. 598-603. Errata: Page 602 lines 12 and 13, for (x, y), z and t(3, <J(«,/)) read respec-
+                 tively x, y), z and t(3, &(u, t); page 599 line 35 and page 602 line 10, supply circumflex
+                accents over w and x.

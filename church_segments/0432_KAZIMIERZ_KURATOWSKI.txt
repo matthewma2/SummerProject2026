@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 432 ===
+Name  : KAZIMIERZ KURATOWSKI
+Flags : none
+Lines : 5217–5218
+========================================
+
+432. KAZIMIERZ KURATOWSKI and ALFRED TARSKI. 1. Les operations logiques et les
+                ensembles projectifs. Fund, math., vol. 17 (1931), pp. 240-248.

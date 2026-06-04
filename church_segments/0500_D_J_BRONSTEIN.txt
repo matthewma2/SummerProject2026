@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 500 ===
+Name  : D. J. BRONSTEIN
+Flags : none
+Lines : 5574–5577
+========================================
+
+500. D. J. BRONSTEIN and HARRY TARTER.
+                    1. Review of Lewis and Langford's Symbolic logic. The philosophical review, vol. 43
+             (1934), pp. 305-309.
+                    2. Possibility and implication; a reply. Ibid., vol. 44 (1935), pp. 69-71.

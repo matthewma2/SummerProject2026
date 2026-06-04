@@ -1,0 +1,22 @@
+=== AUTHOR BLOCK 289 ===
+Name  : PAUL HERTZ.
+Flags : none
+Lines : 3980–3995
+========================================
+
+289. PAUL HERTZ.
+                   1. Vber Axiomensysteme filr beliebige Satzsysteme. Math. Annalen, vol. 87 (1922),
+              pp. 246-269, and vol. 89 (1923), pp. 76-102.
+                   2. Reichen die iiblichen syllogistischen Regeln fiir das Schliessen in der positiven Logik
+              elementarer Satze aus? Annalen der Philosophie undphilosophischen Krilik, vol. 7 (1928-9),
+              pp. 272-277.
+                   3. Uber Axiomensysteme von Satzsyslemen. Jahresb. D. M.-V., vol. 38 (1929), 2.
+              Abteilung, pp. 45-46.
+                   4. Uber Axiomensysteme beliebiger Satzsysteme. Annalen Phil. u. phil. Kril., vol. 8
+              (1929), pp. 178-204.
+                   5. Uber Axiomensysteme Jiir beliebige Satzsysteme. Math. Annalen, vol. 101 (1929),
+              pp. 457-514.
+                   6. Vom Wesen des Logischen, insbesondere der Bedeutung des modus barbara. Erkennt-
+              nis, vol. 2 (1931-2), pp. 369-392.
+                   7. Sur la nature de la logique, de ses categories et de ses virites. L'Ens. math., vol. 34
+              (1935), pp. 95-97.

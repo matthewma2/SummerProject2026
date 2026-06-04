@@ -1,0 +1,47 @@
+=== AUTHOR BLOCK 377 ===
+Name  : PAUL WEISS.
+Flags : none
+Lines : 4784–4824
+========================================
+
+377. PAUL WEISS.
+                      / . The theory of types. Mind, n. s. vol. 37 (1928), pp. 338-348. "If it were about all
+               propositions it would violate the theory of types and be meaningless or self-contradictory.
+                If it were not about all propositions, it would not be universally applicable."
+                      2. Relativity in logic. The monist, vol. 38 (1928), pp. 536-548.
+                      3. The nature of systems. Ibid., vol. 39 (1929), pp. 281-319, 440-472. Reprinted
+                Chicago and London, 73 pp. "Though there are a number of systems of mathematics,
+                e.g. the different geometries, algebras, etc., and quite a few of logic, e.g. the Boole-Schroe-
+                der algebra, the system of material implication and the system of strict implication, there
+               are no complete analyses of the nature of systems themselves. . . . It is the purpose of
+                the present paper analytically to characterize all possible systems, to justify their method-
+                ology, and to attempt a solution of some of the basic problems that arise in dealing with
+                them."
+                      4. Review of Carnap's Abriss der Logistik. Bull. Amer. Math. Soc, vol. 35 (1929),
+                p. 880.
+                      5. Entailmenl and the future of logic. Proceedings of the Seventh International Con-
+                gress of Philosophy held at Oxford, England, September 1-6, 1930, London 1931, pp.
+                143-150. "Accordingly, it is the purpose of this paper (1) to define precisely certain
+                widely used but little studied fundamental logical notions; (2) to show how the limitations
+                contained in the Principia Mathematica's presentation and analyses are to be transcended,
+                and (3) to point the way to future logical study."
+                      6. Logic and system. Harvard University, Graduate School of Arts and Sciences,
+
+
+
+
+                Summaries of theses accepted in partial fulfilment of the requirements for the degree of
+                Doctor of Philosophy, 1929, Cambridge, Mass., 1931, pp. 217-219.
+                     7. Two valued logic—another approach. English, with German abstract by C. G.
+                Hempel. Erkenntnis, vol. 2 (1931), pp. 242-261.
+                     8. The metaphysics and logic of classes. The monist, vol. 42 (1932), pp. 112-154.
+                "A propositional function is defined as an abstraction from a proposition, and both sub-
+               jects and predicates are taken to be, in abstraction, propositional functions." "Descriptions
+               are treated as identical propositions and the five kinds of identical propositions of the
+                Principia Mathematica are reduced to one."
+                     9. On alternative logics. The philosophical review, vol. 42 (1933), pp. 520-525. "From
+                the fact that there are more than two classes into which all propositions can be grouped,
+               or from the fact that the term 'implies' may have many different meanings, it does not
+                follow that there are or can be a number of exclusive logics."
+                     10. To the editor of "Mind." Mind, n. s. vol. 42 (1933), pp. 269-270.
+                     See also Charles Hartshorne and Paul Weiss 454.

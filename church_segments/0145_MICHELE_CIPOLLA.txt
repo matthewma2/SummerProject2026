@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 145 ===
+Name  : MICHELE CIPOLLA.
+Flags : none
+Lines : 2401–2407
+========================================
+
+145. MICHELE CIPOLLA.
+                     1. Theoria de congruentias intra numeros integro. Rev. de math., vol. 8 (1902-6),
+               pp. 89-117.
+                     2. Analisialgebrica ed introduzione al calcolo infinitesimale. Palermo 1914, xxiv+420
+               pp. 2nd. edn., Palermo 1921, 505 pp.
+                     3. Sui fondamenti logioi delta matematica secondo le recenti vedule di Hilbert. Annali di
+               matematica pura ed applicata, 4 s. vol. 1 (1923-4), pp. 19-29.

@@ -1,0 +1,54 @@
+=== AUTHOR BLOCK 295 ===
+Name  : F. P. RAMSEY.
+Flags : none
+Lines : 4011–4058
+========================================
+
+295. F. P. RAMSEY.
+                   1. Review of Wittgenstein's Tractatus logico-philosophicus. Mind, n. s. vol. 32 (1923),
+             pp. 465-478. Reprinted in The foundations of mathematics and other logical essays, by
+             F. P. Ramsey, ed. by R. B. Braithwaite, New York and London 1931, pp. 270-286.
+                   2. Review of Whitehead and Russell's Principia mathematica, 2nd. edn., vol. 1.
+             Nature, vol. 116 (1925), pp. 127-128.
+                   3. Review of the same. Mind, n. s. vol. 34 (1925), pp. 506-507.
+                   4. Universals. Ibid., pp. 401-417. Reprinted in The foundations of mathematics and
+             other logical essays, pp. 112-134.
+         *         5. The foundations of mathematics. Proc. London Math. Soc, 2 s. vol. 25 (1926),
+             pp. 338-384. Reprinted in The foundations of mathematics and other logical essays,
+             pp. 1-61. "I have therefore taken Principia Mathematica as a basis for discussion and
+
+
+
+
+
+              amendment, and I believe myself to have discovered how, by using the work of Mr.
+               Ludwig Wittgenstein, it can be rendered free from the serious objections which have •
+              caused its rejection by the majority of German authorities, who have deserted altogether
+               its line of approach."
+                     6. Mathematical logic. The encyclopaedia Britannica, 13th. edn., vol. 2 of the supple-
+              mentary volumes (London and New York 1926), pp. 830-832.
+                     7. Universals and the "method of analysis." Aristotelian Society supplementary volume
+               VI, London 1926, pp. 17-26.
+                     8. Mathematical logic. The mathematical gazette, vol. 13 (1926-7), pp. 185-194.
+               Reprinted in The foundations of mathematics and other logical essays, pp. 62-81. "I
+              have been asked to speak about developments in Mathematical Logic since the publication
+              of Principia Mathematica, and I think it would be most interesting if, instead of de-
+              scribing various definite improvements of detail, I were to discuss in outline the work
+              which has been done on entirely different lines, and claims to supersede altogether the
+              position taken up by Whitehead and Russell, as to the nature of mathematics and its
+              logical foundations."
+                     9. Facts and propositions. Aristotelian Society supplementary volume VII, London
+              1927, pp. 153-170. Reprinted in The foundations of mathematics and other logical essays,
+              pp. 138-155.
+                     10. Mathematics, foundations of. The encyclopaedia Britannica, 14th. edn., vol. 15
+              (London and New York 1929), pp. 82-84.
+                     11. Part of the article Russell, Bertrand Arthur William. Ibid., vol. 19, pp. 678-679.
+                     12. On a problem of formal logic. Proc. London Math. Soc, 2 s. vol. 30 (1929-30),
+              pp. 264-286. Reprinted in The foundations of mathematics and other logical essays,
+              pp. 82-111. "This paper is primarily concerned with a special case of one of the leading
+              problems of mathematical logic, the problem of finding a regular procedure to determine
+              the truth or falsity of any given logical formula."
+                     13. Note on the preceding paper. Extract from 7. The foundations of mathematics and
+              other logical essays, pp. 135-137.
+                    14. Theories. Ibid., pp. 212-236.
+                     15. General propositions and causality. Ibid., pp. 237-255.

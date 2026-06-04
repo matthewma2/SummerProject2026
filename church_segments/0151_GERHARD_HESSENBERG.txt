@@ -1,0 +1,16 @@
+=== AUTHOR BLOCK 151 ===
+Name  : GERHARD HESSENBERG.
+Flags : A
+Lines : 2424–2433
+========================================
+
+A 151. GERHARD HESSENBERG.
+                     1. Grundbegriffe der Mengenlehre. Abhandlungen der Fries'schen Schule, n.s. vol. 1
+                (1906). Reprinted Gottingen 1906, viii+220 pp.
+         C           2. Kritikund System in Mathematik und Philosophie. Abh. Fries. Schule, n.s. vol. 2
+                (1907-8).
+                     3. Willkurliche Schopfungen des Verstandes? Jahresb. D. M.-V., vol. 17 (1908), pp.
+                145-162. "Wenn ich im folgenden wieder einmal die Paradoxien der Mengenlehre gegen
+                einige Lbsungsversuche in Schutz nehme, so geschieht das, wie ich vorweg erklaren will,
+                nicht den Paradoxien zuliebe."
+                     4. Erwiderung auf die Bemerkungen von Ph. Frank. Ibid., pp. 230-231.

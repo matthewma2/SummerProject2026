@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 241 ===
+Name  : L. L. DINES.
+Flags : none
+Lines : 3387–3388
+========================================
+
+241. L. L. DINES. 1. Complete existential theory of Sheffer's postulates for Boolean algebras.
+              Bull. Amer. Math. Soc, vol. 21 (1914-5), pp. 183-188.

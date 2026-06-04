@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 498 ===
+Name  : J. C. C. M
+Flags : none
+Lines : 5559–5565
+========================================
+
+498. J. C. C. McKINSEY.
+                    / . A reduction in number of the postulates for C. I. Lewis' system of strict implication.
+              Bull. Amer. Math. Soc, vol. 40 (1934), pp. 425-427.
+                    2. A note on Bronstein's and Tarter's definition of strict implication. The philosophical
+              review, vol. 43 (1934), pp. 518-520.
+                    3. On a redundancy in "Principia Mathematica." Mind, n. s. vol. 44 (1935), pp. 270—
+              271.

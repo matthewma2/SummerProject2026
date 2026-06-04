@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 256 ===
+Name  : P. J. DANIELL.
+Flags : none
+Lines : 3561–3567
+========================================
+
+256. P. J. DANIELL.                      •
+                       1. The modular difference of classes. Bull. Amer. Math. Soc, vol. 23 (1916-7), pp. 446-
+                450. "The modular difference of two classes is the logical sum of the logical product of the
+                 first into the complement of the second and the logical product of the second into the com-
+                 plement of the first."
+          Z            2. Independence proofs and the theory of implication. The monist, vol. 28 (1919),
+                 pp. 451^53.

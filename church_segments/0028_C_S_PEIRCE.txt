@@ -1,0 +1,99 @@
+=== AUTHOR BLOCK 28 ===
+Name  : C. S. PEIRCE.
+Flags : none
+Lines : 494–586
+========================================
+
+28. C. S. PEIRCE.
+           *          1. On an improvement in Boole's calculus of logic (presented 12 March 1867). Proceed-
+                ings of the American Academy of Arts and Sciences, vol. 7 (1865-8), pp. 250-261. Re-
+                printed in Collected papers of Charles Sanders Peirce, ed. by Charles Hartshorne and
+                Paul Weiss, vol. 3 (Cambridge, Mass., 1933), pp. 3-15. "Let a+,b denote all the individ-
+                uals contained under a and b together. The operation here performed will differ from
+                arithmetical addition in two respects: 1st, that it has reference to identity, not to equality;
+                and 2d, that what is common to a and 6 is not taken into account twice over, as it would,
+                be in arithmetic."
+                      2. Upon the logic of mathematics (presented 10 Sept. 1867). Ibid., pp. 402^12. Re-
+                printed in Collected papers, vol. 3, pp. 16-26. "These considerations, together with those
+                advanced on page 293 (112) of this volume, will, I hope, put the relations of logic and
+                arithmetic in a somewhat clearer light than heretofore."
+                      3. Grounds of validity of the laws of logic: Further consequences of four incapacities. The
+               journal of speculative philosophy, vol. 2 (1868-9), pp. 193-208. Reprinted with corrections
+                in Collected papers, vol. 5 (Cambridge, Mass., 1934), pp. 190-222.
+           *          4. Description of a notation for the logic of relatives, resulting from an amplification of
+                the conceptions of Boole's calculus of logic (communicated 26 Jan. 1870). Memoirs of the
+                American Academy of Arts and Sciences, n.s. vol. 9, part 2, pp. 317-378. Reprinted in
+                Collected papers, vol. 3, pp. 27-98. "Boole's logical algebra has such singular beauty,
+                so far as it goes, that it is interesting to inquire whether it cannot be extended over the
+                whole realm of formal logic, instead of being restricted to that simplest and least useful
+                part of the subject, the logic of absolute terms, which, when he wrote, was the only
+                formal logic known."
+           *          S. On the algebra of logic. Chapter I.—Syllogistic. Chapter II.— The logic of non-relative
+                terms. Chapter III.—The logic of relatives. American journal of mathematics, vol. 3
+                (1880), pp. 15-57. Reprinted with corrections in Collected papers, vol. 3, pp. 104-157.
+
+
+
+
+          *        6. On the logic of number. Ibid., vol. 4 (1881), pp. 85-95. Reprinted with corrections
+             in Collected papers, vol. 3, pp. 158-170.
+                   7. Brief description of the algebra of relatives. 1882, 6 pp. Reprinted in Collected
+            papers, vol. 3, pp. 180-186.
+                  8. Remarks (on an article by B. I. Gilman). The Johns Hopkins University circulars
+             (Baltimore), vol. 1 (1879-82), p. 240.
+         *        9. A theory of probable inference. Note B. The logic of relatives. Studies in logic by
+            members of the Johns Hopkins University, Boston, Mass., 1883, pp. 187-203. Reprinted
+            in Collected papers, vol. 3, pp. 195-209.
+         *        10. On the algebra of logic: A contribution to the philosophy of notation. Amer. jour,
+            math., vol. 7 (1885), pp. 180-202. Reprinted in Collected papers, vol. 3, pp. 210-238, with
+            addition of Note, pp. 239-249. "Let v a n d / be two constant values, and let the value of a
+            quantity representing a proposition be v if the proposition is true and be/if the proposition
+            is false."
+                  / / . The critic of arguments. I. Exact thinking. II. The reader is introduced to relatives.
+             The open court (Chicago), vol. 6(1892), pp. 3391-3394, 3415-3418. Reprinted in Collected
+            papers, vol. 3, pp. 250-265.
+                  12. Review of Schroder's Vorlesungen uber die Algebra der Logik, vol. 3, contained
+            in two articles, The regenerated logic, The monist (Chicago), vol. 7 (1896-7), pp. 19-40
+            and The logic of relatives, ibid., p. 161-217. Reprinted in Collected papers, vol. 3, pp. 266-
+            287, 288-345.
+                  13. Insolubilia. Dictionary ofphilosophy and psychology, ed. by J. M. Baldwin, vol. 1
+            (New York and London 1901), p. 554. Reprinted in Collected papers, vol. 2 (Cambridge,
+            Mass., 1932), pp. 370-371.
+                  14. Logic (exact). Ibid., vol. 2 (New York and London 1902), pp. 23-27. Reprinted
+            in Collected papers, vol. 3, pp. 393-399.
+                 15. Relatives (logic of). Ibid., pp. 447-450. Reprinted in Collected papers, vol. 3, pp.
+            404-109.
+                 16. Symbolic logic. Peirce's contribution to an article of that title, ibid., pp. 645-650.
+            Reprinted in Collected papers, vol. 4 (Cambridge, Mass., 1933), pp. 320-330.
+                 17. Existential graphs. A syllabus of certain topics of logic, Boston 1903, pp. 15-23.
+            Reprinted in Collected papers, vol. 4, pp. 331-340.
+                 18. Nomenclature and divisions of dyadic relations, c. 1903. Reprinted in Collected
+           papers, vol. 3, pp. 366-387.
+                 19. Prolegomena to an apology for pragmaticism. The monisl, vol. 16 (1906), pp. 492-
+            546. See corrections, ibid., vol. 17 (1907), p. 160. Reprinted in Collected papers, vol. 4,
+            pp. 411-463.
+                 20. Some amazing mazes. [Conclusion.] Ibid., vol. 18 (1908), pp. 416-464. Reprinted
+           in Collected papers, vol. 4, pp. 485-537.
+         *       21. A Boolian algebra with one constant (c. 1880). Collected papers, vol. 4, pp. 13-18.
+            "The apparatus of the Boolian calculus consists of the signs, = , > (not used by Boole,
+           but necessary to express particular propositions), + , —, X, 1, 0. In place of these seven
+           signs, I propose to use a single one."
+                 22. Second intentional logic (1893). Collected papers, vol.4, pp. 56-58.
+                 23. The logic of quantity (1893). Collected papers, vol. 4, pp. 59-131.
+                 24. The simplest mathematics (1902). Collected papers, vol. 4, pp. 189-262.
+                 25. On existential graphs, Euler's diagrams, and logical algebra (c. 1903). Collected
+           papers, vol. 4, pp. 341-397.
+                 26. The gamma part of existential graphs (1903). Collected papers, vol. 4, pp. 398-410.
+                 27. Notes on the list of postulates of Dr. Huntington's Section 2 (c. 1904). Collected
+           papers, vol. 4, pp. 263-267.
+                 28. Analysis of some demonstrations concerning definite positive integers (1905). Col-
+           lected papers, vol. 4, pp. 281-289.
+                 29. An improvement on the gamma graphs (1906). Collected papers, vol. 4, pp. 464-
+           470.
+                 See also C. J. Keyser 118/5, E. V. Huntington 122/, and Paul Carus 1932.
+
+
+
+
+          29. I. P. HUGHLINGS. 1. The logic of names. An introduction to Boole's Laws of Thought.
+               London 1869, 88 pp.

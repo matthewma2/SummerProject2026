@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 21 ===
+Name  : CHARLES GRAVES.
+Flags : none
+Lines : 417–423
+========================================
+
+21. CHARLES GRAVES.
+                    1. Mathematical expressions for hypothetical and disjunctive propositions (read 24 April
+               1848). Proceedings of the Royal Irish Academy (Dublin), vol. 4 (1850), pp. 147-149.
+              "It would be more in accordance with the ordinary use of language to express the hypo-
+               thetical proposition, If X be true, Y is true, by the equation x = vy than by that which
+              Mr. Boole has employed, viz. *(1 — y)=0."
+                                                                     ;

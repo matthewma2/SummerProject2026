@@ -1,0 +1,7 @@
+=== AUTHOR BLOCK 68 ===
+Name  : M. S. VOLKOV.
+Flags : C
+Lines : 1080–1080
+========================================
+
+C68. M. S. VOLKOV. 1. Logiceskoe iscislenie (Logical calculus). 1888.

@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 304 ===
+Name  : MOSES SCHONFINKEL.
+Flags : none
+Lines : 4137–4140
+========================================
+
+304. MOSES SCHONFINKEL.
+         *         1. Ober die Bausteine der mathematischen Logik. Math. Annalen, vol. 92 (1924), pp.
+             305-316.
+                   See also Paul Bernays and Moses Schonfinkel 367.

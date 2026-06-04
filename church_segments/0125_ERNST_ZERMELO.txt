@@ -1,0 +1,43 @@
+=== AUTHOR BLOCK 125 ===
+Name  : ERNST ZERMELO.
+Flags : A
+Lines : 2092–2128
+========================================
+
+A125. ERNST ZERMELO.
+          *•        / . Beweis, dass jede Menge wohlgeordnet werden kann. Math. Annalen, vol. 59 (1904),
+              pp. 514-516. "Der vorliegende Beweis beruht auf der Voraussetzung, dass Belegungen y
+
+
+
+
+
+               iiberhaupt existieren, also auf dem Prinzip, dass es auch fiir eine unendliche Gesamtheit
+               von Mengen immer Zuordnungen gibt, bei denen jeder Menge eines ihrer Elemente ent-
+               spricht, oder formal ausgedriickt, dass das Produkt einer unendlichen Gesamtheit von
+               Mengen, deren jede mindestens ein Element enthalt, selbst von Null verschieden ist.
+               Dieses logische Prinzip lasst sich zwar nicht auf ein noch einfacheres zuriickfuhren, wird
+               aber in der mathematischen Deduktion iiberall unbedenklich angewendet."
+                     2. Neuer Beweisfiir die Moglichkeit einer Wohlordnung. Ibid., vol. 65 (1908), pp. 107—
+               128.
+          **        3. Untcrsuchungen iiber die Grundlagen der Mengenlehre I, Ibid., pp. 261-281. "In
+               der hier vorliegenden Arbeit gedenke ich nun zu zeigen, wie sich die gesamte von G. Cantor
+               und R. Dedekind geschaffene Theorie auf einige wenige Definitionen und auf sieben
+               anscheinend voneinander unabhangige 'Prinzipien' oder 'Axiome' zuruckfiihren lasst.
+               Die weitere, mehr philosophische Frage nach dem Ursprung und dem Gultigkeitsbereiche
+               dieser Prinzipien soil hier noch unerortert bleiben. Selbst die gewiss sehr wesentliche
+               'Widerspruchslosigkeit' meiner Axiome habe ich noch nicht streng beweisen konnen,
+               sondern mich auf den gelegentlichen Hinweis beschranken mtissen, dass die bisher be-
+               kannten'Antinomieen'samtlich verschwinden, wenn man die hier vorgeschlagenen Prinzi-
+               pien zugrunde legt."
+                     4. Uber den Begriff der Definitheil in der Axiomatik. Fundamenta mathematicae,
+               vol. 14 (1929), pp. 339-344.
+                     5. Uber Grenzzahlen und Mengenbereiche. Neue Untersuchungen iiber die Grundlagen
+               der Mengenlehre. Ibid., vol. 16 (1930), pp. 29-47.
+                     6. Uber Stufen der Quantifikation und die Logik des Unendlichen. Jahresb. D. M.-V.,
+               vol. 41 (1931-2), 2. Abteilung, pp. 85-88.
+                     7. Anmerkung. Georg Cantor Gesammelie Abhandlungen mathematischen und
+              philosophischen Inhalts, Berlin 1932, pp. 441-442. Remark on Cantor's review of Frege.
+               See Georg Cantor 651.
+                    8. Grundlagen einer allgemeinen Theorie der mathematischen Satzsysleme (Erste Mil-
+              teilung). Fund, math., vol. 25 (1935), pp. 136-146.

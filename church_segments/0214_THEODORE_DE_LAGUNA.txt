@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 214 ===
+Name  : THEODORE DE LAGUNA.
+Flags : none
+Lines : 3035–3039
+========================================
+
+214. THEODORE DE LAGUNA.
+                   / . Opposition and the syllogism. Jour, philos. etc., vol. 9 (1912), pp. 393-400.
+                   2. On certain logical paradoxes. The philosophical review, vol. 25 (1916), pp. 16-27.
+             "In this paper I propose to discuss certain paradoxes, for the solution of which Mr. White-
+             head and Mr. Russell have devised the 'theory of types.'"

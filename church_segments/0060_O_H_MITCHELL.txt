@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 60 ===
+Name  : O. H. MITCHELL.
+Flags : none
+Lines : 1013–1020
+========================================
+
+60. O. H. MITCHELL.
+                      1. On the algebra of logic. Johns Hopkins Univ. circ, vol. 1 (1879-82), p. 208.
+                      2. On a new algebra of logic. Studies in logic by members of the Johns Hopkins
+                 University, Boston 1883, pp. 72-106.
+                      3. Note on Venn's review of Studies in logic. Mind, vol. 9 (1884), pp. 321-322.
+           61. B. I. GILMAN.
+         C            / . On propositions and syllogisms. Johns Hopkins Univ. circ, vol. 1 (1879-82), p. 240.
+         C            2. On propositions called "spurious." Ibid., p. 241.

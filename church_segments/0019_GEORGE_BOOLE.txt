@@ -1,0 +1,33 @@
+=== AUTHOR BLOCK 19 ===
+Name  : GEORGE BOOLE.
+Flags : A
+Lines : 356–382
+========================================
+
+A19. GEORGE BOOLE.
+          ••          /. The mathematical analysis of logic, being an essay toward a calculus of deductive
+                reasoning. London and Cambridge 1847, 82 pp. "That to the existing forms of Analysis a
+                quantitative interpretation is assigned, is the result of the circumstances by which those forms
+                were determined, and is not to be construed into a universal condition of Analysis. It is upon
+                the foundation of this general principle, that I purpose to establish the Calculus of Logic, and
+                that I claim for it a place among the acknowledged forms of Mathematical Analysis."
+           *          2. The calculus of logic. The Cambridge and Dublin mathematical journal, vol. 3
+                 (1848), pp. 183-198. "In a work lately published, I have exhibited the application of anew
+                 and peculiar form of mathematics to the expression of the operations of the mind in-reason-
+                 ing. In the present essay I design to offer such an account of a portion of this treatise as may
+                 furnish a correct view of the nature of the system developed."
+           *          3. An investigation of the laws of thought, on which are founded the mathematical
+                theories of logic and probabilities. London 1854, v+iv+424 pp. Reprinted as vol. 2
+                (Chicago and London 1916) of George Boole's collected logical works, ed. by P. E. B.
+                Jourdain. "The design of the following treatise is to investigate the fundamental laws of
+                those operations of the mind by which reasoning is performed; to give expression to them
+                in the symbolical language of a Calculus, and upon this foundation to establish the sci-
+                 ence of Logic and construct its method; and to make that method itself the basis of a gen-
+                 eral method for the application of the mathematical doctrine of Probabilities; and, finally,
+                 to collect frcm the various elements of truth brought to view in the course of these in-
+                 quiries some probable intimations concerning the nature and constitution of the human
+                 mind."
+                      4. Of propositions numerically definite {i^ad 16 March 1868). Transactions of the Cam-
+                bridge Philosophical Society, vol. 11 (1871), pp. 396-411. "By a proposition numerically
+                definite, I mean a proposition which conveys an assertion respecting the number of in-
+                 dividuals contained in a class."

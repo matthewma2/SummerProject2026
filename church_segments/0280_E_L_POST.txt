@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 280 ===
+Name  : E. L. POST.
+Flags : none
+Lines : 3806–3810
+========================================
+
+280. E. L. POST.
+           *          1. Introduction to a general theory of elementary propositions. Amer. jour, math., vol. 43
+                (1921), pp. 163-185. Introduction. The system of Principia Mathematica. Generalization
+                by truth-tables. Generalization by postulation. ra-valued truth-systems.
+                      See also abstracts in Bull. Amer. Math. Soc, vol. 26, p. 437, and vol. 27, p. 396.

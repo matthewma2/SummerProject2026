@@ -1,0 +1,16 @@
+=== AUTHOR BLOCK 465 ===
+Name  : L. LICHTENSTEIN.
+Flags : none
+Lines : 5420–5429
+========================================
+
+465. L. LICHTENSTEIN. 1. La philosophic des mathimatiques selon M. Smile Meyerson.
+               Revue philosophique de la France et de I'Etranger, vol. 113 (1932), pp. 169-206.
+           466. R<3ZSA PfiTER (R6zsa Politzer).
+                     1. Rekursive Funktionen. Verhandlungen des Internalionalen Mathematiker-Kon-
+               gresses Zurich 1932, pp. 336-337.
+                     2. liber den Zusammenhang der verschiedenen Begriffe der rekursiven Funktion. Math.
+                  Annalen, vol. 110 (1934), pp. 612-632.
+                      3. Konstruktion nichtrekursiver Funktionen. Ibid., vol. I l l (1935), pp. 42-60.
+                      4. A rekurziv fiiggvlnyek elmttelthez (Zur Theorie der rekursiven Funktionen). Hun-
+                garian with full German abstract. Matematikaiis fizikai lapok, vol. 42 (1935), pp. 25-49.

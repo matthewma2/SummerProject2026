@@ -1,0 +1,25 @@
+=== AUTHOR BLOCK 382 ===
+Name  : JACQUES HERBRAND.
+Flags : A
+Lines : 4836–4854
+========================================
+
+A 382. JACQUES HERBRAND.
+                     1. Sur la thlorie de la demonstration. Comptes rendus hebdomadaires des stances de
+               VAcadimie des Sciences (Paris), vol. 186 (1928), pp. 1274-1276.
+                     2. Non-contradiction des axiomes arilhmttiques. Ibid., vol. 188 (1929), pp. 303-304.
+                     3. Sur quelques propriitis des propositions vraies el leurs applications. Ibid., pp. 1076-
+                1078.
+                     4. Sur le probleme fondamental des mathimatiques. Ibid., vol. 189 (1929), pp. 554-556.
+           *         5. Recherches sur la theorie de la demonstration. Travaux de la Socie'te' des Sciences
+                et des Lettres de Varsovie, Classe III sciences mathfimatiques et physiques, no. 33. 1930,
+                128 pp. "Nous permettent de r£soudre le probleme de la non-contradiction de l'Arith-
+                me'tique beaucoup plus completement."
+                     6. Les bases de la logique hilbertienne. Rev. metaph. mor., vol. 37 (1930), pp. 243-255.
+                     7. Sur le probleme fondamental de la logique mathimatique. C. r. Soc. Sci. Lett. Var-
+                sovie, Classe III, vol. 24 (1931), pp. 12-56.
+           *          8. Sur la non-contradiction de Varithmilique. Jour. r. angew. Math., vol. 166 (1931-2),
+                pp. 1-8. "Dans deux prficddents me'moires nous avons e'nonce' et de'montrS un theorSme
+                gfineVal permettant de r6soudre un grand nombre de questions de M6tamath6matique,
+                et en avons donn£ des applications. Nous voulons dans ce travail Pappliquer au probleme
+                de la non-contradiction de l'arithme'tique plus completement que nous ne l'avions fait."

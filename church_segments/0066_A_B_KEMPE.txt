@@ -1,0 +1,28 @@
+=== AUTHOR BLOCK 66 ===
+Name  : A. B. KEMPE.
+Flags : none
+Lines : 1053–1074
+========================================
+
+66. A. B. KEMPE.
+                     1. A memoir on the theory of mathematical form. Philosophical transactions of the Royal
+               Society of London, vol. 177 (1887), pp. 1-70.
+                     2. Note to A memoir on the theory of mathematical form. Proceedings of the Royal
+               Society of London, vol. 42 (1887), pp. 193-196. "An interesting letter of criticism from
+               Professor C. S. Peirce on my recently published Memoiron the Theory of Mathematical
+               Form has led me to reconsider certain paragraphs therein."
+                     3. On the relation between the logical theory of classes and the geometrical theory of points.
+               Proc. London Math. Soc, vol. 21 (1889-90), pp. 147-182. "I first consider and fully discuss
+               the properties of a special system of entities, here called the base system, the form of which
+               is fully determined by laws which define the mode of distribution of certain like and un-
+               like triads of its component entities—i.e., laws that specify which triads are like and which
+               unlike. I then show that this system is precisely that which is under consideration by the
+               logician, when discussing classes Snd their mutual relations. I further show that certain
+
+
+
+
+                entities of the base system, selected in accordance with a simple law, compose a system
+                which is precisely that which is under consideration by the geometrician when discussing
+                points and their mutual relations."
+                       4. The subject matter of exact thought. Nature, vol. 43 (1890), pp. 156-162.

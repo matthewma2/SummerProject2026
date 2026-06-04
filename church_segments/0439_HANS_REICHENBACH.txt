@@ -1,0 +1,23 @@
+=== AUTHOR BLOCK 439 ===
+Name  : HANS REICHENBACH.
+Flags : A
+Lines : 5262–5278
+========================================
+
+A 439. HANS REICHENBACH.
+                     1. Axiomatik der Wahrscheinlichkeitsrechnung. Math. Z., vol. 34 (1931-2), pp. 568-
+                619.
+                     2. Wahrscheinlichkeitslogik. Sitzungsberichte der Preussischen Akademie der Wis-
+                senschaften, Physikalisch-mathematische Klasse, 1932, pp. 476-488. "Der Gedanke, die
+                Wahrscheinlichkeitsrechnung dadurch der logischen Auflbsung zuzufiihren, dass sie in
+                eine unendlich-wertige Logik mit stetiger Wertskala verwandelt wird, ist in program-
+                matischer Form ebenfalls wiederholt ausgesprochen worden, so von J. Lukasiewicz und
+                vom Verfasser; doch war es bisher nicht moglich, diesem Gedanken eine kalkulmassige und
+                darum vertretbare Form zu geben."
+                     3. Pie logischen Grundlagen des Wahrscheinlichkeitsbegriffs. Erkenntnis, vol. 3
+                (1932-3), pp. 401-425.
+                     4. Wahrscheinlichkeitslehre. Leyden 1935, ix+451 pp.
+                     5. Wahrscheinlichkeitslogik. Erkenntnis, vol. 5 (1935-6), pp. 37-43.
+                     6. Wahrscheinlichkeitslogik und Alternativlogik. Ibid., pp. 177-178.
+                     7. Bemerkungen zu Carl Hempels Versuch einer finitisHschen Deutung des Wahrschein-
+               lichkeitsbegriffs. Ibid., pp. 261-266.

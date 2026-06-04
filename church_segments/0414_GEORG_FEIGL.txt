@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 414 ===
+Name  : GEORG FEIGL.
+Flags : none
+Lines : 5087–5091
+========================================
+
+414. GEORG FEIGL.
+                      1. Review of Hilbert and Ackermann's Grundziige der theoretischen Logik. Jahresb.
+                D. M.-V., vol. 39 (1930), 2. Abteilung, pp. 11-12.
+                      2. Review of Fraenkel's Einleitung in die Mengenlehre, 3rd. edn. Jahrb. Fortschr.
+                Math., vol. 54 (for 1928, pub. 1932), pp. 86-87.

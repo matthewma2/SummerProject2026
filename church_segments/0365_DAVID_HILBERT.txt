@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 365 ===
+Name  : DAVID HILBERT
+Flags : none
+Lines : 4717–4719
+========================================
+
+365. DAVID HILBERT and WILHELM ACKERMANN.
+            t         1. Grundziige der theoretischen Logik. Die Grundlehren der mathematischen Wissen-
+                schaften, vol. 27. Berlin 1928, viii + 120 pp.

@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 497 ===
+Name  : S. C. KLEENE.
+Flags : none
+Lines : 5553–5558
+========================================
+
+497. S. C. KLEENE.
+                     1. Proof by cases informal logic. Annals of mathematics, 2 s. vol. 35 (1934), pp. 529-
+              544.
+         *          2. A theory of positive integers informal logic. Amer. jour, math., vol. 57 (1935), pp.
+              153-173,219-244.
+                     See also S. C. Kleene and J. B. Rosser 545.
