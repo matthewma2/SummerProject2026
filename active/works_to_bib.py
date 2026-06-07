@@ -22,7 +22,7 @@ TYPE_MAP = {
     "Thesis": "thesis",
 }
 
-FIELD_ORDER = ("author", "title", "year", "address", "pages", "note")
+FIELD_ORDER = ("author", "title", "journal", "year", "volume", "address", "pages")
 
 
 def bibtex_type(publication_type: str | None) -> str:
@@ -65,11 +65,17 @@ def record_to_fields(record: dict[str, Any]) -> dict[str, str]:
     fields = {
         "author": escape_bibtex(record.get("author_name")),
         "title": escape_bibtex(record.get("title")),
+        "journal": escape_bibtex(record.get("journal")),
         "year": escape_bibtex(record.get("year")),
+        "volume": escape_bibtex(record.get("volume")),
         "address": escape_bibtex(record.get("location")),
         "pages": escape_bibtex(normalize_pages(record.get("pages"))),
-        "note": escape_bibtex(record.get("notes")),
     }
+    if record.get("publication_type") == "Article":
+        fields["address"] = None
+    else:
+        fields["journal"] = None
+        fields["volume"] = None
     return {key: value for key, value in fields.items() if value is not None}
 
 
