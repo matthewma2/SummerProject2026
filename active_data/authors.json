@@ -243,13 +243,6 @@
     ]
   },
   {
-    "id": "a-n-whitehead",
-    "full_name": "A. N. Whitehead",
-    "alternative_names": [
-      "Whitehead"
-    ]
-  },
-  {
     "id": "a-r-schweitzer",
     "full_name": "A. R. Schweitzer",
     "alternative_names": [
@@ -297,13 +290,6 @@
     "full_name": "Abner Shimony",
     "alternative_names": [
       "Shimony"
-    ]
-  },
-  {
-    "id": "abraham-robinsohn",
-    "full_name": "Abraham Robinsohn",
-    "alternative_names": [
-      "Robinsohn"
     ]
   },
   {
@@ -832,13 +818,6 @@
     ]
   },
   {
-    "id": "barkley-rosser",
-    "full_name": "Barkley Rosser",
-    "alternative_names": [
-      "Rosser"
-    ]
-  },
-  {
     "id": "baruch-spinoza",
     "full_name": "Baruch Spinoza",
     "alternative_names": [
@@ -932,24 +911,10 @@
     ]
   },
   {
-    "id": "burton-dreben",
-    "full_name": "Burton Dreben",
-    "alternative_names": [
-      "Dreben"
-    ]
-  },
-  {
     "id": "burton-s-dreben",
     "full_name": "Burton S. Dreben",
     "alternative_names": [
       "Dreben"
-    ]
-  },
-  {
-    "id": "c-a-baylis",
-    "full_name": "C. A. Baylis",
-    "alternative_names": [
-      "Baylis"
     ]
   },
   {
@@ -1124,13 +1089,6 @@
     ]
   },
   {
-    "id": "carol-karp",
-    "full_name": "Carol Karp",
-    "alternative_names": [
-      "Karp"
-    ]
-  },
-  {
     "id": "carol-r-karp",
     "full_name": "Carol R. Karp",
     "alternative_names": [
@@ -1273,7 +1231,7 @@
     ]
   },
   {
-    "id": "d-c-makinson",
+    "id": "david-c-makinson",
     "full_name": "David C. Makinson",
     "alternative_names": [
       "Makinson"
@@ -1284,13 +1242,6 @@
     "full_name": "D. F. Swenson",
     "alternative_names": [
       "Swenson"
-    ]
-  },
-  {
-    "id": "d-j-bronstein",
-    "full_name": "D. J. Bronstein",
-    "alternative_names": [
-      "Bronstein"
     ]
   },
   {
@@ -1394,13 +1345,6 @@
     ]
   },
   {
-    "id": "david-makinson",
-    "full_name": "David Makinson",
-    "alternative_names": [
-      "Makinson"
-    ]
-  },
-  {
     "id": "david-nelson",
     "full_name": "David Nelson",
     "alternative_names": [
@@ -1477,13 +1421,6 @@
     "full_name": "Donald Davidson",
     "alternative_names": [
       "Davidson"
-    ]
-  },
-  {
-    "id": "donald-monk",
-    "full_name": "Donald Monk",
-    "alternative_names": [
-      "Monk"
     ]
   },
   {
@@ -2101,13 +2038,6 @@
     ]
   },
   {
-    "id": "frederic-brenton-fitch",
-    "full_name": "Frederic Brenton Fitch",
-    "alternative_names": [
-      "Fitch"
-    ]
-  },
-  {
     "id": "friedrich-albert-lange",
     "full_name": "Friedrich Albert Lange",
     "alternative_names": [
@@ -2435,13 +2365,6 @@
     ]
   },
   {
-    "id": "gerald-standley",
-    "full_name": "Gerald Standley",
-    "alternative_names": [
-      "Standley"
-    ]
-  },
-  {
     "id": "gerhard-gentzen",
     "full_name": "Gerhard Gentzen",
     "alternative_names": [
@@ -2586,20 +2509,6 @@
     "full_name": "Gustav Hensel",
     "alternative_names": [
       "Hensel"
-    ]
-  },
-  {
-    "id": "h-a-schmidt",
-    "full_name": "H. Arnold Schmidt",
-    "alternative_names": [
-      "Schmidt"
-    ]
-  },
-  {
-    "id": "h-b-enderton",
-    "full_name": "Herbert Bruce Enderton",
-    "alternative_names": [
-      "Enderton"
     ]
   },
   {
@@ -2939,8 +2848,8 @@
     ]
   },
   {
-    "id": "herbert-enderton",
-    "full_name": "Herbert Enderton",
+    "id": "herbert-b-enderton",
+    "full_name": "Herbert Bruce Enderton",
     "alternative_names": [
       "Enderton"
     ]
@@ -3130,13 +3039,6 @@
     ]
   },
   {
-    "id": "irving-m-copilowish",
-    "full_name": "Irving M. Copilowish",
-    "alternative_names": [
-      "Copilowish"
-    ]
-  },
-  {
     "id": "isaac-levi",
     "full_name": "Isaac Levi",
     "alternative_names": [
@@ -3200,7 +3102,7 @@
     ]
   },
   {
-    "id": "j-b-rosser",
+    "id": "j-barkley-rosser",
     "full_name": "John Barkley Rosser",
     "alternative_names": [
       "Rosser"
@@ -3281,13 +3183,6 @@
     "full_name": "J. Herzberg",
     "alternative_names": [
       "Herzberg"
-    ]
-  },
-  {
-    "id": "j-hintikka",
-    "full_name": "Jaakko Hintikka",
-    "alternative_names": [
-      "Hintikka"
     ]
   },
   {
@@ -3605,13 +3500,6 @@
     ]
   },
   {
-    "id": "janina-hosiasson",
-    "full_name": "Janina Hosiasson",
-    "alternative_names": [
-      "Hosiasson"
-    ]
-  },
-  {
     "id": "janina-hosiasson-lindenbaum",
     "full_name": "Janina Hosiasson-lindenbaum",
     "alternative_names": [
@@ -3739,13 +3627,6 @@
     "full_name": "John Locke",
     "alternative_names": [
       "Locke"
-    ]
-  },
-  {
-    "id": "john-myhill",
-    "full_name": "John Myhill",
-    "alternative_names": [
-      "Myhill"
     ]
   },
   {
@@ -3982,13 +3863,6 @@
     "full_name": "Kenneth Ira Appel",
     "alternative_names": [
       "Appel"
-    ]
-  },
-  {
-    "id": "k-jaakko",
-    "full_name": "Kaarlo Jaakko Hintikka",
-    "alternative_names": [
-      "Hintikka"
     ]
   },
   {
@@ -5025,13 +4899,6 @@
   {
     "id": "nuel-d-belnap-jr",
     "full_name": "Nuel D. Belnap, Jr.",
-    "alternative_names": [
-      "Belnap"
-    ]
-  },
-  {
-    "id": "nuel-d-belnap-suffixjrsuffix",
-    "full_name": "Nuel D. Belnap, <suffix>jr.</suffix>",
     "alternative_names": [
       "Belnap"
     ]

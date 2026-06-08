@@ -741,7 +741,7 @@
         "jstor_id": "a12f6fa9-03f3-3470-9432-f72ffe9e2d2a",
         "title": "An Informal Exposition of Proofs of Gödel's Theorems and Church's Theorem",
         "authors": [
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1939,
         "type": "article",
@@ -756,7 +756,7 @@
         "jstor_id": "e8b6109c-28f0-3c1d-bfe5-0279c977bdb6",
         "title": "Definition by Induction in Quine's New Foundations for Mathematical Logic",
         "authors": [
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1939,
         "type": "article",
@@ -771,7 +771,7 @@
         "jstor_id": "0bab598b-076b-38ad-b029-c3d88ecad79c",
         "title": "On the Consistency of Quine's New Foundations for Mathematical Logic",
         "authors": [
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1939,
         "type": "article",
@@ -1091,7 +1091,7 @@
         "jstor_id": "13e415d4-d1c5-31df-b372-6c89705b81d8",
         "title": "Remark on a System of Bernays",
         "authors": [
-            "john-myhill"
+            "john-r-myhill"
         ],
         "year": 1963,
         "type": "article",
@@ -1482,7 +1482,7 @@
         "jstor_id": "1cacebb7-5724-3038-8ef9-4c8a6c319813",
         "title": "Arithmetic with Creative Definitions by Induction",
         "authors": [
-            "john-myhill"
+            "john-r-myhill"
         ],
         "year": 1953,
         "type": "article",
@@ -1497,7 +1497,7 @@
         "jstor_id": "d33c63bd-50de-38da-a9c7-559b668b4a8c",
         "title": "Criteria of Constructibility for Real Numbers",
         "authors": [
-            "john-myhill"
+            "john-r-myhill"
         ],
         "year": 1953,
         "type": "article",
@@ -1512,7 +1512,7 @@
         "jstor_id": "8a3adb68-bc4f-3617-98d6-d0feddfa09c4",
         "title": "On the Interpretation of the Sign '<tex-math>$\\supset$</tex-math>'",
         "authors": [
-            "john-myhill"
+            "john-r-myhill"
         ],
         "year": 1953,
         "type": "article",
@@ -1753,7 +1753,7 @@
         "jstor_id": "1f4cf091-bbb3-3726-94f5-cf732b981ccf",
         "title": "Solution of a Problem of Tarski",
         "authors": [
-            "john-myhill"
+            "john-r-myhill"
         ],
         "year": 1956,
         "type": "article",
@@ -2359,7 +2359,7 @@
         "jstor_id": "346faa4a-21aa-3d88-9d76-6489b6cdf117",
         "title": "Report on Some Investigations Concerning the Consistency of the Axiom of Reducibility",
         "authors": [
-            "john-myhill"
+            "john-r-myhill"
         ],
         "year": 1951,
         "type": "article",
@@ -2374,7 +2374,7 @@
         "jstor_id": "293d5eb3-a7bc-3073-878d-fc36dee5c01f",
         "title": "Towards a Consistent Set-Theory",
         "authors": [
-            "john-myhill"
+            "john-r-myhill"
         ],
         "year": 1951,
         "type": "article",
@@ -2435,7 +2435,7 @@
         "title": "Generalization of a Lemma of G. F. Rose",
         "authors": [
             "i-l-gl",
-            "j-b-rosser",
+            "j-barkley-rosser",
             "d-scott"
         ],
         "year": 1958,
@@ -2933,12 +2933,11 @@
         "alternative_titles": null
     },
     {
-        "id": "HintikkaJaakko1956a",
+        "id": "Hintikka1956a",
         "jstor_id": "327a6a25-2efa-3c3c-a0b4-028ced4c02b4",
         "title": "Identity, Variables, and Impredicative Definitions",
         "authors": [
-            "k-jaakko",
-            "j-hintikka"
+            "k-jaakko-j-hintikka"
         ],
         "year": 1956,
         "type": "article",
@@ -2968,7 +2967,7 @@
         "jstor_id": "3347f0a0-328f-385d-8de2-ea3b472269dd",
         "title": "A System of Formal Logic Without an Analogue to the Curry W Operator",
         "authors": [
-            "frederic-brenton-fitch"
+            "frederic-b-fitch"
         ],
         "year": 1936,
         "type": "article",
@@ -3044,7 +3043,7 @@
         "title": "Book Review : On the So-Called \"Content-Having Axioms\" of Mathematical Logic",
         "authors": [
             "mark-kac",
-            "barkley-rosser",
+            "j-barkley-rosser",
             "l-p-gokili"
         ],
         "year": 1942,
@@ -3257,7 +3256,7 @@
         "jstor_id": "379ddb8e-8190-39f1-9096-6b8329fd837a",
         "title": "Axiom Schemes for M-Valued Functional Calculi of First Order: Part II. Deductive Completeness",
         "authors": [
-            "j-b-rosser",
+            "j-barkley-rosser",
             "a-r-turquette"
         ],
         "year": 1951,
@@ -3681,7 +3680,7 @@
         "jstor_id": "4089c1e0-040b-351b-b528-ebd0ec07635f",
         "title": "Constructibility as a Criterion for Existence",
         "authors": [
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1936,
         "type": "article",
@@ -3696,7 +3695,7 @@
         "jstor_id": "b03f9fad-ff3c-3ef8-92d5-03059ea18932",
         "title": "Extensions of Some Theorems of Gödel and Church",
         "authors": [
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1936,
         "type": "article",
@@ -4542,7 +4541,7 @@
         "jstor_id": "4dc8d47d-1e8c-3ce6-a4d3-5c57ebc7753f",
         "title": "The Independence of Quine's Axioms <sup>*</sup> 200 and <sup>*</sup> 201",
         "authors": [
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1941,
         "type": "article",
@@ -5057,7 +5056,7 @@
         "jstor_id": "58d9716f-0f8a-3f9a-8c0d-d6ee4e1844d1",
         "title": "Axiom Schemes for M-Valued Propositional Calculi",
         "authors": [
-            "j-b-rosser",
+            "j-barkley-rosser",
             "a-r-turquette"
         ],
         "year": 1945,
@@ -5498,7 +5497,7 @@
         "jstor_id": "b7ebe4b5-1c2f-3999-a46c-43980bfea8ed",
         "title": "A Derivation of Number Theory from Ancestral Theory",
         "authors": [
-            "john-myhill"
+            "john-r-myhill"
         ],
         "year": 1952,
         "type": "article",
@@ -5513,7 +5512,7 @@
         "jstor_id": "62071078-1de8-3fdf-b1a9-6a4eb1f43d67",
         "title": "A Finitary Metalanguage for Extended Basic Logic",
         "authors": [
-            "john-myhill"
+            "john-r-myhill"
         ],
         "year": 1952,
         "type": "article",
@@ -5636,7 +5635,7 @@
         "jstor_id": "64f3a629-8c6f-3b60-9c49-4c26fef74fe0",
         "title": "New Sets of Postulates for Combinatory Logics",
         "authors": [
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1942,
         "type": "article",
@@ -5651,7 +5650,7 @@
         "jstor_id": "c8b3b363-1dca-30e3-86f6-9b64cc478492",
         "title": "The Burali-Forti Paradox",
         "authors": [
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1942,
         "type": "article",
@@ -5833,7 +5832,7 @@
         "title": "A Simple Treatment of Truth Functions",
         "authors": [
             "alan-ross-anderson",
-            "nuel-d-belnap-suffixjrsuffix"
+            "nuel-d-belnap-jr"
         ],
         "year": 1959,
         "type": "article",
@@ -6227,7 +6226,7 @@
         "jstor_id": "6ffed671-10f0-35d2-87ee-6485a12ef0bc",
         "title": "A Normal Modal Calculus Between T and S4 Without the Finite Model Property",
         "authors": [
-            "david-makinson"
+            "david-c-makinson"
         ],
         "year": 1969,
         "type": "article",
@@ -6317,7 +6316,7 @@
         "jstor_id": "b7083b05-2a0f-3cf6-911c-26f30520be8b",
         "title": "Entailment and Relevance",
         "authors": [
-            "nuel-d-belnap-suffixjrsuffix"
+            "nuel-d-belnap-jr"
         ],
         "year": 1960,
         "type": "article",
@@ -6332,7 +6331,7 @@
         "jstor_id": "71735fe1-7f6e-3c39-b6f8-9d0884792435",
         "title": "Twenty-Sixth Annual Meeting of the Association for Symbolic Logic.",
         "authors": [
-            "nuel-d-belnap-suffixjrsuffix"
+            "nuel-d-belnap-jr"
         ],
         "year": 1960,
         "type": "article",
@@ -6922,7 +6921,7 @@
         "jstor_id": "7dd75850-5def-340e-8d17-c7a0e42fdff8",
         "title": "Matrix Development of the Calculus of Relations",
         "authors": [
-            "irving-m-copilowish"
+            "irving-m-copi"
         ],
         "year": 1948,
         "type": "article",
@@ -7408,7 +7407,7 @@
         "jstor_id": "8b526302-dbb7-32d4-a574-68cb05cc6fe4",
         "title": "Annual Meeting of the Association for Symbolic Logic",
         "authors": [
-            "donald-monk"
+            "j-donald-monk"
         ],
         "year": 1965,
         "type": "article",
@@ -7620,7 +7619,7 @@
         "jstor_id": "8e89742e-8aeb-3a0d-b8e9-02bb049506df",
         "title": "A Supplement to Herbrand",
         "authors": [
-            "burton-dreben",
+            "burton-s-dreben",
             "john-denton"
         ],
         "year": 1966,
@@ -7965,11 +7964,11 @@
         "alternative_titles": null
     },
     {
-        "id": "Robinsohn1939a",
+        "id": "Robinson1939a",
         "jstor_id": "962392e6-b714-3bbb-b524-a7db4778cfad",
         "title": "On the Independence of the Axioms of Definiteness (Axiome Der Bestimmtheit)",
         "authors": [
-            "abraham-robinsohn"
+            "abraham-robinson"
         ],
         "year": 1939,
         "type": "article",
@@ -8031,7 +8030,7 @@
         "jstor_id": "979cf207-9442-3007-809c-347e5752b1d8",
         "title": "Meeting of the Association for Symbolic Logic",
         "authors": [
-            "h-a-schmidt",
+            "arnold-schmidt",
             "k-schtte",
             "e-j-thiele",
             "m-j-cresswell"
@@ -8428,7 +8427,7 @@
         "jstor_id": "a312326d-fb23-38d5-898e-c9707923dee5",
         "title": "Testing Singly Quantified Tautologies",
         "authors": [
-            "gerald-standley"
+            "gerald-b-standley"
         ],
         "year": 1966,
         "type": "article",
@@ -8804,7 +8803,7 @@
         "jstor_id": "abf244d0-2215-3590-a9f5-737b122c8d49",
         "title": "Axiom Schemes for M-Valued Functional Calculi of First Order: Part I. Definition of Axiom Schemes and Proof of Plausibility",
         "authors": [
-            "j-b-rosser",
+            "j-barkley-rosser",
             "a-r-turquette"
         ],
         "year": 1948,
@@ -8820,7 +8819,7 @@
         "jstor_id": "abf76e40-6fac-37aa-b8b7-5e3ec3addfb5",
         "title": "There are Infinitely many Diodorean Modal Functions",
         "authors": [
-            "d-c-makinson"
+            "david-c-makinson"
         ],
         "year": 1966,
         "type": "article",
@@ -8850,7 +8849,7 @@
         "jstor_id": "ace72c73-74c9-355a-862c-6a7206db9658",
         "title": "Nonaxiomatizability Results for Infinitary Systems",
         "authors": [
-            "carol-karp"
+            "carol-r-karp"
         ],
         "year": 1967,
         "type": "article",
@@ -9213,7 +9212,7 @@
         "jstor_id": "b5be0672-63b7-3c8a-808e-3ee8e5376d45",
         "title": "An Infinitistic Rule of Proof",
         "authors": [
-            "h-b-enderton"
+            "herbert-b-enderton"
         ],
         "year": 1967,
         "type": "article",
@@ -9365,7 +9364,7 @@
         "jstor_id": "b851e3e0-7f4a-3711-8d7b-28b8a41ab212",
         "title": "Meeting of the Association for Symbolic Logic",
         "authors": [
-            "jaakko-hintikka",
+            "k-jaakko-j-hintikka",
             "karel-de-bouvere",
             "isaac-levi"
         ],
@@ -9429,7 +9428,7 @@
         "jstor_id": "b976703a-b618-388d-8146-9cb4bf8dcd90",
         "title": "Gödel Theorems for Non-Constructive Logics",
         "authors": [
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1937,
         "type": "article",
@@ -9445,7 +9444,7 @@
         "title": "Book Review : New Sets of Postulates for Combinatory Logics",
         "authors": [
             "h-e-vaughan",
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1942,
         "type": "article",
@@ -9750,7 +9749,7 @@
         "jstor_id": "c2d0e39b-9f01-3bc2-8d0d-2c081a4feb62",
         "title": "Intensional Models for First Degree Formulas",
         "authors": [
-            "nuel-d-belnap-suffixjrsuffix"
+            "nuel-d-belnap-jr"
         ],
         "year": 1967,
         "type": "article",
@@ -10188,7 +10187,7 @@
         "title": "Book Review : The Burali-Forti Paradox",
         "authors": [
             "frederic-b-fitch",
-            "barkley-rosser"
+            "j-barkley-rosser"
         ],
         "year": 1942,
         "type": "article",
@@ -10203,7 +10202,7 @@
         "jstor_id": "d0753806-9436-35c0-9e46-74debdd8f99b",
         "title": "A Note on the Hyperarithmetical Hierarchy",
         "authors": [
-            "h-b-enderton",
+            "herbert-b-enderton",
             "hilary-putnam"
         ],
         "year": 1970,
@@ -10449,7 +10448,7 @@
         "jstor_id": "d4f6e490-b253-33dd-a04e-fd7b8a150dcc",
         "title": "Hierarchies Over Recursive Well-Orderings",
         "authors": [
-            "herbert-enderton",
+            "herbert-b-enderton",
             "david-luckham"
         ],
         "year": 1964,
@@ -10782,7 +10781,7 @@
         "jstor_id": "dd0988ec-e12d-33a3-8c29-b7b56849d618",
         "title": "Annual Meeting of the Association for Symbolic Logic",
         "authors": [
-            "burton-dreben",
+            "burton-s-dreben",
             "james-thomson"
         ],
         "year": 1968,
@@ -10964,7 +10963,7 @@
         "jstor_id": "e1be4635-ebdd-3e7f-bfbb-3307cc599a77",
         "title": "A Note on the Deductive Completeness of M-Valued Propositional Calculi",
         "authors": [
-            "j-b-rosser",
+            "j-barkley-rosser",
             "a-r-turquette"
         ],
         "year": 1950,
