@@ -1057,5 +1057,24 @@
             "Robertson on the Elements of Geometry",
             "Robertson's review of Logic and the Elements of Geometry"
         ]
+    },
+    {
+        "id": "Sidgwick1880a",
+        "title": "Reine Logik. by J. Bergmann",
+        "author": "julius-bergmann",
+        "year": 1880,
+        "type": "article",
+        "journal": "Mind",
+        "volume": 5,
+        "number": 17,
+        "section": "Critical Notices",
+        "pages": "139-145",
+        "url": "https://www.jstor.org/stable/2246442",
+        "alternative_titles": [
+            "Sidgwick on Reine Logik",
+            "Sidgwick on Bergmann",
+            "Sidgwick on Bergmann's Reine Logik"
+        ]
     }
+
 ]

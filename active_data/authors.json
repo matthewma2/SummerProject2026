@@ -206,6 +206,14 @@
     ]
   },
   {
+    "id": "a-j-sopper",
+    "full_name": "Adrianus Jacobus de Sopper",
+    "alternative_names": [
+      "Sopper",
+      "de Sopper"
+    ]
+  },
+  {
     "id": "a-l-foster",
     "full_name": "A. L. Foster",
     "alternative_names": [
@@ -496,7 +504,9 @@
     "id": "alfred-tarski",
     "full_name": "Alfred Tarski",
     "alternative_names": [
-      "Tarski"
+      "Tarski",
+      "Alfred Tajtelbaum",
+      "Tajtelbaum"
     ]
   },
   {
@@ -1891,6 +1901,13 @@
     ]
   },
   {
+    "id": "frederik-schuh",
+    "full_name": "Frederik Schuh",
+    "alternative_names": [
+      "Schuh"
+    ]
+  },
+  {
     "id": "f-s-c-northrop",
     "full_name": "F. S. C. Northrop",
     "alternative_names": [
@@ -2526,10 +2543,11 @@
     ]
   },
   {
-    "id": "h-d-k",
-    "full_name": "H. D. K.",
+    "id": "hendrik-d-kloosterman",
+    "full_name": "Hendrik Douwe Kloosterman",
     "alternative_names": [
-      "H. D. K."
+      "H. D. K.",
+      "Kloosterman"
     ]
   },
   {
@@ -3250,6 +3268,13 @@
     ]
   },
   {
+    "id": "john-c-wilson",
+    "full_name": "John Cook Wilson",
+    "alternative_names": [
+      "Wilson"
+    ]
+  },
+  {
     "id": "j-o-wisdom",
     "full_name": "John Oulton Wisdom",
     "alternative_names": [
@@ -3492,11 +3517,12 @@
     ]
   },
   {
-    "id": "jan-ukasiewicz",
+    "id": "jan-lukasiewicz",
     "full_name": "Jan Łukasiewicz",
     "alternative_names": [
       "Jan",
-      "Łukasiewicz"
+      "Łukasiewicz",
+      "Lukasiewicz"
     ]
   },
   {
@@ -3808,6 +3834,13 @@
     ]
   },
   {
+    "id": "j-p-n-land",
+    "full_name": "Jan Pieter Nicolaas Land",
+    "alternative_names": [
+      "Land"
+    ]
+  },
+  {
     "id": "jrgen-mau",
     "full_name": "Jürgen Mau",
     "alternative_names": [
@@ -3826,6 +3859,13 @@
     "full_name": "Julia Robinson",
     "alternative_names": [
       "Robinson"
+    ]
+  },
+  {
+    "id": "julius-bergmann",
+    "full_name": "Julius Bergmann",
+    "alternative_names": [
+      "Bergmann"
     ]
   },
   {
@@ -3935,7 +3975,8 @@
     "full_name": "Karl Dürr",
     "alternative_names": [
       "Dürr",
-      "Durr"
+      "Durr",
+      "Dorr"
     ]
   },
   {
@@ -5310,7 +5351,10 @@
     "id": "platon-poretsky",
     "full_name": "Platon Poretsky",
     "alternative_names": [
-      "Poretsky"
+      "Poretsky",
+      "P. S. Porěckij",
+      "Porěckij",
+      "Poreckij"
     ]
   },
   {
@@ -5816,7 +5860,7 @@
     ]
   },
   {
-    "id": "rzsa-pter",
+    "id": "rozsa-peter",
     "full_name": "Rózsa Péter",
     "alternative_names": [
       "Péter",
@@ -6545,6 +6589,13 @@
     "full_name": "Werner Schmeidler",
     "alternative_names": [
       "Schmeidler"
+    ]
+  },
+  {
+    "id": "w-hetper",
+    "full_name": "W. Hetper",
+    "alternative_names": [
+      "Hetper"
     ]
   },
   {
