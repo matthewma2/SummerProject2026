@@ -1445,7 +1445,7 @@
     "notes": "Communicated 26 Jan. 1870. Published in Memoirs of the American Academy of Arts and Sciences, n.s. vol. 9, part 2. Reprinted in Collected papers, vol. 3, pp. 27-98. Includes quote: 'Boole's logical algebra has such singular beauty, so far as it goes, that it is interesting to inquire whether it cannot be extended over the whole realm of formal logic...'"
   },
   {
-    "id": "mind_Peirce1870a",
+    "id": "Peirce1870b",
     "title": "Linear Associative Algebra",
     "authors": [
       "benjamin-peirce"
@@ -1710,19 +1710,6 @@
     "type": "article",
     "journal": "Mind",
     "volume": "1",
-    "pages": "206-222",
-    "notes": "Published in Mind, vol. 1 (1876)."
-  },
-  {
-    "id": "Robertson1876b",
-    "title": "Mr. Jevons's Formal Logic",
-    "authors": [
-      "george-croom-robertson"
-    ],
-    "year": 1876,
-    "type": "article",
-    "journal": "Mind",
-    "volume": "1",
     "number": "2",
     "section": "Main",
     "pages": "206-222",
@@ -1730,7 +1717,7 @@
     "alternative_titles": [
       "Robertson's Review of Jevons",
       "On Jevons's Formal Logic",
-      "Robertson on Jevons (1876)"
+      "Mr. Jevons's Formal Logic"
     ]
   },
   {
@@ -1766,7 +1753,7 @@
     "notes": "Published in Mind, vol. 1 (1876)."
   },
   {
-    "id": "mind_Robertson1876a",
+    "id": "Robertson1876b",
     "title": "Logic and the Elements of Geometry",
     "authors": [
       "george-croom-robertson"
@@ -2066,19 +2053,6 @@
     "notes": "Published in The journal of speculative philosophy (St. Louis, Mo.), vol. 12 (1878)."
   },
   {
-    "id": "Halsted1878b",
-    "title": "Professor Jevons's criticism of Boole's logical system",
-    "authors": [
-      "george-bruce-halsted"
-    ],
-    "year": 1878,
-    "type": "article",
-    "journal": "Mind",
-    "volume": "3",
-    "pages": "134-137",
-    "notes": "Published in Mind, vol. 3 (1878)."
-  },
-  {
     "id": "Halsted1878c",
     "title": "Statement and reduction of the syllogism",
     "authors": [
@@ -2263,7 +2237,7 @@
     "source": "Macmillan"
   },
   {
-    "id": "mind_Halsted1878a",
+    "id": "Halsted1878b",
     "title": "Prof. Jevons's Criticism of Boole's Logical System",
     "authors": [
       "george-bruce-halsted"
@@ -2277,7 +2251,7 @@
     "pages": "134-137",
     "url": "https://www.jstor.org/stable/2246627",
     "alternative_titles": [
-      "Halsted on Jevons",
+      "Professor Jevons's criticism of Boole's logical system",
       "Halsted on Jevons's Criticism of Boole",
       "On Jevons's Criticism of Boole"
     ]
@@ -2515,7 +2489,7 @@
     ]
   },
   {
-    "id": "mind_Venn1879a",
+    "id": "Venn1879d",
     "title": "Logik. by Christoph Sigwart",
     "authors": [
       "john-venn"
