@@ -1,0 +1,382 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+The top-level auxiliary file: bibliography-of-works.aux
+The style file: apalike.bst
+Database file #1: ../active_data/works.bib
+Warning--entry type for "Peirce1901a" isn't style-file defined
+--line 940 of file ../active_data/works.bib
+Warning--entry type for "Peirce1902a" isn't style-file defined
+--line 948 of file ../active_data/works.bib
+Warning--entry type for "Peirce1902b" isn't style-file defined
+--line 956 of file ../active_data/works.bib
+Warning--entry type for "Peirce1902c" isn't style-file defined
+--line 963 of file ../active_data/works.bib
+Warning--entry type for "Brouwer1907a" isn't style-file defined
+--line 7090 of file ../active_data/works.bib
+Warning--entry type for "Krienelke1909a" isn't style-file defined
+--line 7888 of file ../active_data/works.bib
+Warning--entry type for "Grelling1910a" isn't style-file defined
+--line 8240 of file ../active_data/works.bib
+Warning--entry type for "Roestow1910a" isn't style-file defined
+--line 8301 of file ../active_data/works.bib
+Repeated entry---line 9597 of file ../active_data/works.bib
+ : @article{Konig1914a
+ :                    ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 13537 of file ../active_data/works.bib
+ : 
+ : @article{Harlen1930a,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 15430 of file ../active_data/works.bib
+ : @article{Lukasiewicz1930a
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16458 of file ../active_data/works.bib
+ : @book{Lewis1932a
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16719 of file ../active_data/works.bib
+ : @book{Scholz1933a
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17673 of file ../active_data/works.bib
+ : @book{Scholz1935a
+ :                  ,
+I'm skipping whatever remains of this entry
+Name 1 in "Leon Chwistek, W. Hetper, and J. Herzberg" has a comma at the end for entry Chwistek1933a
+while executing---line 1023 of file apalike.bst
+Name 1 in "Leon Chwistek, W. Hetper, and J. Herzberg" has a comma at the end for entry Chwistek1933a
+while executing---line 1023 of file apalike.bst
+Name 1 in "Leon Chwistek, W. Hetper, and J. Herzberg" has a comma at the end for entry Chwistek1933b
+while executing---line 1023 of file apalike.bst
+Name 1 in "Leon Chwistek, W. Hetper, and J. Herzberg" has a comma at the end for entry Chwistek1933b
+while executing---line 1023 of file apalike.bst
+Warning--empty year in Ajdukiewicz1935b
+Warning--empty publisher in Ajdukiewicz1921a
+Warning--empty publisher in Ajdukiewicz1928b
+Warning--empty publisher in Amodeo1900a
+Warning--empty publisher in Amodeo1910a
+Warning--empty publisher in Aner1909a
+Warning--empty publisher in Arms1917a
+Warning--empty publisher in Garcia1934a
+Warning--empty publisher in Bachmann1934a
+Warning--empty publisher in Bain1870a
+Warning--empty publisher in Baldus1924a
+Warning--empty publisher in Becker1933a
+Warning--empty publisher in Behmann1927a
+Warning--empty publisher in Behrens1918a
+Warning--empty publisher in Bell1927b
+Warning--empty publisher in Bell1930a
+Warning--empty publisher in Bell1931b
+Warning--empty publisher in Bell1935a
+Warning--empty publisher in Bentley1932a
+Warning--empty publisher in BernoulliBernoulli1685a
+Warning--empty journal in Bernstein1914a
+Warning--empty year in Bettazzi1895a
+Warning--empty booktitle in Bettazzi1895a
+Warning--empty publisher in Bettazzi1895a
+Warning--empty publisher in Black1933a
+Warning--empty journal in Blumberg1932a
+Warning--empty publisher in Bochenski1933a
+Warning--empty publisher in Bok1766a
+Warning--empty publisher in Bolzano1837a
+Warning--empty publisher in Boole1847a
+Warning--empty publisher in Boole1854a
+Warning--empty year in Bornstein1914b
+Warning--empty journal in Bornstein1914b
+Warning--empty publisher in Brand1929a
+Warning--empty journal in Brentano1911b
+Warning--empty journal in Brentano1911a
+Warning--empty publisher in Broden1915a
+Warning--empty publisher in Broden1926b
+Warning--empty publisher in Brouwer1912a
+Warning--empty publisher in Brouwer1918a
+Warning--empty publisher in Brunschvicg1912a
+Warning--empty publisher in BuraliForti1894c
+Warning--empty booktitle in BuraliForti1895a
+Warning--empty publisher in BuraliForti1895a
+Warning--empty booktitle in BuraliForti1903a
+Warning--empty publisher in BuraliForti1903a
+Warning--empty publisher in Burkamp1927a
+Warning--empty publisher in Burkamp1932a
+Warning--empty publisher in Burke1931a
+Warning--empty publisher in Busch1768a
+Warning--empty publisher in Carnap1928a
+Warning--empty publisher in Carnap1929a
+Warning--empty publisher in Carnap1933a
+Warning--empty publisher in Carnap1934c
+Warning--empty publisher in Carnap1934b
+Warning--empty publisher in Carnap1935f
+Warning--empty publisher in Carnap1935b
+Warning--empty publisher in Carroll1887a
+Warning--empty publisher in Carroll1897a
+Warning--empty publisher in Chapman1933a
+Warning--empty publisher in Chwistek1935a
+Warning--empty publisher in Cipolla1914a
+Warning--empty publisher in Cohen1934a
+Warning--empty publisher in Couturat1901b
+Warning--empty booktitle in Couturat1902a
+Warning--empty publisher in Couturat1902a
+Warning--empty publisher in Couturat1905e
+Warning--empty publisher in Couturat1905d
+Warning--empty booktitle in Couturat1905a
+Warning--empty publisher in Couturat1905a
+Warning--empty publisher in Couturat1908a
+Warning--empty publisher in Couturat1909a
+Warning--empty booktitle in Couturat1912c
+Warning--empty publisher in Couturat1912c
+Warning--empty publisher in Couturat1912a
+Warning--empty booktitle in Couturat1913a
+Warning--empty publisher in Couturat1913a
+Warning--empty publisher in Couturat1914a
+Warning--empty publisher in Czezowski1918a
+Warning--empty publisher in Czezowski1927a
+Warning--empty publisher in LucasDePeslouan1909a
+Warning--empty publisher in DelRe1907a
+Warning--empty publisher in Delboeuf1865a
+Warning--empty publisher in Dieck1926a
+Warning--empty publisher in Dingler1911a
+Warning--empty publisher in Dingler1931a
+Warning--empty publisher in Dorr1930a
+Warning--empty publisher in Dubislav1926a
+Warning--empty publisher in Dubislav1931b
+Warning--empty publisher in Dubislav1932a
+Warning--empty publisher in Dubislav1933a
+Warning--empty publisher in Eaton1925a
+Warning--empty publisher in Eaton1931a
+Warning--empty publisher in Eklund1916a
+Warning--empty booktitle in Ellis1863a
+Warning--empty publisher in Ellis1863a
+Warning--empty publisher in Enriques1922a
+Warning--empty publisher in Enriques1927a
+Warning--empty publisher in Faggi1898a
+Warning--empty year in Fano1895b
+Warning--empty booktitle in Fano1895b
+Warning--empty publisher in Fano1895b
+Warning--empty publisher in Fischer1933a
+Warning--empty publisher in Fraenkel1919a
+Warning--empty publisher in Fraenkel1923b
+Warning--empty publisher in Fraenkel1927a
+Warning--empty publisher in Frankl1911a
+Warning--empty publisher in Frege1879a
+Warning--empty publisher in Frege1884a
+Warning--empty publisher in Frege1891a
+Warning--empty publisher in Frege1893a
+Warning--empty publisher in Frege1899a
+Warning--empty publisher in Frege1903a
+Warning--empty year in Giudice1895a
+Warning--empty booktitle in Giudice1895a
+Warning--empty publisher in Giudice1895a
+Warning--empty publisher in Gonseth1926a
+Warning--empty publisher in Grassmann1872a
+Warning--empty publisher in Grassmann1890a
+Warning--empty publisher in Grelling1924a
+Warning--empty publisher in Guthrie1914a
+Warning--empty publisher in Godel1934a
+Warning--empty publisher in Hahn1933a
+Warning--empty publisher in Hahn1935a
+Warning--empty year in Harlen1929a
+Warning--empty publisher in Hartshorne1932a
+Warning--empty publisher in Hartshorne1933a
+Warning--empty publisher in Hartshorne1933b
+Warning--empty publisher in Haupt1934a
+Warning--empty publisher in Hessenberg1906a
+Warning--empty publisher in Heyting1934a
+Warning--empty booktitle in Hilbert1902a
+Warning--empty publisher in Hilbert1902a
+Warning--empty booktitle in Hilbert1905a
+Warning--empty publisher in Hilbert1905a
+Warning--empty publisher in HilbertAckermann1928a
+Warning--empty publisher in Hilbert1934a
+Warning--empty publisher in Hillebrand1891a
+Warning--empty publisher in Hirsch1933a
+Warning--empty publisher in Hontheim1895a
+Warning--empty publisher in Hughlings1869a
+Warning--empty publisher in Holder1924a
+Warning--empty publisher in Jaskowski1934a
+Warning--empty publisher in Jevons1864a
+Warning--empty publisher in Jevons1869a
+Warning--empty publisher in Jevons1874a
+Warning--empty publisher in Jevons1880a
+Warning--empty publisher in Johnson1922a
+Warning--empty publisher in Jorgensen1931a
+Warning--empty publisher in Kaila1500a
+Warning--empty publisher in Kaila1926a
+Warning--empty publisher in Kaila1928a
+Warning--empty publisher in Kaufmann1930a
+Warning--empty publisher in Keynes1884a
+Warning--empty publisher in Keyser1922a
+Warning--empty publisher in Kokoszynska1931a
+Warning--empty year in Korselt1905b
+Warning--empty booktitle in Korselt1905b
+Warning--empty publisher in Korselt1905b
+Warning--empty publisher in Korzybski1933a
+Warning--empty publisher in Kotarbinski1929a
+Warning--empty publisher in Kvet1857a
+Warning--empty publisher in Konig1914a
+Warning--empty publisher in Lambert1764b
+Warning--empty publisher in Lambert1771a
+Warning--empty publisher in Lambert1781a
+Warning--empty publisher in MacLane1934a
+Warning--empty journal in Lebesgue1905a
+Name 1 in "Leon Chwistek, W. Hetper, and J. Herzberg" has a comma at the end for entry Chwistek1933a
+while executing---line 1098 of file apalike.bst
+Name 1 in "Leon Chwistek, W. Hetper, and J. Herzberg" has a comma at the end for entry Chwistek1933b
+while executing---line 1098 of file apalike.bst
+Warning--empty publisher in Lesniewski1913b
+Warning--empty publisher in Lesniewski1913a
+Warning--empty publisher in Lesniewski1916a
+Warning--empty publisher in Lewis1918a
+Warning--empty publisher in Liard1878a
+Warning--empty publisher in Liard1883a
+Warning--empty publisher in Luquet1925a
+Warning--empty publisher in MacColl1906a
+Warning--empty publisher in Macfarlane1879a
+Warning--empty publisher in Maimon1794a
+Warning--empty publisher in Mally1912a
+Warning--empty publisher in Mannoury1903a
+Warning--empty publisher in Mannoury1909a
+Warning--empty publisher in DeMorgan1847a
+Warning--empty publisher in DeMorgan1860a
+Warning--empty publisher in Mosso1924a
+Warning--empty publisher in Murphy1875a
+Warning--empty journal in Moller1900a
+Warning--empty journal in Moller1901a
+Warning--empty booktitle in Moller1909a
+Warning--empty publisher in Moller1909a
+Warning--empty publisher in Nagy1892a
+Warning--empty publisher in Nagy1894b
+Warning--empty publisher in Natorp1910a
+Warning--empty publisher in Padoa1898a
+Warning--empty publisher in Padoa1909a
+Warning--empty publisher in Padoa1900a
+Warning--empty booktitle in Padoa1908a
+Warning--empty publisher in Padoa1908a
+Warning--empty booktitle in Padoa1930a
+Warning--empty publisher in Padoa1930a
+Warning--empty publisher in Peano1888a
+Warning--empty publisher in Peano1889a
+Warning--empty publisher in Peano1889b
+Warning--empty publisher in Peano1894d
+Warning--empty publisher in Peano1895c
+Warning--empty publisher in Peano1897a
+Warning--empty publisher in Peano1898a
+Warning--empty publisher in Peano1899c
+Warning--empty publisher in Peano1899a
+Warning--empty publisher in Peano1899b
+Warning--empty publisher in Peano1901a
+Warning--empty publisher in Peano1902a
+Warning--empty publisher in Peano1902b
+Warning--empty publisher in Peano1905a
+Warning--empty publisher in Peirce1882a
+Warning--empty booktitle in Peirce1883a
+Warning--empty publisher in Peirce1883a
+Warning--empty journal in Peirce1897a
+Warning--empty booktitle in Peirce1903a
+Warning--empty publisher in Peirce1903a
+Warning--empty publisher in Pieri1907a
+Warning--empty publisher in Pigtkiewicz1888a
+Warning--empty publisher in Ploucquet1759a
+Warning--empty publisher in Ploucquet1763a
+Warning--empty publisher in Ploucquet1763b
+Warning--empty publisher in Ploucquet1765a
+Warning--empty publisher in Ploucquet1766a
+Warning--empty booktitle in Ploucquet1772a
+Warning--empty publisher in Ploucquet1772a
+Warning--empty publisher in Poincare1908a
+Warning--empty publisher in Poincare1910a
+Warning--empty publisher in Poincare1913b
+Warning--empty publisher in Poincare1913a
+Warning--empty publisher in Poincare1913c
+Warning--empty publisher in Poincare1914b
+Warning--empty publisher in Poincare1914a
+Warning--empty publisher in Pokorny1878a
+Warning--empty publisher in Peter1932a
+Warning--empty publisher in Quine1934a
+Warning--empty publisher in Kortmulder1916a
+Warning--empty publisher in Reichenbach1935a
+Warning--empty publisher in Reymond1908a
+Warning--empty publisher in Reymond1922a
+Warning--empty publisher in Russell1903a
+Warning--empty publisher in Russell1914a
+Warning--empty publisher in Russell1919a
+Warning--empty publisher in Russell1923a
+Warning--empty publisher in Russell1926a
+Warning--empty publisher in Russell1928a
+Warning--empty publisher in Saarnio1935a
+Warning--empty publisher in Salamucha1930a
+Warning--empty publisher in Scheffler1880a
+Warning--empty publisher in Schlotel1876a
+Warning--empty publisher in Schmidt1929a
+Warning--empty publisher in Schoenflies1913a
+Warning--empty publisher in Scholz1931a
+Warning--empty publisher in Scholz1933a
+Warning--empty publisher in Schroder1877a
+Warning--empty publisher in Schroder1890a
+Warning--empty publisher in Schroder1890c
+Warning--empty publisher in Schroder1891a
+Warning--empty publisher in Schroder1895a
+Warning--empty publisher in Schroder1905a
+Warning--empty publisher in Schroder1909a
+Warning--empty publisher in Schroder1910a
+Warning--empty publisher in Shaw1918a
+Warning--empty publisher in Shearman1906a
+Warning--empty publisher in Shearman1911a
+Warning--empty publisher in Sleszynski1925a
+Warning--empty publisher in Smart1925a
+Warning--empty publisher in Smith1917a
+Warning--empty publisher in Smith1919a
+Warning--empty publisher in Smith1920a
+Warning--empty publisher in Smith1922b
+Warning--empty publisher in Smith1922a
+Warning--empty publisher in Smith1927a
+Warning--empty publisher in Smith1932d
+Warning--empty publisher in Smith1933a
+Warning--empty publisher in Sobocinski1934a
+Warning--empty publisher in Solly1839a
+Warning--empty publisher in Stammler1928a
+Warning--empty publisher in Stebbing1931a
+Warning--empty publisher in Tarski1933b
+Warning--empty publisher in Tonnies1752a
+Warning--empty publisher in Turner1928a
+Warning--empty publisher in Holland1764a
+Warning--empty publisher in Leibniz1666a
+Warning--empty publisher in Segner1740a
+Warning--empty publisher in Wolff1732a
+Warning--empty publisher in Venn1881a
+Warning--empty year in Vivanti1895a
+Warning--empty booktitle in Vivanti1895a
+Warning--empty publisher in Vivanti1895a
+Warning--empty publisher in Vivanti1894b
+Warning--empty publisher in Voigt1890a
+Warning--empty publisher in Volkov1888a
+Warning--empty publisher in Voss1914a
+Warning--empty publisher in Vredenduin1931a
+Warning--empty year in Waismann1928b
+Warning--empty publisher in Waismann1928b
+Warning--empty publisher in Weyl1918a
+Warning--empty publisher in Weyl1926a
+Warning--empty publisher in Weyl1926b
+Warning--empty publisher in Weyl1931a
+Warning--empty booktitle in Whitehead1898a
+Warning--empty publisher in Whitehead1898a
+Warning--empty booktitle in Whitehead1929a
+Warning--empty publisher in Whitehead1929a
+Warning--empty publisher in Whitehead1910a
+Warning--empty publisher in Whitehead1912a
+Warning--empty publisher in Whitehead1913a
+Warning--empty publisher in Whitehead1932a
+Warning--empty publisher in Wiesner1914a
+Warning--empty publisher in Wittgenstein1922a
+Warning--empty publisher in Wolf1905a
+Warning--empty publisher in Wundt1880a
+Warning--empty publisher in Wasche1926a
+Warning--empty publisher in Yule1911a
+Warning--empty publisher in Zaremba1926a
+Warning--empty publisher in Ziehen1917a
+Warning--empty publisher in Ziehen1920a
+Warning--empty journal in Borel1905b
+Warning--empty publisher in Meyerson1931a
+Warning--empty publisher in Lukasiewicz1910b
+Warning--empty publisher in Lukasiewicz1929a
+(There were 12 error messages)
