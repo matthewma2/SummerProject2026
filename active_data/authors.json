@@ -1227,7 +1227,7 @@
     ]
   },
   {
-    "id": "d-a-martin",
+    "id": "donald-a-martin",
     "full_name": "Donald A. Martin",
     "alternative_names": [
       "Martin"
@@ -1276,7 +1276,7 @@
     ]
   },
   {
-    "id": "d-scott",
+    "id": "dana-scott",
     "full_name": "Dana Scott",
     "alternative_names": [
       "Scott"
@@ -2113,7 +2113,7 @@
     ]
   },
   {
-    "id": "g-d-w-berry",
+    "id": "george-d-w-berry",
     "full_name": "George D. W. Berry",
     "alternative_names": [
       "Berry"
@@ -2171,7 +2171,7 @@
     ]
   },
   {
-    "id": "g-hasenjaeger",
+    "id": "gisbert-hasenjaeger",
     "full_name": "Gisbert Hasenjaeger",
     "alternative_names": [
       "Hasenjaeger"
@@ -2586,7 +2586,7 @@
     ]
   },
   {
-    "id": "h-hiz",
+    "id": "henryk-hiz",
     "full_name": "Henryk Hiż",
     "alternative_names": [
       "Hiż",
@@ -3006,14 +3006,6 @@
     ]
   },
   {
-    "id": "i-l-gl",
-    "full_name": "I. L. Gál",
-    "alternative_names": [
-      "Gál",
-      "Gal"
-    ]
-  },
-  {
     "id": "i-m-bochenski",
     "full_name": "I. M. Bocheński",
     "alternative_names": [
@@ -3296,7 +3288,7 @@
     ]
   },
   {
-    "id": "j-r-shoenfield",
+    "id": "joseph-r-shoenfield",
     "full_name": "Joseph R. Shoenfield",
     "alternative_names": [
       "Shoenfield"
@@ -4118,7 +4110,7 @@
     ]
   },
   {
-    "id": "kurt-schtte",
+    "id": "kurt-schutte",
     "full_name": "Kurt Schütte",
     "alternative_names": [
       "Schütte",
@@ -4140,18 +4132,14 @@
     ]
   },
   {
-    "id": "l-feiner",
-    "full_name": "L. Feiner",
-    "alternative_names": [
-      "Feiner"
-    ]
-  },
-  {
-    "id": "l-gl",
+    "id": "l-novak-gal",
     "full_name": "L. Novak Gál",
     "alternative_names": [
       "Gál",
-      "Gal"
+      "Gal",
+      "István Sándor Gál",
+      "Steven Alexander Gaal",
+      "I. L. Gál"
     ]
   },
   {
@@ -4376,13 +4364,6 @@
     ]
   },
   {
-    "id": "louise-hay",
-    "full_name": "Louise Hay",
-    "alternative_names": [
-      "Hay"
-    ]
-  },
-  {
     "id": "louise-schmir-hay",
     "full_name": "Louise Schmir Hay",
     "alternative_names": [
@@ -4426,14 +4407,7 @@
     ]
   },
   {
-    "id": "m-a-e-dummett",
-    "full_name": "Michael Anthony Eardley Dummett",
-    "alternative_names": [
-      "Dummett"
-    ]
-  },
-  {
-    "id": "m-b-pour-el",
+    "id": "marian-b-pour-el",
     "full_name": "Marian Boykan Pour-el",
     "alternative_names": [
       "Pour-el"
@@ -4468,7 +4442,7 @@
     ]
   },
   {
-    "id": "m-h-lb",
+    "id": "martin-h-lob",
     "full_name": "Martin Hugo Löb",
     "alternative_names": [
       "Löb",
@@ -4729,7 +4703,7 @@
   },
   {
     "id": "michael-dummett",
-    "full_name": "Michael Dummett",
+    "full_name": "Michael Anthony Eardley Dummett",
     "alternative_names": [
       "Dummett"
     ]
@@ -4870,13 +4844,6 @@
     ]
   },
   {
-    "id": "n-z-shapiro",
-    "full_name": "Norman Z. Shapiro",
-    "alternative_names": [
-      "Shapiro"
-    ]
-  },
-  {
     "id": "nathan-p-levin",
     "full_name": "Nathan P. Levin",
     "alternative_names": [
@@ -4934,7 +4901,7 @@
   },
   {
     "id": "norman-shapiro",
-    "full_name": "Norman Shapiro",
+    "full_name": "Norman Z. Shapiro",
     "alternative_names": [
       "Shapiro"
     ]
@@ -5089,7 +5056,7 @@
     ]
   },
   {
-    "id": "p-lorenzen",
+    "id": "paul-lorenzen",
     "full_name": "Paul Lorenzen",
     "alternative_names": [
       "Lorenzen"
@@ -5431,13 +5398,6 @@
     ]
   },
   {
-    "id": "r-harrop",
-    "full_name": "R. Harrop",
-    "alternative_names": [
-      "Harrop"
-    ]
-  },
-  {
     "id": "r-ingarden",
     "full_name": "R. Ingarden",
     "alternative_names": [
@@ -5452,7 +5412,7 @@
     ]
   },
   {
-    "id": "r-k-meyer",
+    "id": "robert-k-meyer",
     "full_name": "Robert K. Meyer",
     "alternative_names": [
       "Meyer"
@@ -5477,13 +5437,6 @@
     "full_name": "Ronald Lewis Graham",
     "alternative_names": [
       "Graham"
-    ]
-  },
-  {
-    "id": "r-l-vaught",
-    "full_name": "Robert Lee Vaught",
-    "alternative_names": [
-      "Vaught"
     ]
   },
   {
@@ -5512,13 +5465,6 @@
     "full_name": "R. Mitchell",
     "alternative_names": [
       "Mitchell"
-    ]
-  },
-  {
-    "id": "r-o-gandy",
-    "full_name": "Robin Oliver Gandy",
-    "alternative_names": [
-      "Gandy"
     ]
   },
   {
@@ -5639,13 +5585,6 @@
     "full_name": "Richard Baldus",
     "alternative_names": [
       "Baldus"
-    ]
-  },
-  {
-    "id": "richard-friedberg",
-    "full_name": "Richard Friedberg",
-    "alternative_names": [
-      "Friedberg"
     ]
   },
   {
@@ -5785,7 +5724,7 @@
   },
   {
     "id": "robin-o-gandy",
-    "full_name": "Robin O. Gandy",
+    "full_name": "Robin Oliver Gandy",
     "alternative_names": [
       "Gandy"
     ]
@@ -5914,8 +5853,9 @@
   },
   {
     "id": "s-k-zaremba",
-    "full_name": "S. K. Zaremba",
+    "full_name": "Stanisław Krystyn Zaremba",
     "alternative_names": [
+      "S. K. Zaremba",
       "Zaremba"
     ]
   },
@@ -6445,7 +6385,7 @@
     ]
   },
   {
-    "id": "w-craig",
+    "id": "william-craig",
     "full_name": "William Craig",
     "alternative_names": [
       "Craig"
@@ -6473,8 +6413,8 @@
     ]
   },
   {
-    "id": "w-e-singletary",
-    "full_name": "William E. Singletary",
+    "id": "wilson-e-singletary",
+    "full_name": "Wilson E. Singletary",
     "alternative_names": [
       "Singletary"
     ]
@@ -6699,7 +6639,7 @@
     ]
   },
   {
-    "id": "william-tuthill-parry",
+    "id": "william-t-parry",
     "full_name": "William Tuthill Parry",
     "alternative_names": [
       "Parry"

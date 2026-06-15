@@ -23448,7 +23448,7 @@
     "id": "Parry1933a",
     "title": "Ein Axiomensystem für eine neue Art von Implikation (analytische Implikation)",
     "authors": [
-      "william-tuthill-parry"
+      "william-t-parry"
     ],
     "year": 1933,
     "type": "article",
@@ -23460,7 +23460,7 @@
     "id": "Parry1933b",
     "title": "Zum Lewisschen Aussagenkalkül",
     "authors": [
-      "william-tuthill-parry"
+      "william-t-parry"
     ],
     "year": 1933,
     "type": "article",
@@ -23472,7 +23472,7 @@
     "id": "Parry1933c",
     "title": "Implication",
     "authors": [
-      "william-tuthill-parry"
+      "william-t-parry"
     ],
     "year": 1933,
     "type": "article",
@@ -23638,7 +23638,7 @@
     "id": "Schutte1933a",
     "title": "Über einen Teilbereich des Aussagenkalküls",
     "authors": [
-      "kurt-schtte"
+      "kurt-schutte"
     ],
     "year": 1933,
     "type": "article",
@@ -23651,7 +23651,7 @@
     "id": "Schutte1933b",
     "title": "Untersuchungen zum Entscheidungsproblem der mathematischen Logik",
     "authors": [
-      "kurt-schtte"
+      "kurt-schutte"
     ],
     "year": 1933,
     "type": "article",
@@ -25010,7 +25010,7 @@
     "id": "Parry1934a",
     "title": "The postulates for \"strict implication\"",
     "authors": [
-      "william-tuthill-parry"
+      "william-t-parry"
     ],
     "year": 1934,
     "type": "article",
@@ -25165,7 +25165,7 @@
     "id": "Schutte1934a",
     "title": "Über die Erfüllbarkeit einer Klasse von logischen Formeln",
     "authors": [
-      "kurt-schtte"
+      "kurt-schutte"
     ],
     "year": 1934,
     "type": "article",
@@ -27155,7 +27155,7 @@
     "id": "Curry1937a",
     "title": "On the Use of Dots as Brackets in Logical Expressions",
     "authors": [
-      "h-b-curry"
+      "haskell-b-curry"
     ],
     "year": 1937,
     "type": "article",
@@ -27632,7 +27632,7 @@
     "id": "Parry1939a",
     "title": "Modalities in the Survey System of Strict Implication",
     "authors": [
-      "william-tuthill-parry"
+      "william-t-parry"
     ],
     "year": 1939,
     "type": "article",
@@ -28484,7 +28484,7 @@
     "id": "MckinseyParry1942a",
     "title": "Book Review : A Solution of the Decision Problem for the Lewis Systems S2 and S4, With an Application to Topology",
     "authors": [
-      "w-t-parry",
+      "william-t-parry",
       "j-c-c-mckinsey"
     ],
     "year": 1942,
@@ -28797,7 +28797,7 @@
     "id": "BerryChurch1945a",
     "title": "Book Review : \n        Introduction to Mathematical Logic. Part I\n        \n          Alonzo\n          Church\n        \n",
     "authors": [
-      "g-d-w-berry",
+      "george-d-w-berry",
       "alonzo-church"
     ],
     "year": 1945,
@@ -29002,7 +29002,7 @@
     "title": "Axiom Schemes for M-Valued Propositional Calculi",
     "authors": [
       "j-barkley-rosser",
-      "a-r-turquette"
+      "atwell-r-turquette"
     ],
     "year": 1945,
     "type": "article",
@@ -29412,7 +29412,7 @@
     "title": "Axiom Schemes for M-Valued Functional Calculi of First Order: Part I. Definition of Axiom Schemes and Proof of Plausibility",
     "authors": [
       "j-barkley-rosser",
-      "a-r-turquette"
+      "atwell-r-turquette"
     ],
     "year": 1948,
     "type": "article",
@@ -30002,7 +30002,7 @@
     "title": "A Note on the Deductive Completeness of M-Valued Propositional Calculi",
     "authors": [
       "j-barkley-rosser",
-      "a-r-turquette"
+      "atwell-r-turquette"
     ],
     "year": 1950,
     "type": "article",
@@ -30285,7 +30285,7 @@
     "title": "Axiom Schemes for M-Valued Functional Calculi of First Order: Part II. Deductive Completeness",
     "authors": [
       "j-barkley-rosser",
-      "a-r-turquette"
+      "atwell-r-turquette"
     ],
     "year": 1951,
     "type": "article",
@@ -30427,7 +30427,7 @@
     "id": "Hasenjaeger1952a",
     "title": "Über ω-Unvollständigkeit in der Peano-Arithmetik",
     "authors": [
-      "g-hasenjaeger"
+      "gisbert-hasenjaeger"
     ],
     "year": 1952,
     "type": "article",
@@ -30737,7 +30737,7 @@
     "id": "Hasenjaeger1953a",
     "title": "Eine Bemerkung zu Henkin's Beweis für die Vollständigkeit des Prädikatenkalküls der Ersten Stufe",
     "authors": [
-      "g-hasenjaeger"
+      "gisbert-hasenjaeger"
     ],
     "year": 1953,
     "type": "article",
@@ -30807,7 +30807,7 @@
     "id": "Lb1953a",
     "title": "Concatenation as Basis for a Complete System of Arithmetic",
     "authors": [
-      "m-h-lb"
+      "martin-h-lob"
     ],
     "year": 1953,
     "type": "article",
@@ -31003,7 +31003,7 @@
     "id": "Stanley1953a",
     "title": "An Extended Procedure in Quantificational Logic",
     "authors": [
-      "robert-stanley"
+      "robert-l-stanley"
     ],
     "year": 1953,
     "type": "article",
@@ -31255,7 +31255,7 @@
     "id": "Parry1954a",
     "title": "A New Symbolism for the Propositional Calculus",
     "authors": [
-      "william-tuthill-parry"
+      "william-t-parry"
     ],
     "year": 1954,
     "type": "article",
@@ -31480,7 +31480,7 @@
     "id": "Lob1955a",
     "title": "Solution of a Problem of Leon Henkin",
     "authors": [
-      "m-h-lob"
+      "martin-h-lob"
     ],
     "year": 1955,
     "type": "article",
@@ -31719,7 +31719,7 @@
     "id": "Berry1956a",
     "title": "Twentieth Meeting of the Association for Symbolic Logic",
     "authors": [
-      "g-d-w-berry"
+      "george-d-w-berry"
     ],
     "year": 1956,
     "type": "article",
@@ -31804,7 +31804,7 @@
     "id": "Gandy1956a",
     "title": "On the Axiom of Extensionality--Part I",
     "authors": [
-      "r-o-gandy"
+      "robin-o-gandy"
     ],
     "year": 1956,
     "type": "article",
@@ -31889,7 +31889,7 @@
     "id": "Lb1956a",
     "title": "Formal Systems of Constructive Mathematics",
     "authors": [
-      "m-h-lb"
+      "martin-h-lob"
     ],
     "year": 1956,
     "type": "article",
@@ -32241,7 +32241,7 @@
     "title": "Uniformization of Linear Arrays",
     "authors": [
       "n-j-fine",
-      "r-harrop"
+      "ronald-harrop"
     ],
     "year": 1957,
     "type": "article",
@@ -32269,7 +32269,7 @@
     "id": "Friedberg1957a",
     "title": "A Criterion for Completeness of Degrees of Unsolvability",
     "authors": [
-      "richard-friedberg"
+      "richard-m-friedberg"
     ],
     "year": 1957,
     "type": "article",
@@ -32297,7 +32297,7 @@
     "id": "Gl1957a",
     "title": "Twenty-First Annual Meeting of the Association for Symbolic Logic",
     "authors": [
-      "l-novak-gl"
+      "l-novak-gal"
     ],
     "year": 1957,
     "type": "article",
@@ -32353,7 +32353,7 @@
     "id": "Hi1957a",
     "title": "Inferential Equivalence and Natural Deduction",
     "authors": [
-      "h-hi"
+      "henryk-hiz"
     ],
     "year": 1957,
     "type": "article",
@@ -32410,7 +32410,7 @@
     "title": "On the Representation of Herbrand Functions in Algebraically Closed Fields",
     "authors": [
       "a-h-lightstone",
-      "a-robinson"
+      "abraham-robinson"
     ],
     "year": 1957,
     "type": "article",
@@ -32524,8 +32524,8 @@
     "id": "CraigVaught1958a",
     "title": "Finite Axiomatizability Using Additional Predicates",
     "authors": [
-      "w-craig",
-      "r-l-vaught"
+      "william-craig",
+      "robert-l-vaught"
     ],
     "year": 1958,
     "type": "article",
@@ -32611,7 +32611,7 @@
     "id": "Gl1958a",
     "title": "A Note on Direct Products",
     "authors": [
-      "l-novak-gl"
+      "l-novak-gal"
     ],
     "year": 1958,
     "type": "article",
@@ -32625,9 +32625,9 @@
     "id": "GlRosserScott1958a",
     "title": "Generalization of a Lemma of G. F. Rose",
     "authors": [
-      "i-l-gl",
+      "l-novak-gal",
       "j-barkley-rosser",
-      "d-scott"
+      "dana-scott"
     ],
     "year": 1958,
     "type": "article",
@@ -32656,7 +32656,7 @@
     "title": "The Classical and the ω-Complete Arithmetic",
     "authors": [
       "a-grzegorczyk",
-      "a-mostowski",
+      "andrzej-mostowski",
       "c-ryll-nardzewski"
     ],
     "year": 1958,
@@ -32741,7 +32741,7 @@
     "id": "Lorenzen1958a",
     "title": "Logical Reflection and Formalism",
     "authors": [
-      "p-lorenzen"
+      "paul-lorenzen"
     ],
     "year": 1958,
     "type": "article",
@@ -32882,7 +32882,7 @@
     "id": "Shoenfield1958a",
     "title": "Degrees of Formal Systems",
     "authors": [
-      "j-r-shoenfield"
+      "joseph-r-shoenfield"
     ],
     "year": 1958,
     "type": "article",
@@ -32896,7 +32896,7 @@
     "id": "Shoenfield1958b",
     "title": "Open Sentences and the Induction Axiom",
     "authors": [
-      "j-r-shoenfield"
+      "joseph-r-shoenfield"
     ],
     "year": 1958,
     "type": "article",
@@ -33067,7 +33067,7 @@
     "id": "Gandy1959a",
     "title": "On the Axiom of Extensionality, Part II",
     "authors": [
-      "r-o-gandy"
+      "robin-o-gandy"
     ],
     "year": 1959,
     "type": "article",
@@ -33081,7 +33081,7 @@
     "id": "Hiz1959a",
     "title": "Extendible Sentential Calculus",
     "authors": [
-      "h-hiz"
+      "henryk-hiz"
     ],
     "year": 1959,
     "type": "article",
@@ -33109,8 +33109,8 @@
     "id": "LorenzenMyhill1959a",
     "title": "Constructive Definition of Certain Analytic Sets of Numbers",
     "authors": [
-      "p-lorenzen",
-      "j-myhill"
+      "paul-lorenzen",
+      "john-r-myhill"
     ],
     "year": 1959,
     "type": "article",
@@ -33461,7 +33461,7 @@
     "id": "Schtte1960a",
     "title": "Syntactical and Semantical Properties of Simple Type Theory",
     "authors": [
-      "kurt-schtte"
+      "kurt-schutte"
     ],
     "year": 1960,
     "type": "article",
@@ -33475,7 +33475,7 @@
     "id": "Shoenfield1960a",
     "title": "Degrees of Models",
     "authors": [
-      "j-r-shoenfield"
+      "joseph-r-shoenfield"
     ],
     "year": 1960,
     "type": "article",
@@ -33517,7 +33517,7 @@
     "id": "Vaught1960a",
     "title": "Sentences True in All Constructive Models",
     "authors": [
-      "r-l-vaught"
+      "robert-l-vaught"
     ],
     "year": 1960,
     "type": "article",
@@ -33660,8 +33660,8 @@
     "id": "FefermanSpector1962a",
     "title": "Incompleteness Along Paths in Progressions of Theories",
     "authors": [
-      "s-feferman",
-      "c-spector"
+      "solomon-feferman",
+      "clifford-spector"
     ],
     "year": 1962,
     "type": "article",
@@ -33759,7 +33759,7 @@
     "id": "Lb1962a",
     "title": "Meeting of the Association for Symbolic Logic, Leeds 1962",
     "authors": [
-      "m-h-lb"
+      "martin-h-lob"
     ],
     "year": 1962,
     "type": "article",
@@ -33971,8 +33971,8 @@
     "title": "Meeting of the Association for Symbolic Logic",
     "authors": [
       "e-j-lemmon",
-      "m-a-e-dummett",
-      "j-n-crossley"
+      "michael-dummett",
+      "john-n-crossley"
     ],
     "year": 1963,
     "type": "article",
@@ -34709,7 +34709,7 @@
     "id": "Parry1965a",
     "title": "Comments on a Variant Form of Natural Deduction",
     "authors": [
-      "william-tuthill-parry"
+      "william-t-parry"
     ],
     "year": 1965,
     "type": "article",
@@ -34920,7 +34920,7 @@
     "id": "Crossley1966b",
     "title": "Meeting of the Association for Symbolic Logic",
     "authors": [
-      "j-n-crossley"
+      "john-n-crossley"
     ],
     "year": 1966,
     "type": "article",
@@ -35147,7 +35147,7 @@
     "id": "Lb1966a",
     "title": "Extensional Interpretations of Modal Logics",
     "authors": [
-      "m-h-lb"
+      "martin-h-lob"
     ],
     "year": 1966,
     "type": "article",
@@ -35246,7 +35246,7 @@
     "title": "Pure Three-Valued Łukasiewiczian Implication",
     "authors": [
       "storrs-mccall",
-      "r-k-meyer"
+      "robert-k-meyer"
     ],
     "year": 1966,
     "type": "article",
@@ -35289,7 +35289,7 @@
     "id": "Meyer1966a",
     "title": "Pure Denumerable Łukasiewiczian Implication",
     "authors": [
-      "r-k-meyer"
+      "robert-k-meyer"
     ],
     "year": 1966,
     "type": "article",
@@ -35345,7 +35345,7 @@
     "id": "Shoenfield1966a",
     "title": "A Theorem on Minimal Degrees",
     "authors": [
-      "j-r-shoenfield"
+      "joseph-r-shoenfield"
     ],
     "year": 1966,
     "type": "article",
@@ -35542,7 +35542,7 @@
     "title": "Meeting of the Association for Symbolic Logic",
     "authors": [
       "arnold-schmidt",
-      "k-schtte",
+      "kurt-schutte",
       "e-j-thiele",
       "m-j-cresswell"
     ],
@@ -35740,8 +35740,8 @@
     "id": "LeblancThomason1967a",
     "title": "All or None: A Novel Choice of Primitives for Elementary Logic",
     "authors": [
-      "r-h-thomason",
-      "h-leblanc"
+      "richmond-h-thomason",
+      "hugues-leblanc"
     ],
     "year": 1967,
     "type": "article",
@@ -35784,7 +35784,7 @@
     "title": "Meeting of the Association for Symbolic Logic",
     "authors": [
       "j-a-robinson",
-      "n-m-martin"
+      "norman-m-martin"
     ],
     "year": 1967,
     "type": "article",
@@ -35938,7 +35938,7 @@
     "id": "Singletary1967a",
     "title": "A Note on Finite Axiomatization of Partial Propositional Calculi",
     "authors": [
-      "w-e-singletary"
+      "wilson-e-singletary"
     ],
     "year": 1967,
     "type": "article",
@@ -36136,7 +36136,7 @@
     "id": "DerrickDrakeLb1968a",
     "title": "Meeting of the Association for Symbolic Logic Leeds 1967",
     "authors": [
-      "m-h-lb",
+      "martin-h-lob",
       "f-r-drake",
       "j-derrick"
     ],
@@ -36181,7 +36181,7 @@
     "id": "El1968a",
     "title": "Effectively Extensible Theories",
     "authors": [
-      "marian-boykan-pour-el"
+      "marian-b-pour-el"
     ],
     "year": 1968,
     "type": "article",
@@ -36774,7 +36774,7 @@
     "id": "BlikleMostowski1969a",
     "title": "Meeting of the Association for Symbolic Logic Warsaw 1968",
     "authors": [
-      "a-mostowski",
+      "andrzej-mostowski",
       "a-blikle"
     ],
     "year": 1969,
@@ -37043,7 +37043,7 @@
     "id": "Hay1969a",
     "title": "Index Sets of Finite Classes of Recursively Enumerable Sets",
     "authors": [
-      "louise-hay"
+      "louise-schmir-hay"
     ],
     "year": 1969,
     "type": "article",
@@ -37099,7 +37099,7 @@
     "id": "Hindley1969a",
     "title": "An Abstract Form of the Church-Rosser Theorem. I",
     "authors": [
-      "r-hindley"
+      "roger-hindley"
     ],
     "year": 1969,
     "type": "article",
@@ -37422,7 +37422,7 @@
     "id": "Shapiro1969a",
     "title": "Real Numbers and Functions in the Kleene Hierarchy and Limits of Recursive, Rational Functions",
     "authors": [
-      "n-z-shapiro"
+      "norman-shapiro"
     ],
     "year": 1969,
     "type": "article",
@@ -37537,8 +37537,8 @@
     "id": "ElMartin1970a",
     "title": "Axiomatizable Theories with Few Axiomatizable Extensions",
     "authors": [
-      "d-a-martin",
-      "m-b-pour-el"
+      "donald-a-martin",
+      "marian-b-pour-el"
     ],
     "year": 1970,
     "type": "article",
@@ -37596,8 +37596,8 @@
     "title": "Meeting of the Association for Symbolic Logic",
     "authors": [
       "james-k-feibleman",
-      "r-m-smullyan",
-      "r-l-vaught"
+      "raymond-m-smullyan",
+      "robert-l-vaught"
     ],
     "year": 1970,
     "type": "article",
@@ -37625,7 +37625,7 @@
     "id": "Feiner1970b",
     "title": "The Strong Homogeneity Conjecture",
     "authors": [
-      "l-feiner"
+      "lawrence-feiner"
     ],
     "year": 1970,
     "type": "article",
@@ -37696,7 +37696,7 @@
     "id": "GandyYates1970a",
     "title": "Meeting of the Association for Symbolic Logic Manchester 1969",
     "authors": [
-      "r-o-gandy",
+      "robin-o-gandy",
       "c-e-m-yates"
     ],
     "year": 1970,
@@ -37781,7 +37781,7 @@
     "id": "Lb1970a",
     "title": "A Model Theoretic Characterization of Effective Operations",
     "authors": [
-      "m-h-lb"
+      "martin-h-lob"
     ],
     "year": 1970,
     "type": "article",
@@ -37823,7 +37823,7 @@
     "id": "Madison1970a",
     "title": "A Note on Computable Real Fields",
     "authors": [
-      "e-w-madison"
+      "eugene-w-madison"
     ],
     "year": 1970,
     "type": "article",
