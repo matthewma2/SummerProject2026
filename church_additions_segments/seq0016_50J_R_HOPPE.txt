@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 50J ===
+Name  : R. HOPPE
+Flags : none
+Lines : 158–162
+========================================
+
+50J. R. HOPPE.
+                  1. Review of Frege's Begriffsschrift. Archiv der Mathemalik und Physik, vol. 63
+             (1879), Litterarischer Bericht CCLII, pp. 44-45.
+                  2. Review of Dedekind's Was sind und was sollen die Zahlen? (1st. edn.). Ibid.,
+             2 s. vol. 7 (1889), Litterarischer Bericht XXVII, pp. 29-33.

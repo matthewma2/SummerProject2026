@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 150J ===
+Name  : G. COMBEBIAC
+Flags : none
+Lines : 312–313
+========================================
+
+150J. G. COMBEBIAC. 1. Sur les elements de la theorie des ensembles ordonnes. L'En-
+             seignement mathematique, vol. 8 (1906), pp. 201-203.

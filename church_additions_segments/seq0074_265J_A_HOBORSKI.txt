@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 265J ===
+Name  : A. HOBORSKI
+Flags : none
+Lines : 452–456
+========================================
+
+265J. A. HOBORSKI.
+                 1. Charakterystyka teoryj dedukcyjnych (Characteristics of deductive theories).
+             Wiadomosci matemctyczne, vol. 22 (1918), pp. 131-153.^
+                 2. Jan Sleszyhski (Wspomnienie poimiertne) (Jan Sleszynski (Obituary notice)).
+             Ibid., vol. 36 (1934), pp. 71-76.

@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 382 ===
+Name  : JACQUES HERBRAND
+Flags : none
+Lines : 598–599
+========================================
+
+382. JACQUES HERBRAND. 7.1. Recherches sur la thiorie de la demonstration. An-
+             nales de VVniversiti de Paris, vol. 6 (1931), pp. 186-189.

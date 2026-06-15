@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 282J ===
+Name  : STANISLAW KACZOROWSKI
+Flags : none
+Lines : 501–503
+========================================
+
+282J. STANISLAW KACZOROWSKI. 1. O niektdrych warunkach stosowalnoici indukcji
+             matematycznej (On several conditions of applicability of mathematical induction).
+             Przeglad filozoficzny, vol. 23 (1921), pp. 127-139.

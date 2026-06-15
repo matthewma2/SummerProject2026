@@ -1,0 +1,35 @@
+=== AUTHOR BLOCK 548 ===
+Name  : ANONYMOUS
+Flags : none
+Lines : 804–838
+========================================
+
+548.     ANONYMOUS.
+                    1. Recent extensions of formal logic. A review of De Morgan's Formal logic and
+               On the symbols of logic, Thompson's Outline of the necessary laws of thought, and
+               Baynes's Essay on the new analytic of logical forms. The North British review, vol. 15
+               (1851); American edition vol. 10 (1851), pp. 47-63.
+                    2. Review of Volkov's Logiceskoe iscislenie. Russkaa mysl', vol. 9 no. 12 (Dec.
+               1888), pp. 585-586.
+                    3. The realm of pure thought. A review of Russell's The principles of mathematics.
+               The spectator (London), vol. 91 (1903), pp. 491-492.
+                    4. Review of Couturat's L'algebre de la logique. Revue de metaphysique et de
+               morale, Supplement, July 1905, pp. 4,-5.
+                    5. Review of Shearman's The development of symbolic logic. Ibid., Supplement,
+               July 1906, pp. 9-10.
+
+
+
+              6. The foundations of mathematics. A review of Whitehead and Russell's Prin-
+         cipia malhematica, vol. 1. The spectator, vol. 107 (1911), pp. 142-143.
+              7. Review of the same. The limes (London), Literary supplement, vol. 10 (1911),
+         pp. 321-322.
+              8. Review of Russell's Introduction to mathematical philosophy. Ibid., vol. 18
+         (1919), p. 345.
+              9. Review of Wittgenstein's Tractatus logico-philosophicus. Ibid., vol. 21 (1922),
+         p. 854.
+              10. Review of Stebbing's A modern introduction to logic. Ibid., vol. 30 (1931),
+         p. 133.
+              11. Review of Ramsey's The foundations of mathematics and other logical essays.
+         Ibid., vol. 30 (1931), p. 458.
+              12. Review of Black's The nature of mathematics. Ibid., vol. 33 (1934), p. 181.

@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 49 ===
+Name  : GOTTLOB FREGE
+Flags : none
+Lines : 155–156
+========================================
+
+49. GOTTLOB FREGE. 16.1. Ober die Grundlagen der Geometric Jahresbericht der
+             DeutschenMathematiker-Vereinigung, vol. 12 (1903), pp. 319-324, 368-375.

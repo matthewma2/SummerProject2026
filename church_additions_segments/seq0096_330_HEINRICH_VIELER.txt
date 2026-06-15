@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 330$ ===
+Name  : HEINRICH VIELER
+Flags : none
+Lines : 561–563
+========================================
+
+330$. HEINRICH VIELER. 1. Untersuchungen iiber Unabhdngigkeit und Tragweite der
+             Axiome der Mengenlehre in der Axiomatik Zermelos und Fraenkels. Dissertation
+             Marburg 1926. 40 pp.

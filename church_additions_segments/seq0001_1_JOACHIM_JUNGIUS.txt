@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 1$ ===
+Name  : JOACHIM JUNGIUS
+Flags : none
+Lines : 85–90
+========================================
+
+1$. JOACHIM JUNGIUS. 1. Logica Hamburgensis. 2nd edn., Hamburg 1681, 110 +
+              592 pp. "Inversio relationis. David est pater Salomonis et Salomon est filius Da-
+               vidis." "Cirqulus est figura. Ergo qui circulum describit is figuram describit."
+               "Omne reptile est animal. Ergo qui creavit omne animal is omne reptile creavit."
+               Cf. Opuscules et fragments inedits de Leibniz, ed. by Louis Couturat, Paris 1903,
+               pp. 426-429.

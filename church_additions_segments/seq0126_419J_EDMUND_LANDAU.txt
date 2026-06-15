@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 419J ===
+Name  : EDMUND LANDAU
+Flags : none
+Lines : 657–658
+========================================
+
+419J. EDMUND LANDAU. 1. Naturliche Zahlen. Grundlagen der Analysis, by Ed-
+              mund Landau, Leipzig 1930, pp. 1-18. See also Vorwort fUr den Kenner, ibid.

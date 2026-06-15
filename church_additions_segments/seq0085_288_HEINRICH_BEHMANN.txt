@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 288 ===
+Name  : HEINRICH BEHMANN
+Flags : none
+Lines : 511–515
+========================================
+
+288. HEINRICH BEHMANN. 2.1. Die Antinomic der transfiniten Zahl und ihre Auf-
+             losung durch die Theorie von Russell und Whitehead. Jahrbuch der mathematisch-
+             naturwissenschaftlichen Fakultat der Georg August-Universitat zu Got ting en 1922
+             (Juli-Dezember), Gottingen 1923, pp. 55-64. (Ausztige aus den Dissertationen, 1922,
+             Nr. 23.)

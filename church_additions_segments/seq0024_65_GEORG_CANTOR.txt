@@ -1,0 +1,23 @@
+=== AUTHOR BLOCK 65 ===
+Name  : GEORG CANTOR
+Flags : none
+Lines : 200–216
+========================================
+
+65. GEORG CANTOR.
+                   1.1. Letters to and from Dedekind (1899). Georg Cantor Gesammelte Abhand-
+               lungen mathematischen und philosophischen Inhalts, ed. by Ernst Zermelo, Berlin
+               1932, pp. 443-450. See also Anmerkungen, by Zermelo, ibid., p. 451.
+                   A series of fundamental papers by Cantor on transfinite numbers and related topics
+               do not fall within the scope of this bibliography. Nevertheless they are of interest
+               here because of their historical influence on the development of symbolic logic. For
+               these the reader is referred to Cantor's Gesammelte Abhandlungen just cited. See also
+             . Contributions to the founding of the theory of transfinite numbers, by Georg Cantor,
+               translated by P. E. B. Jourdain, Chicago and London 1915.
+         65}. V. V. BOBYNIN.
+                   1. Opyly matematiceskago izlozenii logiki. Vypusk 1. Raboty Boolea, Socininii
+              Roberta Grassmanna. (Essays at a mathematical account of logic. Part 1. Works
+               of Boole and Robert Grassmann.) Moscow 1886, 49 pp.
+                   2. Opyly matematiceskago izlozenia logiki. Vypusk 2. Socinenia Ernesta Schro-
+               dera. (Essays at a mathematical account of logic. Part 2. Works of Ernst Schroder.)
+              Moscow 1894, 44 pp.

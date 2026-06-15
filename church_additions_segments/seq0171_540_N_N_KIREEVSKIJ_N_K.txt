@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 540 ===
+Name  : N. N. KIREEVSKIJ (N. K
+Flags : none
+Lines : 783–786
+========================================
+
+540. N. N. KIREEVSKIJ (N. Kireievsky, N. Kirejevskij). 0.1. Sur le problime de la
+               rtsolubilite ("Entscheidungsproblem").    Iivestia Akademii Nauk SSSR {Bulletin de
+               VAcadimie des Sciences de I'URSS), 1934, Classe des sciences mathematiques et
+               naturelles, pp 1493-1499.

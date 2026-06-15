@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 16 ===
+Name  : J. D. GERGONNE
+Flags : none
+Lines : 93–94
+========================================
+
+16. J. D. GERGONNE. 1.1. Essai sur la thiorie des definitions. Annales de mathi-
+               matiques pures et appliquies, vol. 9 (1818), pp. 1-35.

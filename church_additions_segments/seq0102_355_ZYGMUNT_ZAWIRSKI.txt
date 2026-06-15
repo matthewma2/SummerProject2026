@@ -1,0 +1,15 @@
+=== AUTHOR BLOCK 355 ===
+Name  : ZYGMUNT ZAWIRSKI
+Flags : none
+Lines : 571–579
+========================================
+
+355. ZYGMUNT ZAWIRSKI.
+                  1. For « czi », read « czci ».
+                  1.1. Stan obecny teorji dedukcji (Present state of the theory of deduction). Ruch
+             filozoficzny, vol. 11 (1928-9), p. 181.
+                  2.1. Logika Irdjwartoiciowa Jana Lukasiewicza. O logice L. E. J. Brouwera.
+              Prdby stosowania logiki wielowartoiciowej do wspdlezesnego przyrodoznawstwa. _ (Jan
+              Lukasiewicz's three-valued logic. On the logic of L. E. J. Brouwer. Attempts at
+             application of many-valued logic to contemporary natural science.) Sprawozdania
+             Poznanskiego Towarzystwa Przyjaciol Nauk, vol. 2 (1931), nos. 2-4, 8 pp.

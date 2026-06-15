@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 538 ===
+Name  : HANS FREUDENTHAL
+Flags : none
+Lines : 777–778
+========================================
+
+538. HANS FREUDENTHAL. 0.1. Qualitat und Quantitdt in der Mathematik.              Euclides,
+               vol. 8 (1931-2), pp. 89-98.

@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 385 ===
+Name  : AREND HEYTING
+Flags : none
+Lines : 607–610
+========================================
+
+385. AREND HEYTING.
+                  1. For «telbarheidspraedicalen », read «lelbaarheidspraedicaten ».
+                  12.1. Review of Beth's Rede en aanschouwing in de wiskunde. Christiaan Huygens
+              (Groningen), vol. 14 (1935-6), pp. 137-139.

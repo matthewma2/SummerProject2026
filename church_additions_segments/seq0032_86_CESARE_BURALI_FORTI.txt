@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 86 ===
+Name  : CESARE BURALI-FORTI
+Flags : none
+Lines : 270–274
+========================================
+
+86. CESARE BURALI-FORTI.
+                  15.1. Sur les diffirentes methodes logiques pour la definition du nombre r'eel. Bibli-
+             otheque du Congres International de Philosophie, vol. 3 (Paris 1901), pp. 289-307.
+                  24.1. Sulla definizione della eguaglianza. II bollettino di matematica, vol. 19 (1923-
+             4), pp. 110-113.

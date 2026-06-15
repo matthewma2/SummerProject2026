@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 250 ===
+Name  : Z. JANISZEWSKI
+Flags : none
+Lines : 433–436
+========================================
+
+250. Z. JANISZEWSKI.
+                  1.1. Logislyka (Logistic). Poradnik dla samoukdw, vol. 1 (1923), pp. 449-461.
+                  1.2. Zagadnienia filozoficzne malematyki (Philosophical problems of mathematics).
+              Ibid., pp. 462-489.

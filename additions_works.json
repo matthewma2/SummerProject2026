@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Jungius1681a",
+    "title": "Logica Hamburgensis",
+    "authors": [
+      "Joachim Jungius"
+    ],
+    "year": 1681,
+    "type": "Book",
+    "location": "Hamburg",
+    "pages": "110 + 592 pp.",
+    "notes": "2nd edn. Contains examples of 'Inversio relationis' and oblique definitions ('Qui circulum describit is figuram describit'). Cf. Opuscules et fragments inédits de Leibniz, ed. by Louis Couturat, Paris 1903, pp. 426-429."
+  },
+  {
+    "id": "Segner1740a",
+    "title": "Specimen logicae universaliter demonstratae",
+    "authors": [
+      "J. A. v. Segner"
+    ],
+    "year": 1740,
+    "type": "Article",
+    "journal": "Jena",
+    "pages": null,
+    "notes": "Corrects the original title in the bibliography from 'demonstrate' to 'demonstratae'."
+  },
+  {
+    "id": "Gergonne1818a",
+    "title": "Essai sur la théorie des définitions",
+    "authors": [
+      "J. D. Gergonne"
+    ],
+    "year": 1818,
+    "type": "Article",
+    "journal": "Annales de mathématiques pures et appliquées",
+    "pages": "1-35",
+    "notes": "Corrects the original entry number to 1.1 and typo in title from 'thiorie des definitions' / 'mathimatiques pures et appliquies' to 'théorie des définitions' / 'mathématiques pures et appliquées'. Published in vol. 9."
+  }
+]

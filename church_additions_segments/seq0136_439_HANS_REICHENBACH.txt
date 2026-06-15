@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 439 ===
+Name  : HANS REICHENBACH
+Flags : none
+Lines : 688–690
+========================================
+
+439. HANS REICHENBACH. 3.1. Die logische Grundlegung der Wahrscheinlichkeils-
+             rechnung. Actes du Congres Interbalkanique de Mathimaliciens, Alhenes, 2-9, seplem-
+             bre 1934 (I), Athens 1935, pp. 245-247.

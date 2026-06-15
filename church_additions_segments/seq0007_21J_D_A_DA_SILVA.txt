@@ -1,0 +1,26 @@
+=== AUTHOR BLOCK 21J ===
+Name  : D. A. DA SILVA
+Flags : none
+Lines : 105–124
+========================================
+
+21J. D. A. DA SILVA. 1. Propriedades geraes e resolucdo directa das congruencias bi-
+               nomias. Introduccao ao estudo da theoria dos numeros. Memorias da Academia Real
+               das Sciencias de Lisboa, Classe de sciencias mathematicas, physicas e naturaes, n. s.
+               vol. 1 part 1 (1854), 163 pp. "Supponhamos que n'uma serie £ qualquer de numeros . . .
+              se pede quaes sao aquelles que gosam de certa propriedade o; designaremos por Sa a
+              reuniao desses numeros; similhantemente serao Sb, St,,e, /S0,i,e, etc. a reuniao dos tennos
+               de S dotados da propriedade 6, ou dotados simultaneamente das propriedades b, c,
+              etc.; e serd vg. Stc a reuniao dos termos de Sb dotados da propriedade c. E facil de ver
+               que serd, vg. Sah = Sa.b; S°bc = <S0,&e = Sa,b,c', etc. Do mesmo modo representaremos
+               por "S, "''S, °iS a reuniao dos termos de <S privados da propriedade a, ou das duas a,
+               b, ou a reuniao dos termos de "S privados da propriedade 6 etc."
+
+
+
+
+
+              "'S = S - Sa - S[l - . ] . "
+                  '*-'S = S[l - ,][1 - »][1 - , ] • • • ."
+              "A mesma formula dd-nos tambem immediatamente o numero doa numeros contidos
+             em •••'*.'S."

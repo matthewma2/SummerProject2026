@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 46 ===
+Name  : ALEXANDER MACFARLANE
+Flags : none
+Lines : 149–154
+========================================
+
+46. ALEXANDER MACFARLANE.
+                  2.1. On a question in probabilities. Math, questions, vol. 32 (1879), pp. 18-19.
+                  2.2. Question ibid., p. 90. Solution by the proposer.
+                  5.2. Question in Math, questions, vol. 35 (1881), pp. 110-111. Solution by the
+             proposer.
+                  See also W. B. Grove 56J2 and Christine Ladd Franklin 62/./.

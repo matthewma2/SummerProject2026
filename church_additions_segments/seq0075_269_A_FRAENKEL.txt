@@ -1,0 +1,19 @@
+=== AUTHOR BLOCK 269 ===
+Name  : A. FRAENKEL
+Flags : none
+Lines : 457–473
+========================================
+
+269. A. FRAENKEL.
+         *       2. Der Begriff "definit" und die Unabhangigkeil des Auswahlaxioms. Sitzungs-
+             berichle der Preussischen Akademie der Wissenschajten, Phys.-math. Kl., 1922, pp.
+             253-257.'
+
+
+               With the clarification of Zermelo's notion of a definite Eigenschaft and its consequent
+         elimination as a presupposed intuitive idea, the Zermelo set theory may be said first to
+         have attained a degree of exactness comparable to that of the system of Principia mathe-
+         matica (11116, 1942). A method of doing this is indicated briefly by Fraenkel in 2692, is
+         incorporated in a system of axioms for set theory in 269/, and later applied to the actual
+         development of some topics in set theory ' n 26922. An alternative method is due to Skolem
+         2475, 10. And see also J. v. Neumann 2992, S.

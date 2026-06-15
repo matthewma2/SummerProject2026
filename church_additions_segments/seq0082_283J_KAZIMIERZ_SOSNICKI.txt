@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 283J ===
+Name  : KAZIMIERZ SOSNICKI
+Flags : none
+Lines : 504–505
+========================================
+
+283J. KAZIMIERZ SOSNICKI. / . Indukcja matematyczna (Mathematical induction).
+             Przeglad filozoficzny, vol. 23 (1921), pp. 245-277.

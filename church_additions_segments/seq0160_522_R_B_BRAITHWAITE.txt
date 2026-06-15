@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 522 ===
+Name  : R. B. BRAITHWAITE
+Flags : none
+Lines : 752–761
+========================================
+
+522. R. B. BRAITHWAITE.
+                  0.1. Review of Smart's The philosophical presuppositions of mathematical logic.
+             Journal of philosophical studies, vol. 2 (1927), pp. 261-263.
+                 0.2. Review of Lewis and Langford's Symbolic logic. The mathematical gazette,
+             vol. 18 (1934), pp. 57-58.
+                 1.1. Review of Bell's The search for truth. The mathematical gazette, vol. 19
+             (1935), p. 239.

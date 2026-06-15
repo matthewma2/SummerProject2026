@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 316 ===
+Name  : OSCAR ZARISKI
+Flags : none
+Lines : 535–539
+========================================
+
+316. OSCAR ZARISKI.
+                  1.1. II principio di Zermelo e la funzione Iransfinita di Hilbert. Seminario Mate-
+             matico delta Facolta di Scienze delta R. Universila di Roma, Rendiconti, 2 s. vol. 2
+              (1925), pp. 24-26.
+                  See also Richard Dedekind 70$<.

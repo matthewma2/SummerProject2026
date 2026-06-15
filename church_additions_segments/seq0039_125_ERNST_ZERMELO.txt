@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 125 ===
+Name  : ERNST ZERMELO
+Flags : none
+Lines : 301–304
+========================================
+
+125. ERNST ZERMELO.
+                  3.1. Sur les ensembles finis el le principe de V'induction complete. Acla'malhemalica,
+             vol. 32 (1909), pp. 185-193.
+                  See also Georg Cantor 651..1.

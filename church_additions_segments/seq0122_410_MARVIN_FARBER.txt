@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 410 ===
+Name  : MARVIN FARBER
+Flags : none
+Lines : 649–650
+========================================
+
+410. MARVIN FARBER. 0.1. Theses concerning the foundations of logic. The philo-
+              sophical review, vol. 38 (1929), pp. 219-231.

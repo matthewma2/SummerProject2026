@@ -1,0 +1,12 @@
+=== AUTHOR BLOCK 465} ===
+Name  : D. van DANTZIG
+Flags : none
+Lines : 718–723
+========================================
+
+465}. D. van DANTZIG. 1. Over de elementen van hel wiskundig denken (On the elements
+               of mathematical thought). Euclides, vol. 9 (1932-3), pp. 102-116. "Het ia niet
+               mogelijk, d&n enkele universeele wiskundemachine te bouwen, die in staat is alle pro-
+               blemen op te lossen, die op de machine geformuleerd kunnen worden; steeds weer moet
+               het menschelijk intellect ingrijpen en nieuwe en ruimere mechanismen ontwerpen, die
+              voorheen onoplosbare problemen oplosbaar doen worden."

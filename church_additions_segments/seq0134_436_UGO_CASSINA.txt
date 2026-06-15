@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 436 ===
+Name  : UGO CASSINA
+Flags : none
+Lines : 684–685
+========================================
+
+436. UGO CASSINA. 0.1. Sull'asselto logico dedultivo della matematica. Rendiconli del
+             Seminario Matematico e Fisico di Milano, vol. 2 (1929), pp. 47-62.

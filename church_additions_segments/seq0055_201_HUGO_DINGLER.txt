@@ -1,0 +1,13 @@
+=== AUTHOR BLOCK 201 ===
+Name  : HUGO DINGLER
+Flags : none
+Lines : 388–394
+========================================
+
+201. HUGO DINGLER.
+                   0.1. Zur.Methodik in der Mathematik. Jahresbericht der Deutschen Mathematiker-
+              Vereinigung, vol. 14 (1905), pp. 581-584.
+                   0.2. Grundlinien einer Kritik und exaklen Theorie der Wissenschaflen insbesondere
+             der mathematischen. Munich 1907, 76 pp.
+                   1.1. Vber wohlgeordnete Mengen und zerstreute Mengen im allgemeinen. Dis-
+             sertation Munich 1912. Munich 1912, 46 pp.

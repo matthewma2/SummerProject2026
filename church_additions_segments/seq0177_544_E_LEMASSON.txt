@@ -1,0 +1,7 @@
+=== AUTHOR BLOCK 544$ ===
+Name  : E. LEMASSON
+Flags : none
+Lines : 803–803
+========================================
+
+544$. E. LEMASSON. 1. Notions de logique formelle. Paris 1935, 107 pp.

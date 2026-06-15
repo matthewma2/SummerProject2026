@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 30 ===
+Name  : ALEXANDER BAIN
+Flags : none
+Lines : 126–127
+========================================
+
+30. ALEXANDER BAIN. 1.1. Logique deductive el inductive. 2nd. edn., vol. 1, Paris
+             1881. French translation of 302 by G. Compayre.

@@ -44,7 +44,7 @@
   },
   {
     "id": "a-c-benjamin",
-    "full_name": "A. C. Benjamin",
+    "full_name": "A. Cornelius Benjamin",
     "alternative_names": [
       "Benjamin"
     ]
@@ -778,7 +778,7 @@
     ]
   },
   {
-    "id": "azriel-lvy",
+    "id": "azriel-levy",
     "full_name": "Azriel Lévy",
     "alternative_names": [
       "Lévy",
@@ -1092,8 +1092,8 @@
     ]
   },
   {
-    "id": "carl-g-jockusch-suffixjrsusch",
-    "full_name": "Carl G. Jockusch, <suffix>jr.</suffix>",
+    "id": "carl-g-jockusch-jr",
+    "full_name": "Carl G. Jockusch, jr.",
     "alternative_names": [
       "Jockusch"
     ]
@@ -1269,8 +1269,8 @@
     ]
   },
   {
-    "id": "d-randolph-johnson-suffixjrsuffix",
-    "full_name": "D. Randolph Johnson, <suffix>jr.</suffix>",
+    "id": "d-randolph-johnson-jr",
+    "full_name": "D. Randolph Johnson, jr.",
     "alternative_names": [
       "Johnson"
     ]
@@ -2501,8 +2501,8 @@
     ]
   },
   {
-    "id": "graham-c-driscoll-suffixjrsuffix",
-    "full_name": "Graham C. Driscoll, <suffix>jr.</suffix>",
+    "id": "graham-c-driscoll-jr",
+    "full_name": "Graham C. Driscoll, jr.",
     "alternative_names": [
       "Driscoll"
     ]
@@ -2737,8 +2737,8 @@
     ]
   },
   {
-    "id": "hartley-rogers-suffixjrsuffix",
-    "full_name": "Hartley Rogers, <suffix>jr.</suffix>",
+    "id": "hartley-rogers-jr",
+    "full_name": "Hartley Rogers, jr.",
     "alternative_names": [
       "Rogers"
     ]
@@ -3368,8 +3368,10 @@
   },
   {
     "id": "j-v-neumann",
-    "full_name": "J. v. Neumann",
+    "full_name": "John von Neumann",
     "alternative_names": [
+      "von Neumann",
+      "v. Neumann",
       "Neumann"
     ]
   },
@@ -3432,8 +3434,8 @@
     ]
   },
   {
-    "id": "james-c-owings-suffixjrsuffix",
-    "full_name": "James C. Owings, <suffix>jr.</suffix>",
+    "id": "james-c-owings-jr",
+    "full_name": "James C. Owings, jr.",
     "alternative_names": [
       "Owings"
     ]
@@ -4303,8 +4305,8 @@
     ]
   },
   {
-    "id": "leonard-p-sasso-suffixjrsuffix",
-    "full_name": "Leonard P. Sasso, <suffix>jr.</suffix>",
+    "id": "leonard-p-sasso-jr",
+    "full_name": "Leonard P. Sasso, jr.",
     "alternative_names": [
       "Sasso"
     ]
@@ -4640,8 +4642,8 @@
     ]
   },
   {
-    "id": "marshall-hall-suffixjrsuffix",
-    "full_name": "Marshall Hall, <suffix>jr.</suffix>",
+    "id": "marshall-hall-jr",
+    "full_name": "Marshall Hall, jr.",
     "alternative_names": [
       "Hall"
     ]
@@ -6348,8 +6350,8 @@
     ]
   },
   {
-    "id": "trenchard-more-suffixjrsuffix",
-    "full_name": "Trenchard More, <suffix>jr.</suffix>",
+    "id": "trenchard-more-jr",
+    "full_name": "Trenchard More, jr.",
     "alternative_names": [
       "More"
     ]
@@ -6520,8 +6522,8 @@
     ]
   },
   {
-    "id": "w-m-lambert-suffixjrsuffix",
-    "full_name": "W. M. Lambert, <suffix>jr.</suffix>",
+    "id": "w-m-lambert-jr",
+    "full_name": "W. M. Lambert, jr.",
     "alternative_names": [
       "Lambert"
     ]
@@ -6599,8 +6601,8 @@
     ]
   },
   {
-    "id": "wilbur-john-walkoe-suffixjrsuffix",
-    "full_name": "Wilbur John Walkoe, <suffix>jr.</suffix>",
+    "id": "wilbur-john-walkoe-jr",
+    "full_name": "Wilbur John Walkoe, jr.",
     "alternative_names": [
       "Walkoe"
     ]
@@ -6780,5 +6782,885 @@
     "alternative_names": [
       "Zawirski"
     ]
+  },
+  {
+    "id": "joachim-jungius",
+    "full_name": "Joachim Jungius",
+    "alternative_names": ["Jungius"]
+  },
+  {
+    "id": "d-a-da-silva",
+    "full_name": "D. A. Da Silva",
+    "alternative_names": ["Da Silva", "Silva"]
+  },
+  {
+    "id": "r-hoppe",
+    "full_name": "R. Hoppe",
+    "alternative_names": ["Hoppe"]
+  },
+  {
+    "id": "w-i-stringham",
+    "full_name": "W. I. Stringham",
+    "alternative_names": ["Stringham"]
+  },
+  {
+    "id": "elizabeth-blackwood",
+    "full_name": "Elizabeth Blackwood",
+    "alternative_names": ["Blackwood"]
+  },
+  {
+    "id": "w-b-grove",
+    "full_name": "W. B. Grove",
+    "alternative_names": ["Grove"]
+  },
+  {
+    "id": "v-v-bobynin",
+    "full_name": "V. V. Bobynin",
+    "alternative_names": ["Bobynin"]
+  },
+  {
+    "id": "benno-kerry",
+    "full_name": "Benno Kerry",
+    "alternative_names": ["Kerry"]
+  },
+  {
+    "id": "stanislaw-piatkiewicz",
+    "full_name": "Stanisław Piątkiewicz",
+    "alternative_names": ["Piątkiewicz", "Piatkiewicz"]
+  },
+  {
+    "id": "richard-dedekind",
+    "full_name": "Richard Dedekind",
+    "alternative_names": ["Dedekind"]
+  },
+  {
+    "id": "v-strekalov",
+    "full_name": "V. Strékalov",
+    "alternative_names": ["Strékalov", "Strekalov"]
+  },
+  {
+    "id": "felix-hausdorff",
+    "full_name": "Felix Hausdorff",
+    "alternative_names": ["Hausdorff"]
+  },
+  {
+    "id": "g-combebiac",
+    "full_name": "G. Combebiac",
+    "alternative_names": ["Combebiac"]
+  },
+  {
+    "id": "d-dubago",
+    "full_name": "D. Dubágo",
+    "alternative_names": ["Dubágo", "Dubago"]
+  },
+  {
+    "id": "heinrich-goesch",
+    "full_name": "Heinrich Goesch",
+    "alternative_names": ["Goesch"]
+  },
+  {
+    "id": "i-agodinskij",
+    "full_name": "I. Ágodinskij",
+    "alternative_names": ["Ágodinskij", "Agodinskij"]
+  },
+  {
+    "id": "b-koalovic",
+    "full_name": "B. Koalovič",
+    "alternative_names": ["Koalovič", "Koalovic"]
+  },
+  {
+    "id": "p-erenfest",
+    "full_name": "P. Erénfést",
+    "alternative_names": ["Erénfést", "Erenfest"]
+  },
+  {
+    "id": "p-barbarin",
+    "full_name": "P. Barbarin",
+    "alternative_names": ["Barbarin"]
+  },
+  {
+    "id": "k-f-sakov",
+    "full_name": "K. F. Šakov",
+    "alternative_names": ["Šakov", "Sakov"]
+  },
+  {
+    "id": "m-aksenov",
+    "full_name": "M. Aksénov",
+    "alternative_names": ["Aksénov", "Aksenov"]
+  },
+  {
+    "id": "wladyslaw-bieganski",
+    "full_name": "Władysław Biegański",
+    "alternative_names": ["Biegański", "Bieganski"]
+  },
+  {
+    "id": "s-bogomolov",
+    "full_name": "S. Bogomolov",
+    "alternative_names": ["Bogomolov"]
+  },
+  {
+    "id": "i-mendeleev",
+    "full_name": "I. Méndéléév",
+    "alternative_names": ["Méndéléév", "Mendeleev"]
+  },
+  {
+    "id": "d-morduhaj-boltovskoj",
+    "full_name": "D. Morduhaj-Boltovskoj",
+    "alternative_names": ["Morduhaj-Boltovskoj"]
+  },
+  {
+    "id": "g-verevskij",
+    "full_name": "G. Vérévskij",
+    "alternative_names": ["Vérévskij", "Verevskij"]
+  },
+  {
+    "id": "f-linde",
+    "full_name": "F. Linde",
+    "alternative_names": ["Linde"]
+  },
+  {
+    "id": "s-i-povarnin",
+    "full_name": "S. I. Povarnin",
+    "alternative_names": ["Povarnin"]
+  },
+  {
+    "id": "w-m-kozlowski",
+    "full_name": "W. M. Kozłowski",
+    "alternative_names": ["Kozłowski", "Kozlowski"]
+  },
+  {
+    "id": "i-i-lapsin",
+    "full_name": "I. I. Lapšin",
+    "alternative_names": ["Lapšin", "Lapsin"]
+  },
+  {
+    "id": "karl-weidner",
+    "full_name": "Karl Weidner",
+    "alternative_names": ["Weidner"]
+  },
+  {
+    "id": "waclaw-wolski",
+    "full_name": "Wacław Wolski",
+    "alternative_names": ["Wolski"]
+  },
+  {
+    "id": "a-hoborski",
+    "full_name": "A. Hoborski",
+    "alternative_names": ["Hoborski"]
+  },
+  {
+    "id": "akos-v-pauler",
+    "full_name": "Ákos von Pauler",
+    "alternative_names": ["von Pauler", "v. Pauler", "Pauler"]
+  },
+  {
+    "id": "wilhelm-lorey",
+    "full_name": "Wilhelm Lorey",
+    "alternative_names": ["Lorey"]
+  },
+  {
+    "id": "stanislaw-kaczorowski",
+    "full_name": "Stanisław Kaczorowski",
+    "alternative_names": ["Kaczorowski"]
+  },
+  {
+    "id": "kazimierz-sosnicki",
+    "full_name": "Kazimierz Sośnicki",
+    "alternative_names": ["Sośnicki", "Sosnicki"]
+  },
+  {
+    "id": "o-cuzzer",
+    "full_name": "O. Cuzzer",
+    "alternative_names": ["Cuzzer"]
+  },
+  {
+    "id": "g-kolovrat",
+    "full_name": "G. Kolovrat",
+    "alternative_names": ["Kolovrat"]
+  },
+  {
+    "id": "h-s-carslaw",
+    "full_name": "H. S. Carslaw",
+    "alternative_names": ["Carslaw"]
+  },
+  {
+    "id": "william-rivier",
+    "full_name": "William Rivier",
+    "alternative_names": ["Rivier"]
+  },
+  {
+    "id": "julius-merzbach",
+    "full_name": "Julius Merzbach",
+    "alternative_names": ["Merzbach"]
+  },
+  {
+    "id": "heinrich-vieler",
+    "full_name": "Heinrich Vieler",
+    "alternative_names": ["Vieler"]
+  },
+  {
+    "id": "christian-betsch",
+    "full_name": "Christian Betsch",
+    "alternative_names": ["Betsch"]
+  },
+  {
+    "id": "jean-larguier-des-bancels",
+    "full_name": "Jean Larguier des Bancels",
+    "alternative_names": ["Larguier des Bancels", "des Bancels", "Bancels"]
+  },
+  {
+    "id": "simon-theobald",
+    "full_name": "Simon Theobald",
+    "alternative_names": ["Theobald"]
+  },
+  {
+    "id": "giuseppe-di-dia",
+    "full_name": "Giuseppe di Dia",
+    "alternative_names": ["di Dia", "Dia"]
+  },
+  {
+    "id": "h-g-forder",
+    "full_name": "H. G. Forder",
+    "alternative_names": ["Forder"]
+  },
+  {
+    "id": "ernst-cassirer",
+    "full_name": "Ernst Cassirer",
+    "alternative_names": ["Cassirer"]
+  },
+  {
+    "id": "nicolas-lusin",
+    "full_name": "Nicolas Lusin",
+    "alternative_names": ["Lusin"]
+  },
+  {
+    "id": "arnost-dittrich",
+    "full_name": "Arnošt Dittrich",
+    "alternative_names": ["Dittrich"]
+  },
+  {
+    "id": "miquel-soy",
+    "full_name": "Miquel Soy",
+    "alternative_names": ["Soy"]
+  },
+  {
+    "id": "edgar-hunger",
+    "full_name": "Edgar Hunger",
+    "alternative_names": ["Hunger"]
+  },
+  {
+    "id": "edmund-landau",
+    "full_name": "Edmund Landau",
+    "alternative_names": ["Landau"]
+  },
+  {
+    "id": "boleslaw-gawecki",
+    "full_name": "Bolesław Gawecki",
+    "alternative_names": ["Gawecki"]
+  },
+  {
+    "id": "teiji-takagi",
+    "full_name": "Teiji Takagi",
+    "alternative_names": ["Takagi"]
+  },
+  {
+    "id": "witold-wilkosz",
+    "full_name": "Witold Wilkosz",
+    "alternative_names": ["Wilkosz"]
+  },
+  {
+    "id": "otomar-pankraz",
+    "full_name": "Otomar Pankraz",
+    "alternative_names": ["Pankraz"]
+  },
+  {
+    "id": "bela-bencsik",
+    "full_name": "Béla Bencsik",
+    "alternative_names": ["Bencsik"]
+  },
+  {
+    "id": "arnaud-dandieu",
+    "full_name": "Arnaud Dandieu",
+    "alternative_names": ["Dandieu"]
+  },
+  {
+    "id": "a-d-kelly",
+    "full_name": "A. D. Kelly",
+    "alternative_names": ["Kelly"]
+  },
+  {
+    "id": "e-h-neville",
+    "full_name": "E. H. Neville",
+    "alternative_names": ["Neville"]
+  },
+  {
+    "id": "a-h-copeland",
+    "full_name": "A. H. Copeland",
+    "alternative_names": ["Copeland"]
+  },
+  {
+    "id": "d-van-dantzig",
+    "full_name": "D. van Dantzig",
+    "alternative_names": ["van Dantzig", "Dantzig"]
+  },
+  {
+    "id": "w-pich",
+    "full_name": "W. Pich",
+    "alternative_names": ["Pich"]
+  },
+  {
+    "id": "wilhelm-koppelmann",
+    "full_name": "Wilhelm Koppelmann",
+    "alternative_names": ["Koppelmann"]
+  },
+  {
+    "id": "f-zwicky",
+    "full_name": "F. Zwicky",
+    "alternative_names": ["Zwicky"]
+  },
+  {
+    "id": "c-a-mace",
+    "full_name": "C. A. Mace",
+    "alternative_names": ["Mace"]
+  },
+  {
+    "id": "w-m-rust-jr",
+    "full_name": "W. M. Rust, Jr.",
+    "alternative_names": ["Rust"]
+  },
+  {
+    "id": "a-suskevic",
+    "full_name": "A. Suškévič",
+    "alternative_names": ["Suškévič", "Suskevic", "Suschkewitsch"]
+  },
+  {
+    "id": "gaston-rabeau",
+    "full_name": "Gaston Rabeau",
+    "alternative_names": ["Rabeau"]
+  },
+  {
+    "id": "g-temple",
+    "full_name": "G. Temple",
+    "alternative_names": ["Temple"]
+  },
+  {
+    "id": "e-r-stabler",
+    "full_name": "E. R. Stabler",
+    "alternative_names": ["Stabler"]
+  },
+  {
+    "id": "theofil-koronczy",
+    "full_name": "Theofil Koronczy",
+    "alternative_names": ["Koronczy"]
+  },
+  {
+    "id": "bela-v-brandenstein",
+    "full_name": "Béla von Brandenstein",
+    "alternative_names": ["von Brandenstein", "v. Brandenstein", "Brandenstein"]
+  },
+  {
+    "id": "joseph-schachter",
+    "full_name": "Joseph Schächter",
+    "alternative_names": ["Schächter", "Schachter"]
+  },
+  {
+    "id": "walter-kinder",
+    "full_name": "Walter Kinder",
+    "alternative_names": ["Kinder"]
+  },
+  {
+    "id": "s-schayer",
+    "full_name": "S. Schayer",
+    "alternative_names": ["Schayer"]
+  },
+  {
+    "id": "julien-pacotte",
+    "full_name": "Julien Pacotte",
+    "alternative_names": ["Pacotte"]
+  },
+  {
+    "id": "e-lemasson",
+    "full_name": "E. Lemasson",
+    "alternative_names": ["Lemasson"]
+  },
+  {
+    "id": "a-spaier",
+    "full_name": "A. Spaier",
+    "alternative_names": ["Spaier"]
+  },
+  {
+    "id": "jean-cavailles",
+    "full_name": "Jean Cavaillès",
+    "alternative_names": ["Cavaillès", "Cavailles"]
+  },
+  {
+    "id": "a-kojevnikoff",
+    "full_name": "A. Kojevnikoff",
+    "alternative_names": ["Kojevnikoff"]
+  },
+  {
+    "id": "a-narasinga-rao",
+    "full_name": "A. Narasinga Rao",
+    "alternative_names": ["Rao"]
+  },
+  {
+    "id": "jerome-michael",
+    "full_name": "Jerome Michael",
+    "alternative_names": ["Michael"]
+  },
+  {
+    "id": "mortimer-j-adler",
+    "full_name": "Mortimer J. Adler",
+    "alternative_names": ["Adler"]
+  },
+  {
+    "id": "richard",
+    "full_name": "Richard",
+    "alternative_names": ["Richard"]
+  },
+  {
+    "id": "rudolf-metz",
+    "full_name": "Rudolf Metz",
+    "alternative_names": ["Metz"]
+  },
+  {
+    "id": "milos-materna",
+    "full_name": "Milos Materna",
+    "alternative_names": ["Materna"]
+  },
+  {
+    "id": "frances-e-baker",
+    "full_name": "Frances E. Baker",
+    "alternative_names": ["Baker"]
+  },
+  {
+    "id": "i-s-muhlmann",
+    "full_name": "I. S. Mühlmann",
+    "alternative_names": ["Mühlmann", "Muhlmann"]
+  },
+  {
+    "id": "generoso-gallucci",
+    "full_name": "Generoso Gallucci",
+    "alternative_names": ["Gallucci"]
+  },
+  {
+    "id": "c-carbonara",
+    "full_name": "C. Carbonara",
+    "alternative_names": ["Carbonara"]
+  },
+  {
+    "id": "b-juhos",
+    "full_name": "B. Juhos",
+    "alternative_names": ["Juhos"]
+  },
+  {
+    "id": "v-laska",
+    "full_name": "V. Láska",
+    "alternative_names": ["Láska", "Laska"]
+  },
+  {
+    "id": "stefan-mazurkiewicz",
+    "full_name": "Stefan Mazurkiewicz",
+    "alternative_names": ["Mazurkiewicz"]
+  },
+  {
+    "id": "gerard-petiau",
+    "full_name": "Gérard Petiau",
+    "alternative_names": ["Petiau"]
+  },
+  {
+    "id": "j-magniette",
+    "full_name": "J. Magniette",
+    "alternative_names": ["Magniette"]
+  },
+  {
+    "id": "g-milhaud",
+    "full_name": "G. Milhaud",
+    "alternative_names": ["Milhaud"]
+  },
+  {
+    "id": "guillaume-de-jerphanion",
+    "full_name": "Guillaume de Jerphanion",
+    "alternative_names": ["Jerphanion"]
+  },
+  {
+    "id": "j-m-bernard",
+    "full_name": "J. M. Bernard",
+    "alternative_names": ["Bernard"]
+  },
+  {
+    "id": "g-lechalas",
+    "full_name": "G. Lechalas",
+    "alternative_names": ["Lechalas"]
+  },
+  {
+    "id": "c-a-laisant",
+    "full_name": "C. A. Laisant",
+    "alternative_names": ["Laisant"]
+  },
+  {
+    "id": "h-pieron",
+    "full_name": "H. Pieron",
+    "alternative_names": ["Pieron"]
+  },
+  {
+    "id": "xavier-moisant",
+    "full_name": "Xavier Moisant",
+    "alternative_names": ["Moisant"]
+  },
+  {
+    "id": "r-dadhemar",
+    "full_name": "R. d'Adhémar",
+    "alternative_names": ["d'Adhémar", "d'Adhemar"]
+  },
+  {
+    "id": "w-h-young",
+    "full_name": "W. H. Young",
+    "alternative_names": ["Young"]
+  },
+  {
+    "id": "g-c-young",
+    "full_name": "G. C. Young",
+    "alternative_names": ["Young"]
+  },
+  {
+    "id": "p-j-helwig",
+    "full_name": "P. J. Helwig",
+    "alternative_names": ["Helwig"]
+  },
+  {
+    "id": "max-steck",
+    "full_name": "Max Steck",
+    "alternative_names": ["Steck"]
+  },
+  {
+    "id": "paul-marhenke",
+    "full_name": "Paul Marhenke",
+    "alternative_names": ["Marhenke"]
+  },
+  {
+    "id": "dietrich-mahnke",
+    "full_name": "Dietrich Mahnke",
+    "alternative_names": ["Mahnke"]
+  },
+  {
+    "id": "richard-avenarius",
+    "full_name": "Richard Avenarius",
+    "alternative_names": ["Avenarius"]
+  },
+  {
+    "id": "august-stadler",
+    "full_name": "August Stadler",
+    "alternative_names": ["Stadler"]
+  },
+  {
+    "id": "victor-henry",
+    "full_name": "Victor Henry",
+    "alternative_names": ["Henry"]
+  },
+  {
+    "id": "lucien-brulez",
+    "full_name": "Lucien Brulez",
+    "alternative_names": ["Brulez"]
+  },
+  {
+    "id": "elli-heesch",
+    "full_name": "Elli Heesch",
+    "alternative_names": ["Heesch"]
+  },
+  {
+    "id": "louis-weisner",
+    "full_name": "Louis Weisner",
+    "alternative_names": ["Weisner"]
+  },
+  {
+    "id": "jules-tannery",
+    "full_name": "Jules Tannery",
+    "alternative_names": ["Tannery"]
+  },
+  {
+    "id": "c-a-m-maund",
+    "full_name": "C. A. M. Maund",
+    "alternative_names": ["Maund"]
+  },
+  {
+    "id": "j-w-reeves",
+    "full_name": "J. W. Reeves",
+    "alternative_names": ["Reeves"]
+  },
+  {
+    "id": "wilma-papst",
+    "full_name": "Wilma Papst",
+    "alternative_names": ["Papst"]
+  },
+  {
+    "id": "friedrich-brunstad",
+    "full_name": "Friedrich Brunstäd",
+    "alternative_names": ["Brunstäd", "Brunstad"]
+  },
+  {
+    "id": "rolf-w-goldel",
+    "full_name": "Rolf W. Göldel",
+    "alternative_names": ["Göldel", "Goldel"]
+  },
+  {
+    "id": "bent-schultzer",
+    "full_name": "Bent Schultzer",
+    "alternative_names": ["Schultzer"]
+  },
+  {
+    "id": "vladimir-tardy",
+    "full_name": "Vladimir Tardy",
+    "alternative_names": ["Tardy"]
+  },
+  {
+    "id": "waclaw-sierpinski",
+    "full_name": "Waclaw Sierpiński",
+    "alternative_names": ["Sierpiński", "Sierpinski"]
+  },
+  {
+    "id": "lidia-peradotto",
+    "full_name": "Lidia Peradotto",
+    "alternative_names": ["Peradotto"]
+  },
+  {
+    "id": "reginald-jackson",
+    "full_name": "Reginald Jackson",
+    "alternative_names": ["Jackson"]
+  },
+  {
+    "id": "l-t-hwang",
+    "full_name": "L. T. Hwang",
+    "alternative_names": ["Hwang"]
+  },
+  {
+    "id": "yen-chun-chu",
+    "full_name": "Yen-Chun Chu",
+    "alternative_names": ["Chu"]
+  },
+  {
+    "id": "mou-tsuno-san",
+    "full_name": "Mou Tsuno-San",
+    "alternative_names": ["Tsuno-San", "Tsuno-san"]
+  },
+  {
+    "id": "wu-shih-tuno",
+    "full_name": "Wu Shih-Tuno",
+    "alternative_names": ["Shih-Tuno", "Shih-tuno"]
+  },
+  {
+    "id": "jno-j-tigert",
+    "full_name": "Jno. J. Tigert",
+    "alternative_names": ["Tigert"]
+  },
+  {
+    "id": "karl-boehm",
+    "full_name": "Karl Boehm",
+    "alternative_names": ["Boehm"]
+  },
+  {
+    "id": "ludwig-neder",
+    "full_name": "Ludwig Neder",
+    "alternative_names": ["Neder"]
+  },
+  {
+    "id": "s-kaczmarz",
+    "full_name": "S. Kaczmarz",
+    "alternative_names": ["Kaczmarz"]
+  },
+  {
+    "id": "willy-freytag",
+    "full_name": "Willy Freytag",
+    "alternative_names": ["Freytag"]
+  },
+  {
+    "id": "l-rabus",
+    "full_name": "L. Rabus",
+    "alternative_names": ["Rabus"]
+  },
+  {
+    "id": "f-mallieux",
+    "full_name": "F. Mallieux",
+    "alternative_names": ["Mallieux"]
+  },
+  {
+    "id": "r-manno",
+    "full_name": "R. Manno",
+    "alternative_names": ["Manno"]
+  },
+  {
+    "id": "k-a-smirnov",
+    "full_name": "K. A. Smirnov",
+    "alternative_names": ["Smirnov"]
+  },
+  {
+    "id": "n-n-parfentev",
+    "full_name": "N. N. Parfént'év",
+    "alternative_names": ["Parfént'év", "Parfent'ev", "Parfentev"]
+  },
+  {
+    "id": "s-ginzberg",
+    "full_name": "S. Ginzberg",
+    "alternative_names": ["Ginzberg"]
+  },
+  {
+    "id": "pierre-ceresole",
+    "full_name": "Pierre Ceresole",
+    "alternative_names": ["Ceresole"]
+  },
+  {
+    "id": "dorothy-maud-wrinch",
+    "full_name": "Dorothy Maud Wrinch",
+    "alternative_names": ["Wrinch"]
+  },
+  {
+    "id": "c-k-ogden",
+    "full_name": "C. K. Ogden",
+    "alternative_names": ["Ogden"]
+  },
+  {
+    "id": "i-a-richards",
+    "full_name": "I. A. Richards",
+    "alternative_names": ["Richards"]
+  },
+  {
+    "id": "raymond-p-hawes",
+    "full_name": "Raymond P. Hawes",
+    "alternative_names": ["Hawes"]
+  },
+  {
+    "id": "john-r-mattingly",
+    "full_name": "John R. Mattingly",
+    "alternative_names": ["Mattingly"]
+  },
+  {
+    "id": "johann-baptist-rieffert",
+    "full_name": "Johann Baptist Rieffert",
+    "alternative_names": ["Rieffert"]
+  },
+  {
+    "id": "viktor-kraft",
+    "full_name": "Viktor Kraft",
+    "alternative_names": ["Kraft"]
+  },
+  {
+    "id": "jos-ternus",
+    "full_name": "Jos. Ternus",
+    "alternative_names": ["Ternus"]
+  },
+  {
+    "id": "h-fels",
+    "full_name": "H. Fels",
+    "alternative_names": ["Fels"]
+  },
+  {
+    "id": "oskar-fechner",
+    "full_name": "Oskar Fechner",
+    "alternative_names": ["Fechner"]
+  },
+  {
+    "id": "l-rosenfeld",
+    "full_name": "L. Rosenfeld",
+    "alternative_names": ["Rosenfeld"]
+  },
+  {
+    "id": "r-courant",
+    "full_name": "R. Courant",
+    "alternative_names": ["Courant"]
+  },
+  {
+    "id": "robert-e-moritz",
+    "full_name": "Robert E. Moritz",
+    "alternative_names": ["Moritz"]
+  },
+  {
+    "id": "charles-w-morris",
+    "full_name": "Charles W. Morris",
+    "alternative_names": ["Morris"]
+  },
+  {
+    "id": "j-e-salomaa",
+    "full_name": "J. E. Salomaa",
+    "alternative_names": ["Salomaa"]
+  },
+  {
+    "id": "john-storck",
+    "full_name": "John Storck",
+    "alternative_names": ["Storck"]
+  },
+  {
+    "id": "john-dewey",
+    "full_name": "John Dewey",
+    "alternative_names": ["Dewey"]
+  },
+  {
+    "id": "jean-de-la-harpe",
+    "full_name": "Jean de La Harpe",
+    "alternative_names": ["La Harpe", "Harpe"]
+  },
+  {
+    "id": "homer-h-dubs",
+    "full_name": "Homer H. Dubs",
+    "alternative_names": ["Dubs"]
+  },
+  {
+    "id": "george-perrigo-conger",
+    "full_name": "George Perrigo Conger",
+    "alternative_names": ["Conger"]
+  },
+  {
+    "id": "ake-petzall",
+    "full_name": "Åke Petzäll",
+    "alternative_names": ["Petzäll", "Petzall"]
+  },
+  {
+    "id": "helmut-stadie",
+    "full_name": "Helmut Stadie",
+    "alternative_names": ["Stadie"]
+  },
+  {
+    "id": "w-t-stace",
+    "full_name": "W. T. Stace",
+    "alternative_names": ["Stace"]
+  },
+  {
+    "id": "bernard-neumann",
+    "full_name": "Bernard Neumann",
+    "alternative_names": ["Neumann"]
+  },
+  {
+    "id": "georges-bouligand",
+    "full_name": "Georges Bouligand",
+    "alternative_names": ["Bouligand"]
+  },
+  {
+    "id": "jan-franciszek-drewnowski",
+    "full_name": "Jan Franciszek Drewnowski",
+    "alternative_names": ["Drewnowski"]
+  },
+  {
+    "id": "h-margenau",
+    "full_name": "H. Margenau",
+    "alternative_names": ["Margenau"]
+  },
+  {
+    "id": "maximine-portaz",
+    "full_name": "Maximine Portaz",
+    "alternative_names": ["Portaz"]
+  },
+  {
+    "id": "l-anglade",
+    "full_name": "L. Anglade",
+    "alternative_names": ["Anglade"]
+  },
+  {
+    "id": "saileswar-sen",
+    "full_name": "Saileswar Sen",
+    "alternative_names": ["Sen"]
+  },
+  {
+    "id": "f-hartogs",
+    "full_name": "F. Hartogs",
+    "alternative_names": ["Hartogs"]
   }
 ]

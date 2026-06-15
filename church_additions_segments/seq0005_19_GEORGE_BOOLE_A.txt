@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 19 ===
+Name  : GEORGE BOOLE. A
+Flags : none
+Lines : 100–103
+========================================
+
+19. GEORGE BOOLE. A number of publications by Boole on the theory of probabilities,
+               although related to his calculus of logic, are here omitted. For a list of these the reader
+               is referred to the bibliography in 2159. (An account of Boole's method in the theory
+               of probabilities appears also in 19J.)

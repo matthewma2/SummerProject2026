@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 495} ===
+Name  : W. M. RUST, Jr
+Flags : none
+Lines : 741–742
+========================================
+
+495}. W. M. RUST, Jr. 1. An operational statement of Cantor's Diagonalverfahren.
+              Scripta mathematica, vol. 2 (1933-4), pp. 334-336.

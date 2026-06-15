@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 321 ===
+Name  : N. A. VASILIEV
+Flags : none
+Lines : 546–550
+========================================
+
+321. N. A. VASILIEV.
+                  0.1. VoobraZaemad (nearistoteleva) logika (Imaginary (non-Aristotelian) logic).
+             Zurnal Ministerstva Narodnago Prosvescenia, Aug. 1912, pp. 207-246.
+                  0.2. Logika i mUalogika (Logic and metalogic). Logos, kniga pervad i vtorad
+              (1912-13), pp. 53-81.

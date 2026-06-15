@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 68 ===
+Name  : M. S. VOLKOV
+Flags : none
+Lines : 220–221
+========================================
+
+68. M. S. VOLKOV. 1. LogiceskoS iscisliniS (Logical calculus). St. Petersburg 1888,
+               iv + 65 pp.

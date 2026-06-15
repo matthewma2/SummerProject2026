@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 2241 ===
+Name  : S. BOGOMOLOV
+Flags : none
+Lines : 402–405
+========================================
+
+2241. S. BOGOMOLOV. 1. Voprosy obosnovania ggomitrii. Cast' 1. Inluicia, mati-
+             maticiskaa logika, idea porddka v geometrii. (Questions of the foundation of geom-
+             etry. Part I. Intuition, mathematical logic, the idea of order in geometry.) Moscow
+             and St. Petersburg 1913, 243 pp.

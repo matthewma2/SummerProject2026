@@ -1,0 +1,10 @@
+=== AUTHOR BLOCK 402 ===
+Name  : TADEUSZ KOTARBINSKI
+Flags : none
+Lines : 624–627
+========================================
+
+402. TADEUSZ KOTARBINSKI.
+                  0.1. Logika dla nauczycieli a logika matemalyczna (Logic for teachers and mathe-
+             matical logic). Ruchfilozoficzny, vol. 9 (1925), pp. 121-128.
+                  0.2. Review of Sleszynski's Teorja dowodu. Ibid., vol. 10 (1926-27), pp. 17-19.

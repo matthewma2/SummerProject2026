@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 92 ===
+Name  : MARIO PIERI
+Flags : none
+Lines : 275–279
+========================================
+
+92. MARIO PIERI.
+                   6.1. Review of Peano's Aritmetica generate e algebra elementare. Periodico di
+             matematica, vol. 18 (1903), pp. 293-295.
+                   8.7. Sopra gli assiomi aritmetici. Bollettino delle sedute della Accademia Gioenia
+             di Scienze Naturali in Catania, ser. 2 no. 2 (1908), pp. 26-30.

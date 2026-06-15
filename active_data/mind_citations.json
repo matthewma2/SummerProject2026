@@ -1,487 +1,487 @@
 [
     {
-        "source": "Robertson1876a",
-        "reference": "Teaching1875a",
-        "quotation": "Syllabus of Plane Geometry"
+        "source_id": "Robertson1876a",
+        "reference_id": "Teaching1875a",
+        "raw_reference_string": "Syllabus of Plane Geometry"
     },
     {
-        "source": "Robertson1876b",
-        "reference": "Jevons1874a",
-        "quotation": "The Principles of Science: A Treatise on Logic and Scientific Method"
+        "source_id": "Robertson1876b",
+        "reference_id": "Jevons1874a",
+        "raw_reference_string": "The Principles of Science: A Treatise on Logic and Scientific Method"
     },
     {
-        "source": "Robertson1876b",
-        "reference": "Jevons1864a",
-        "quotation": "Pure Logic"
+        "source_id": "Robertson1876b",
+        "reference_id": "Jevons1864a",
+        "raw_reference_string": "Pure Logic"
     },
     {
-        "source": "Robertson1876b",
-        "reference": "Jevons1869a",
-        "quotation": "Substitution of Similars"
+        "source_id": "Robertson1876b",
+        "reference_id": "Jevons1869a",
+        "raw_reference_string": "Substitution of Similars"
     },
     {
-        "source": "Robertson1876b",
-        "reference": "Aristotle-350e",
-        "quotation": "Prior Analytics"
+        "source_id": "Robertson1876b",
+        "reference_id": "Aristotle-350e",
+        "raw_reference_string": "Prior Analytics"
     },
     {
-        "source": "Robertson1876b",
-        "reference": "Aristotle-350d",
-        "quotation": "Posterior Analytics"
+        "source_id": "Robertson1876b",
+        "reference_id": "Aristotle-350d",
+        "raw_reference_string": "Posterior Analytics"
     },
     {
-        "source": "Peirce1876a",
-        "reference": "Teaching1875a",
-        "quotation": "Syllabus of Plane Geometry"
+        "source_id": "Peirce1876a",
+        "reference_id": "Teaching1875a",
+        "raw_reference_string": "Syllabus of Plane Geometry"
     },
     {
-        "source": "Peirce1876a",
-        "reference": "Robertson1876a",
-        "quotation": "MIND, vol.1, p.147-148"
+        "source_id": "Peirce1876a",
+        "reference_id": "Robertson1876a",
+        "raw_reference_string": "MIND, vol.1, p.147-148"
     },
     {
-        "source": "Peirce1876a",
-        "reference": "Delbuf1860a",
-        "quotation": "Prolégomènes Philosophiques de la Géométrie"
+        "source_id": "Peirce1876a",
+        "reference_id": "Delbuf1860a",
+        "raw_reference_string": "Prolégomènes Philosophiques de la Géométrie"
     },
     {
-        "source": "Venn1876a",
-        "reference": "Boole1854a",
-        "quotation": "Laws of Thought"
+        "source_id": "Venn1876a",
+        "reference_id": "Boole1854a",
+        "raw_reference_string": "Laws of Thought"
     },
     {
-        "source": "Venn1876a",
-        "reference": "Jevons1874a",
-        "quotation": "Principles of Science"
+        "source_id": "Venn1876a",
+        "reference_id": "Jevons1874a",
+        "raw_reference_string": "Principles of Science"
     },
     {
-        "source": "Venn1876a",
-        "reference": "Robertson1876b",
-        "quotation": "MIND, no.2"
+        "source_id": "Venn1876a",
+        "reference_id": "Robertson1876b",
+        "raw_reference_string": "MIND, no.2"
     },
     {
-        "source": "Venn1876a",
-        "reference": "Jevons1870a",
-        "quotation": "Lessons on Logic"
+        "source_id": "Venn1876a",
+        "reference_id": "Jevons1870a",
+        "raw_reference_string": "Lessons on Logic"
     },
     {
-        "source": "Murphy1877a",
-        "reference": "Boole1854a",
-        "quotation": "An Investigation of the Laws of Thought"
+        "source_id": "Murphy1877a",
+        "reference_id": "Boole1854a",
+        "raw_reference_string": "An Investigation of the Laws of Thought"
     },
     {
-        "source": "Murphy1877a",
-        "reference": "Jevons1874a",
-        "quotation": "Principles of Science"
+        "source_id": "Murphy1877a",
+        "reference_id": "Jevons1874a",
+        "raw_reference_string": "Principles of Science"
     },
     {
-        "source": "Murphy1877a",
-        "reference": "Jevons1869a",
-        "quotation": "Substitution of Similars"
+        "source_id": "Murphy1877a",
+        "reference_id": "Jevons1869a",
+        "raw_reference_string": "Substitution of Similars"
     },
     {
-        "source": "Murphy1877a",
-        "reference": "Venn1876a",
-        "quotation": "Boole's Logical System"
+        "source_id": "Murphy1877a",
+        "reference_id": "Venn1876a",
+        "raw_reference_string": "Boole's Logical System"
     },
     {
-        "source": "Murphy1877b",
-        "reference": "Richardson1748a",
-        "quotation": "Clarissa Harlowe"
+        "source_id": "Murphy1877b",
+        "reference_id": "Richardson1748a",
+        "raw_reference_string": "Clarissa Harlowe"
     },
     {
-        "source": "Murphy1877b",
-        "reference": "Bain1870a",
-        "quotation": "Logic"
+        "source_id": "Murphy1877b",
+        "reference_id": "Bain1870a",
+        "raw_reference_string": "Logic"
     },
     {
-        "source": "Read1877a",
-        "reference": "Mill1843a",
-        "quotation": "System of Logic"
+        "source_id": "Read1877a",
+        "reference_id": "Mill1843a",
+        "raw_reference_string": "System of Logic"
     },
     {
-        "source": "Read1877a",
-        "reference": "Bain1870a",
-        "quotation": "Logic"
+        "source_id": "Read1877a",
+        "reference_id": "Bain1870a",
+        "raw_reference_string": "Logic"
     },
     {
-        "source": "Read1877a",
-        "reference": "Spencer1855a",
-        "quotation": "Principles of Psychology"
+        "source_id": "Read1877a",
+        "reference_id": "Spencer1855a",
+        "raw_reference_string": "Principles of Psychology"
     },
     {
-        "source": "Read1877a",
-        "reference": "Spencer1864a",
-        "quotation": "Classification of the Sciences"
+        "source_id": "Read1877a",
+        "reference_id": "Spencer1864a",
+        "raw_reference_string": "Classification of the Sciences"
     },
     {
-        "source": "Read1877a",
-        "reference": "Mill1865a",
-        "quotation": "Examination of Hamilton"
+        "source_id": "Read1877a",
+        "reference_id": "Mill1865a",
+        "raw_reference_string": "Examination of Hamilton"
     },
     {
-        "source": "Read1877a",
-        "reference": "Spencer1873a",
-        "quotation": "Study of Sociology"
+        "source_id": "Read1877a",
+        "reference_id": "Spencer1873a",
+        "raw_reference_string": "Study of Sociology"
     },
     {
-        "source": "Read1877a",
-        "reference": "Read1878a",
-        "quotation": "Theory of Logic"
+        "source_id": "Read1877a",
+        "reference_id": "Read1878a",
+        "raw_reference_string": "Theory of Logic"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Lange1877a",
-        "quotation": "Logische Studien"
+        "source_id": "Stewart1878a",
+        "reference_id": "Lange1877a",
+        "raw_reference_string": "Logische Studien"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Lange1866a",
-        "quotation": "History of Materialism"
+        "source_id": "Stewart1878a",
+        "reference_id": "Lange1866a",
+        "raw_reference_string": "History of Materialism"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Kant1781a",
-        "quotation": "Kant"
+        "source_id": "Stewart1878a",
+        "reference_id": "Kant1781a",
+        "raw_reference_string": "Kant"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Mansel1851a",
-        "quotation": "Mansel's Prolegomena Logica"
+        "source_id": "Stewart1878a",
+        "reference_id": "Mansel1851a",
+        "raw_reference_string": "Mansel's Prolegomena Logica"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Ueberweg1857a",
-        "quotation": "Ueberweg (Logik, § 84)"
+        "source_id": "Stewart1878a",
+        "reference_id": "Ueberweg1857a",
+        "raw_reference_string": "Ueberweg (Logik, § 84)"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Cynic-380a",
-        "quotation": "Antisthenes... Sathon"
+        "source_id": "Stewart1878a",
+        "reference_id": "Cynic-380a",
+        "raw_reference_string": "Antisthenes... Sathon"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Aristotle-350d",
-        "quotation": "An. Post. ii. 7"
+        "source_id": "Stewart1878a",
+        "reference_id": "Aristotle-350d",
+        "raw_reference_string": "An. Post. ii. 7"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Aristotle-350b",
-        "quotation": "Met. ii. 3, vi. 10, vi. 14, viii. 9"
+        "source_id": "Stewart1878a",
+        "reference_id": "Aristotle-350b",
+        "raw_reference_string": "Met. ii. 3, vi. 10, vi. 14, viii. 9"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Aristotle-350a",
-        "quotation": "Cat. 3"
+        "source_id": "Stewart1878a",
+        "reference_id": "Aristotle-350a",
+        "raw_reference_string": "Cat. 3"
     },
     {
-        "source": "Stewart1878a",
-        "reference": "Aristotle-350c",
-        "quotation": "Eth. vi. 8, 6"
+        "source_id": "Stewart1878a",
+        "reference_id": "Aristotle-350c",
+        "raw_reference_string": "Eth. vi. 8, 6"
     },
     {
-        "source": "Adamson1878b",
-        "reference": "Solly1877a",
-        "quotation": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory"
+        "source_id": "Adamson1878b",
+        "reference_id": "Solly1877a",
+        "raw_reference_string": "Thoughts on Logic; or, The S,N,I,X, Propositional Theory"
     },
     {
-        "source": "Adamson1878b",
-        "reference": "Hamilton1860a",
-        "quotation": "Hamilton's Analytic"
+        "source_id": "Adamson1878b",
+        "reference_id": "Hamilton1860a",
+        "raw_reference_string": "Hamilton's Analytic"
     },
     {
-        "source": "Adamson1878b",
-        "reference": "Spalding1857a",
-        "quotation": "Spalding (Logic § 49)"
+        "source_id": "Adamson1878b",
+        "reference_id": "Spalding1857a",
+        "raw_reference_string": "Spalding (Logic § 49)"
     },
     {
-        "source": "Adamson1878b",
-        "reference": "Twesten1825a",
-        "quotation": "Twesten"
+        "source_id": "Adamson1878b",
+        "reference_id": "Twesten1825a",
+        "raw_reference_string": "Twesten"
     },
     {
-        "source": "Adamson1878b",
-        "reference": "Aristotle-350e",
-        "quotation": "Aristotelian logic"
+        "source_id": "Adamson1878b",
+        "reference_id": "Aristotle-350e",
+        "raw_reference_string": "Aristotelian logic"
     },
     {
-        "source": "Halsted1878a",
-        "reference": "Jevons1864a",
-        "quotation": "Pure Logic (1864)"
+        "source_id": "Halsted1878a",
+        "reference_id": "Jevons1864a",
+        "raw_reference_string": "Pure Logic (1864)"
     },
     {
-        "source": "Halsted1878a",
-        "reference": "Jevons1874a",
-        "quotation": "Principles of Science (2nd Ed.)"
+        "source_id": "Halsted1878a",
+        "reference_id": "Jevons1874a",
+        "raw_reference_string": "Principles of Science (2nd Ed.)"
     },
     {
-        "source": "Halsted1878a",
-        "reference": "Boole1854a",
-        "quotation": "Boole's works"
+        "source_id": "Halsted1878a",
+        "reference_id": "Boole1854a",
+        "raw_reference_string": "Boole's works"
     },
     {
-        "source": "Halsted1878a",
-        "reference": "Jevons1870a",
-        "quotation": "Elementary Lessons in Logic (1870)"
+        "source_id": "Halsted1878a",
+        "reference_id": "Jevons1870a",
+        "raw_reference_string": "Elementary Lessons in Logic (1870)"
     },
     {
-        "source": "Halsted1878a",
-        "reference": "Grassmann1844a",
-        "quotation": "Grassmann's system"
+        "source_id": "Halsted1878a",
+        "reference_id": "Grassmann1844a",
+        "raw_reference_string": "Grassmann's system"
     },
     {
-        "source": "Halsted1878a",
-        "reference": "Spottiswoode1871a",
-        "quotation": "Mr. Spottiswoode's little paper on Recent Algebras"
+        "source_id": "Halsted1878a",
+        "reference_id": "Spottiswoode1871a",
+        "raw_reference_string": "Mr. Spottiswoode's little paper on Recent Algebras"
     },
     {
-        "source": "Halsted1878a",
-        "reference": "Peirce1870a",
-        "quotation": "Linear Associative Algebras of Prof. Peirce"
+        "source_id": "Halsted1878a",
+        "reference_id": "Peirce1870a",
+        "raw_reference_string": "Linear Associative Algebras of Prof. Peirce"
     },
     {
-        "source": "Halsted1878a",
-        "reference": "Venn1876a",
-        "quotation": "Mr. Venn (MIND IV., p. 489)"
+        "source_id": "Halsted1878a",
+        "reference_id": "Venn1876a",
+        "raw_reference_string": "Mr. Venn (MIND IV., p. 489)"
     },
     {
-        "source": "Halsted1878a",
-        "reference": "Kruter1877a",
-        "quotation": "Die Lautverschiebung"
+        "source_id": "Halsted1878a",
+        "reference_id": "Kruter1877a",
+        "raw_reference_string": "Die Lautverschiebung"
     },
     {
-        "source": "Adamson1878a",
-        "reference": "Schrder1877a",
-        "quotation": "Der Operationskreis des Logikkalkuls"
+        "source_id": "Adamson1878a",
+        "reference_id": "Schroder1877a",
+        "raw_reference_string": "Der Operationskreis des Logikkalkuls"
     },
     {
-        "source": "Adamson1878a",
-        "reference": "Boole1854a",
-        "quotation": "Laws of Thought"
+        "source_id": "Adamson1878a",
+        "reference_id": "Boole1854a",
+        "raw_reference_string": "Laws of Thought"
     },
     {
-        "source": "Adamson1878a",
-        "reference": "Grassmann1872a",
-        "quotation": "Grassman's Begriffslehre oder Logik"
+        "source_id": "Adamson1878a",
+        "reference_id": "Grassmann1872a",
+        "raw_reference_string": "Grassman's Begriffslehre oder Logik"
     },
     {
-        "source": "Adamson1878a",
-        "reference": "Grassmann1872b",
-        "quotation": "Die Formenlehre oder Mathematik"
+        "source_id": "Adamson1878a",
+        "reference_id": "Grassmann1872b",
+        "raw_reference_string": "Die Formenlehre oder Mathematik"
     },
     {
-        "source": "Adamson1878a",
-        "reference": "Jevons1864a",
-        "quotation": "Prof. Jevons's method"
+        "source_id": "Adamson1878a",
+        "reference_id": "Jevons1864a",
+        "raw_reference_string": "Prof. Jevons's method"
     },
     {
-        "source": "Sidgwick1878a",
-        "reference": "Mill1843a",
-        "quotation": "Mill's table of Fallacies"
+        "source_id": "Sidgwick1878a",
+        "reference_id": "Mill1843a",
+        "raw_reference_string": "Mill's table of Fallacies"
     },
     {
-        "source": "Sidgwick1878a",
-        "reference": "Bain1870a",
-        "quotation": "Bain tells us"
+        "source_id": "Sidgwick1878a",
+        "reference_id": "Bain1870a",
+        "raw_reference_string": "Bain tells us"
     },
     {
-        "source": "Sidgwick1878a",
-        "reference": "Hartley1749a",
-        "quotation": "partisans of Hartley and of Reid"
+        "source_id": "Sidgwick1878a",
+        "reference_id": "Hartley1749a",
+        "raw_reference_string": "partisans of Hartley and of Reid"
     },
     {
-        "source": "Sidgwick1878a",
-        "reference": "Reid1764a",
-        "quotation": "partisans of Hartley and of Reid"
+        "source_id": "Sidgwick1878a",
+        "reference_id": "Reid1764a",
+        "raw_reference_string": "partisans of Hartley and of Reid"
     },
     {
-        "source": "Sidgwick1878a",
-        "reference": "Kant1781a",
-        "quotation": "Locke and of Kant"
+        "source_id": "Sidgwick1878a",
+        "reference_id": "Kant1781a",
+        "raw_reference_string": "Locke and of Kant"
     },
     {
-        "source": "Venn1878a",
-        "reference": "Read1878a",
-        "quotation": "On the Theory of Logic: An Essay. By CARVETH READ"
+        "source_id": "Venn1878a",
+        "reference_id": "Read1878a",
+        "raw_reference_string": "On the Theory of Logic: An Essay. By CARVETH READ"
     },
     {
-        "source": "Venn1878a",
-        "reference": "Mill1843a",
-        "quotation": "Mill is the best known exponent"
+        "source_id": "Venn1878a",
+        "reference_id": "Mill1843a",
+        "raw_reference_string": "Mill is the best known exponent"
     },
     {
-        "source": "Venn1878a",
-        "reference": "Wallace1878a",
-        "quotation": "Mr. A. R. Wallace's Tropical Nature"
+        "source_id": "Venn1878a",
+        "reference_id": "Wallace1878a",
+        "raw_reference_string": "Mr. A. R. Wallace's Tropical Nature"
     },
     {
-        "source": "Venn1878a",
-        "reference": "Spencer1855a",
-        "quotation": "lines of Mr. H. Spencer"
+        "source_id": "Venn1878a",
+        "reference_id": "Spencer1855a",
+        "raw_reference_string": "lines of Mr. H. Spencer"
     },
     {
-        "source": "Robertson1878a",
-        "reference": "Robertson1876a",
-        "quotation": "observations made by me, in the first number of this journal"
+        "source_id": "Robertson1878a",
+        "reference_id": "Robertson1876a",
+        "raw_reference_string": "observations made by me, in the first number of this journal"
     },
     {
-        "source": "Robertson1878a",
-        "reference": "Teaching1875a",
-        "quotation": "Syllabus of Plane Geometry issued by the Association in 1875"
+        "source_id": "Robertson1878a",
+        "reference_id": "Teaching1875a",
+        "raw_reference_string": "Syllabus of Plane Geometry issued by the Association in 1875"
     },
     {
-        "source": "Robertson1878a",
-        "reference": "Delbuf1860a",
-        "quotation": "M. Delbœuf in his Prolegomenes philosophiques de la Geometrie"
+        "source_id": "Robertson1878a",
+        "reference_id": "Delbuf1860a",
+        "raw_reference_string": "M. Delbœuf in his Prolegomenes philosophiques de la Geometrie"
     },
     {
-        "source": "Venn1879c",
-        "reference": "Read1878a",
-        "quotation": "notice of Mr. C. Read's Essay on Logic, published in MIND XII."
+        "source_id": "Venn1879c",
+        "reference_id": "Read1878a",
+        "raw_reference_string": "notice of Mr. C. Read's Essay on Logic, published in MIND XII."
     },
     {
-        "source": "Venn1879c",
-        "reference": "Spencer1855a",
-        "quotation": "the view of Mr. H. Spencer... distinction between the Science of Logic and the Theory of Reasoning"
+        "source_id": "Venn1879c",
+        "reference_id": "Spencer1855a",
+        "raw_reference_string": "the view of Mr. H. Spencer... distinction between the Science of Logic and the Theory of Reasoning"
     },
     {
-        "source": "Venn1879c",
-        "reference": "Robertson1876a",
-        "quotation": "The Editor in a former number (No. IV. p. 216), drew a distinction between the 'if' of doubt and the 'if' of inference."
+        "source_id": "Venn1879c",
+        "reference_id": "Robertson1876a",
+        "raw_reference_string": "The Editor in a former number (No. IV. p. 216), drew a distinction between the 'if' of doubt and the 'if' of inference."
     },
     {
-        "source": "Keynes1879a",
-        "reference": "Venn1879c",
-        "quotation": "review of Mr. Carveth Read's Essay... in the last number of MIND, Mr. Venn alludes"
+        "source_id": "Keynes1879a",
+        "reference_id": "Venn1879c",
+        "raw_reference_string": "review of Mr. Carveth Read's Essay... in the last number of MIND, Mr. Venn alludes"
     },
     {
-        "source": "Keynes1879a",
-        "reference": "Read1878a",
-        "quotation": "Mr. Carveth Read's Essay on the Theory of Logic"
+        "source_id": "Keynes1879a",
+        "reference_id": "Read1878a",
+        "raw_reference_string": "Mr. Carveth Read's Essay on the Theory of Logic"
     },
     {
-        "source": "Keynes1879a",
-        "reference": "Mill1843a",
-        "quotation": "Mill has remarked that if there were but one rational being"
+        "source_id": "Keynes1879a",
+        "reference_id": "Mill1843a",
+        "raw_reference_string": "Mill has remarked that if there were but one rational being"
     },
     {
-        "source": "Sidgwick1879a",
-        "reference": "Read1878a",
-        "quotation": "Mr. Carveth Read's proposal (Essay, on the Theory of Logic: Introd. sect. 5)"
+        "source_id": "Sidgwick1879a",
+        "reference_id": "Read1878a",
+        "raw_reference_string": "Mr. Carveth Read's proposal (Essay, on the Theory of Logic: Introd. sect. 5)"
     },
     {
-        "source": "Sidgwick1879a",
-        "reference": "Venn1879c",
-        "quotation": "not dealt with by Mr. Venn in his criticism in the last number of MIND"
+        "source_id": "Sidgwick1879a",
+        "reference_id": "Venn1879c",
+        "raw_reference_string": "not dealt with by Mr. Venn in his criticism in the last number of MIND"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Hamilton1833a",
-        "quotation": "WRITING nearly half a century ago in the Edinburgh Review, Sir William Hamilton [...]"
+        "source_id": "Keynes1879b",
+        "reference_id": "Hamilton1833a",
+        "raw_reference_string": "WRITING nearly half a century ago in the Edinburgh Review, Sir William Hamilton [...]"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Whately1826a",
-        "quotation": "Archbishop Whately's Elements of Logic"
+        "source_id": "Keynes1879b",
+        "reference_id": "Whately1826a",
+        "raw_reference_string": "Archbishop Whately's Elements of Logic"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Mansel1851a",
-        "quotation": "Mansel's Prolegomena Logica"
+        "source_id": "Keynes1879b",
+        "reference_id": "Mansel1851a",
+        "raw_reference_string": "Mansel's Prolegomena Logica"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Hamilton1860a",
-        "quotation": "Hamilton's own Lectures"
+        "source_id": "Keynes1879b",
+        "reference_id": "Hamilton1860a",
+        "raw_reference_string": "Hamilton's own Lectures"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Mill1843a",
-        "quotation": "Mill's System of Logic"
+        "source_id": "Keynes1879b",
+        "reference_id": "Mill1843a",
+        "raw_reference_string": "Mill's System of Logic"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Whewell1858a",
-        "quotation": "Whewell's Novum Organum Renovatum"
+        "source_id": "Keynes1879b",
+        "reference_id": "Whewell1858a",
+        "raw_reference_string": "Whewell's Novum Organum Renovatum"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Boole1854a",
-        "quotation": "Boole's Laws of Thought"
+        "source_id": "Keynes1879b",
+        "reference_id": "Boole1854a",
+        "raw_reference_string": "Boole's Laws of Thought"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Morgan1847a",
-        "quotation": "De Morgan's Formal Logic"
+        "source_id": "Keynes1879b",
+        "reference_id": "DeMorgan1847a",
+        "raw_reference_string": "De Morgan's Formal Logic"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Venn1866a",
-        "quotation": "Venn's Logic of Chance"
+        "source_id": "Keynes1879b",
+        "reference_id": "Venn1866a",
+        "raw_reference_string": "Venn's Logic of Chance"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Jevons1874a",
-        "quotation": "Jevons's Princilples of Science"
+        "source_id": "Keynes1879b",
+        "reference_id": "Jevons1874a",
+        "raw_reference_string": "Jevons's Princilples of Science"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Fowler1867a",
-        "quotation": "Fowler's deservedly popular text-books"
+        "source_id": "Keynes1879b",
+        "reference_id": "Fowler1867a",
+        "raw_reference_string": "Fowler's deservedly popular text-books"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Venn1876a",
-        "quotation": "In a particularly interesting and useful essay published in the first number of MIND, Mr. Venn giives a brief summary [...]"
+        "source_id": "Keynes1879b",
+        "reference_id": "Venn1876a",
+        "raw_reference_string": "In a particularly interesting and useful essay published in the first number of MIND, Mr. Venn giives a brief summary [...]"
     },
     {
-        "source": "Keynes1879b",
-        "reference": "Spencer1855a",
-        "quotation": "The subjective correlations may have had ultimately an objective origin as maintained by Mr. Spencer"
+        "source_id": "Keynes1879b",
+        "reference_id": "Spencer1855a",
+        "raw_reference_string": "The subjective correlations may have had ultimately an objective origin as maintained by Mr. Spencer"
     },
     {
-        "source": "Venn1879a",
-        "reference": "Sigwart1878a",
-        "quotation": null
+        "source_id": "Venn1879a",
+        "reference_id": "Sigwart1878a",
+        "raw_reference_string": null
     },
     {
-        "source": "Venn1879a",
-        "reference": "Mill1843a",
-        "quotation": "would he not have [...], as in fact Mill does at the commencement of his Logic?"
+        "source_id": "Venn1879a",
+        "reference_id": "Mill1843a",
+        "raw_reference_string": "would he not have [...], as in fact Mill does at the commencement of his Logic?"
     },
     {
-        "source": "Venn1879a",
-        "reference": "Jevons1874a",
-        "quotation": "From the reference to Professor Jevons's Principles of Science in the preface"
+        "source_id": "Venn1879a",
+        "reference_id": "Jevons1874a",
+        "raw_reference_string": "From the reference to Professor Jevons's Principles of Science in the preface"
     },
     {
-        "source": "Venn1879a",
-        "reference": "Darwin1859a",
-        "quotation": "the adnmission of the Darwinian Theory"
+        "source_id": "Venn1879a",
+        "reference_id": "Darwin1859a",
+        "raw_reference_string": "the adnmission of the Darwinian Theory"
     },
     {
-        "source": "Venn1879b",
-        "reference": "Macfarlane1879a",
-        "quotation": null
+        "source_id": "Venn1879b",
+        "reference_id": "Macfarlane1879a",
+        "raw_reference_string": null
     },
     {
-        "source": "Venn1879b",
-        "reference": "Boole1854a",
-        "quotation": "It is avowedly written on the lines of Boole, though he differs freely on various points, more or less of detail, from that great originator of the subject."
+        "source_id": "Venn1879b",
+        "reference_id": "Boole1854a",
+        "raw_reference_string": "It is avowedly written on the lines of Boole, though he differs freely on various points, more or less of detail, from that great originator of the subject."
     },
     {
-        "source": "Sidgwick1880a",
-        "reference": "Bacon1620a",
-        "quotation": null
+        "source_id": "Sidgwick1880a",
+        "reference_id": "Bacon1620a",
+        "raw_reference_string": null
     },
     {
-        "source": "Sidgwick1880a",
-        "reference": "Mill1843a",
-        "quotation": "Mill's System of Logic"
+        "source_id": "Sidgwick1880a",
+        "reference_id": "Mill1843a",
+        "raw_reference_string": "Mill's System of Logic"
     },
     {
-        "source": "Sidgwick1880a",
-        "reference": "Macfarlane1879a",
-        "quotation": null
+        "source_id": "Sidgwick1880a",
+        "reference_id": "Macfarlane1879a",
+        "raw_reference_string": null
     }
 ]

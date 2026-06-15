@@ -94,7 +94,7 @@
     "authors": [
       "kazimierz-ajdukiewicz"
     ],
-    "year": null,
+    "year": 1935,
     "type": "article",
     "journal": "Studia philosophica (Lwów)",
     "volume": "1",
@@ -107,7 +107,7 @@
     "authors": [
       "rodolfo-bettazzi"
     ],
-    "year": null,
+    "year": 1895,
     "type": "book chapter",
     "pages": "75-82",
     "notes": "Published in Formulaire de mathématiques, vol. 1. See Giuseppe Peano 7177."
@@ -118,7 +118,7 @@
     "authors": [
       "b-bornstein"
     ],
-    "year": null,
+    "year": 1914,
     "type": "article",
     "notes": "English translation of title: (Geometrical logic and its significance for philosophy). For corrected reference, see page 119."
   },
@@ -128,7 +128,7 @@
     "authors": [
       "gino-fano"
     ],
-    "year": null,
+    "year": 1895,
     "type": "book chapter",
     "pages": "101-114",
     "notes": "Published in Formulaire de mathématiques, vol. 1. See Giuseppe Peano 1117."
@@ -139,7 +139,7 @@
     "authors": [
       "francesco-giudice"
     ],
-    "year": null,
+    "year": 1895,
     "type": "book chapter",
     "pages": "83-100",
     "notes": "Published in Formulaire de mathématiques, vol. 1. See Giuseppe Peano 7177."
@@ -150,7 +150,7 @@
     "authors": [
       "alwin-korselt"
     ],
-    "year": null,
+    "year": 1905,
     "type": "book chapter",
     "pages": "421-423, 596-597",
     "notes": "See Schroder's Vorlesungen Uber die Algebra der Logik, vol. 2 part 2 (Ernst Schroder 4229)."
@@ -161,7 +161,7 @@
     "authors": [
       "giulio-vivanti"
     ],
-    "year": null,
+    "year": 1895,
     "type": "book chapter",
     "pages": "65-74",
     "notes": "Published in Formulaire de mathématiques, vol. 1. See Giuseppe Peano 7127."
@@ -172,17 +172,17 @@
     "authors": [
       "friedrich-waismann"
     ],
-    "year": null,
+    "year": 1928,
     "type": "book",
     "notes": "Published as Schriften zur wissenschaftlichen Weltauffassung, vol. 1. With an introduction by Moritz Schlick."
   },
   {
-    "id": "Kaila1500a",
+    "id": "Kaila1930a",
     "title": "Der logistische Neupositivismus. Eine kritische Studie",
     "authors": [
       "eino-kaila"
     ],
-    "year": 1500,
+    "year": 1930,
     "type": "book",
     "location": "Abo",
     "pages": "93 pp.",
@@ -25249,7 +25249,7 @@
     "type": "book",
     "location": "Warsaw",
     "pages": "143-160",
-    "notes": "Entry contains a C flag. Published in Ksiega pamiatkowa ku uczczeniu lS-lecia pracy nauczycielskiej w Uniwersytecie Warszawskim Prof. Tadeusza Kotarbinskiego."
+    "notes": "Entry contains a C flag. Published in Ksiega pamiatkowa ku uczczeniu 15-lecia pracy nauczycielskiej w Uniwersytecie Warszawskim Prof. Tadeusza Kotarbinskiego."
   },
   {
     "id": "Stebbing1934a",
@@ -29566,7 +29566,7 @@
     "id": "Hall1949a",
     "title": "The Word Problem for Semigroups with Two Generators",
     "authors": [
-      "marshall-hall-suffixjrsuffix"
+      "marshall-hall-jr"
     ],
     "year": 1949,
     "type": "article",
@@ -32853,7 +32853,7 @@
     "id": "Rogers1958a",
     "title": "Gödel Numberings of Partial Recursive Functions",
     "authors": [
-      "hartley-rogers-suffixjrsuffix"
+      "hartley-rogers-jr"
     ],
     "year": 1958,
     "type": "article",
@@ -33124,7 +33124,7 @@
     "id": "Lvy1959a",
     "title": "On Ackermann's Set Theory",
     "authors": [
-      "azriel-lvy"
+      "azriel-levy"
     ],
     "year": 1959,
     "type": "article",
@@ -33138,7 +33138,7 @@
     "id": "More1959a",
     "title": "On the Construction of Venn Diagrams",
     "authors": [
-      "trenchard-more-suffixjrsuffix"
+      "trenchard-more-jr"
     ],
     "year": 1959,
     "type": "article",
@@ -33363,7 +33363,7 @@
     "id": "Lvy1960a",
     "title": "A Generalization of Gödel's Notion of Constructibility",
     "authors": [
-      "azriel-lvy"
+      "azriel-levy"
     ],
     "year": 1960,
     "type": "article",
@@ -35840,7 +35840,7 @@
     "id": "Owings1967a",
     "title": "Recursion, Metarecursion, and Inclusion",
     "authors": [
-      "james-c-owings-suffixjrsuffix"
+      "james-c-owings-jr"
     ],
     "year": 1967,
     "type": "article",
@@ -36167,7 +36167,7 @@
     "id": "Driscoll1968a",
     "title": "Metarecursively Enumerable Sets and Their Metadegrees",
     "authors": [
-      "graham-c-driscoll-suffixjrsuffix"
+      "graham-c-driscoll-jr"
     ],
     "year": 1968,
     "type": "article",
@@ -36308,7 +36308,7 @@
     "id": "Jockusch1968a",
     "title": "Uniformly Introreducible Sets",
     "authors": [
-      "carl-g-jockusch-suffixjrsuffix"
+      "carl-g-jockusch-jr"
     ],
     "year": 1968,
     "type": "article",
@@ -36364,7 +36364,7 @@
     "id": "Lambert1968a",
     "title": "A Notion of Effectiveness in Arbitrary Structures",
     "authors": [
-      "w-m-lambert-suffixjrsuffix"
+      "w-m-lambert-jr"
     ],
     "year": 1968,
     "type": "article",
@@ -37141,7 +37141,7 @@
     "id": "Jockusch1969a",
     "title": "The Degrees of Hyperhyperimmune Sets",
     "authors": [
-      "carl-g-jockusch-suffixjrsuffix"
+      "carl-g-jockusch-jr"
     ],
     "year": 1969,
     "type": "article",
@@ -37170,7 +37170,7 @@
     "title": "Predicate Calculus with Free Quantifier Variables",
     "authors": [
       "richmond-h-thomason",
-      "d-randolph-johnson-suffixjrsuffix"
+      "d-randolph-johnson-jr"
     ],
     "year": 1969,
     "type": "article",
@@ -37366,7 +37366,7 @@
     "id": "Owings1969a",
     "title": "π<sup>1</sup>\n               <sub>1</sub> Sets, ω-Sets, and Metacompleteness",
     "authors": [
-      "james-c-owings-suffixjrsuffix"
+      "james-c-owings-jr"
     ],
     "year": 1969,
     "type": "article",
@@ -37894,7 +37894,7 @@
     "id": "Owings1970a",
     "title": "The Meta-R.E. Sets, but Not the Π<sup>1</sup>\n               <sub>1</sub> Sets, Can Be Enumerated Without Repetition",
     "authors": [
-      "james-c-owings-suffixjrsuffix"
+      "james-c-owings-jr"
     ],
     "year": 1970,
     "type": "article",
@@ -37908,7 +37908,7 @@
     "id": "Sasso1970a",
     "title": "A Cornucopia of Minimal Degrees",
     "authors": [
-      "leonard-p-sasso-suffixjrsuffix"
+      "leonard-p-sasso-jr"
     ],
     "year": 1970,
     "type": "article",
@@ -38076,7 +38076,7 @@
     "id": "Walkoe1970a",
     "title": "Finite Partially-Ordered Quantification",
     "authors": [
-      "wilbur-john-walkoe-suffixjrsuffix"
+      "wilbur-john-walkoe-jr"
     ],
     "year": 1970,
     "type": "article",
@@ -38106,7 +38106,7 @@
     "authors": [
       "bertrand-russell"
     ],
-    "year": 2026,
+    "year": 1906,
     "type": "article",
     "journal": "Proc. London Math. Soc",
     "volume": "2 s 4",

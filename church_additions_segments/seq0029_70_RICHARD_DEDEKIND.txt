@@ -1,0 +1,28 @@
+=== AUTHOR BLOCK 70} ===
+Name  : RICHARD DEDEKIND
+Flags : none
+Lines : 226–247
+========================================
+
+70}. RICHARD DEDEKIND.
+         *          1. Was sind und was sollen die Zahlen? Braunschweig 1888, xv + 58 pp. 2nd
+              edn. 1893. 3rd edn. 1911. 6th. edn. 1930. Reprinted, with prefaces to first, second,
+              and third editions, in Richard Dedekind Gesammelte mathemalische Werke, vol. 3
+               (Braunschweig 1932), pp. 335-391. "Als solche Hauptpuncte erwahne ich hier die
+              scharfe Unterscheidung des Endlichen vom Unendlichen, den Begriff der Anzahl von
+              Dingen, den Nachweis, dass die unter dem Namen der vollstandigen Induction (oder
+              das Schlusses von n auf n + 1) bekannte Beweisart wirklich beweiskraftig, und dass
+
+
+
+                                                            •
+             auch die Definition durch Induction (oder Recursion) bestimmt und widerspruchsfrei
+             ist."
+                   2. The nature and meaning of numbers. English translation of the preceding by
+             W. W. Beman. Essays on the theory of numbers, by Richard Dedekind, Chicago and
+             London 1901 (2nd. edn. Chicago 1909), pp. 29-115.
+                  3. Russian translation of the same by N. N . Parf6ntev. Bulletin de la SociitS
+             Physico-Malhematique de Kasan, 2 s. vol. 15 no. 2 (1905), pp. 25-105.
+                   4. Italian translation of the same by Oscar Zariski. Essenza e significato dei
+             numeri, Conlinuili e numeri irrazionali, by Richard Dedekind, Rome 1926.
+                   See also Georg Cantor 651.1.

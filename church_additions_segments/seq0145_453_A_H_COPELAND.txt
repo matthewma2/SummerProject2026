@@ -1,0 +1,8 @@
+=== AUTHOR BLOCK 453} ===
+Name  : A. H. COPELAND
+Flags : none
+Lines : 712–713
+========================================
+
+453}. A. H. COPELAND. 1. The theory of probability from the point of view of admissible
+               numbers. The annals of mathematical statistics, vol. 3 (1932), pp. 143-156.

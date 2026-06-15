@@ -1,0 +1,11 @@
+=== AUTHOR BLOCK 172 ===
+Name  : KURT GRELLING
+Flags : none
+Lines : 328–332
+========================================
+
+172. KURT GRELLING and LEONARD NELSON.
+                  1. Bemerkungen zu den Paradoxieen von Russell und Burali-Forli. Abh. Fries.
+             Schule, n. s. vol. 2 (1907-08), pp. 301-324.
+                  1.1. Vber zwei das Paradoxon betreffendc Abhandlungen des Herrn E. Zermelo.
+             Ibid., pp. 331-334.

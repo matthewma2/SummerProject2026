@@ -1,0 +1,9 @@
+=== AUTHOR BLOCK 433 ===
+Name  : KAZIMIERZ KURATOWSKI
+Flags : none
+Lines : 667–669
+========================================
+
+433. KAZIMIERZ KURATOWSKI. 0.1. Sur la notion de I'ordre dans la theorie des en-
+              sembles. Fundamenta mathematicae, vol. 2 (1921), pp. 161-171. "La classe ((a, 6),
+              (a)) est une 'paire ordonnee dont a est le premier el6ment et 6 est le second'."

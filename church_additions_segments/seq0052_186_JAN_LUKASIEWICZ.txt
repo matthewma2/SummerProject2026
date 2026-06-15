@@ -1,0 +1,15 @@
+=== AUTHOR BLOCK 186 ===
+Name  : JAN LUKASIEWICZ
+Flags : none
+Lines : 376–384
+========================================
+
+186. JAN LUKASIEWICZ.
+                   5.1. Review of Sleszynski's O logice tradycyjnej. Ruchfilozoficzny, vol. 8 (1923).
+             pp. 107-108.
+                   5.2. Demonstration de la compatibility des axiomes de la th&orie de la deduction.
+             Annales de la SocietS Polonaise de Mathematique, vol. 3 (for 1924, pub. 1925), p. 149.
+                   5.3. Rola definicji w syslemach dedukcyjnych (The role of definitions in deductive
+             systems). Ruchfilozoficzny, vol. 11 (1928-9), p. 164.
+                   5.4. O definicjach w teorji dedukeji (On definitions in the theory of deduction).
+             Ibid., pp. 177-178.

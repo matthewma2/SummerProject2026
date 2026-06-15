@@ -1,0 +1,14 @@
+=== AUTHOR BLOCK 37 ===
+Name  : JOHN VENN
+Flags : none
+Lines : 128–135
+========================================
+
+37. JOHN VENN.
+                   T.I. Question in Mathematical questions, with their solutions, from the "Educa-
+             tional Times" (London), vol. 33 (1880), pp. 99-100. Solutions by C. J. Monro, R. R.
+             Grey, Hugh MacColl, and the proposer.
+                   7.2. Question ibid., vol. 34 (1880), pp. 35-36. Solutions by Robert Harley, Matz,
+             Hugh MacColl, and Genese.
+                   7.3. Question ibid., p. 51. Solution by Hugh MacColl (397). Also a solution
+             by Robert Harley, ibid., p. 74 (274).
