@@ -2,7 +2,9 @@
   {
     "id": "Dubislav1931a",
     "title": "Les recherches sur la philosophie des mathématiques en Allemagne (Aperçu général)",
-    "authors": ["Walter Dubislav"],
+    "authors": [
+      "walter-dubislav"
+    ],
     "year": 1931,
     "type": "article",
     "journal": "Recherches philosophiques",
@@ -13,7 +15,9 @@
   {
     "id": "Spaier1932a",
     "title": "Review of Reymond's Les principes de la logique et la critique contemporaine (1636)",
-    "authors": ["A. Spaier"],
+    "authors": [
+      "a-spaier"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "Recherches philosophiques",
@@ -24,7 +28,9 @@
   {
     "id": "Weiss1934a",
     "title": "Peirce, Charles Sanders",
-    "authors": ["Paul Weiss"],
+    "authors": [
+      "paul-weiss"
+    ],
     "year": 1934,
     "type": "book chapter",
     "journal": "Dictionary of American Biography",
@@ -35,7 +41,9 @@
   {
     "id": "Bornstein1934a",
     "title": "Architektonika świata. Tom I. Prolegomena do architektoniki świata",
-    "authors": ["B. Bornstein"],
+    "authors": [
+      "b-bornstein"
+    ],
     "year": 1934,
     "type": "book",
     "location": "Warsaw",
@@ -45,7 +53,9 @@
   {
     "id": "Bornstein1935a",
     "title": "Author abstract of Architektonika świata, Tom I (French)",
-    "authors": ["B. Bornstein"],
+    "authors": [
+      "b-bornstein"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Studia philosophica",
@@ -56,7 +66,9 @@
   {
     "id": "Cavailles1934a",
     "title": "Review of Hilbert and Bernays's Grundlagen der Mathematik, vol. 1 (5071)",
-    "authors": ["Jean Cavaillès"],
+    "authors": [
+      "jean-cavailles"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Recherches philosophiques",
@@ -67,7 +79,9 @@
   {
     "id": "Kojevnikoff1934a",
     "title": "Review of Dingler's Philosophie der Logik und Arithmetik (2016)",
-    "authors": ["A. Kojevnikoff"],
+    "authors": [
+      "a-kojevnikoff"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Recherches philosophiques",
@@ -78,7 +92,9 @@
   {
     "id": "Mally1926a",
     "title": "Grundgesetze des Sollens. Elemente der Logik des Willens",
-    "authors": ["Ernst Mally"],
+    "authors": [
+      "ernst-mally"
+    ],
     "year": 1926,
     "type": "book",
     "location": "Graz",
@@ -87,7 +103,9 @@
   {
     "id": "NarasingaRao1929a",
     "title": "A Boolean matrix algebra",
-    "authors": ["A. Narasinga Rao"],
+    "authors": [
+      "a-narasinga-rao"
+    ],
     "year": 1929,
     "type": "article",
     "journal": "The Journal of the Indian Mathematical Society",
@@ -98,7 +116,9 @@
   {
     "id": "Ryle1930a",
     "title": "Are there propositions?",
-    "authors": ["G. Ryle"],
+    "authors": [
+      "gilbert-ryle"
+    ],
     "year": 1930,
     "type": "article",
     "journal": "Proceedings of the Aristotelian Society",
@@ -109,7 +129,10 @@
   {
     "id": "MichaelAdler1931a",
     "title": "The nature of judicial proof. An inquiry into the logical, legal, and empirical aspects of the law of evidence",
-    "authors": ["Jerome Michael", "Mortimer J. Adler"],
+    "authors": [
+      "jerome-michael",
+      "mortimer-j-adler"
+    ],
     "year": 1931,
     "type": "book",
     "pages": "vi+388 pp."
@@ -117,7 +140,9 @@
   {
     "id": "Richard1932a",
     "title": "Sur quelques points de logique (À propos de l'ouvrage de M. Gonseth)",
-    "authors": ["Richard"],
+    "authors": [
+      "jules-richard"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "Association Française pour l'Avancement des Sciences, Compte rendu de la 56e session, Bruxelles 1932",
@@ -127,7 +152,9 @@
   {
     "id": "Kuratowski1933a",
     "title": "Topologie I. Espaces métrísables, espaces complets",
-    "authors": ["Casimir Kuratowski"],
+    "authors": [
+      "kazimierz-kuratowski"
+    ],
     "year": 1933,
     "type": "book",
     "location": "Warsaw and Lwów",
@@ -138,7 +165,9 @@
   {
     "id": "Stebbing1933a",
     "title": "A modern introduction to logic",
-    "authors": ["L. Susan Stebbing"],
+    "authors": [
+      "l-susan-stebbing"
+    ],
     "year": 1933,
     "type": "book",
     "location": "London",
@@ -148,7 +177,9 @@
   {
     "id": "Metz1935a",
     "title": "Die mathematische Logik",
-    "authors": ["Rudolf Metz"],
+    "authors": [
+      "rudolf-metz"
+    ],
     "year": 1935,
     "type": "book chapter",
     "journal": "Die philosophischen Strömungen der Gegenwart in Grossbritannien",
@@ -159,7 +190,9 @@
   {
     "id": "Lukasiewicz1913a",
     "title": "Die logischen Grundlagen der Wahrscheinlichkeitsrechnung",
-    "authors": ["Jan Łukasiewicz"],
+    "authors": [
+      "jan-lukasiewicz"
+    ],
     "year": 1913,
     "type": "book",
     "location": "Kraków",
@@ -169,7 +202,9 @@
   {
     "id": "Ingarden1934a",
     "title": "Logistický pokus o přetvoření filosofie (The logistic attempt at a reformation of philosophy)",
-    "authors": ["Roman Ingarden"],
+    "authors": [
+      "r-ingarden"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Filosofická revue",
@@ -180,7 +215,9 @@
   {
     "id": "Materna1935a",
     "title": "K elementární logice a její filosofii (On elementary logic and its philosophy)",
-    "authors": ["Miloš Materna"],
+    "authors": [
+      "pavel-materna"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Česká mysl",
@@ -191,7 +228,9 @@
   {
     "id": "Dingler1926a",
     "title": "Der Zusammenbruch der Wissenschaft und der Primat der Philosophie",
-    "authors": ["Hugo Dingler"],
+    "authors": [
+      "hugo-dingler"
+    ],
     "year": 1926,
     "type": "book",
     "location": "Munich",
@@ -201,7 +240,9 @@
   {
     "id": "Avey1927a",
     "title": "The function and forms of thought",
-    "authors": ["A. E. Avey"],
+    "authors": [
+      "a-e-avey"
+    ],
     "year": 1927,
     "type": "book",
     "location": "New York",
@@ -210,7 +251,9 @@
   {
     "id": "Baker1928a",
     "title": "Compound statements on four classes",
-    "authors": ["Frances E. Baker"],
+    "authors": [
+      "frances-e-baker"
+    ],
     "year": 1928,
     "type": "article",
     "journal": "American Journal of Mathematics",
@@ -220,7 +263,9 @@
   {
     "id": "Enriques1929a",
     "title": "The historic development of logic; the principles and structure of science in the conception of mathematical thinkers",
-    "authors": ["F. Enriques"],
+    "authors": [
+      "federigo-enriques"
+    ],
     "year": 1929,
     "type": "book",
     "location": "New York",
@@ -230,7 +275,9 @@
   {
     "id": "Muhlmann1930a",
     "title": "Opyt postroenija logičeskoj teorii klassov (Versuch eines Aufbaues der logischen Theorie der Klassen)",
-    "authors": ["I. S. Mühlmann"],
+    "authors": [
+      "i-s-muhlmann"
+    ],
     "year": 1930,
     "type": "article",
     "journal": "Acta Universitatis Asiae Mediae",
@@ -241,7 +288,9 @@
   {
     "id": "Carnap1931a",
     "title": "Ergebnisse der logischen Analyse der Sprache",
-    "authors": ["R. Carnap"],
+    "authors": [
+      "rudolf-carnap"
+    ],
     "year": 1931,
     "type": "article",
     "journal": "Forschungen und Fortschritte",
@@ -252,7 +301,9 @@
   {
     "id": "Gallucci1931a",
     "title": "Nuovo saggio su l'infinito. Contributo allo studio dei problemi della logica",
-    "authors": ["Generoso Gallucci"],
+    "authors": [
+      "generoso-gallucci"
+    ],
     "year": 1931,
     "type": "article",
     "journal": "Atti della Accademia Pontaniana",
@@ -263,7 +314,9 @@
   {
     "id": "Carbonara1932a",
     "title": "Review of Gallucci's Nuovo saggio su l'infinito (Gallucci1931a)",
-    "authors": ["C. Carbonara"],
+    "authors": [
+      "c-carbonara"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "Logos",
@@ -274,7 +327,9 @@
   {
     "id": "Juhos1932a",
     "title": "Review of Dubislav's Die Definition, 3rd edn. (3287½)",
-    "authors": ["B. Juhos"],
+    "authors": [
+      "b-juhos"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "Monatshefte für Mathematik und Physik",
@@ -285,7 +340,9 @@
   {
     "id": "Hahn1932a",
     "title": "Review of Russell and Whitehead's Einführung in die mathematische Logik (1948)",
-    "authors": ["Hans Hahn"],
+    "authors": [
+      "hans-hahn"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "Monatshefte für Mathematik und Physik",
@@ -296,7 +353,9 @@
   {
     "id": "Gonseth1932a",
     "title": "La vérité mathématique et la réalité",
-    "authors": ["F. Gonseth"],
+    "authors": [
+      "ferdinand-gonseth"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "Verhandlungen der Schweizerischen Naturforschenden Gesellschaft",
@@ -306,7 +365,9 @@
   {
     "id": "Laska1932a",
     "title": "Základy aritmetiky (Foundations of arithmetic)",
-    "authors": ["V. Láska"],
+    "authors": [
+      "v-laska"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "Rozhledy matematicko-přírodovědecké",
@@ -317,7 +378,9 @@
   {
     "id": "Mazurkiewicz1933a",
     "title": "Zur Axiomatik der Wahrscheinlichkeitsrechnung",
-    "authors": ["Stefan Mazurkiewicz"],
+    "authors": [
+      "stefan-mazurkiewicz"
+    ],
     "year": 1933,
     "type": "article",
     "journal": "Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III",
@@ -327,7 +390,9 @@
   {
     "id": "Cassina1933a",
     "title": "L'oeuvre philosophique de G. Peano",
-    "authors": ["U. Cassina"],
+    "authors": [
+      "ugo-cassina"
+    ],
     "year": 1933,
     "type": "article",
     "journal": "Revue de métaphysique et de morale",
@@ -337,7 +402,9 @@
   {
     "id": "Dubislav1935a",
     "title": "Der universale Charakter der Mathematik",
-    "authors": ["Walter Dubislav"],
+    "authors": [
+      "walter-dubislav"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Unterrichtsblätter für Mathematik und Naturwissenschaften",
@@ -347,7 +414,9 @@
   {
     "id": "Wajsberg1935a",
     "title": "Przyczynek do metamatematyki",
-    "authors": ["M. Wajsberg"],
+    "authors": [
+      "mordechaj-wajsberg"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Wiadomości matematyczne",
@@ -358,7 +427,9 @@
   {
     "id": "Petiau1935a",
     "title": "Les progrès récents de la logique et de l'axiomatique",
-    "authors": ["Gérard Petiau"],
+    "authors": [
+      "gerard-petiau"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Revue générale des sciences pures et appliquées",
@@ -368,7 +439,9 @@
   {
     "id": "Mania1935a",
     "title": "Sui fondamenti della geometria",
-    "authors": ["B. Manià"],
+    "authors": [
+      "basilio-mania"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Giornale critico della filosofia italiana",
@@ -378,7 +451,9 @@
   {
     "id": "Reidemeister1935a",
     "title": "Anschauung als Erkenntnisquelle",
-    "authors": ["K. Reidemeister"],
+    "authors": [
+      "kurt-reidemeister"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Semester-Berichte",
@@ -389,7 +464,9 @@
   {
     "id": "Warrain1935a",
     "title": "Examen philosophique du transfini",
-    "authors": ["F. Warrain"],
+    "authors": [
+      "f-warrain"
+    ],
     "year": 1935,
     "type": "book",
     "location": "Paris",
@@ -398,7 +475,9 @@
   {
     "id": "Bornstein1935b",
     "title": "Architektonika świata. Tom II. Logika geometryczno-architektoniczna",
-    "authors": ["B. Bornstein"],
+    "authors": [
+      "b-bornstein"
+    ],
     "year": 1935,
     "type": "book",
     "location": "Warsaw",
@@ -408,7 +487,9 @@
   {
     "id": "Bornstein1936a",
     "title": "Architektonika świata. Tom III. Logiczno-geometryczna architektonika uniwersalna",
-    "authors": ["B. Bornstein"],
+    "authors": [
+      "b-bornstein"
+    ],
     "year": 1936,
     "type": "book",
     "location": "Warsaw",
@@ -418,7 +499,9 @@
   {
     "id": "Varisco1902a",
     "title": "Review of Couturat's La logique de Leibniz (1007)",
-    "authors": ["B. Varisco"],
+    "authors": [
+      "bernardino-varisco"
+    ],
     "year": 1902,
     "type": "article",
     "journal": "Rivista filosofica",
@@ -429,7 +512,9 @@
   {
     "id": "Russell1903a",
     "title": "Recent work on the philosophy of Leibniz",
-    "authors": ["Bertrand Russell"],
+    "authors": [
+      "bertrand-russell"
+    ],
     "year": 1903,
     "type": "article",
     "journal": "Mind",
@@ -440,7 +525,9 @@
   {
     "id": "Magniette1905a",
     "title": "Review of Couturat's L'algèbre de la logique (1007½)",
-    "authors": ["J. Magniette"],
+    "authors": [
+      "j-magniette"
+    ],
     "year": 1905,
     "type": "article",
     "journal": "Revue néoscolastique",
@@ -451,7 +538,9 @@
   {
     "id": "Milhaud1906a",
     "title": "Review of Couturat's Les principes des mathématiques (100½)",
-    "authors": ["G. Milhaud"],
+    "authors": [
+      "g-milhaud"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "Bulletin des sciences mathématiques",
@@ -462,7 +551,9 @@
   {
     "id": "Cassirer1907a",
     "title": "Kant und die moderne Mathematik. (Mit Bezug auf Bertrand Russells und Louis Couturats Werke über die Prinzipien der Mathematik)",
-    "authors": ["Ernst Cassirer"],
+    "authors": [
+      "ernst-cassirer"
+    ],
     "year": 1907,
     "type": "article",
     "journal": "Kant-Studien",
@@ -472,7 +563,9 @@
   {
     "id": "Vasilev1910a",
     "title": "O častnyx suždeniâx, o treugol'nike protivopoložnostej, o zakone isključennogo četvertogo (On particular propositions, on the triangle of opposition, on the law of excluded fourth)",
-    "authors": ["N. A. Vasil'ev"],
+    "authors": [
+      "n-a-vasiliev"
+    ],
     "year": 1910,
     "type": "article",
     "journal": "Učenye zapiski Imperatorskogo Kazanskogo Universiteta",
@@ -483,7 +576,9 @@
   {
     "id": "Bornstein1926a",
     "title": "Geometrja logiki kategorjalnej i jej znaczenie dla filozofji (Geometrical logic of categories and its significance for philosophy)",
-    "authors": ["B. Bornstein"],
+    "authors": [
+      "b-bornstein"
+    ],
     "year": 1926,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -494,7 +589,9 @@
   {
     "id": "Bornstein1928a",
     "title": "La logique géométrique et sa portée philosophique",
-    "authors": ["B. Bornstein"],
+    "authors": [
+      "b-bornstein"
+    ],
     "year": 1928,
     "type": "book",
     "location": "Warsaw",
@@ -504,7 +601,9 @@
   {
     "id": "Prall1930a",
     "title": "Implication",
-    "authors": ["D. W. Prall"],
+    "authors": [
+      "d-w-prall"
+    ],
     "year": 1930,
     "type": "article",
     "journal": "University of California Publications in Philosophy",
@@ -515,7 +614,9 @@
   {
     "id": "Gonseth1934a",
     "title": "La loi dans les sciences mathématiques",
-    "authors": ["F. Gonseth"],
+    "authors": [
+      "ferdinand-gonseth"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Science et loi (5e Semaine Internationale de Synthèse)",
@@ -525,7 +626,9 @@
   {
     "id": "Jerphanion1902a",
     "title": "L'algèbre de la logique",
-    "authors": ["Guillaume de Jerphanion"],
+    "authors": [
+      "guillaume-de-jerphanion"
+    ],
     "year": 1902,
     "type": "article",
     "journal": "Études (Paris)",
@@ -535,7 +638,9 @@
   {
     "id": "Bernard1902a",
     "title": "Review of Couturat's La logique de Leibniz (1007)",
-    "authors": ["J. M. Bernard"],
+    "authors": [
+      "j-m-bernard"
+    ],
     "year": 1902,
     "type": "article",
     "journal": "Annales de philosophie chrétienne",
@@ -546,7 +651,9 @@
   {
     "id": "Lechalas1902a",
     "title": "Review of Couturat's La logique de Leibniz (1007)",
-    "authors": ["G. Lechalas"],
+    "authors": [
+      "g-lechalas"
+    ],
     "year": 1902,
     "type": "article",
     "journal": "Revue des questions scientifiques",
@@ -557,7 +664,9 @@
   {
     "id": "Lechalas1903a",
     "title": "Review of Couturat's Opuscules et fragments inédits de Leibniz (113–40)",
-    "authors": ["G. Lechalas"],
+    "authors": [
+      "g-lechalas"
+    ],
     "year": 1903,
     "type": "article",
     "journal": "Revue des questions scientifiques",
@@ -568,7 +677,9 @@
   {
     "id": "Lechalas1905a",
     "title": "La philosophie des mathématiques de Kant",
-    "authors": ["G. Lechalas"],
+    "authors": [
+      "g-lechalas"
+    ],
     "year": 1905,
     "type": "article",
     "journal": "Annales de philosophie chrétienne",
@@ -578,7 +689,9 @@
   {
     "id": "Lechalas1905b",
     "title": "Review of Couturat's L'algèbre de la logique (1001½)",
-    "authors": ["G. Lechalas"],
+    "authors": [
+      "g-lechalas"
+    ],
     "year": 1905,
     "type": "article",
     "journal": "Annales de philosophie chrétienne",
@@ -589,7 +702,9 @@
   {
     "id": "Laisant1906a",
     "title": "Review of Couturat's L'algèbre de la logique (1001½)",
-    "authors": ["C. A. Laisant"],
+    "authors": [
+      "c-a-laisant"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "Revue générale des sciences pures et appliquées",
@@ -600,7 +715,9 @@
   {
     "id": "Pieron1906a",
     "title": "Review of Couturat's Les principes des mathématiques (1001½)",
-    "authors": ["H. Piéron"],
+    "authors": [
+      "h-pieron"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "Revue scientifique",
@@ -611,7 +728,9 @@
   {
     "id": "Moisant1906a",
     "title": "Review of Couturat's Les principes des mathématiques (1001½)",
-    "authors": ["Xavier Moisant"],
+    "authors": [
+      "xavier-moisant"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "Études (Paris)",
@@ -622,7 +741,9 @@
   {
     "id": "Adhemar1906a",
     "title": "Review of Couturat's Les principes des mathématiques (1001½)",
-    "authors": ["R. d'Adhémar"],
+    "authors": [
+      "r-dadhemar"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "Annales de philosophie chrétienne",
@@ -633,7 +754,10 @@
   {
     "id": "YoungYoung1928a",
     "title": "Review of Hobson's Theory of functions of a real variable",
-    "authors": ["W. H. Young", "G. C. Young"],
+    "authors": [
+      "w-h-young",
+      "g-p-young"
+    ],
     "year": 1928,
     "type": "article",
     "journal": "The Mathematical Gazette",
@@ -644,7 +768,9 @@
   {
     "id": "Cassina1933b",
     "title": "L'opera scientifica di Giuseppe Peano",
-    "authors": ["U. Cassina"],
+    "authors": [
+      "ugo-cassina"
+    ],
     "year": 1933,
     "type": "article",
     "journal": "Rendiconti del Seminario Matematico e Fisico di Milano",
@@ -654,7 +780,9 @@
   {
     "id": "Brentano1874a",
     "title": "Vorstellung und Urtheil zwei verschiedene Grundclassen",
-    "authors": ["Franz Brentano"],
+    "authors": [
+      "franz-brentano"
+    ],
     "year": 1874,
     "type": "book chapter",
     "journal": "Psychologie vom empirischen Standpunkte, vol. 1",
@@ -664,7 +792,9 @@
   {
     "id": "Helwig1898a",
     "title": "Die combinatorisch-ästhetische Function und die Formeln der symbolischen Logik",
-    "authors": ["P. J. Helwig"],
+    "authors": [
+      "p-j-helwig"
+    ],
     "year": 1898,
     "type": "article",
     "journal": "Archiv für systematische Philosophie",
@@ -675,7 +805,9 @@
   {
     "id": "Dotterer1924a",
     "title": "Beginners' logic",
-    "authors": ["R. H. Dotterer"],
+    "authors": [
+      "ray-h-dotterer"
+    ],
     "year": 1924,
     "type": "book",
     "location": "New York",
@@ -684,7 +816,9 @@
   {
     "id": "Steck1934a",
     "title": "Wissenschaftliche Grundlagenforschung",
-    "authors": ["Max Steck"],
+    "authors": [
+      "max-steck"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Geistige Arbeit",
@@ -695,7 +829,9 @@
   {
     "id": "Steck1934b",
     "title": "Mathematische Existenz",
-    "authors": ["Max Steck"],
+    "authors": [
+      "max-steck"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Geistige Arbeit",
@@ -706,7 +842,9 @@
   {
     "id": "Lukasiewicz1908a",
     "title": "Zadania i znaczenie ogólnej teorji stosunków (Problems and meaning of a general theory of relations)",
-    "authors": ["Jan Łukasiewicz"],
+    "authors": [
+      "jan-lukasiewicz"
+    ],
     "year": 1908,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -716,7 +854,9 @@
   {
     "id": "Lukasiewicz1916a",
     "title": "O pojęciu wielkości (On the concept of magnitude)",
-    "authors": ["Jan Łukasiewicz"],
+    "authors": [
+      "jan-lukasiewicz"
+    ],
     "year": 1916,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -726,7 +866,9 @@
   {
     "id": "Zaremba1917a",
     "title": "O niektórych poglądach p. Łukasiewicza na metodykę nauk dedukcyjnych (On some views of Mr. Łukasiewicz on the methodology of the deductive sciences)",
-    "authors": ["Stanisław Zaremba"],
+    "authors": [
+      "s-k-zaremba"
+    ],
     "year": 1917,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -736,7 +878,9 @@
   {
     "id": "Kuratowski1917a",
     "title": "O definicji wielkości (On the definition of magnitude)",
-    "authors": ["Kazimierz Kuratowski"],
+    "authors": [
+      "kazimierz-kuratowski"
+    ],
     "year": 1917,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -746,7 +890,9 @@
   {
     "id": "Zaremba1918a",
     "title": "Z powodu artykułu p. Kazimierza Kuratowskiego \"O definicji wielkości\" (Apropos of the article of Mr. Kazimierz Kuratowski \"O definicji wielkości\")",
-    "authors": ["Stanisław Zaremba"],
+    "authors": [
+      "s-k-zaremba"
+    ],
     "year": 1918,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -756,7 +902,9 @@
   {
     "id": "Kuratowski1918a",
     "title": "Odpowiedź na artykuł prof. Zaremby (Answer to the article of Prof. Zaremba)",
-    "authors": ["Kazimierz Kuratowski"],
+    "authors": [
+      "kazimierz-kuratowski"
+    ],
     "year": 1918,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -766,7 +914,9 @@
   {
     "id": "Zaremba1918b",
     "title": "Odpowiedź na powyższe wywody p. Kuratowskiego (Answer to the above argument of Mr. Kuratowski)",
-    "authors": ["Stanisław Zaremba"],
+    "authors": [
+      "s-k-zaremba"
+    ],
     "year": 1918,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -776,7 +926,9 @@
   {
     "id": "Chwistek1919a",
     "title": "W kwestji zdań \"pozbawionych treści.\" (Z powodu polemiki o definicję wielkości.) (On the question of propositions \"without content.\" (Apropos of the polemic concerning the definition of magnitude.))",
-    "authors": ["Leon Chwistek"],
+    "authors": [
+      "l-chwistek"
+    ],
     "year": 1919,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -786,7 +938,9 @@
   {
     "id": "Kotarbinski1924a",
     "title": "Prawdziwość i fałszywość definicyj (Truth and falsehood of definitions)",
-    "authors": ["Tadeusz Kotarbiński"],
+    "authors": [
+      "tadeusz-kotarbinski"
+    ],
     "year": 1924,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -797,7 +951,9 @@
   {
     "id": "Greniewski1925a",
     "title": "Próba dedukcyjnej teorji przyczynowości (Attempt at a deductive theory of causality)",
-    "authors": ["Henryk Greniewski"],
+    "authors": [
+      "henryk-greniewski"
+    ],
     "year": 1925,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -807,7 +963,9 @@
   {
     "id": "Lukasiewicz1925a",
     "title": "O pewnym sposobie pojmowania teorji dedukcji (On a certain way of conceiving the theory of deduction)",
-    "authors": ["Jan Łukasiewicz"],
+    "authors": [
+      "jan-lukasiewicz"
+    ],
     "year": 1925,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -818,7 +976,9 @@
   {
     "id": "Ajdukiewicz1927a",
     "title": "Errata to 225½",
-    "authors": ["Kazimierz Ajdukiewicz"],
+    "authors": [
+      "kazimierz-ajdukiewicz"
+    ],
     "year": 1927,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -829,7 +989,9 @@
   {
     "id": "Lukasiewicz1927a",
     "title": "O logice Stoików (On the logic of the Stoics)",
-    "authors": ["Jan Łukasiewicz"],
+    "authors": [
+      "jan-lukasiewicz"
+    ],
     "year": 1927,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -839,7 +1001,9 @@
   {
     "id": "Chwistek1927a",
     "title": "Zasady czystej teorji typów (Principles of the pure theory of types)",
-    "authors": ["Leon Chwistek"],
+    "authors": [
+      "l-chwistek"
+    ],
     "year": 1927,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -849,7 +1013,9 @@
   {
     "id": "Lukasiewicz1928a",
     "title": "O metodę w filozofji (On method in philosophy)",
-    "authors": ["Jan Łukasiewicz"],
+    "authors": [
+      "jan-lukasiewicz"
+    ],
     "year": 1928,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -860,7 +1026,9 @@
   {
     "id": "Couturat1918a",
     "title": "Algebra logiki",
-    "authors": ["Louis Couturat"],
+    "authors": [
+      "louis-couturat"
+    ],
     "year": 1918,
     "type": "book",
     "location": "Warsaw",
@@ -870,7 +1038,9 @@
   {
     "id": "Czezowski1922a",
     "title": "Review of Couturat's Algebra logiki (Couturat1918a)",
-    "authors": ["Tadeusz Czeżowski"],
+    "authors": [
+      "tadeusz-czezowski"
+    ],
     "year": 1922,
     "type": "article",
     "journal": "Ruch filozoficzny",
@@ -881,7 +1051,9 @@
   {
     "id": "Czezowski1914a",
     "title": "Review of Ajdukiewicz's W sprawie odwracalności stosunku wynikania (225½)",
-    "authors": ["Tadeusz Czeżowski"],
+    "authors": [
+      "tadeusz-czezowski"
+    ],
     "year": 1914,
     "type": "article",
     "journal": "Ruch filozoficzny",
@@ -892,7 +1064,9 @@
   {
     "id": "Czezowski1914b",
     "title": "Review of Łukasiewicz's W sprawie odwracalności stosunku racyi i następstwa (186½)",
-    "authors": ["Tadeusz Czeżowski"],
+    "authors": [
+      "tadeusz-czezowski"
+    ],
     "year": 1914,
     "type": "article",
     "journal": "Ruch filozoficzny",
@@ -903,7 +1077,9 @@
   {
     "id": "Ajdukiewicz1914a",
     "title": "Review of Chwistek's Zasada sprzeczności w świetle nowszych badań Bertranda Russella (220½)",
-    "authors": ["Kazimierz Ajdukiewicz"],
+    "authors": [
+      "kazimierz-ajdukiewicz"
+    ],
     "year": 1914,
     "type": "article",
     "journal": "Ruch filozoficzny",
@@ -914,7 +1090,9 @@
   {
     "id": "Kotarbinski1922a",
     "title": "Review of Ajdukiewicz's Z metodologji nauk dedukcyjnych (225½)",
-    "authors": ["Tadeusz Kotarbiński"],
+    "authors": [
+      "tadeusz-kotarbinski"
+    ],
     "year": 1922,
     "type": "article",
     "journal": "Ruch filozoficzny",
@@ -925,7 +1103,9 @@
   {
     "id": "Lukasiewicz1923a",
     "title": "Review of Śleszński's O logice tradycyjnej (282½)",
-    "authors": ["Jan Łukasiewicz"],
+    "authors": [
+      "jan-lukasiewicz"
+    ],
     "year": 1923,
     "type": "article",
     "journal": "Ruch filozoficzny",
@@ -936,7 +1116,9 @@
   {
     "id": "Ajdukiewicz1925a",
     "title": "Nazwy i zdania (Names and propositions)",
-    "authors": ["Kazimierz Ajdukiewicz"],
+    "authors": [
+      "kazimierz-ajdukiewicz"
+    ],
     "year": 1925,
     "type": "article",
     "journal": "Ruch filozoficzny",
@@ -946,7 +1128,9 @@
   {
     "id": "Ajdukiewicz1926a",
     "title": "Analiza semantyczna zdania pytajnego (Semantic analysis of the interrogative proposition)",
-    "authors": ["Kazimierz Ajdukiewicz"],
+    "authors": [
+      "kazimierz-ajdukiewicz"
+    ],
     "year": 1926,
     "type": "article",
     "journal": "Ruch filozoficzny",
@@ -957,7 +1141,9 @@
   {
     "id": "Kokoszynska1928a",
     "title": "Review of Dubislav's Über die Definition (328½)",
-    "authors": ["Marya Kokoszyńska"],
+    "authors": [
+      "marja-kokoszynska"
+    ],
     "year": 1928,
     "type": "article",
     "journal": "Ruch filozoficzny",
@@ -968,7 +1154,9 @@
   {
     "id": "Husserl1891a",
     "title": "Frege's Versuch",
-    "authors": ["E. G. Husserl"],
+    "authors": [
+      "edmund-husserl"
+    ],
     "year": 1891,
     "type": "book_chapter",
     "booktitle": "Philosophie der Arithmetik",
@@ -978,7 +1166,9 @@
   {
     "id": "Macfarlane1899a",
     "title": "Review of Whitehead's A treatise of universal algebra (cf. 99½)",
-    "authors": ["Alexander Macfarlane"],
+    "authors": [
+      "alexander-macfarlane"
+    ],
     "year": 1899,
     "type": "article",
     "journal": "Science",
@@ -989,7 +1179,9 @@
   {
     "id": "Whitehead1911a",
     "title": "Mathematics",
-    "authors": ["Alfred North Whitehead"],
+    "authors": [
+      "alfred-north-whitehead"
+    ],
     "year": 1911,
     "type": "book_chapter",
     "booktitle": "The Encyclopaedia Britannica, 11th edn.",
@@ -1001,7 +1193,9 @@
   {
     "id": "Padoa1912a",
     "title": "Analisi della sillogistica",
-    "authors": ["Alessandro Padoa"],
+    "authors": [
+      "alessandro-padoa"
+    ],
     "year": 1912,
     "type": "article",
     "journal": "Rivista di filosofia neo-scolastica",
@@ -1011,7 +1205,9 @@
   {
     "id": "Costello1918a",
     "title": "Old problems with new faces in recent logic",
-    "authors": ["H. T. Costello"],
+    "authors": [
+      "h-t-costello"
+    ],
     "year": 1918,
     "type": "book_chapter",
     "booktitle": "Studies in the history of ideas",
@@ -1023,7 +1219,9 @@
   {
     "id": "Keyser1931a",
     "title": "The nature of the doctrinal function and its rôle in rational thought",
-    "authors": ["Cassius J. Keyser"],
+    "authors": [
+      "c-j-keyser"
+    ],
     "year": 1931,
     "type": "article",
     "journal": "Yale Law Journal",
@@ -1034,7 +1232,9 @@
   {
     "id": "Marhenke1932a",
     "title": "Fact and descriptive reference",
-    "authors": ["Paul Marhenke"],
+    "authors": [
+      "paul-marhenke"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "University of California Publications in Philosophy",
@@ -1044,7 +1244,9 @@
   {
     "id": "Stebbing1933b",
     "title": "Logical positivism and analysis",
-    "authors": ["L. Susan Stebbing"],
+    "authors": [
+      "l-susan-stebbing"
+    ],
     "year": 1933,
     "type": "article",
     "journal": "Proceedings of the British Academy",
@@ -1054,7 +1256,9 @@
   {
     "id": "Pastore1933a",
     "title": "Introduzione alla teoria delle equazioni logiche",
-    "authors": ["Annibale Pastore"],
+    "authors": [
+      "annibale-pastore"
+    ],
     "year": 1933,
     "type": "article",
     "journal": "Memorie della R. Accademia delle Scienze dell'Istituto di Bologna, classe di scienze morali",
@@ -1065,7 +1269,9 @@
   {
     "id": "Bell1934a",
     "title": "Mathematics up-to-date",
-    "authors": ["Eric T. Bell"],
+    "authors": [
+      "e-t-bell"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Current History",
@@ -1075,7 +1281,9 @@
   {
     "id": "Marhenke1934a",
     "title": "Possibility and significance",
-    "authors": ["Paul Marhenke"],
+    "authors": [
+      "paul-marhenke"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "University of California Publications in Philosophy",
@@ -1085,7 +1293,9 @@
   {
     "id": "Nagel1935a",
     "title": "\"Impossible numbers\": a chapter in the history of modern logic",
-    "authors": ["Ernest Nagel"],
+    "authors": [
+      "ernest-nagel"
+    ],
     "year": 1935,
     "type": "book_chapter",
     "booktitle": "Studies in the history of ideas",
@@ -1097,7 +1307,9 @@
   {
     "id": "Enriques1917a",
     "title": "Sur quelques questions soulevées par l'infini mathématique",
-    "authors": ["Federigo Enriques"],
+    "authors": [
+      "federigo-enriques"
+    ],
     "year": 1917,
     "type": "article",
     "journal": "Revue de métaphysique et de morale",
@@ -1107,7 +1319,9 @@
   {
     "id": "Mahnke1923a",
     "title": "Von Hilbert zu Husserl",
-    "authors": ["Dietrich Mahnke"],
+    "authors": [
+      "dietrich-mahnke"
+    ],
     "year": 1923,
     "type": "article",
     "journal": "Unterrichtsblätter für Mathematik und Naturwissenschaften",
@@ -1117,7 +1331,9 @@
   {
     "id": "Mahnke1927a",
     "title": "Leibniz als Begründer der symbolischen Mathematik",
-    "authors": ["Dietrich Mahnke"],
+    "authors": [
+      "dietrich-mahnke"
+    ],
     "year": 1927,
     "type": "article",
     "journal": "Isis",
@@ -1127,7 +1343,9 @@
   {
     "id": "Anonymous1867a",
     "title": "George Boole",
-    "authors": ["Anonymous"],
+    "authors": [
+      "Anonymous"
+    ],
     "year": 1867,
     "type": "article",
     "journal": "Proceedings of the Royal Society of London",
@@ -1138,7 +1356,9 @@
   {
     "id": "Venn1886a",
     "title": "Boole, George",
-    "authors": ["John Venn"],
+    "authors": [
+      "john-venn"
+    ],
     "year": 1886,
     "type": "book_chapter",
     "booktitle": "Dictionary of National Biography",
@@ -1149,7 +1369,9 @@
   {
     "id": "Voigt1894a",
     "title": "Berichtigung",
-    "authors": ["A. H. Voigt"],
+    "authors": [
+      "a-h-voigt"
+    ],
     "year": 1894,
     "type": "article",
     "journal": "Vierteljahrsschrift für wissenschaftliche Philosophie",
@@ -1160,7 +1382,9 @@
   {
     "id": "Avenarius1894a",
     "title": "Erklärung des Herausgebers",
-    "authors": ["Richard Avenarius"],
+    "authors": [
+      "richard-avenarius"
+    ],
     "year": 1894,
     "type": "article",
     "journal": "Vierteljahrsschrift für wissenschaftliche Philosophie",
@@ -1171,7 +1395,9 @@
   {
     "id": "Stadler1912a",
     "title": "Logik",
-    "authors": ["August Stadler"],
+    "authors": [
+      "august-stadler"
+    ],
     "year": 1912,
     "type": "book",
     "location": "Leipzig",
@@ -1180,7 +1406,9 @@
   {
     "id": "Czezowski1918a",
     "title": "Imiona i zdania (Names and sentences)",
-    "authors": ["Tadeusz Czeżowski"],
+    "authors": [
+      "tadeusz-czezowski"
+    ],
     "year": 1918,
     "type": "article",
     "journal": "Przegląd filozoficzny",
@@ -1190,7 +1418,9 @@
   {
     "id": "Henry1918a",
     "title": "Review of König's Neue Grundlagen der Logik, Arithmetik und Mengenlehre (1295)",
-    "authors": ["Victor Henry"],
+    "authors": [
+      "victor-henry"
+    ],
     "year": 1918,
     "type": "article",
     "journal": "Kant-Studien",
@@ -1201,7 +1431,9 @@
   {
     "id": "Brulez1919a",
     "title": "Delbœufs Bedeutung für die Logik",
-    "authors": ["Lucien Brulez"],
+    "authors": [
+      "lucien-brulez"
+    ],
     "year": 1919,
     "type": "article",
     "journal": "Kant-Studien",
@@ -1212,7 +1444,9 @@
   {
     "id": "Bergmann1929a",
     "title": "Zur Axiomatik der Elementargeometrie",
-    "authors": ["Gustav Bergmann"],
+    "authors": [
+      "gustav-bergmann"
+    ],
     "year": 1929,
     "type": "article",
     "journal": "Monatshefte für Mathematik und Physik",
@@ -1222,7 +1456,9 @@
   {
     "id": "Stebbing1931a",
     "title": "Logical constructions and knowledge through description",
-    "authors": ["L. Susan Stebbing"],
+    "authors": [
+      "l-susan-stebbing"
+    ],
     "year": 1931,
     "type": "book_chapter",
     "booktitle": "Proceedings of the Seventh International Congress of Philosophy held at Oxford, England, September 1–6, 1930",
@@ -1233,7 +1469,9 @@
   {
     "id": "Heesch1935a",
     "title": "Grundzüge der Bolzanoschen Wissenschaftslehre",
-    "authors": ["Elli Heesch"],
+    "authors": [
+      "elli-heesch"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Philosophisches Jahrbuch der Görres-Gesellschaft",
@@ -1243,7 +1481,9 @@
   {
     "id": "Weisner1935a",
     "title": "Abstract theory of inversion of finite series",
-    "authors": ["Louis Weisner"],
+    "authors": [
+      "louis-weisner"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Transactions of the American Mathematical Society",
@@ -1253,14 +1493,19 @@
   {
     "id": "Tannery139",
     "title": "[Author attribution note for entry 139]",
-    "authors": ["Jules Tannery"],
+    "authors": [
+      "jules-tannery"
+    ],
     "type": "note",
     "notes": "Not a new work entry. According to Dassen (JSL V 168(3)), the 'J. T.' who bears the number 139 in A bibliography of symbolic logic is Jules Tannery. This record serves as an author attribution correction to entry 139."
   },
   {
     "id": "MaundReeves1934a",
     "title": "Report of lectures on philosophy and logical syntax, delivered on 8, 10 and 12 October at Bedford College in the University of London, by Professor Rudolf Carnap",
-    "authors": ["C. A. M. Maund", "J. W. Reeves"],
+    "authors": [
+      "c-a-m-maund",
+      "j-w-reeves"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Analysis",
@@ -1271,7 +1516,9 @@
   {
     "id": "Land1876a",
     "title": "On a supposed improvement in formal logic",
-    "authors": ["J. P. N. Land"],
+    "authors": [
+      "j-p-n-land"
+    ],
     "year": 1876,
     "type": "article",
     "journal": "Verslagen en mededeelingen der Koninklijke Akademie van Wetenschappen (Amsterdam), Afdeeling letterkunde",
@@ -1281,7 +1528,10 @@
   {
     "id": "RichardsonLandis1916a",
     "title": "Fundamental conceptions of modern mathematics. Variables and quantities, with a discussion of the general conception of functional relation",
-    "authors": ["Robert P. Richardson", "Edward H. Landis"],
+    "authors": [
+      "daniel-richardson",
+      "e-h-landis"
+    ],
     "year": 1916,
     "type": "book",
     "publisher": "The Open Court Publishing Company",
@@ -1291,7 +1541,10 @@
   {
     "id": "BrandDeutschbein1930a",
     "title": "Introducción a la filosofía matemática",
-    "authors": ["Walther Brand", "Marie Deutschbein"],
+    "authors": [
+      "walther-brand",
+      "marie-deutschbein"
+    ],
     "year": 1930,
     "type": "book",
     "location": "Madrid",
@@ -1301,7 +1554,9 @@
   {
     "id": "Wisdom1931a",
     "title": "Interpretation and analysis in relation to Bentham's theory of definition",
-    "authors": ["John Wisdom"],
+    "authors": [
+      "j-o-wisdom"
+    ],
     "year": 1931,
     "type": "book",
     "location": "London",
@@ -1311,7 +1566,9 @@
   {
     "id": "Papst1932a",
     "title": "Gottlob Frege als Philosoph",
-    "authors": ["Wilma Papst"],
+    "authors": [
+      "wilma-papst"
+    ],
     "year": 1932,
     "type": "book",
     "location": "Berlin",
@@ -1321,7 +1578,9 @@
   {
     "id": "Brunstad1933a",
     "title": "Die mathematische Logik",
-    "authors": ["Friedrich Brunstäd"],
+    "authors": [
+      "friedrich-brunstad"
+    ],
     "year": 1933,
     "type": "book_chapter",
     "booktitle": "Logik (Handbuch der Philosophie, Abtlg. I, Beitrag A)",
@@ -1332,7 +1591,9 @@
   {
     "id": "Goldel1935a",
     "title": "Die Lehre von der Identität in der deutschen Logik-Wissenschaft seit Lotze. Ein Beitrag zur Geschichte der modernen Logik und philosophischen Systematik. Mit einer Bibliographie zur logik-wissenschaftlichen Identitäts-Lehre in Deutschland seit der Mitte des 19. Jahrhunderts",
-    "authors": ["Rolf W. Göldel"],
+    "authors": [
+      "rolf-w-goldel"
+    ],
     "year": 1935,
     "type": "book",
     "location": "Leipzig",
@@ -1342,7 +1603,9 @@
   {
     "id": "Schultzer1935a",
     "title": "Transcendence and the logical difficulties of transcendence. A logical analysis",
-    "authors": ["Bent Schultzer"],
+    "authors": [
+      "bent-schultzer"
+    ],
     "year": 1935,
     "type": "book",
     "location": "Copenhagen",
@@ -1351,7 +1614,9 @@
   {
     "id": "Frege1890a",
     "title": "Über das Trägheitsgesetz",
-    "authors": ["Gottlob Frege"],
+    "authors": [
+      "gottlob-frege"
+    ],
     "year": 1890,
     "type": "article",
     "journal": "Zeitschrift für Philosophie und philosophische Kritik",
@@ -1360,20 +1625,11 @@
     "notes": "Cf. JSL XIII 153."
   },
   {
-    "id": "CongressPhilosophie1900",
-    "title": "Congrès International de Philosophie",
-    "authors": ["Maurice Tardieu"],
-    "year": 1900,
-    "type": "article",
-    "journal": "Revue de métaphysique et de morale",
-    "volume": "8",
-    "pages": "503-698",
-    "notes": "Edited by Maurice Tardieu. Contains abstracts of congress presentations. See individual entries CongressPhilosophie1900a through CongressPhilosophie1900g for the abstracts relevant to symbolic logic."
-  },
-  {
-    "id": "CongressPhilosophie1900a",
+    "id": "Maccoll1900a",
     "title": "La logique symbolique et ses applications (3920)",
-    "authors": ["Hugh MacColl"],
+    "authors": [
+      "hugh-maccoll"
+    ],
     "year": 1900,
     "type": "book_chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
@@ -1381,9 +1637,11 @@
     "notes": "Abstract with discussion by Couturat. Cf. entry 3920 in A bibliography of symbolic logic. Contained in CongressPhilosophie1900."
   },
   {
-    "id": "CongressPhilosophie1900b",
+    "id": "Peano1900a",
     "title": "Les définitions mathématiques",
-    "authors": ["Giuseppe Peano"],
+    "authors": [
+      "giuseppe-peano"
+    ],
     "year": 1900,
     "type": "book_chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
@@ -1391,9 +1649,11 @@
     "notes": "Abstract with discussion by J. Tannery, Schröder, Peano, and Padoa. Contained in CongressPhilosophie1900."
   },
   {
-    "id": "CongressPhilosophie1900c",
+    "id": "Forti1900a",
     "title": "Les différentes méthodes logiques pour la définition du nombre réel",
-    "authors": ["Cesare Burali-Forti"],
+    "authors": [
+      "cesare-burali-forti"
+    ],
     "year": 1900,
     "type": "book_chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
@@ -1401,9 +1661,11 @@
     "notes": "Contained in CongressPhilosophie1900."
   },
   {
-    "id": "CongressPhilosophie1900d",
+    "id": "Padoa1900a",
     "title": "Essai d'une théorie algébrique des nombres entiers, avec une Introduction à une théorie déductive quelconque",
-    "authors": ["Alessandro Padoa"],
+    "authors": [
+      "alessandro-padoa"
+    ],
     "year": 1900,
     "type": "book_chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
@@ -1411,9 +1673,11 @@
     "notes": "Contained in CongressPhilosophie1900."
   },
   {
-    "id": "CongressPhilosophie1900e",
+    "id": "Poretsky1900a",
     "title": "Théorie des égalités logiques à trois termes (5810)",
-    "authors": ["Platon Poretsky"],
+    "authors": [
+      "platon-poretsky"
+    ],
     "year": 1900,
     "type": "book_chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
@@ -1421,9 +1685,11 @@
     "notes": "Abstract with introduction and discussion by Couturat. Cf. entry 5810 in A bibliography of symbolic logic. Contained in CongressPhilosophie1900."
   },
   {
-    "id": "CongressPhilosophie1900f",
+    "id": "Schroder1900a",
     "title": "Une extension de l'idée d'ordre (4218)",
-    "authors": ["Ernst Schröder"],
+    "authors": [
+      "ernst-schroder"
+    ],
     "year": 1900,
     "type": "book_chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
@@ -1431,9 +1697,11 @@
     "notes": "Abstract with discussion by Macfarlane. Cf. entry 4218 in A bibliography of symbolic logic. Contained in CongressPhilosophie1900."
   },
   {
-    "id": "CongressPhilosophie1900g",
+    "id": "Johnson1900a",
     "title": "Théorie des équations logiques (834)",
-    "authors": ["W. E. Johnson"],
+    "authors": [
+      "w-e-johnson"
+    ],
     "year": 1900,
     "type": "book_chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
@@ -1443,7 +1711,9 @@
   {
     "id": "Hilbert1919a",
     "title": "El pensamiento axiomático",
-    "authors": ["David Hilbert"],
+    "authors": [
+      "david-hilbert"
+    ],
     "year": 1919,
     "type": "article",
     "journal": "Revista matemática hispano-americana",
@@ -1454,7 +1724,9 @@
   {
     "id": "Mahnke1925a",
     "title": "Leibnizens Synthese von Universalmathematik und Individualmetaphysik",
-    "authors": ["D. Mahnke"],
+    "authors": [
+      "dietrich-mahnke"
+    ],
     "year": 1925,
     "type": "article",
     "journal": "Jahrbuch für Philosophie und phänomenologische Forschung",
@@ -1465,7 +1737,9 @@
   {
     "id": "Langford1926a",
     "title": "On quantifiers for general propositions",
-    "authors": ["C. H. Langford"],
+    "authors": [
+      "c-h-langford"
+    ],
     "year": 1926,
     "type": "article",
     "journal": "Bulletin of the American Mathematical Society",
@@ -1476,7 +1750,9 @@
   {
     "id": "Shen1929a",
     "title": "The \"complete scheme\" of propositions",
-    "authors": ["Eugene Shen"],
+    "authors": [
+      "eugene-shen"
+    ],
     "year": 1929,
     "type": "article",
     "journal": "Psyche",
@@ -1487,7 +1763,9 @@
   {
     "id": "Tardy1934a",
     "title": "Carnapova logická syntax. A review of Carnap's Logische Syntax der Sprache (352½)",
-    "authors": ["Vladimir Tardy"],
+    "authors": [
+      "vladimir-tardy"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Česká mysl",
@@ -1498,7 +1776,9 @@
   {
     "id": "Sierpinski1918a",
     "title": "L'axiome de M. Zermelo et son rôle dans la théorie des ensembles et l'analyse",
-    "authors": ["Wacław Sierpiński"],
+    "authors": [
+      "waclaw-sierpinski"
+    ],
     "year": 1918,
     "type": "article",
     "journal": "Bulletin international de l'Académie des Sciences de Cracovie, Classe des sciences mathématiques et naturelles, Série A, Sciences mathématiques",
@@ -1508,7 +1788,9 @@
   {
     "id": "Sierpinski1921a",
     "title": "Les exemples effectifs et l'axiome du choix",
-    "authors": ["Wacław Sierpiński"],
+    "authors": [
+      "waclaw-sierpinski"
+    ],
     "year": 1921,
     "type": "article",
     "journal": "Fundamenta mathematicae",
@@ -1518,7 +1800,9 @@
   {
     "id": "Sierpinski1933a",
     "title": "Sur les ensembles de points qu'on sait définir effectivement",
-    "authors": ["Wacław Sierpiński"],
+    "authors": [
+      "waclaw-sierpinski"
+    ],
     "year": 1933,
     "type": "book_chapter",
     "booktitle": "Verhandlungen des Internationalen Mathematiker-Kongresses Zürich 1932",
@@ -1530,7 +1814,9 @@
   {
     "id": "Kempe1896a",
     "title": "The theory of mathematical form. A correction and explanation",
-    "authors": ["A. B. Kempe"],
+    "authors": [
+      "a-b-kempe"
+    ],
     "year": 1896,
     "type": "article",
     "journal": "The Monist",
@@ -1541,16 +1827,20 @@
   {
     "id": "Bernstein1904a",
     "title": "Bemerkung zur Mengenlehre",
-    "authors": ["Felix Bernstein"],
+    "authors": [
+      "felix-bernstein"
+    ],
     "year": 1904,
     "type": "article",
     "journal": "Nachrichten von der Königl. Gesellschaft der Wissenschaften zu Göttingen, Math.-phys. Klasse",
     "pages": "557-560"
   },
   {
-    "id": "DeLaguna1906a",
+    "id": "Laguna1906a",
     "title": "Review of Royce's The relation of the principles of logic to the foundations of geometry (1407)",
-    "authors": ["Theodore de Laguna"],
+    "authors": [
+      "theodore-de-laguna"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "The Journal of Philosophy, Psychology and Scientific Methods",
@@ -1561,7 +1851,9 @@
   {
     "id": "Borel1919a",
     "title": "Sur les ensembles effectivement énumérables et sur les définitions effectives",
-    "authors": ["Émile Borel"],
+    "authors": [
+      "emile-borel"
+    ],
     "year": 1919,
     "type": "article",
     "journal": "Atti della Reale Accademia dei Lincei, Rendiconti, Classe di scienze fisiche, matematiche e naturali",
@@ -1571,7 +1863,9 @@
   {
     "id": "Peradotto1925a",
     "title": "La logística",
-    "authors": ["Lidia Peradotto"],
+    "authors": [
+      "lidia-peradotto"
+    ],
     "year": 1925,
     "type": "article",
     "journal": "Revista de la Universidad de Buenos Aires",
@@ -1582,7 +1876,9 @@
   {
     "id": "Schayer1933a",
     "title": "Über die Methode der Nyāya-Forschung",
-    "authors": ["Stanisław Schayer"],
+    "authors": [
+      "s-schayer"
+    ],
     "year": 1933,
     "type": "book_chapter",
     "booktitle": "Festschrift Moriz Winternitz",
@@ -1593,7 +1889,9 @@
   {
     "id": "Schayer1933b",
     "title": "Studien zur indischen Logik. I. Der indische und der aristotelische Syllogismus",
-    "authors": ["Stanisław Schayer"],
+    "authors": [
+      "s-schayer"
+    ],
     "year": 1933,
     "type": "article",
     "journal": "Bulletin international de l'Académie Polonaise des Sciences et des Lettres, Classe de philologie, Classe d'histoire et de philosophie",
@@ -1603,7 +1901,9 @@
   {
     "id": "Schayer1934a",
     "title": "Studien zur indischen Logik. II. Altindische Antizipationen der Aussagenlogik",
-    "authors": ["Stanisław Schayer"],
+    "authors": [
+      "s-schayer"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Bulletin international de l'Académie Polonaise des Sciences et des Lettres, Classe de philologie, Classe d'histoire et de philosophie",
@@ -1613,7 +1913,9 @@
   {
     "id": "Jackson1934a",
     "title": "Note on Mr. Bertrand Russell's article 'On denoting'",
-    "authors": ["Reginald Jackson"],
+    "authors": [
+      "reginald-jackson"
+    ],
     "year": 1934,
     "type": "article",
     "journal": "Mind",
@@ -1623,7 +1925,9 @@
   {
     "id": "Neurath1935a",
     "title": "Le développement du Cercle de Vienne et l'avenir de l'empirisme logique",
-    "authors": ["Otto Neurath"],
+    "authors": [
+      "otto-neurath"
+    ],
     "year": 1935,
     "type": "book",
     "publisher": "Hermann & Cie",
@@ -1634,7 +1938,9 @@
   {
     "id": "Birkhoff1935a",
     "title": "On the structure of abstract algebras",
-    "authors": ["Garrett Birkhoff"],
+    "authors": [
+      "garrett-birkhoff"
+    ],
     "year": 1935,
     "type": "article",
     "journal": "Proceedings of the Cambridge Philosophical Society",
@@ -1644,7 +1950,9 @@
   {
     "id": "Shen1933a",
     "title": "Hsien-tai lo-chi (Modern logic)",
-    "authors": ["Eugene Shen"],
+    "authors": [
+      "eugene-shen"
+    ],
     "year": 1933,
     "type": "book",
     "publisher": "Sinyueh",
@@ -1654,7 +1962,9 @@
   {
     "id": "Chin1927a",
     "title": "Prolegomena",
-    "authors": ["Y. L. Chin"],
+    "authors": [
+      "y-l-chin"
+    ],
     "year": 1927,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1665,7 +1975,9 @@
   {
     "id": "Chin1927b",
     "title": "Lun tzŭ-hsiang mao-tun (On self-contradiction)",
-    "authors": ["Y. L. Chin"],
+    "authors": [
+      "y-l-chin"
+    ],
     "year": 1927,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1676,7 +1988,9 @@
   {
     "id": "Hwang1927a",
     "title": "Fen-hsi-ti t'ui-tuan yü tsung-ho-ti t'ui-luan (Analytic proposition and synthetic proposition)",
-    "authors": ["L. T. Hwang"],
+    "authors": [
+      "l-t-hwang"
+    ],
     "year": 1927,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1687,7 +2001,9 @@
   {
     "id": "Chin1927c",
     "title": "T'ung, teng, yü ching-yen (Identity, equality, and experience)",
-    "authors": ["Y. L. Chin"],
+    "authors": [
+      "y-l-chin"
+    ],
     "year": 1927,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1698,7 +2014,9 @@
   {
     "id": "Wittgenstein1927a",
     "title": "Ming li lun",
-    "authors": ["Ludwig Wittgenstein"],
+    "authors": [
+      "ludwig-wittgenstein"
+    ],
     "year": 1927,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1709,7 +2027,9 @@
   {
     "id": "Chin1930a",
     "title": "Chih-chüeh hsien-hsiang (On percept)",
-    "authors": ["Y. L. Chin"],
+    "authors": [
+      "y-l-chin"
+    ],
     "year": 1930,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1720,7 +2040,9 @@
   {
     "id": "Chin1930b",
     "title": "A, E, I, O ti chih-chieh t'ui-lun (A study of A, E, I, O propositions)",
-    "authors": ["Y. L. Chin"],
+    "authors": [
+      "y-l-chin"
+    ],
     "year": 1930,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1731,7 +2053,9 @@
   {
     "id": "Russell1928a",
     "title": "Lo-su ti yen-i-lun",
-    "authors": ["Bertrand Russell"],
+    "authors": [
+      "bertrand-russell"
+    ],
     "year": 1928,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1742,7 +2066,9 @@
   {
     "id": "Chin1931a",
     "title": "Lun shih-shih (On fact)",
-    "authors": ["Y. L. Chin"],
+    "authors": [
+      "y-l-chin"
+    ],
     "year": 1931,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1753,7 +2079,9 @@
   {
     "id": "Chu1932a",
     "title": "Shu-li lo-chi kang-yao (Mathematical logic (an outline))",
-    "authors": ["Yen-Chun Chu"],
+    "authors": [
+      "yen-chun-chu"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1764,7 +2092,9 @@
   {
     "id": "Chin1933a",
     "title": "Fan-wei ti lo-chi (The logic of the universes of discourse)",
-    "authors": ["Y. L. Chin"],
+    "authors": [
+      "y-l-chin"
+    ],
     "year": 1933,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1775,7 +2105,9 @@
   {
     "id": "MouTsungSan1933a",
     "title": "Mao-lun yü lei-hsing shuo (Contradiction and the theory of types)",
-    "authors": ["Mou Tsung-San"],
+    "authors": [
+      "mou-tsung-san"
+    ],
     "year": 1933,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1786,7 +2118,9 @@
   {
     "id": "WuShihTung1933a",
     "title": "Fang-ch'i \"p'ien-wei\" ti ts'un-tsai i-i (On the existential meaning of the \"particular affirmative\")",
-    "authors": ["Wu Shih-Tung"],
+    "authors": [
+      "wu-shih-tung"
+    ],
     "year": 1933,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1797,7 +2131,9 @@
   {
     "id": "DeMorgan1860a",
     "title": "Logic",
-    "authors": ["Augustus De Morgan"],
+    "authors": [
+      "augustus-de-morgan"
+    ],
     "year": 1860,
     "type": "book_chapter",
     "booktitle": "The English Cyclopaedia: Arts and Sciences (fourth division), conducted by Charles Knight",
@@ -1808,7 +2144,9 @@
   {
     "id": "DeMorgan1860b",
     "title": "Relation",
-    "authors": ["Augustus De Morgan"],
+    "authors": [
+      "augustus-de-morgan"
+    ],
     "year": 1860,
     "type": "book_chapter",
     "booktitle": "The English Cyclopaedia: Arts and Sciences (fourth division), conducted by Charles Knight",
@@ -1819,7 +2157,9 @@
   {
     "id": "Jevons1878a",
     "title": "Boole, George",
-    "authors": ["W. S. Jevons"],
+    "authors": [
+      "william-stanley-jevons"
+    ],
     "year": 1878,
     "type": "book_chapter",
     "booktitle": "The Encyclopaedia Britannica, 9th edn.",
@@ -1830,7 +2170,9 @@
   {
     "id": "Jevons1878b",
     "title": "De Morgan, Augustus",
-    "authors": ["W. S. Jevons"],
+    "authors": [
+      "william-stanley-jevons"
+    ],
     "year": 1878,
     "type": "book_chapter",
     "booktitle": "The Encyclopaedia Britannica, 9th edn.",
@@ -1841,7 +2183,9 @@
   {
     "id": "Tigert1886a",
     "title": "The Boole-Jevons method of inference",
-    "authors": ["John J. Tigert"],
+    "authors": [
+      "jno-j-tigert"
+    ],
     "year": 1886,
     "type": "book_chapter",
     "booktitle": "Hand-book of logic",
@@ -1853,7 +2197,9 @@
   {
     "id": "Pieri1906a",
     "title": "Sopra una definizione aritmetica degli irrazionali",
-    "authors": ["M. Pieri"],
+    "authors": [
+      "mario-pieri"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "Bollettino delle sedute della Accademia Gioenia di Scienze Naturali in Catania",
@@ -1863,7 +2209,9 @@
   {
     "id": "Boehm1911a",
     "title": "Axiome der Arithmetik",
-    "authors": ["Karl Boehm"],
+    "authors": [
+      "karl-boehm"
+    ],
     "year": 1911,
     "type": "book",
     "publisher": "Carl Winter's Universitätsbuchhandlung",
@@ -1874,7 +2222,9 @@
   {
     "id": "Neder1931a",
     "title": "Über den Aufbau der Arithmetik",
-    "authors": ["Ludwig Neder"],
+    "authors": [
+      "ludwig-neder"
+    ],
     "year": 1931,
     "type": "article",
     "journal": "Jahresbericht der Deutschen Mathematiker-Vereinigung",
@@ -1885,7 +2235,9 @@
   {
     "id": "Kaczmarz1932a",
     "title": "Axioms for arithmetic",
-    "authors": ["S. Kaczmarz"],
+    "authors": [
+      "s-kaczmarz"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "The Journal of the London Mathematical Society",
@@ -1896,7 +2248,9 @@
   {
     "id": "Jourdain1915a",
     "title": "Notes",
-    "authors": ["Philip E. B. Jourdain"],
+    "authors": [
+      "p-e-b-jourdain"
+    ],
     "year": 1915,
     "type": "book_chapter",
     "booktitle": "Contributions to the founding of the theory of transfinite numbers, by Georg Cantor, translated by Philip E. B. Jourdain",
@@ -1906,7 +2260,9 @@
   {
     "id": "Freytag1915a",
     "title": "Bemerkungen zu Leibnizens Erkenntnistheorie im Anschluß an Couturats Werk La logique de Leibnitz d'après des documents inédits (Paris 1901)",
-    "authors": ["Willy Freytag"],
+    "authors": [
+      "willy-freytag"
+    ],
     "year": 1915,
     "type": "article",
     "journal": "Archiv für die gesamte Psychologie",
@@ -1916,7 +2272,9 @@
   {
     "id": "Rougier1921a",
     "title": "La structure des théories déductives. Théorie nouvelle de la déduction",
-    "authors": ["Louis Auguste Paul Rougier"],
+    "authors": [
+      "louis-rougier"
+    ],
     "year": 1921,
     "type": "book",
     "publisher": "F. Alcan",
@@ -1926,7 +2284,9 @@
   {
     "id": "Bernstein1928a",
     "title": "Modular representations of finite algebras",
-    "authors": ["B. A. Bernstein"],
+    "authors": [
+      "b-a-bernstein"
+    ],
     "year": 1928,
     "type": "book_chapter",
     "booktitle": "Proceedings of the International Mathematical Congress held in Toronto, August 11–16, 1924",
@@ -1938,7 +2298,10 @@
   {
     "id": "BlumbergFeigl1932a",
     "title": "Lo-chi ti shih-cheng che-hsüeh",
-    "authors": ["A. E. Blumberg", "Herbert Feigl"],
+    "authors": [
+      "a-e-blumberg",
+      "herbert-feigl"
+    ],
     "year": 1932,
     "type": "article",
     "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
@@ -1949,7 +2312,9 @@
   {
     "id": "Anonymous1933a",
     "title": "Simbólica (Lógica)",
-    "authors": ["Anonymous"],
+    "authors": [
+      "Anonymous"
+    ],
     "year": 1933,
     "type": "book_chapter",
     "booktitle": "Enciclopedia universal ilustrada europeo-americana, tomo IX (Apéndice)",
@@ -1960,7 +2325,9 @@
   {
     "id": "Jackson1931a",
     "title": "Denotation, connotation and definition",
-    "authors": ["Reginald Jackson"],
+    "authors": [
+      "reginald-jackson"
+    ],
     "year": 1931,
     "type": "book_chapter",
     "booktitle": "Proceedings of the Seventh International Congress of Philosophy held at Oxford, England, September 1–6, 1930",
@@ -1970,7 +2337,9 @@
   {
     "id": "Moore1919a",
     "title": "External and internal relations",
-    "authors": ["G. E. Moore"],
+    "authors": [
+      "george-edward-moore"
+    ],
     "year": 1919,
     "type": "article",
     "journal": "Proceedings of the Aristotelian Society",
@@ -1981,7 +2350,9 @@
   {
     "id": "Rabus1880a",
     "title": "Die neuesten Bestrebungen auf dem Gebiete der Logik bei den Deutschen und die logische Frage",
-    "authors": ["L. Rabus"],
+    "authors": [
+      "l-rabus"
+    ],
     "year": 1880,
     "type": "book",
     "publisher": "Andreas Deichert",
@@ -1991,7 +2362,9 @@
   {
     "id": "Bunickij1899a",
     "title": "Nekotorye priloženiâ matematičeskoj logiki k teorii obŝago naibol'šago delitelâ i naimn'šago obŝago kratnago (Some applications of mathematical logic to the theory of the greatest common denominator and the least common multiple)",
-    "authors": ["E. Bunickij"],
+    "authors": [
+      "e-bunickij"
+    ],
     "year": 1899,
     "type": "article",
     "journal": "Vestnik opytnoj fiziki i elementarnoj matematiki",
@@ -2001,7 +2374,9 @@
   {
     "id": "Pieri1900a",
     "title": "Della geometria elementare come sistema ipotetico deduttivo",
-    "authors": ["Mario Pieri"],
+    "authors": [
+      "mario-pieri"
+    ],
     "year": 1900,
     "type": "article",
     "journal": "Memorie della Reale Accademia delle Scienze di Torino",
@@ -2011,7 +2386,9 @@
   {
     "id": "Peirce1903a",
     "title": "Review of Welby's What is meaning? and of Russell's The principles of mathematics, Volume I (111½)",
-    "authors": ["Charles Sanders Peirce"],
+    "authors": [
+      "charles-sanders-peirce"
+    ],
     "year": 1903,
     "type": "article",
     "journal": "The Nation",
@@ -2022,7 +2399,9 @@
   {
     "id": "Couturat1906a",
     "title": "La logique et la philosophie contemporaine",
-    "authors": ["Louis Couturat"],
+    "authors": [
+      "louis-couturat"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "Revue de métaphysique et de morale",
@@ -2032,7 +2411,9 @@
   {
     "id": "Lechalas1906a",
     "title": "Logique et moralisme",
-    "authors": ["G. Lechalas"],
+    "authors": [
+      "g-lechalas"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "Revue de métaphysique et de morale",
@@ -2042,7 +2423,9 @@
   {
     "id": "Couturat1906b",
     "title": "Logique et moralisme",
-    "authors": ["Louis Couturat"],
+    "authors": [
+      "louis-couturat"
+    ],
     "year": 1906,
     "type": "article",
     "journal": "Revue de métaphysique et de morale",
@@ -2052,7 +2435,9 @@
   {
     "id": "Mallieux1907a",
     "title": "Le rôle de l'expérience dans les raisonnements des jurisconsultes",
-    "authors": ["F. Mallieux"],
+    "authors": [
+      "f-mallieux"
+    ],
     "year": 1907,
     "type": "article",
     "journal": "Revue de métaphysique et de morale",
@@ -2062,7 +2447,9 @@
   {
     "id": "Winter1908a",
     "title": "Sur la logique du droit",
-    "authors": ["Maximilien Winter"],
+    "authors": [
+      "maximilien-winter"
+    ],
     "year": 1908,
     "type": "article",
     "journal": "Revue de métaphysique et de morale",
@@ -2072,7 +2459,9 @@
   {
     "id": "Winter1911a",
     "title": "La méthode dans la philosophie des mathématiques",
-    "authors": ["Maximilien Winter"],
+    "authors": [
+      "maximilien-winter"
+    ],
     "year": 1911,
     "type": "book",
     "publisher": "Librairie Félix Alcan, Maisons Félix Alcan et Guillaumin Réunies",
@@ -2083,7 +2472,9 @@
   {
     "id": "Manno1911a",
     "title": "Review of Couturat's Die philosophischen Prinzipien der Mathematik (100½)",
-    "authors": ["R. Manno"],
+    "authors": [
+      "r-manno"
+    ],
     "year": 1911,
     "type": "article",
     "journal": "Zeitschrift für Philosophie und philosophische Kritik",
@@ -2094,7 +2485,9 @@
   {
     "id": "Smirnov1911a",
     "title": "Review of N. A. Vasil'ev's O častnyx suždeniâx, o treugol'nike protivopoložnostej, o zakone isključennogo četvertogo (JSL V 132)",
-    "authors": ["K. A. Smirnov"],
+    "authors": [
+      "k-a-smirnov"
+    ],
     "year": 1911,
     "type": "article",
     "journal": "Žurnal Ministerstva Narodnogo Prosveščeniâ",
@@ -2105,12 +2498,1087 @@
   {
     "id": "Parfentev1913a",
     "title": "Neskol'ko slov po povodu knigi L. Kutura \"Filosofskie principy matematiki\" (A few words apropos of L. Couturat's book, \"Filosofskie principy matematiki\") (cf. 100½)",
-    "authors": ["N. N. Parfent'ev"],
+    "authors": [
+      "n-n-parfentev"
+    ],
     "year": 1913,
     "type": "article",
     "journal": "Izvestiâ Fiziko-Matematičeskogo Obŝestva pri Imperatorskom Kazanskom Universitete (Bulletin de la Société Physico-Mathématique de Kazan)",
     "volume": "ser. 2, vol. 19, no. 1",
     "pages": "15-23",
     "notes": "Cf. entry 100½ in A bibliography of symbolic logic / Additions and corrections."
+  },
+  {
+    "id": "Ginzberg1913a",
+    "title": "Note sur le sens équivoque des propositions particulières",
+    "authors": [
+      "s-ginzberg"
+    ],
+    "year": 1913,
+    "type": "article",
+    "journal": "Revue de métaphysique et de morale",
+    "volume": "21",
+    "pages": "101-106"
+  },
+  {
+    "id": "Ginzberg1914a",
+    "title": "À propos des propositions particulières",
+    "authors": [
+      "s-ginzberg"
+    ],
+    "year": 1914,
+    "type": "article",
+    "journal": "Revue de métaphysique et de morale",
+    "volume": "22, no. 2",
+    "pages": "257-259"
+  },
+  {
+    "id": "Couturat1914a",
+    "title": "Réponse",
+    "authors": [
+      "louis-couturat"
+    ],
+    "year": 1914,
+    "type": "article",
+    "journal": "Revue de métaphysique et de morale",
+    "volume": "22, no. 2",
+    "pages": "259-260"
+  },
+  {
+    "id": "Lalande1915a",
+    "title": "L'œuvre de Louis Couturat",
+    "authors": [
+      "andre-lalande"
+    ],
+    "year": 1915,
+    "type": "article",
+    "journal": "Revue de métaphysique et de morale",
+    "volume": "22, no. 5",
+    "pages": "644-688",
+    "notes": "For 1914, published 1915."
+  },
+  {
+    "id": "Ceresole1915a",
+    "title": "L'irréductibilité de l'intuition des probabilités et l'existence de propositions mathématiques indémontrables",
+    "authors": [
+      "pierre-ceresole"
+    ],
+    "year": 1915,
+    "type": "article",
+    "journal": "Archives de psychologie (Geneva)",
+    "volume": "15",
+    "pages": "255-305"
+  },
+  {
+    "id": "DeLaguna1915a",
+    "title": "The postulates of deductive logic",
+    "authors": [
+      "theodore-de-laguna"
+    ],
+    "year": 1915,
+    "type": "article",
+    "journal": "The Journal of Philosophy, Psychology and Scientific Methods",
+    "volume": "12",
+    "pages": "225-236"
+  },
+  {
+    "id": "Wrinch1917a",
+    "title": "Bernard Bolzano (1781-1848)",
+    "authors": [
+      "dorothy-maud-wrinch"
+    ],
+    "year": 1917,
+    "type": "article",
+    "journal": "The Monist",
+    "volume": "27",
+    "pages": "83-104"
+  },
+  {
+    "id": "Nicod1919a",
+    "title": "Review of Goblot's Traité de logique",
+    "authors": [
+      "jean-nicod"
+    ],
+    "year": 1919,
+    "type": "article",
+    "journal": "Revue de métaphysique et de morale",
+    "volume": "26",
+    "pages": "375-386"
+  },
+  {
+    "id": "Wrinch1919a",
+    "title": "On the nature of judgment",
+    "authors": [
+      "dorothy-maud-wrinch"
+    ],
+    "year": 1919,
+    "type": "article",
+    "journal": "Mind",
+    "volume": "n.s. vol. 28",
+    "pages": "319-329"
+  },
+  {
+    "id": "Ogden1923a",
+    "title": "Appendix D. Some moderns",
+    "authors": [
+      "c-k-ogden",
+      "i-a-richards"
+    ],
+    "year": 1923,
+    "type": "book chapter",
+    "journal": "The meaning of meaning, A study of the influence of language upon thought and of the science of symbolism",
+    "pages": "419-444",
+    "notes": "Harcourt, Brace & Company, Inc., New York, and Kegan Paul, Trench, Trubner & Co., Ltd., London, 1923."
+  },
+  {
+    "id": "Hawes1923a",
+    "title": "The logic of contemporary English realism",
+    "authors": [
+      "raymond-p-hawes"
+    ],
+    "year": 1923,
+    "type": "book",
+    "journal": "Cornell studies in philosophy",
+    "volume": "no. 15",
+    "pages": "v + 147 pp",
+    "notes": "Longmans, Green and Co., New York 1923."
+  },
+  {
+    "id": "Mattingly1923a",
+    "title": "Contribution to the theory of propositions",
+    "authors": [
+      "john-r-mattingly"
+    ],
+    "year": 1923,
+    "type": "article",
+    "journal": "The Journal of Philosophy",
+    "volume": "20",
+    "pages": "623-629"
+  },
+  {
+    "id": "Geiger1924a",
+    "title": "Systematische Axiomatik der Euklidischen Geometrie",
+    "authors": [
+      "moritz-geiger"
+    ],
+    "year": 1924,
+    "type": "book",
+    "pages": "XXIII + 271 pp",
+    "notes": "Dr. Benno Filser Verlag, Augsburg 1924."
+  },
+  {
+    "id": "Daniell1924a",
+    "title": "The setting of a proposition",
+    "authors": [
+      "p-j-daniell"
+    ],
+    "year": 1924,
+    "type": "article",
+    "journal": "Annals of Mathematics",
+    "volume": "ser. 2 vol. 26 no. 1-2",
+    "pages": "65-78"
+  },
+  {
+    "id": "Nicod1924a",
+    "title": "La géométrie dans le monde sensible",
+    "authors": [
+      "jean-nicod"
+    ],
+    "year": 1924,
+    "type": "book",
+    "pages": "XV + 174 pp",
+    "notes": "Félix Alcan, Paris 1924."
+  },
+  {
+    "id": "Russell1924a",
+    "title": "Preface",
+    "authors": [
+      "bertrand-russell"
+    ],
+    "year": 1924,
+    "type": "book chapter",
+    "journal": "La géométrie dans le monde sensible",
+    "pages": "XI-XV",
+    "notes": "In Jean Nicod, La géométrie dans le monde sensible (1924)."
+  },
+  {
+    "id": "Nicod1930a",
+    "title": "Geometry in the sensible world",
+    "authors": [
+      "jean-nicod"
+    ],
+    "year": 1930,
+    "type": "book chapter",
+    "journal": "Foundations of geometry & induction",
+    "pages": "1-192",
+    "notes": "English translation of XXXII 552(15) by Philip Paul Wiener. Harcourt, Brace and Company, New York, and Kegan Paul, Trench, Trubner & Co., Ltd., London, 1930."
+  },
+  {
+    "id": "Russell1930a",
+    "title": "Preface",
+    "authors": [
+      "bertrand-russell"
+    ],
+    "year": 1930,
+    "type": "book chapter",
+    "journal": "Foundations of geometry & induction",
+    "pages": "5-9",
+    "notes": "English translation of XXXII 552(16) by Philip Paul Wiener. In Jean Nicod, Foundations of geometry & induction (1930)."
+  },
+  {
+    "id": "Rieffert1925a",
+    "title": "Logik. Eine Kritik an der Geschichte ihrer Idee",
+    "authors": [
+      "johann-baptist-rieffert"
+    ],
+    "year": 1925,
+    "type": "book chapter",
+    "journal": "Lehrbuch der Philosophie, Vol. 2, Die Philosophie in ihren Einzelgebieten",
+    "pages": "1-294",
+    "notes": "Edited by Max Dessoir, Ullstein, Berlin 1925."
+  },
+  {
+    "id": "Kraft1925a",
+    "title": "Die Grundformen der wissenschaftlichen Methoden",
+    "authors": [
+      "viktor-kraft"
+    ],
+    "year": 1925,
+    "type": "article",
+    "journal": "Akademie der Wissenschaften in Wien, Sitzungsberichte",
+    "volume": "vol. 203 Abh. 3",
+    "pages": "1-304"
+  },
+  {
+    "id": "Smart1925a",
+    "title": "Review of Johnson's Logic (cf. 835)",
+    "authors": [
+      "h-r-smart"
+    ],
+    "year": 1925,
+    "type": "article",
+    "journal": "The Philosophical Review",
+    "volume": "34",
+    "pages": "79-87"
+  },
+  {
+    "id": "Horn1925a",
+    "title": "A system of relative existential propositions connected with the relation of class membership",
+    "authors": [
+      "c-e-van-horn"
+    ],
+    "year": 1925,
+    "type": "book chapter",
+    "journal": "Abstracts of theses, Science series vol. 1",
+    "pages": "31-37",
+    "notes": "The University of Chicago Press, Chicago, The Baker & Taylor Company, New York, The Cambridge University Press, London, The Maruzen-Kabushiki-Kaisha, Tokyo, Osaka, Kyoto, Fukuoka, and Sendai, and The Mission Book Company, Shanghai, 1925."
+  },
+  {
+    "id": "Benjamin1926a",
+    "title": "To exist or not to exist",
+    "authors": [
+      "a-c-benjamin"
+    ],
+    "year": 1926,
+    "type": "article",
+    "journal": "The Monist",
+    "volume": "36",
+    "pages": "326-339"
+  },
+  {
+    "id": "Lalande1926a",
+    "title": "Logic and methodology of the sciences",
+    "authors": [
+      "andre-lalande"
+    ],
+    "year": 1926,
+    "type": "article",
+    "journal": "The Monist",
+    "volume": "36",
+    "pages": "368-383",
+    "notes": "Translated from the French by Gertrude C. Bussey."
+  },
+  {
+    "id": "Ternus1926a",
+    "title": "Zur Philosophie der Mathematik",
+    "authors": [
+      "jos-ternus"
+    ],
+    "year": 1926,
+    "type": "article",
+    "journal": "Philosophisches Jahrbuch",
+    "volume": "39",
+    "pages": "217-231"
+  },
+  {
+    "id": "Fels1926a",
+    "title": "Bernard Bolzano",
+    "authors": [
+      "h-fels"
+    ],
+    "year": 1926,
+    "type": "article",
+    "journal": "Philosophisches Jahrbuch",
+    "volume": "39",
+    "pages": "384-418"
+  },
+  {
+    "id": "Fels1927a",
+    "title": "Die Philosophie Bolzanos",
+    "authors": [
+      "h-fels"
+    ],
+    "year": 1927,
+    "type": "article",
+    "journal": "Philosophisches Jahrbuch",
+    "volume": "40",
+    "pages": "319-336, 423-448"
+  },
+  {
+    "id": "Fechner1927a",
+    "title": "Das Verhältnis der Kategorienlehre zur formalen Logik. Ein Versuch der Ueberwindung Immanuel Kants",
+    "authors": [
+      "oskar-fechner"
+    ],
+    "year": 1927,
+    "type": "book",
+    "pages": "VII + 175 pp",
+    "notes": "Carl Hinstorffs Verlag, Rostock 1927."
+  },
+  {
+    "id": "Reymond1927a",
+    "title": "Logique et sciences",
+    "authors": [
+      "arnold-reymond"
+    ],
+    "year": 1927,
+    "type": "article",
+    "journal": "Revue de théologie et de philosophie",
+    "volume": "n.s. vol. 15",
+    "pages": "28-42"
+  },
+  {
+    "id": "Moore1927a",
+    "title": "Facts and propositions",
+    "authors": [
+      "george-edward-moore"
+    ],
+    "year": 1927,
+    "type": "article",
+    "journal": "Aristotelian Society Supplementary Volume",
+    "volume": "7",
+    "pages": "171-206"
+  },
+  {
+    "id": "Rosenfeld1927a",
+    "title": "Le problème logique de la définition des nombres irrationnels",
+    "authors": [
+      "l-rosenfeld"
+    ],
+    "year": 1927,
+    "type": "article",
+    "journal": "Isis",
+    "volume": "9",
+    "pages": "345-358"
+  },
+  {
+    "id": "Courant1928a",
+    "title": "Über die allgemeine Bedeutung des mathematischen Denkens",
+    "authors": [
+      "r-courant"
+    ],
+    "year": 1928,
+    "type": "article",
+    "journal": "Die Naturwissenschaften",
+    "volume": "16",
+    "pages": "89-94"
+  },
+  {
+    "id": "Moritz1928a",
+    "title": "Meaning, methods and mission of modern mathematics",
+    "authors": [
+      "robert-e-moritz"
+    ],
+    "year": 1928,
+    "type": "article",
+    "journal": "The Scientific Monthly",
+    "volume": "26",
+    "pages": "412-425"
+  },
+  {
+    "id": "Fels1929b",
+    "title": "Bernard Bolzano. Sein Leben und sein Werk",
+    "authors": [
+      "h-fels"
+    ],
+    "year": 1929,
+    "type": "book",
+    "pages": "X + 109 pp",
+    "notes": "Felix Meiner, Leipzig 1929."
+  },
+  {
+    "id": "Morris1929a",
+    "title": "The relation of formal to instrumental logic",
+    "authors": [
+      "charles-w-morris"
+    ],
+    "year": 1929,
+    "type": "book chapter",
+    "journal": "Essays in philosophy by seventeen Doctors of Philosophy of the University of Chicago",
+    "pages": "251-268",
+    "notes": "Edited by Thomas Vernor Smith and William Kelley Wright, The Open Court Publishing Co., Chicago and London 1929."
+  },
+  {
+    "id": "Salomaa1929a",
+    "title": "The category of relation",
+    "authors": [
+      "j-e-salomaa"
+    ],
+    "year": 1929,
+    "type": "article",
+    "journal": "Annales Academiae Scientiarum Fennicae, series B",
+    "volume": "19, no. 2",
+    "pages": "189 pp",
+    "notes": "Helsinki 1929."
+  },
+  {
+    "id": "Salomaa1929b",
+    "title": "Idealismus und Realismus in der englischen Philosophie der Gegenwart",
+    "authors": [
+      "j-e-salomaa"
+    ],
+    "year": 1929,
+    "type": "article",
+    "journal": "Annales Academiae Scientiarum Fennicae, series B",
+    "volume": "19, no. 3",
+    "pages": "308 pp",
+    "notes": "Helsinki 1929."
+  },
+  {
+    "id": "Storck1929a",
+    "title": "A methodology of thoughts",
+    "authors": [
+      "john-storck"
+    ],
+    "year": 1929,
+    "type": "book chapter",
+    "journal": "Essays in honor of John Dewey on the occasion of his seventieth birthday, October 20, 1929",
+    "pages": "369-388",
+    "notes": "Henry Holt and Company, New York 1929."
+  },
+  {
+    "id": "Dewey1929a",
+    "title": "The sphere of application of the excluded middle",
+    "authors": [
+      "john-dewey"
+    ],
+    "year": 1929,
+    "type": "article",
+    "journal": "The Journal of Philosophy",
+    "volume": "26",
+    "pages": "701-705"
+  },
+  {
+    "id": "Wrinch1929a",
+    "title": "On the structure of serial relations",
+    "authors": [
+      "dorothy-maud-wrinch"
+    ],
+    "year": 1929,
+    "type": "article",
+    "journal": "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science",
+    "volume": "ser. 7 vol. 8",
+    "pages": "698-702"
+  },
+  {
+    "id": "Wrinch1929b",
+    "title": "On the multiplication of serial relations",
+    "authors": [
+      "dorothy-maud-wrinch"
+    ],
+    "year": 1929,
+    "type": "article",
+    "journal": "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science",
+    "volume": "ser. 7 vol. 8",
+    "pages": "1025-1033"
+  },
+  {
+    "id": "Harpe1929a",
+    "title": "Les principes fondamentaux du rationalisme",
+    "authors": [
+      "jean-de-la-harpe"
+    ],
+    "year": 1929,
+    "type": "article",
+    "journal": "Revue philosophique de la France et de l'Étranger",
+    "volume": "107",
+    "pages": "266-296"
+  },
+  {
+    "id": "Harpe1930a",
+    "title": "L'idée de la raison dans les sciences et la philosophie contemporaine",
+    "authors": [
+      "jean-de-la-harpe"
+    ],
+    "year": 1930,
+    "type": "book",
+    "pages": "135 pp",
+    "notes": "Recueil de travaux publiés par la Faculté des Lettres, Université de Neuchâtel, Neuchâtel 1930."
+  },
+  {
+    "id": "Lewis1930a",
+    "title": "Logic and pragmatism",
+    "authors": [
+      "c-i-lewis"
+    ],
+    "year": 1930,
+    "type": "book chapter",
+    "journal": "Contemporary American philosophy, personal statements, vol. II",
+    "pages": "29-51",
+    "notes": "Edited by George P. Adams and Wm. Pepperell Montague, The Macmillan Company, New York 1930."
+  },
+  {
+    "id": "Dubs1930a",
+    "title": "The nature of rigorous demonstration",
+    "authors": [
+      "homer-h-dubs"
+    ],
+    "year": 1930,
+    "type": "article",
+    "journal": "The Monist",
+    "volume": "40",
+    "pages": "94-130"
+  },
+  {
+    "id": "Greenwood1930a",
+    "title": "Invention and description in mathematics",
+    "authors": [
+      "thomas-greenwood"
+    ],
+    "year": 1930,
+    "type": "article",
+    "journal": "Proceedings of the Aristotelian Society",
+    "volume": "n.s. vol. 30",
+    "pages": "79-90"
+  },
+  {
+    "id": "Russell1930a",
+    "title": "Review of F. C. S. Schiller's Logic for use",
+    "authors": [
+      "l-j-russell"
+    ],
+    "year": 1930,
+    "type": "article",
+    "journal": "Mind",
+    "volume": "n.s. vol. 39",
+    "pages": "218-221"
+  },
+  {
+    "id": "Sidgwick1930a",
+    "title": "Logic for use",
+    "authors": [
+      "alfred-sidgwick"
+    ],
+    "year": 1930,
+    "type": "article",
+    "journal": "Mind",
+    "volume": "n.s. vol. 39",
+    "pages": "402-403"
+  },
+  {
+    "id": "Broad1930a",
+    "title": "The principles of demonstrative induction",
+    "authors": [
+      "c-d-broad"
+    ],
+    "year": 1930,
+    "type": "article",
+    "journal": "Mind",
+    "volume": "n.s. vol. 39",
+    "pages": "302-317, 426-439"
+  },
+  {
+    "id": "Conger1931a",
+    "title": "A world of epitomizations. A study in the philosophy of the sciences",
+    "authors": [
+      "george-perrigo-conger"
+    ],
+    "year": 1931,
+    "type": "book",
+    "pages": "xiv + 605 pp",
+    "notes": "Princeton University Press, Princeton, and Oxford University Press, London, 1931."
+  },
+  {
+    "id": "Petzall1931a",
+    "title": "Logistischer Positivismus. Versuch einer Darstellung und Würdigung der philosophischen Grundanschauungendes sog. Wiener Kreises der wissenschaftlichen Weltauffassung",
+    "authors": [
+      "ake-petzall"
+    ],
+    "year": 1931,
+    "type": "article",
+    "journal": "Göteborgs Högskolas årsskrift",
+    "volume": "vol. 37 no. 3",
+    "pages": "1-36",
+    "notes": "Translated from the Swedish by Sven Åhmen."
+  },
+  {
+    "id": "Stadie1931a",
+    "title": "Review of Kaufmann's Das Unendliche in der Mathematik und seine Ausschaltung",
+    "authors": [
+      "helmut-stadie"
+    ],
+    "year": 1931,
+    "type": "article",
+    "journal": "Göttingische gelehrte Anzeigen",
+    "volume": "193",
+    "pages": "376-388"
+  },
+  {
+    "id": "Weyl1931a",
+    "title": "Los grados de lo infinito",
+    "authors": [
+      "hermann-weyl"
+    ],
+    "year": 1931,
+    "type": "article",
+    "journal": "Revista de Occidente",
+    "volume": "33",
+    "pages": "170-200",
+    "notes": "Spanish translation of 1927c."
+  },
+  {
+    "id": "Stace1932a",
+    "title": "The theory of knowledge and existence",
+    "authors": [
+      "w-t-stace"
+    ],
+    "year": 1932,
+    "type": "book",
+    "pages": "xii + 455 pp",
+    "notes": "Clarendon Press, Oxford 1932. [Cf. XXIV 275(3).]"
+  },
+  {
+    "id": "Braithwaite1932a",
+    "title": "Lewis Carroll as a logician",
+    "authors": [
+      "r-b-braithwaite"
+    ],
+    "year": 1932,
+    "type": "article",
+    "journal": "The Mathematical Gazette",
+    "volume": "16",
+    "pages": "174-178"
+  },
+  {
+    "id": "Keyser1932a",
+    "title": "The meaning of mathematics",
+    "authors": [
+      "c-j-keyser"
+    ],
+    "year": 1932,
+    "type": "article",
+    "journal": "Scripta Mathematica",
+    "volume": "1",
+    "pages": "15-28",
+    "notes": "Published 1932-3."
+  },
+  {
+    "id": "Dassen1933a",
+    "title": "Réflexions sur quelques antinomies et sur la logique empiriste",
+    "authors": [
+      "c-c-dassen"
+    ],
+    "year": 1933,
+    "type": "article",
+    "journal": "Anales de la Academia Nacional de Ciencias Exactas Físicas y Naturales de Buenos Aires",
+    "volume": "3",
+    "pages": "39-70, 73-128",
+    "notes": "For 1932-3, pub. 1933. Identical with 4902."
+  },
+  {
+    "id": "Kaila1933a",
+    "title": "Über den Zusammenhang zwischen Sinn und Verifikation von Aussagen. Ein Fragment",
+    "authors": [
+      "eino-kaila"
+    ],
+    "year": 1933,
+    "type": "article",
+    "journal": "Ajatus",
+    "volume": "6",
+    "pages": "118-139"
+  },
+  {
+    "id": "Neumann1933a",
+    "title": "Matrizenkalkül in der Booleschen Algebra",
+    "authors": [
+      "bernard-neumann"
+    ],
+    "year": 1933,
+    "type": "article",
+    "journal": "Jahresbericht der Deutschen Mathematiker-Vereinigung, Abt. 2",
+    "volume": "42",
+    "pages": "126-130"
+  },
+  {
+    "id": "Bell1934a",
+    "title": "The search for truth",
+    "authors": [
+      "e-t-bell"
+    ],
+    "year": 1934,
+    "type": "book",
+    "pages": "x + 293 pp",
+    "notes": "The Williams & Wilkins Co., Baltimore 1934. Identical with 276a."
+  },
+  {
+    "id": "Bouligand1934a",
+    "title": "La causalité des théories mathématiques",
+    "authors": [
+      "georges-bouligand"
+    ],
+    "year": 1934,
+    "type": "book",
+    "pages": "41 pp",
+    "notes": "Actualités scientifiques et industrielles 184. Hermann & Cie, Paris 1934."
+  },
+  {
+    "id": "Hahn1934a",
+    "title": "Gibt es Unendliches?",
+    "authors": [
+      "hans-hahn"
+    ],
+    "year": 1934,
+    "type": "book chapter",
+    "journal": "Alte Probleme—Neue Lösungen in den exakten Wissenschaften, Fünf Wiener Vorträge, Zweiter Zyklus",
+    "pages": "93-116",
+    "notes": "Franz Deuticke, Leipzig and Vienna 1934."
+  },
+  {
+    "id": "Levi1934a",
+    "title": "Considerazioni sulle esigenze logiche della nozione del reale e sul principio delle infinite scelte",
+    "authors": [
+      "beppo-levi"
+    ],
+    "year": 1934,
+    "type": "book chapter",
+    "journal": "Atti VIII° Congresso Nazionale di Filosofia, Roma, 24-28 Ottobre 1933-XI°",
+    "pages": "84-94",
+    "notes": "Società Filosofica Italiana, Rome 1934."
+  },
+  {
+    "id": "Pastore1934a",
+    "title": "La logica del potenziamento nelle sue relazioni con la Scienza e la Filosofia",
+    "authors": [
+      "annibale-pastore"
+    ],
+    "year": 1934,
+    "type": "book chapter",
+    "journal": "Atti VIII° Congresso Nazionale di Filosofia, Roma, 24-28 Ottobre 1933-XI°",
+    "pages": "95-105",
+    "notes": "Società Filosofica Italiana, Rome 1934."
+  },
+  {
+    "id": "Drewnowski1934a",
+    "title": "Zarys programu filozoficznego (Outline of a philosophical program)",
+    "authors": [
+      "jan-franciszek-drewnowski"
+    ],
+    "year": 1934,
+    "type": "article",
+    "journal": "Przegląd filozoficzny",
+    "volume": "37",
+    "pages": "3-38, 150-181, 262-292"
+  },
+  {
+    "id": "Carnap1934a",
+    "title": "On the character of philosophic problems",
+    "authors": [
+      "rudolf-carnap"
+    ],
+    "year": 1934,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "1",
+    "pages": "5-19",
+    "notes": "Translated by W. M. Malisoff."
+  },
+  {
+    "id": "Dewey1934a",
+    "title": "Meaning, assertion and proposal",
+    "authors": [
+      "john-dewey"
+    ],
+    "year": 1934,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "1",
+    "pages": "237-238"
+  },
+  {
+    "id": "Carnap1934b",
+    "title": "Meaning, assertion and proposal",
+    "authors": [
+      "rudolf-carnap"
+    ],
+    "year": 1934,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "1",
+    "pages": "359-360"
+  },
+  {
+    "id": "Margenau1934a",
+    "title": "On the application of many-valued systems of logic to physics",
+    "authors": [
+      "h-margenau"
+    ],
+    "year": 1934,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "1",
+    "pages": "118-121",
+    "notes": "[Cf. 473i/.]"
+  },
+  {
+    "id": "Zwicky1934a",
+    "title": "On the principle of the flexibility of scientific truth",
+    "authors": [
+      "f-zwicky"
+    ],
+    "year": 1934,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "1",
+    "pages": "353-358"
+  },
+  {
+    "id": "Margenau1934b",
+    "title": "Flexibility of scientific truth",
+    "authors": [
+      "h-margenau"
+    ],
+    "year": 1934,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "1",
+    "pages": "486-487"
+  },
+  {
+    "id": "Mazurkiewicz1934a",
+    "title": "Über die Grundlagen der Wahrscheinlichkeitsrechnung I",
+    "authors": [
+      "stefan-mazurkiewicz"
+    ],
+    "year": 1934,
+    "type": "article",
+    "journal": "Monatshefte für Mathematik und Physik",
+    "volume": "41",
+    "pages": "343-352"
+  },
+  {
+    "id": "Portaz1935a",
+    "title": "La simplicité mathématique",
+    "authors": [
+      "maximine-portaz"
+    ],
+    "year": 1935,
+    "type": "book",
+    "pages": "541 pp",
+    "notes": "Paquet, Lyon 1935."
+  },
+  {
+    "id": "Bell1935a",
+    "title": "Review of Black's The nature of mathematics (475/)",
+    "authors": [
+      "e-t-bell"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "2",
+    "pages": "115-117"
+  },
+  {
+    "id": "Reiser1935a",
+    "title": "Review of Bell's The search for truth (2768)",
+    "authors": [
+      "o-l-reiser"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "2",
+    "pages": "118-120"
+  },
+  {
+    "id": "Anglade1935a",
+    "title": "Réflexions sur un axiome de logique: \"Ex falso sequitur quodlibet.\"",
+    "authors": [
+      "l-anglade"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Archives de philosophie",
+    "volume": "11, no. 3",
+    "pages": "191-227"
+  },
+  {
+    "id": "Kotarbinski1935a",
+    "title": "Zasadnicze myśli pansomatyzmu (The fundamental ideas of pansomatism)",
+    "authors": [
+      "tadeusz-kotarbinski"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Przegląd filozoficzny",
+    "volume": "38",
+    "pages": "283-294"
+  },
+  {
+    "id": "McKinsey1935a",
+    "title": "On the independence of undefined ideas",
+    "authors": [
+      "j-c-c-mckinsey"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "41",
+    "pages": "291-297"
+  },
+  {
+    "id": "Russell1932a",
+    "title": "Review of Ramsey's The foundations of mathematics and other logical essays",
+    "authors": [
+      "bertrand-russell"
+    ],
+    "year": 1932,
+    "type": "article",
+    "journal": "Philosophy",
+    "volume": "7",
+    "pages": "84-86",
+    "notes": "cf. 2957, 4, 5, 8, 9, 12-15."
+  },
+  {
+    "id": "Padoa1901a",
+    "title": "Essai d'une théorie algébrique des nombres entiers, précédé d'une introduction logique à une théorie déductive quelconque",
+    "authors": [
+      "alessandro-padoa"
+    ],
+    "year": 1901,
+    "type": "book chapter",
+    "journal": "Bibliothèque du Congrès International de Philosophie, Volume III, Logique et histoire des sciences",
+    "pages": "309-365",
+    "notes": "Librairie Armand Colin, Paris 1901. Omitted from A bibliography of symbolic logic but historically important as the first publication of Padoa's method. Note signed by Alonzo Church."
+  },
+  {
+    "id": "Levi1902a",
+    "title": "Intorno alla teoria degli aggregati",
+    "authors": [
+      "beppo-levi"
+    ],
+    "year": 1902,
+    "type": "article",
+    "journal": "Reale Istituto Lombardo di Scienze e Lettere, Rendiconti",
+    "volume": "ser. 2 vol. 35",
+    "pages": "863-868",
+    "notes": "Listed because of its importance in the historical development of the axiom of choice. Note signed by Alonzo Church."
+  },
+  {
+    "id": "Poreckij1896a",
+    "title": "Novad nauka i Akademik Imšeneckij (The new science and Academician Imseneckij)",
+    "authors": [
+      "platon-poretsky"
+    ],
+    "year": 1896,
+    "type": "article",
+    "journal": "Severnyj vestnik",
+    "volume": "no. 12",
+    "pages": "103-112"
+  },
+  {
+    "id": "Lukasiewicz1922a",
+    "title": "Interpretacya liczbowa teoryi zdań (A numerical interpretation of the theory of propositions)",
+    "authors": [
+      "jan-lukasiewicz"
+    ],
+    "year": 1922,
+    "type": "article",
+    "journal": "Ruch filozoficzny",
+    "volume": "7",
+    "pages": "92-93",
+    "notes": "An abstract of a lecture of October 31, 1922. Published 1922-3."
+  },
+  {
+    "id": "Sen1924a",
+    "title": "A study on Mathurānātha's Tattva-cintāmaṇi-rahasya",
+    "authors": [
+      "saileswar-sen"
+    ],
+    "year": 1924,
+    "type": "book",
+    "pages": "66 pp",
+    "notes": "Bij H. Veenman and Sons, Wageningen 1924."
+  },
+  {
+    "id": "Kotarbinski1933a",
+    "title": "Grundlinien und Tendenzen der Philosophie in Polen",
+    "authors": [
+      "tadeusz-kotarbinski"
+    ],
+    "year": 1933,
+    "type": "article",
+    "journal": "Slavische Rundschau",
+    "volume": "5",
+    "pages": "218-229"
+  },
+  {
+    "id": "Dedekind1900a",
+    "title": "Ueber die von drei Moduln erzeugte Dualgruppe",
+    "authors": [
+      "richard-dedekind"
+    ],
+    "year": 1900,
+    "type": "article",
+    "journal": "Mathematische Annalen",
+    "volume": "53",
+    "pages": "371-403",
+    "notes": "Reprinted in Richard Dedekind Gesammelte mathematische Werke, vol. 2 (Braunschweig 1931), pp. 236-271."
+  },
+  {
+    "id": "Hartogs1915a",
+    "title": "Ueber das Problem der Wohlordnung",
+    "authors": [
+      "f-hartogs"
+    ],
+    "year": 1915,
+    "type": "article",
+    "journal": "Mathematische Annalen",
+    "volume": "76",
+    "pages": "438-443"
+  },
+  {
+    "id": "Kuratowski1922a",
+    "title": "Sur l'opération Ā de l'Analysis Situs",
+    "authors": [
+      "kazimierz-kuratowski"
+    ],
+    "year": 1922,
+    "type": "article",
+    "journal": "Fundamenta mathematicae",
+    "volume": "3",
+    "pages": "182-199"
+  },
+  {
+    "id": "Zorn1935a",
+    "title": "A remark on method in transfinite algebra",
+    "authors": [
+      "max-a-zorn"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "41",
+    "pages": "667-670"
   }
 ]
