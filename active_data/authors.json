@@ -1319,7 +1319,7 @@
   },
   {
     "id": "david-garcia",
-    "full_name": "David García",
+    "full_name": "Juan David García Bacca",
     "alternative_names": [
       "García",
       "Garcia",
@@ -4922,7 +4922,7 @@
   },
   {
     "id": "o-l-reiser",
-    "full_name": "O. L. Reiser",
+    "full_name": "Oliver L. Reiser",
     "alternative_names": [
       "Reiser"
     ]
@@ -7602,5 +7602,15 @@
     "id": "f-hartogs",
     "full_name": "F. Hartogs",
     "alternative_names": ["Hartogs"]
+  },
+  {
+    "id": "benjamin-p-gill",
+    "full_name": "Benjamin Parker Gill",
+    "alternative_names": ["Gill"]
+  },
+  {
+    "id": "william-m-malisoff",
+    "full_name": "William Marias Malisoff",
+    "alternative_names": ["Malisoff"]
   }
 ]

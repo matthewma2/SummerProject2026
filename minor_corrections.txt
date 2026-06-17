@@ -1,0 +1,740 @@
+ADDITIONS AND CORRECTIONS
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+ADDITIONS AND CORRECTIONS TO
+A BIBLIOGRAPHY OF SYMBOLIC LOGIC
+ALONZO CHURCH
+There follows a list of additions and corrections to A bibliography of symbolic logic
+(THE JOURNAL OF SYMBOLIC LOGIC, vol. 1, pp. 121-218) and a set of indexes to the Bibli-
+ography.
+In the case of minor corrections the necessary change in the original entry in the
+Bibliography is indicated; in the case of major corrections the entire entry is given in cor-
+rected form. All the corrections which were noted in the Errata to volume 1 of the JOUR-
+NAL are here repeated.
+If further additions and corrections to the Bibliography are found, they will not again
+be separately published but will be listed in the reviews section of the JOURNAL and in-
+cluded in the biennial indexes to the reviews section. If typographical or other minor
+errors appear in the present Additions and corrections, they will be corrected in the Errata
+to volume 4 of the JOURNAL.
+In cross references and in the indexes, a letter A preceding a reference indicates that it
+is to the Additions and corrections rather than to the original Bibliography. References
+containing the fraction J or a decimal point are also to the Additions and corrections, the
+preceding letter A being omitted in this case as superfluous. A letter A following a reference
+indicates a double reference to an item of the same number in the Bibliography and in the
+Additions and corrections.
+Three indexes are provided—an index of subjects, an index of reviews, and an index of
+authors. The index of reviews includes reviews, published subsequently to 1935, of publi-
+cations contained in the Bibliography, so far as such reviews have been listed in the first
+three volumes of the JOURNAL. Otherwise the indexes refer entirely to A bibliography
+of symbolic logic and the present Additions and corrections.
+For the convenience of the user, a number of items not strictly in the nature of reviews
+have been included in the index of reviews.
+The index of subjects makes no claim to completeness or finality and should be used as a
+tentative finding list only.
+The caution should also be observed that the appearance of a heading in the index of
+subjects does not mean that all publications coming (or coming partly) under that heading
+are to be found in the Bibliography or the index, but only such publications as have some
+special relevance to symbolic logic. Under the heading "Syllogism" in the index, for
+example, will not be found publications dealing with the syllogism purely in the manner of
+traditional logic—even when such a publication has been included in the Bibliography
+for a different reason. Similarly, mathematical publications not specially relevant to
+symbolic logic should not be sought under the headings "Analysis, foundations of," "Con-
+tinuum hypothesis," "Ordinal numbers, transfinite," etc.
+There is some inconsistency in the Bibliography in regard to the inclusion of papers
+on the (so-called) Euler diagram. No attempt has been made in the Additions and cor-
+rections to remedy this. It is the present view of the compiler that such papers as 375,
+377, 1482 would preferably have been omitted. If, however, these papers are included,
+then on the same criterion the following papers, and perhaps also others, should be in-
+cluded: Allan Marquand, Phil, mag., 5 s. vol. 12(1881), pp. 266-270; W. E. Hocking, Uni-
+versity of California publications in philosophy, vol. 2 no. 2 (1909), pp. 31-44; W. M. Frankl,
+Archivfur systemalische Philosophic, vol. 19 (1913), pp. 461-466.
+The exclusion of papers on logical machines has been adhered to. However, since
+this point is perhaps also doubtful, a list is appended here of publications on this topic:
+99
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+100 ALONZO CHURCH
+W. S. Jevons, Phil, trans. Roy. Soc, vol. 160 (1870), pp. 497-518, reprinted in Pure logic
+and other minor works; Allan Marquand, two papers in Studies in logic by members of
+Johns Hopkins University, Boston 1883, and a paper in Proceedings of the American Academy
+of Arts and Sciences, vol. 21 (1885-6), pp. 303-307; I. Slesinskij, LogileskaA maSina Dit-
+vonsa, Vestnik opytnoj fiziki v elementarnoj matematiki, 1893; Annibale Pastore, Logica
+formale, dedotta dalla considerazione di modelli meccanici, Turin 1906; 375; 378; 1571.
+(This list is probably not complete.)
+The compiler is very greatly indebted in connection with the preparation of the present
+additions and corrections to Dr. Antoni Korcik (to whom are due nearly sixty of the items
+listed, including many in Polish and Russian),' to Prof. A. Fraenkel (to whom are due
+between twenty and twenty-five items), and to Prof. Heinrich Scholz (to whom about ten
+items are due).
+Acknowledgment is due also, for assistance in connection with the original Bibli-
+ography or the Additions and corrections or both, to the following: G. A. Barnard, C. A.
+Baylis, Paul Bernays, Rudolf Carnap, Leon Chwiatek, H. B. Curry, Makoto ltd, S. C.
+Kleene, C. H. Langford, Alexander Maslow, Ernest Nagel, Reuben Peiss, R6zsa Peter,
+W. V. Quine, Margaret C. Shields, Paul Weiss.
+So far as possible, additions to the Bibliography supplied by others have been checked
+by reference to the original work—or in a few cases to a published source thought to be
+authoritative. Exceptions to this have been necessary in the case of a considerable pro-
+portion of the items in the Russian language, a smaller proportion of those in Polish, and
+a few items in Hungarian.
+1$. JOACHIM JUNGIUS. 1. Logica Hamburgensis. 2nd edn., Hamburg 1681, 110 +
+592 pp. "Inversio relationis. David est pater Salomonis et Salomon est filius Da-
+vidis." "Cirqulus est figura. Ergo qui circulum describit is figuram describit."
+"Omne reptile est animal. Ergo qui creavit omne animal is omne reptile creavit."
+Cf. Opuscules et fragments inedits de Leibniz, ed. by Louis Couturat, Paris 1903,
+pp. 426-429.
+
+16. J. D. GERGONNE. 1.1. Essai sur la thiorie des definitions. Annales de mathi-
+matiques pures et appliquies, vol. 9 (1818), pp. 1-35.
+
+19. GEORGE BOOLE. A number of publications by Boole on the theory of probabilities,
+although related to his calculus of logic, are here omitted. For a list of these the reader
+is referred to the bibliography in 2159. (An account of Boole's method in the theory
+of probabilities appears also in 19J.)
+
+20. AUGUSTUS DE MORGAN. 1. [Add] Reprinted London 1926 (ed. by A. E. Taylor).
+21J. D. A. DA SILVA. 1. Propriedades geraes e resolucdo directa das congruencias bi-
+nomias. Introduccao ao estudo da theoria dos numeros. Memorias da Academia Real
+das Sciencias de Lisboa, Classe de sciencias mathematicas, physicas e naturaes, n. s.
+vol. 1 part 1 (1854), 163 pp. "Supponhamos que n'uma serie £ qualquer de numeros . . .
+se pede quaes sao aquelles que gosam de certa propriedade o; designaremos por S a
+a
+reuniao desses numeros; similhantemente serao Sb, St,,, /S,i,e, etc. a reuniao dos tennos
+e 0
+de S dotados da propriedade 6, ou dotados simultaneamente das propriedades b, c,
+etc.; e serd vg. St a reuniao dos termos de Sb dotados da propriedade c. E facil de ver
+c
+que serd, vg. S = S.b; S°b = <S,& = S,b,c', etc. Do mesmo modo representaremos
+ah a c 0 e a
+por "S, "''S, °iS a reuniao dos termos de <S privados da propriedade a, ou das duas a,
+b, ou a reuniao dos termos de "S privados da propriedade 6 etc."
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+ADDITIONS AND CORRECTIONS 101
+"'S = S - S - S[l - .]."
+a
+'*-'S = S[l - ,][1 - »][1 -,]••• ."
+"A mesma formula dd-nos tambem immediatamente o numero doa numeros contidos
+em •••'*.'S."
+
+30. ALEXANDER BAIN. 1.1. Logique deductive el inductive. 2nd. edn., vol. 1, Paris
+
+37. JOHN VENN.
+T.I. Question in Mathematical questions, with their solutions, from the "Educa-
+tional Times" (London), vol. 33 (1880), pp. 99-100. Solutions by C. J. Monro, R. R.
+Grey, Hugh MacColl, and the proposer.
+
+7.2. Question ibid., vol. 34 (1880), pp. 35-36. Solutions by Robert Harley, Matz,
+Hugh MacColl, and Genese.
+
+8.1. Question in Math, questions, vol. 33 (1880), pp. 22-24. Solutions by C. J.
+Monro and the proposer.
+
+8.4. Question ibid., vol. 34 (1880), pp. 40-41. Solution by C. J. Monro.
+
+9.1. Question in Math, questions, vol. 36 (1881), p. 55. Solution by W. B. Grove.
+See also John Venn 377.7, 7.2, 7.3, Elizabeth Blackwood 55$/, W. B. Grove 56J/, 3.
+
+2.1. On a question in probabilities. Math, questions, vol. 32 (1879), pp. 18-19.
+
+5.2. Question in Math, questions, vol. 35 (1881), pp. 110-111. Solution by the
+proposer.
+See also W. B. Grove 56J2 and Christine Ladd Franklin 62/./.
+
+49. GOTTLOB FREGE. 16.1. Ober die Grundlagen der Geometric Jahresbericht der
+DeutschenMathematiker-Vereinigung, vol. 12 (1903), pp. 319-324, 368-375.
+
+50. KURT LASSWITZ. /. For « vol. 16 (1879) », read « vol. 6 (1879) ».
+50J. R. HOPPE.
+
+1. Review of Frege's Begriffsschrift. Archiv der Mathemalik und Physik, vol. 63
+(1879), Litterarischer Bericht CCLII, pp. 44-45.
+
+2. Review of Dedekind's Was sind und was sollen die Zahlen? (1st. edn.). Ibid.,
+2 s. vol. 7 (1889), Litterarischer Bericht XXVII, pp. 29-33.
+51J. W. I. STRINGHAM. /. Review of Schroder's Der Operationskreis des Logikkalkuls.
+The Johns Hopkins University circulars, vol. 1 (1879-82), p. 49.
+55J. ELIZABETH BLACKWOOD.
+
+2. Question in Math, questions, vol. 35 (1881), pp. 24-25. Solution by Hugh Mac-
+Coll and W. B. Grove.
+See also W. B. Grove 56$/ and Hugh MacColl 398.2, 8.6.
+"We adopt the following method of transliterating Russian: A as A, B as B, B as V,
+r as G, A as D, E as E, JK as Z, 3 as Z, II as I, it as J, I as I, K as K, JI as L, M as M,
+H as N, O as O, II as P, P as R, C as S, T as T, y as U, O as F, X as H, U. as C, *I as C,
+HI as S, m as SC, Tb omitted in transliteration, fcl as Y, b as ', "B as E, 3 as E, K> as U,
+SI as A, 0 as F.
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+102 ALONZO CHURCH
+
+1. Question in Math, questions, vol. 35 (1881), p. 29. Solution by Hugh MacColl
+and Elizabeth Blackwood.
+
+2. Question ibid., vol. 36 (1881), pp. 27-28. Solution by Alexander Macfarlane.
+
+59. FABIAN FRANKLIN. 1. A point of logical notation. The Johns Hopkins University
+circulars, vol. 1 (1879-82), p. 131.
+
+1. On pro-positions and the syllogism. Johns Hopkins Univ. circ, vol. 1 (1879-82),
+p. 240.
+
+62. CHRISTINE LADD FRANKLIN. 1.1. Question in Math, questions, vol. 42 (1885),
+pp. 66-67. Solution by Alexander Macfarlane and the proposer.
+
+2. Opyly matematiceskago izlozenia logiki. Vypusk 2. Socinenia Ernesta Schro-
+dera. (Essays at a mathematical account of logic. Part 2. Works of Ernst Schroder.)
+Moscow 1894, 44 pp.
+67}. BENNO KERRY. 1. Ueber Anschauung und ihre psychische Verarbeitung. Vier-
+ter Artikel. Vierteljahrsschrift fur wissenschaftliche Philosophie, vol. 11 (1887), pp.
+249-307. ' '
+
+70. STANISLAW PIATKIEWICZ. 1. Algebra w logice. Rozprawa naukowa. (Algebra
+in logic. A scientific treatise.) Sprawozdanie IV Gimnazjum we Lwowie 2a r. 1888.
+Lw6w (Lemberg) 1888.
+70}. RICHARD DEDEKIND.
+* 1. Was sind und was sollen die Zahlen? Braunschweig 1888, xv + 58 pp. 2nd
+edn. 1893. 3rd edn. 1911. 6th. edn. 1930. Reprinted, with prefaces to first, second,
+and third editions, in Richard Dedekind Gesammelte mathemalische Werke, vol. 3
+(Braunschweig 1932), pp. 335-391. "Als solche Hauptpuncte erwahne ich hier die
+scharfe Unterscheidung des Endlichen vom Unendlichen, den Begriff der Anzahl von
+Dingen, den Nachweis, dass die unter dem Namen der vollstandigen Induction (oder
+das Schlusses von n auf n + 1) bekannte Beweisart wirklich beweiskraftig, und dass
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+ADDITIONS AND CORRECTIONS 103
+•
+auch die Definition durch Induction (oder Recursion) bestimmt und widerspruchsfrei
+ist."
+
+3. Russian translation of the same by N. N. Parf6ntev. Bulletin de la SociitS
+Physico-Malhematique de Kasan, 2 s. vol. 15 no. 2 (1905), pp. 25-105.
+
+29. For « Ober Pasigraphie », read « Vber Pasigraphie ».
+
+34.1. Additions au Formulaire. Revue de mathematiques {Rivista di matematica),
+vol. 7 (1900-1), pp. 59-72. By G. Vacca (pp. 59-66), M. Chini (p. 66), G. Enestrom
+(p. 66), G. Peano (pp. 67-70), T. Boggio (p. 70-72).
+
+38.1. Les definitions mathematiques. Bibliotheque du Congres International de
+Philosophie, vol. 3 (Paris 1901), pp. 279-288.
+
+51.1. Importance des symboles en mathimatiques. French translation of 715i by
+Joseph Rouquet-Alzonne. "Scientia," vol. 18 (1915), Supplement, pp. 105-114.
+
+52.1. Le definizioni in matematica. Periodico di malematiche, 4 a. vol. 1 (1921),
+pp. 175-189.
+
+54.1. Review of Natucci's II concetto di numero e le sue estensioni. .Archivio di
+sloria delta scienza (Rome), vol. 4 (1923), pp. 382-383.
+
+54.2. De aequalitate. Academia pro Interlingua, Circulare, 1924, no. 5, pp. 8-11.
+Reprinted in Proceedings of the International Mathematical Congress held in Toronto,
+August 11-16,1924, vol. 2 (Toronto 1928), pp. 988-989.
+72J. V. STREKALOV. 1. Review of Volkov's Logiceskoe iscislenie. Zurnal Minis-
+lerslva Narodnago Prosvescenia, Sept. 1889, pp. 161-173.
+76J. F. MEYER. 1. Review of Dedekind's Was sind und was sollen die Zahleril (1st.
+edn.). Jahrbuch ilber die Fortschritie der Mathemalik, vol. 20 (for 1888, pub. 1891),
+pp. 49-52.
+
+15.1. Sur les diffirentes methodes logiques pour la definition du nombre r'eel. Bibli-
+otheque du Congres International de Philosophie, vol. 3 (Paris 1901), pp. 289-307.
+
+24.1. Sulla definizione della eguaglianza. II bollettino di matematica, vol. 19 (1923-
+4), pp. 110-113.
+
+6.1. Review of Peano's Aritmetica generate e algebra elementare. Periodico di
+matematica, vol. 18 (1903), pp. 293-295.
+
+97. GIOVANNI VACCA. 4. Additions au Formulaire. Rev. de math. (Riv. di mat.),
+vol. 7 (1900-1), pp. 59-66. See Giuseppe Peano 7134.1.
+
+6.1. Albino Nagy. Rivista filosofica, vol. 4 (1901), pp. 427-432.
+
+19.1. Proposizioni assiomaliche. Alii del Congresso Internazionale dei Matematici,
+Bologna 3-10 settembre 1928 (.VI), vol. 3 (Bologna 1930), pp. 381-387.
+
+3.1. Les mathtmatiques au Congres de Philosophie. L'Enseignement matht-
+malique, vol. 2 (1900), pp. 397-410.
+
+111. BERTRAND RUSSELL. 30.1. Review of Ramsey's The foundations of mathematics
+and other logical essays. Philosophy, vol. 7 (1932), pp. 84-86.
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+104 ALONZO CHURCH
+
+116. G. MANNOURY.
+S.I. De "Wiener Kreis" en de signifische begrippenanalyse (The "Wiener Kreis"
+and the signific analysis of concepts). Algemeen Nederlands lijdschrift voor wijs-
+begeerle en psychologie, vol. 29 (1935-6), pp. 81-91.
+
+3.1. Sur les ensembles finis el le principe de V'induction complete. Acla'malhemalica,
+vol. 32 (1909), pp. 185-193.
+See also Georg Cantor 651..1.
+130J. FELIX HAUSDORFF. 1. Review of Russell's The principles of mathematics.
+Vierteljahrsschrift fur wissenschaflliche Philosophic u. Soiiologie, vol. 29 (1905),
+pp. 119-124.
+
+6. For « 13 », read « 13 ».
+
+8.1. Nauka i metoda. Polish translation of 1374 by M. H. Horwitz. 1911.
+150J. G. COMBEBIAC. 1. Sur les elements de la theorie des ensembles ordonnes. L'En-
+seignement mathematique, vol. 8 (1906), pp. 201-203.
+
+2.1. Bemerkungen zur vorstehenden Abhandlung. Abhandlungen der Fries'schen
+Schule, n. s. vol. 2 (1907-8), pp. 328-330.
+
+155. L. E. J. BROUWER. 24. Willen, weten, spreken (Volition, knowledge, speech).
+Euclides, vol. 9 (1932-3), pp. 177-193; see Erratum, ibid., vol. 11 (1934-5), p. 160. Also
+in De uitdrukkingswijzen der wetenschap, Groningen 1933.
+162J. D. DUBAGO. 1. P. S. Porlckij. Russian. Bull. Soc. Phys.-Math. de Kasan,
+2 s. vol. 16 no. 1 (1908), pp. 3-7.
+
+2.1. Review of Smith's Symbolic logic, method and development. Journal of
+philosophical studies, vol. 3 (1928), pp. 246-247.
+
+2.2. Review of Stebbing's A modern introduction to logic. Philosophy, vol. 6
+(1931), pp. 110-111.
+
+1. Bemerkungen zu den Paradoxieen von Russell und Burali-Forli. Abh. Fries.
+Schule, n. s. vol. 2 (1907-08), pp. 301-324.
+
+177. ERNST MALLY. 3.1. Studien zur Theorie der MSglichkeit und Ihnlichkeil. Allge-
+meine Theorie der Verwandlschaft gegensta'ndlicher Bestimmungen. Akademie der
+Wissenschaften in Wien, Philosophisch-historische Klasse, Sitzungsberichte, vol. 194
+no. 1 (1922), 131 pp. "Die Studien, deren erste hier vorliegt, sollen in diesem ersten
+Stiicke die allgeraeine Theorie der Verwandtschaft von Bestimmungen bringen und
+auf Moglichkeit und Ahnlichkeit soweit anwenden, als es ohne die Begriffe von Grosse,
+Zahl und Mass vorderhand moglich und fur das Weitere notig ist. Das wesentliche
+Leitbegriff ist hier der Begriff der Implikatenverwandtschaft. In ihm sollte das
+Fundament gegeben werden, worauf die Begriffe der Moglichkeit und der Ahnlichkeit
+sich aufbauen. Ich konnte est nicht vermeiden, die gegenstandstheoretisch-logischen
+Voraussetzungen der Theorie der Verwandtschaft kurz vorzufiihren und dabei—
+insbesondere in den Abschnitten I und II—manches in den 'Gegenstandstheoretischen
+Grundlagen' schon Enthaltene und manches in der Logistik Wohlbekannte—freilich
+1 This book, which is not otherwise within the field of the bibliography, is included
+because of the appearance on pp. 107-113 of the line of thought which afterwards led to the
+Richard paradox (135i).
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+ADDITIONS AND CORRECTIONS 105
+dort kaum unter den hier geltenden und massgebenden Gesichtspunkten Aufgefasste
+und Dargestellte—zu wiederholen, hauptsiichlich um die Arbeit in sich restlos ver-
+standlich zu machen."
+178J. I. AGODINSKIJ. /. GinSticiskij me tod v logiki (Genetic method in logic).
+Kazan 1909, vii + 360 + iii pp.
+
+3. For « pp. 189-196 », read « pp. 181-196 ».
+
+12.1. Axiomatica de disciplines mathemalico. Schola et vita, vol. 8 (1933), pp.
+91-104.
+
+12.2. Jdzef Peano. Polish. Wiadomosci malemalyczne, vol. 36 (1934), pp. 1-56.
+
+12.3. Descriptione symbolico de geometrico construcliones. Ibid., vol. 37 (1934),
+pp. 101-111.
+185J. B. KOALOVIC.
+/. Review of Couturat's Algebra logiki. Zurnal Minist&rslva Narodnago Pro-
+svescSnia, Jan. 1910, pp. 111-115.
+
+5.1. Review of Sleszynski's O logice tradycyjnej. Ruchfilozoficzny, vol. 8 (1923).
+pp. 107-108.
+
+5.2. Demonstration de la compatibility des axiomes de la th&orie de la deduction.
+Annales de la SocietS Polonaise de Mathematique, vol. 3 (for 1924, pub. 1925), p. 149.
+
+5.3. Rola definicji w syslemach dedukcyjnych (The role of definitions in deductive
+systems). Ruchfilozoficzny, vol. 11 (1928-9), p. 164.
+
+5.4. O definicjach w teorji dedukeji (On definitions in the theory of deduction).
+Ibid., pp. 177-178.
+186J. P- ERENFEST. 1. Review of Couturat's Algibra logiki. Zurnal Russkago Fiziko-
+himiUskago Obscestva, Fiziceskij otdel, vol. 42 (1910), Otdfil vtoroj, pp. 382-387.
+
+0.1. Zur.Methodik in der Mathematik. Jahresbericht der Deutschen Mathematiker-
+Vereinigung, vol. 14 (1905), pp. 581-584.
+
+2081. P- BARBARIN. 1. Review of Whitehead and Russell's Principia malhemalica,
+vol. 1. Revue generate des sciences pures et appliquies, vol. 21 (1911), pp. 888-889.
+
+229. BENEDYKT BORNSTEIN. 2.1. Harmonische Elemenle in der geometrischen Logik-
+Bulletin scientifique de I'ltcole Polytechnique de Timisoara, vol. 5 (1933-4), pp. 78-87.
+235}. G. VEREVSKIJ. 1. Matimatittskot obosnovanii zakonov mysltnia (Mathematical
+foundation of the laws of thought). Nikolaev 1914.
+245J. F. LINDE. 1. Stroinii pon&tid. Logictsko6izsledovan.it. (Structure of the idea.
+A logical investigation.) Petrograd 1915, xii + 61 pp.
+249i. S. I. POVARNIN.
+
+1.1. Logislyka (Logistic). Poradnik dla samoukdw, vol. 1 (1923), pp. 449-461.
+
+256. P. J. DANIELL. 2. For « vol. 28 », read « vol. 29 ».
+256J. I. I. LAPSIN. 1. Gnosstologiiiskia izslidovania. Vypusk I. Logika otnostnij »
+sillogizm (Po povodu knig privat-doctnta S. I. Povarnina: "Logika. Obscti uctnii o
+dokazatilstve" i "Logika otnostnij"}. (Gnoseological investigations. No. I. The
+logic of relations and the syllogism (Apropos of the books of Docent S. I. Povarnin,
+"Logic. General instruction in proof," and "The logic of relations").) Petrograd
+1917, 85 pp.
+258J. KARL WEIDNER. 1. Vber die Bedeutung der mathematischen Logik. Disserta-
+tion Bonn 1917. Bonn 1917, 50 pp.
+264J. WACLAW WOLSKI.
+
+1. Charakterystyka teoryj dedukcyjnych (Characteristics of deductive theories).
+Wiadomosci matemctyczne, vol. 22 (1918), pp. 131-153.^
+
+2. Jan Sleszyhski (Wspomnienie poimiertne) (Jan Sleszynski (Obituary notice)).
+Ibid., vol. 36 (1934), pp. 71-76.
+
+269. A. FRAENKEL.
+* 2. Der Begriff "definit" und die Unabhangigkeil des Auswahlaxioms. Sitzungs-
+berichle der Preussischen Akademie der Wissenschajten, Phys.-math. Kl., 1922, pp.
+253-257.'
+1 With the clarification of Zermelo's notion of a definite Eigenschaft and its consequent
+elimination as a presupposed intuitive idea, the Zermelo set theory may be said first to
+have attained a degree of exactness comparable to that of the system of Principia mathe-
+matica (11116, 1942). A method of doing this is indicated briefly by Fraenkel in 2692, is
+incorporated in a system of axioms for set theory in 269/, and later applied to the actual
+development of some topics in set theory 'n 26922. An alternative method is due to Skolem
+2475, 10. And see also J. v. Neumann 2992, S.
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+ADDITIONS AND CORRECTIONS . 107
+
+7.1. Remarks on the preceding note on many-valued truths. The physical review,
+vol. 43 (1933), p. 1033.
+
+7.2. Review of Korzybski's Science and sanity. The American mathematical
+monthly, vol. 41 (1934), pp. 570-573.
+276J. AKOS v. PAULER.
+
+281. LUDWIG WITTGENSTEIN. 2.1. Some remarks on logical form. Aristotelian
+Society, supplementary volume IX, London 1929, pp. 162-171.
+281i. WILHELM LOREY. 1. Das Prinzip der vollstdndigen Induktion. Seine Geschichte
+und Anwendung im malhemalischen Unterrichl. Zeilschrifl fur mathemalischen
+und naturwissenschaftlichen Unterricht aller Schulgattungen, vol. 52 (1921), pp.
+205-209.
+
+1.2. O znaczeniu logiki dla matematyki (On the significance of logic for mathe-
+matics). Poradnik dla samoukow, vol. 3 (Warsaw 1923), pp. 39-52.
+See also Louis Couturat A10020.
+282J. STANISLAW KACZOROWSKI. 1. O niektdrych warunkach stosowalnoici indukcji
+matematycznej (On several conditions of applicability of mathematical induction).
+Przeglad filozoficzny, vol. 23 (1921), pp. 127-139.
+283J. KAZIMIERZ SOSNICKI. /. Indukcja matematyczna (Mathematical induction).
+Przeglad filozoficzny, vol. 23 (1921), pp. 245-277.
+
+287. PAUL BERNAYS. 15.1. Die Grundgedanken der Fries'schen Philosophic in ihrem
+Verhdltnis zum heutigen Stand der Wissenschaft. Abhandlungen der Fries'schen
+Schule, vol. 5 no. 2 (1930), pp. 97-113.
+
+289. PAUL HERTZ. 7.1. Ueber das Wesen der Logik und der logischen Urteilsformen.
+Abhandlungen der Fries'schen Schule, vol. 6 no. 2 (1935), pp. 225-272.
+300J. O. CUZZER. 1. Review of Natucci's // concetto di numero e le sue estensioni-
+Periodico di malemaliche, 4 s. vol. 3 (1923), pp. 320-322.
+305J. G. KOLOVRAT.
+
+1. Review of Fraenkel's Einleitung in die Mengenlehre, 2nd. edn. The Australas-
+ian journal of psychology and philosophy, vol. 2 fl924), pp. 311-313;
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+108 ALONZO CHURCH
+
+2. Review of Fraenkel's Ze/m Vorlesungen iiber die Grundlegung der Mengenlehre.
+Ibid., vol. 6 (1928), pp. 156-157.
+
+1.1. II principio di Zermelo e la funzione Iransfinita di Hilbert. Seminario Mate-
+matico delta Facolta di Scienze delta R. Universila di Roma, Rendiconti, 2 s. vol. 2
+(1925), pp. 24-26.
+See also Richard Dedekind 70$<.
+318$. WILLIAM RIVIER.
+
+1. A propos du principe du tiers exclu. Empirisme et idealisme dans les mathi-
+matiques. Revue de theologie et de philosophie, n. s. vol. 13 (1925), pp. 215-221.
+
+2. L' Empirisme dans les sciences exacles. Archives de la Sociele Beige de Philo-
+sophie, vol. 2 (1930), no. 1, 13 pp.
+
+320. J. M. HORAEC 1. For « Rosbravy », read « Rozbravy».
+
+11.1. Bolzano als Vdrl&ufer der mathemalischen Logik. Philosophisches Jahrbuch
+der Gdrres-Gesellschafl, vol. 44 (1931), pp. 448-456.
+330$. HEINRICH VIELER. 1. Untersuchungen iiber Unabhdngigkeit und Tragweite der
+Axiome der Mengenlehre in der Axiomatik Zermelos und Fraenkels. Dissertation
+Marburg 1926. 40 pp.
+332$. CHRISTIAN BETSCH. 1. Fiktionen in der Mathematik. Stuttgart 1926, xxiv
++ 372 pp.
+
+333. HEINRICH LOWY. 1. For « pp. 26-27 », read « pp. 25-26 ».
+339$. JEAN LARGUIER DES BANCELS. 1. La logique d'Arislole el le principe du
+Hers exclu. Revue de iheologie et de philosophie, n. s. vol. 14 (1926), pp. 120-124.
+
+341. FERDINAND GONSETH. 1. For « a », read « a ».
+
+350. WILHELM BURKAMP. 2. The reference should be « vol. 4 no. 2 (1927), pp. 59-81 ».
+
+1. For « czi », read « czci ».
+
+1.1. Stan obecny teorji dedukcji (Present state of the theory of deduction). Ruch
+filozoficzny, vol. 11 (1928-9), p. 181.
+
+2.1. Logika Irdjwartoiciowa Jana Lukasiewicza. O logice L. E. J. Brouwera.
+Prdby stosowania logiki wielowartoiciowej do wspdlezesnego przyrodoznawstwa. _ (Jan
+Lukasiewicz's three-valued logic. On the logic of L. E. J. Brouwer. Attempts at
+application of many-valued logic to contemporary natural science.) Sprawozdania
+Poznanskiego Towarzystwa Przyjaciol Nauk, vol. 2 (1931), nos. 2-4, 8 pp.
+
+3.1. A correction. Mind, n. s. vol. 37 (1928), p. 392.
+
+4.1. A note on classification of maximal systems and their subsystems. Mind, n. a.
+vol. 38 (1929), pp. 533-534.
+357$. JOHN ANDERSON.
+
+1. Empiricism. The Australasian journal of psychology and philosophy, vol. 5
+(1927), pp. 241-254.
+
+2. The science of logic. Ibid., vol. 11 (1933), pp. 308-314.
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+ADDITIONS AND CORRECTIONS 109
+
+374. J. S. TURNER. 1. Mathematical logic. Iowa State College journal of science, vol. 2
+(1927-8), pp. 69-113. Reprinted with revisions, Ames, Iowa, 1928, 50 pp.
+378i. GIUSEPPE DI DIA. 1. Formulario Mathematico et latino, sine-flexione de G.
+Peano. Giuseppe Peano, supplement to Schola et vita, Milan 1928, pp. 53-69.
+
+382. JACQUES HERBRAND. 7.1. Recherches sur la thiorie de la demonstration. An-
+nales de VVniversiti de Paris, vol. 6 (1931), pp. 186-189.
+382}. H. G. FORDER.
+
+1. Review of Hilbert and Ackermann's Grundztige der theoretischen Logik. The
+mathematical gazette, vol. 14 (1928-9), pp. 273-274.
+
+2. Review of Bentley's Linguistic analysis of mathematics. Ibid., vol. 17 (1933),
+pp. 133-134.
+
+3. Review of Black's The nature of mathematics and Mace's The principles of logic.
+Ibid., vol. 18 (1934), pp. 202203.
+;
+
+1. For «telbarheidspraedicalen », read «lelbaarheidspraedicaten ».
+
+12.1. Review of Beth's Rede en aanschouwing in de wiskunde. Christiaan Huygens
+(Groningen), vol. 14 (1935-6), pp. 137-139.
+393}. ERNST CASSIRER. 1. Die Beudeutungsfunktion und der Aufbau der wissenschaft-
+lichen Erkenntnis. Philosophie der symbolischen Formen, by Ernst Cassirer, vol. 3
+(Berlin 1929), pp. 325-559.
+
+3.1. Reply to the above. Philosophy, vol. 7 (1932), pp. 466-467.
+
+2.1. Review of Kaufmann's Das Unendliche in der Mathematik und seine Aus-
+schaltung, Dingler's Philosophie der Logik und Arithmetik, and Hofmann's Das Pro-
+blem des Satzes vom ausgeschlossenen Dritten. The journal of philosophy, vol. 29 (1932),
+pp. 401-409.
+
+3.1. Review of Collected papers of Charles Sanders Peirce, vols. 1-4. The new
+republic, vol. 80 (1934), pp. 315-316.
+
+0.1. Logika dla nauczycieli a logika matemalyczna (Logic for teachers and mathe-
+matical logic). Ruchfilozoficzny, vol. 9 (1925), pp. 121-128.
+
+0.2. Review of Sleszynski's Teorja dowodu. Ibid., vol. 10 (1926-27), pp. 17-19.
+
+403. HENRYK GRENIEWSKI. 1. For « malematycznje », read « matematycznej ».
+403}. NICOLAS LUSIN.
+
+1. Sur les votes de la theorie des ensembles. Atti del Congresso Internazionale dei
+Matematici, Bologna 3-10 setlembre 1928 (.VI), vol. 1 (Bologna 1929), pp. 295-299.
+See also articles in Fundamenla mathematicae, vol. 10 (1927), pp. 1-95, and vol. 16
+(1930), pp. 48-76.
+404}. ARNOST DITTRICH. 1. Objasninl zdkladu uiU relativistiky pomoci Russellova.
+kalkulu relabniho (Explication des iUmenls de la relativite propremenl dite a Vaide du
+calcul de relations de Russell). Czechic with French abstract. 6asopis pro peslovdnf
+matematiky a fysiky, vol. 59 (1929-30), pp. 35-44.
+
+407. JAN LUKASIEWICZ and ALFRED TARSKI. 1. For « pp. 1-21 », read « pp. 30-
+50 ».
+407}. MIQUEL SOY. /. Logistica i filosofla malematica. Criterion (Barcelona), vol. 6
+(1930), pp. 144-174, 266-287, 344-366, and vol. 7 (1931), pp. 144-165.
+408}. HAROLD T. DAVIS. 1. A survey of the problem of mathematical truth (An intro-
+duction to: Counting and measuring). Counting and measuring, by H. von Helmholtz,
+translated by Charlotte Lowe Bryan, New York 1930, pp. v-xxxiv.
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+110 ALONZO CHURCH
+
+410. MARVIN FARBER. 0.1. Theses concerning the foundations of logic. The philo-
+sophical review, vol. 38 (1929), pp. 219-231.
+413}. J. H. WOODGER. 1. The "concept of organism" and the relation between embry-
+ology and genetics. The quarterly review of biology (Baltimore), vol. 5 (1930), pp. 1-22,
+438-463, and vol. 6 (1931), pp. 178-207.
+414}. EDGAR HUNGER. /. Zum Problem der ultrafiniten Paradoxien. Dissertation
+Breslau 1930. Ohlau i. S. 1930, 42 pp.
+
+418. KURT GODEL. 3. In last line of quotation, for « Satze », read « Satze ».
+419J. EDMUND LANDAU. 1. Naturliche Zahlen. Grundlagen der Analysis, by Ed-
+mund Landau, Leipzig 1930, pp. 1-18. See also Vorwort fUr den Kenner, ibid.
+
+420. SIGEKATU KURODA. 1.1. Syugoron ni tuile (On the theory of aggregates). Ka-
+gaku, vol. 5 no. 12 (1935), pp. 516-519.
+
+421. JAN SALAMUCHA. 2.1. Logika zdah u Wilhelma Ockhama (The logic of proposi-
+tions in William of Ockham). Przeglad filozoficzny, vol. 38 (1935), pp. 208-239.
+421J. BOLESLAW GAWECKI. 1. Pretensye logistykdw (Pretensions of the logisticians)-
+Ruch filozoficzny, vol. 12 (1930-1), pp. 12-15.
+423}. TEIJI TAKAGI. 1. Zur Theorie der naturlichen Zahlen. Proceedings of the
+Imperial Academy (of Japan), vol. 7 (1931), pp. 29-30.
+
+433. KAZIMIERZ KURATOWSKI. 0.1. Sur la notion de I'ordre dans la theorie des en-
+sembles. Fundamenta mathematicae, vol. 2 (1921), pp. 161-171. "La classe ((a, 6),
+(a)) est une 'paire ordonnee dont a est le premier el6ment et 6 est le second'."
+434}. WITOLD WILKOSZ. 1. O teorji dowodu (w zwiazku z "Teorjq Dowodu" J. Sle-
+szynskiego) (On the theory of proof (in connection with J. Sleszynski's "Teorja Do-
+wodu")). Parametr, vol. 2 (1931), pp. 58-64.
+
+3. De autonomie der wiskunde (The autonomy of mathematioa). Euclides, vol. 10
+(1933-4), pp. 144-160.
+
+4. [Add] Issued also as part of Algemeen Nederlandsch tijdschrift voor wijsbegeerte
+en psychologie, vol. 27 (1933-4), no. 2.
+
+4.1. Antwoord aan E. W. Beth (Answer to E. W. Beth). Euclides, vol. 11 (1934-5),
+pp. 55-56.
+
+5. [Add] Issued also as part of Alg. Ned. tijdschr. wijsb. psych., vol. 28 (1934-5),
+no. 1.
+
+5.1. Review of Beth's Rede en aanschouwing in de wiskunde. Euclides, vol. 12
+(1935-6), pp. 130-131.
+
+436. UGO CASSINA. 0.1. Sull'asselto logico dedultivo della matematica. Rendiconli del
+Seminario Matematico e Fisico di Milano, vol. 2 (1929), pp. 47-62.
+437}. OTOMAR PANKRAZ. 1. Review of Hilbert's Beweis des Terlium non datur-
+Czechic. Casopis propestovani matematiky afysiky, vol. 61 (1931-2), pp. 363-364.
+
+443. BOLESLAW SOBOCINSKI. 2. For « alternative », read « successive ».
+443}. BELA BENCSIK. 1. Paradoxonok a logik&ban is matemalikdban (Paradoxes in
+logic and "mathematics). Dolgozatok a Kiralyi Magyar Pa'zma'ny Peter Tudomdny-
+egyetem Philosophiai Seminariumdb61, no. 2. Budapest 1932, 96 pp.
+444}. CLAUDE CHEVALLEY and ARNAUD DANDIEU. 1. Logique hilbertienne et
+psychologie. Revue phildsophique de la France et de l'£tranger, vol. 113 (1932), pp.
+99-111.
+
+445. F. C. S. SCHILLER. 0.1. The sacrifice of Barbara. Thepersonalist, vol. 12 (1931),
+Reprinted in Must philosophers disagree? And other essays in popular philosophy,
+by F. C. S. Schiller, London 1934, pp. 47-57.
+
+447. H. W. B. JOSEPH. 0.1. Logic and mathematics. Journal of philosophical studies,
+vol. 3 (1928), pp. 3-14.
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+ADDITIONS AND CORRECTIONS 111
+447}. A. D. KELLY. 1. Some aspects of the "new logic." Philosophy, vol. 7 (1932), pp.
+461-466.
+449}. E. H. NEVILLE. 1. Review of Ramsey's The foundations of mathematics. The
+mathematical gazelle, vol. 16 (1932), pp. 56-57.
+452$. G. RYLE. 1. Review of Eaton's General logic. Philosophy, vol. 7 (1932), pp. 235-
+
+239.
+453}. A. H. COPELAND. 1. The theory of probability from the point of view of admissible
+numbers. The annals of mathematical statistics, vol. 3 (1932), pp. 143-156.
+
+461. A. F. BENTLEY. /./. The linguistic structure of mathematical consistency. Intro-
+duction and one chapter from 4617. Psyche (London), vol. 12 (1932), pp. 78-91.
+
+464. I. M. BOCHENSKI. 3.1. Duae consequenliae Stephani de Monte. Angelicum
+(Rome), vol. 12 (1935), pp. 397-399.
+465}. D. van DANTZIG. 1. Over de elementen van hel wiskundig denken (On the elements
+of mathematical thought). Euclides, vol. 9 (1932-3), pp. 102-116. "Het ia niet
+mogelijk, d&n enkele universeele wiskundemachine te bouwen, die in staat is alle pro-
+blemen op te lossen, die op de machine geformuleerd kunnen worden; steeds weer moet
+het menschelijk intellect ingrijpen en nieuwe en ruimere mechanismen ontwerpen, die
+voorheen onoplosbare problemen oplosbaar doen worden."
+467}. W. PICH. 1. Ober Unabhclngigkeitsbeweise im Aussagenkalkul. Akademie der
+Wissenschaften in Wien, Mathematisch-naturwissenschaftliche Klasse, Anzeiger,
+vol. 70 (1933), pp. 194-195.
+
+470. KURT HIRSCH. 1. Intuition und logische Form. Zur gegenwartigen Philosophic
+der Mathemalik. Dissertation Berlin 1933. Jena 1933, 44 pp.
+470}. WILHELM KOPPELMANN. 1. DieLogistik. Logik als Lehre vom wissenschaft-
+lichen Denken. Zweiler Band: Formate Logik, by Wilhelm Koppelmann, Berlin-
+Charlottenburg 1933,pp. 106-111.
+473}. F. ZWICKY. 1. On a new type of reasoning and some of its possible consequences.
+The physical review, vol. 43 (1933), pp. 1031-1033.
+474}. C. A. MACE. 1. The principles of logic. An introductory survey. London and
+New York 1933, xiii + 388 pp.
+
+477. A. H. DIAMOND. 1. [Add] See Correction, ibid., vol. 36 (1934), p. 893.
+
+487. ALICE AMBROSE. 1.1. Review of Black's The nature of mathematics. Philosophy,
+vol. 9 (1934), pp. 362-366.
+
+489. DAVID GARCIA (Juan David Garcia Baca). 2.1. Simbdlica (Idgica). Enciclo-
+pedia Espasa, vol. 9 (Barcelona 1934), Appendix, pp. 1326-1339.
+495}. W. M. RUST, Jr. 1. An operational statement of Cantor's Diagonalverfahren.
+Scripta mathematica, vol. 2 (1933-4), pp. 334-336.
+
+1935. Bochum-Langendreer 1934, 25 pp.
+512}. A. SU§KEVIC (A. Suschkewitsch). 1. Vber ein Elementensystem mit iwei Opera-
+tionen, fur welche zwei Distributivgesetze gelten. Zapiski Harkivs'kogo Matimaticnogo
+Tovaristva {Communications de la Societe Mathematique de Kharkoff), 4 s. vol. 8 (1934),
+pp. 29-31.
+516}. GASTON RABEAU. /. Review of Reymond's Les principes de la logique el la
+critique conlemporaine. Revue des sciences philosophiques et thSologiques, vol. 23
+(1934), pp. 390-392.
+
+0.1. Review of Smart's The philosophical presuppositions of mathematical logic.
+Journal of philosophical studies, vol. 2 (1927), pp. 261-263.
+
+0.2. Review of Lewis and Langford's Symbolic logic. The mathematical gazette,
+vol. 18 (1934), pp. 57-58.
+
+1.1. Review of Bell's The search for truth. The mathematical gazette, vol. 19
+(1935), p. 239.
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press
+112 ALONZO CHURCH
+525$. W. A. WHITE. /. Review of Korzybski's Science and sanity. Mental hygiene,
+vol. 18 (1934), pp. 469-471.
+527$. G. TEMPLE. 1. Review of Korzybski's Science and sanity. Philosophy, vol. 10
+(1935), pp. 245-247.
+
+538. HANS FREUDENTHAL. 0.1. Qualitat und Quantitdt in der Mathematik. Euclides,
+vol. 8 (1931-2), pp. 89-98.
+538$. JOSEPH SCHACHTER. 1. Prolegomena zu einer kritischen Grammatik. Schrif-
+ten zur wissenschaftlichen Weltauffassung, vol. 10. Vienna 1935, viii + 193 pp.
+539$. WALTER KINDER. 1. Die reellen Zahlen in logistischer Konstituierung. Dis-
+sertation Miinster i. W. 1935. Lithographed. 83 pp.
+
+540. N. N. KIREEVSKIJ (N. Kireievsky, N. Kirejevskij). 0.1. Sur le problime de la
+rtsolubilite ("Entscheidungsproblem"). Iivestia Akademii Nauk SSSR {Bulletin de
+VAcadimie des Sciences de I'URSS), 1934, Classe des sciences mathematiques et
+naturelles, pp 1493-1499.
+540$. S. SCHAYER. 1. Staroindyjskie antycypacje logiki wspdlczesnej (Ancient Indian
+anticipations of modern logic). Ruch filozoficzny, vol. 13 (1935), p. 4.
+
+0.1. Critiek van Vredenduin's "Logica der wiskunde" (Critique of Vredenduin's
+"Logica der wiskunde"). Euclides, vol. 10 (1933-4), pp. 214-218.
+
+1.2. La mUamathtmatique et ses applications au problime de la non-contradiction
+de la logique et de I'arithmetique. Christiaan Huygens (Groningen), vol. 14 (1935-6),
+pp. 141-168.
+542$. HERMAN MEYER. 1. Teekentaal en het waarheidsprobleem (Symbolic language
+and the truth problem). Algemeen Nederlands tijdschrifl voor wijsbegeerte en
+psychologie, vol. 29 (1935-6), pp. 7-16.
+
+1. Recent extensions of formal logic. A review of De Morgan's Formal logic and
+On the symbols of logic, Thompson's Outline of the necessary laws of thought, and
+Baynes's Essay on the new analytic of logical forms. The North British review, vol. 15
+(1851); American edition vol. 10 (1851), pp. 47-63.
+
+2. Review of Volkov's Logiceskoe iscislenie. Russkaa mysl', vol. 9 no. 12 (Dec.
+1888), pp. 585-586.
+
+3. The realm of pure thought. A review of Russell's The principles of mathematics.
+The spectator (London), vol. 91 (1903), pp. 491-492.
+
+6. The foundations of mathematics. A review of Whitehead and Russell's Prin-
+cipia malhematica, vol. 1. The spectator, vol. 107 (1911), pp. 142-143.
+
+7. Review of the same. The limes (London), Literary supplement, vol. 10 (1911),
+pp. 321-322.
+
+8. Review of Russell's Introduction to mathematical philosophy. Ibid., vol. 18
+(1919), p. 345.
+
+9. Review of Wittgenstein's Tractatus logico-philosophicus. Ibid., vol. 21 (1922),
+p. 854.
+
+10. Review of Stebbing's A modern introduction to logic. Ibid., vol. 30 (1931),
+p. 133.
+
+11. Review of Ramsey's The foundations of mathematics and other logical essays.
+Ibid., vol. 30 (1931), p. 458.
+
+12. Review of Black's The nature of mathematics. Ibid., vol. 33 (1934), p. 181.
+https://doi.org/10.1017/S002248120050005X Published online by Cambridge University Press

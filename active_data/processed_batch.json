@@ -1,0 +1,101 @@
+[
+  {
+    "id": "Kleene1936a",
+    "title": "A note on recursive functions",
+    "authors": [
+      "s-c-kleene"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "42",
+    "pages": "544-546",
+    "notes": "Review or commentary text authored by Alonzo Church. Mentions connections to Hilbert and Bernays (Grundlagen der Mathematik, vol. 1), Kurt Gödel (1931), and a previous paper by Kleene (1935-6). Includes text errata: On page 545, line 13, insert a comma between 'do' and 'thus.' On the same page, line 19, insert a comma after the first C."
+  },
+  {
+    "id": "Emch1936c",
+    "title": "Addendum to the article Implication and deducibility",
+    "authors": [
+      "arnold-f-emch"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "The Journal of Symbolic Logic",
+    "volume": "1",
+    "pages": "58"
+  },
+  {
+    "id": "Koyre1936a",
+    "title": "Review of Jørgensen's A treatise of formal logic",
+    "authors": [
+      "alexandre-koyre"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Revue philosophique de la France et de l'Étranger",
+    "volume": "122",
+    "pages": "136-140"
+  },
+  {
+    "id": "Waismann1936a",
+    "title": "Über den Begriff der Identität",
+    "authors": [
+      "friedrich-waismann"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Erkenntnis",
+    "volume": "6",
+    "pages": "56-64"
+  },
+  {
+    "id": "KleinBarmen1936a",
+    "title": "Dedekindsche und distributive Verbände",
+    "authors": [
+      "fritz-klein"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Mathematische Zeitschrift",
+    "volume": "41",
+    "pages": "261-280"
+  },
+  {
+    "id": "Levi1936a",
+    "title": "Review of Hilbert",
+    "authors": [
+      "beppo-levi"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Unknown Journal",
+    "volume": "59",
+    "pages": "170-172",
+    "notes": "Partial citation due to cropped/fragmented source text ('Review of Hilbe...')."
+  },
+  {
+    "id": "Scholz1936a",
+    "title": "Review of Collected papers of Charles Sanders Peirce, vols. 3-5",
+    "authors": [
+      "heinrich-scholz"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Deutsche Literaturzeitung",
+    "volume": "57",
+    "pages": "137-144"
+  },
+  {
+    "id": "Wernick1936a",
+    "title": "Review of Scholz and Schweitzer's Die sogenannten Definitionen durch Abstraktion",
+    "authors": [
+      "georg-wernick"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Deutsche Literaturzeitung",
+    "volume": "57",
+    "pages": "915-917",
+    "notes": "Journal and volume expanded from 'Ibid.' reference to match the preceding Heinrich Scholz entry."
+  }
+]

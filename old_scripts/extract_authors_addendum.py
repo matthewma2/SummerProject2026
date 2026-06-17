@@ -1,6 +1,12 @@
 import re
 import pdfplumber
 
+"""
+This purpose of this script is to extract author names from the addendum PDF.
+The extracted names can then be cross-referenced with the existing authors in 
+the database to identify any new authors that need to be added.
+"""
+
 def extract_authors_from_url(file_path_or_url):
     """
     Extracts author names (formatted as ALL CAPS.) from a PDF file.
