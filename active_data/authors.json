@@ -794,7 +794,7 @@
   },
   {
     "id": "b-bornstein",
-    "full_name": "B. Bornstein",
+    "full_name": "Benedykt Bornstein",
     "alternative_names": [
       "Bornstein"
     ]
@@ -7612,5 +7612,226 @@
     "id": "william-m-malisoff",
     "full_name": "William Marias Malisoff",
     "alternative_names": ["Malisoff"]
+  },
+  {
+    "id": "paul-schrecker",
+    "full_name": "Paul Schrecker",
+    "alternative_names": ["Schrecker"]
+  },
+  {
+    "id": "jean-louis-destouches",
+    "full_name": "Jean-Louis Destouches",
+    "alternative_names": ["Destouches"]
+  },
+  {
+    "id": "philon-vassiliou",
+    "full_name": "Philon Vassiliou",
+    "alternative_names": ["Vassiliou", "Φ. ΒΑΣΙΛΕΙΟΤ"]
+  },
+  {
+    "id": "morris-lazerowitz",
+    "full_name": "Morris Lazerowitz",
+    "alternative_names": [
+      "Lazerowitz"
+    ]
+  },
+  {
+    "id": "everett-h-larguier",
+    "full_name": "Everett H. Larguier",
+    "alternative_names": [
+      "Larguier"
+    ]
+  },
+  {
+    "id": "antoni-korcik",
+    "full_name": "Antoni Korcik",
+    "alternative_names": [
+      "Korcik"
+    ]
+  },
+  {
+    "id": "edward-habermann",
+    "full_name": "Edward Habermann",
+    "alternative_names": [
+      "Habermann"
+    ]
+  },
+  {
+    "id": "h-h-price",
+    "full_name": "Henry Habberley Price",
+    "alternative_names": [
+      "Price"
+    ]
+  },
+  {
+    "id": "milton-r-konvitz",
+    "full_name": "Milton R. Konvitz",
+    "alternative_names": [
+      "Konvitz"
+    ]
+  },
+  {
+    "id": "julius-r-weinberg",
+    "full_name": "Julius Rudolph Weinberg",
+    "alternative_names": [
+      "Weinberg"
+    ]
+  },
+  {
+    "id": "alexandre-marc",
+    "full_name": "Alexandre Marc",
+    "alternative_names": [
+      "Marc",
+      "Lipiansky"
+    ]
+  },
+  {
+    "id": "chaim-perelman",
+    "full_name": "Chaïm Perelman",
+    "alternative_names": [
+      "Perelman"
+    ]
+  },
+  {
+    "id": "holbrook-m-macneille",
+    "full_name": "Holbrook Mann MacNeille",
+    "alternative_names": [
+      "MacNeille"
+    ]
+  },
+  {
+    "id": "hans-wetter",
+    "full_name": "Hans Wetter",
+    "alternative_names": [
+      "Wetter"
+    ]
+  },
+  {
+    "id": "adam-zoltowski",
+    "full_name": "Adam Żółtowski",
+    "alternative_names": [
+      "Żółtowski",
+      "Zoltowski"
+    ]
+  },
+  {
+    "id": "jean-piaget",
+    "full_name": "Jean Piaget",
+    "alternative_names": [
+      "Piaget"
+    ]
+  },
+  {
+    "id": "rene-dalbiez",
+    "full_name": "René Dalbiez",
+    "alternative_names": [
+      "Dalbiez"
+    ]
+  },
+  {
+    "id": "robert-c-taliaferro",
+    "full_name": "Robert Catesby Taliaferro",
+    "alternative_names": [
+      "Taliaferro"
+    ]
+  },
+  {
+    "id": "neal-h-mccoy",
+    "full_name": "Neal H. McCoy",
+    "alternative_names": [
+      "McCoy"
+    ]
+  },
+  {
+    "id": "deane-montgomery",
+    "full_name": "Deane Montgomery",
+    "alternative_names": [
+      "Montgomery"
+    ]
+  },
+  {
+    "id": "gottfried-kothe",
+    "full_name": "Gottfried Köthe",
+    "alternative_names": [
+      "Köthe",
+      "Kothe"
+    ]
+  },
+  {
+    "id": "edward-g-spaulding",
+    "full_name": "Edward Gleason Spaulding",
+    "alternative_names": [
+      "Spaulding"
+    ]
+  },
+  {
+    "id": "u-n-gupta",
+    "full_name": "U. N. Gupta",
+    "alternative_names": [
+      "Gupta"
+    ]
+  },
+  {
+    "id": "kalidas-bhattacharya",
+    "full_name": "Kalidas Bhattacharya",
+    "alternative_names": [
+      "Bhattacharya"
+    ]
+  },
+  {
+    "id": "john-anderson",
+    "full_name": "John Anderson",
+    "alternative_names": [
+      "Anderson"
+    ]
+  },
+  {
+    "id": "j-h-tummers",
+    "full_name": "J.-H. Tummers",
+    "alternative_names": [
+      "Tummers"
+    ]
+  },
+  {
+    "id": "friedrich-sauer",
+    "full_name": "Friedrich Sauer",
+    "alternative_names": [
+      "Sauer"
+    ]
+  },
+  {
+    "id": "wolfgang-cramer",
+    "full_name": "Wolfgang Cramer",
+    "alternative_names": [
+      "Cramer"
+    ]
+  },
+  {
+    "id": "alfred-stern",
+    "full_name": "Alfred Stern",
+    "alternative_names": [
+      "Stern"
+    ]
+  },
+  {
+    "id": "robert-launay",
+    "full_name": "Robert Launay",
+    "alternative_names": [
+      "Launay"
+    ]
+  },
+  {
+    "id": "e-a-weiss",
+    "full_name": "E. A. Weiss",
+    "alternative_names": [
+      "Weiss"
+    ]
+  },
+  {
+    "id": "arnulf-molitor",
+    "full_name": "Arnulf Molitor",
+    "alternative_names": [
+      "Molitor"
+    ]
   }
 ]

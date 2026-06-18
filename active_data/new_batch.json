@@ -1,101 +1,436 @@
 [
   {
-    "id": "Kleene1936a",
-    "title": "A note on recursive functions",
+    "id": "Bernays1938a",
+    "title": "Thesen und Bemerkungen zu den philosophischen Fragen und zur Situation der logisch-mathematischen Grundlagenforschung",
     "authors": [
-      "S. C. Kleene"
+      "Paul Bernays"
     ],
-    "year": 1936,
+    "year": 1938,
     "type": "article",
-    "journal": "Bulletin of the American Mathematical Society",
-    "volume": "42",
-    "pages": "544-546",
-    "notes": "Review or commentary text authored by Alonzo Church. Mentions connections to Hilbert and Bernays (Grundlagen der Mathematik, vol. 1), Kurt Gödel (1931), and a previous paper by Kleene (1935-6). Includes text errata: On page 545, line 13, insert a comma between 'do' and 'thus.' On the same page, line 19, insert a comma after the first C."
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "volume": "VI",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "104-110",
+    "notes": "Logique et mathématiques, Actualités scientifiques et industrielles 535. Reviewed by W. V. Quine."
   },
   {
-    "id": "Emch1936a",
-    "title": "Addendum to the article Implication and deducibility",
+    "id": "Fraenkel1938a",
+    "title": "Discontinu et continu",
     "authors": [
-      "Arnold F. Emch"
+      "A. Fraenkel"
     ],
-    "year": 1936,
+    "year": 1938,
     "type": "article",
-    "journal": "The Journal of Symbolic Logic",
-    "volume": "1",
-    "pages": "58"
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "volume": "VI",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "193-200",
+    "notes": "Logique et mathématiques, Actualités scientifiques et industrielles 535. Reviewed by Paul Bernays."
   },
   {
-    "id": "Koyre1936a",
-    "title": "Review of Jørgensen's A treatise of formal logic",
+    "id": "Gentzen1938a",
+    "title": "Unendlichkeitsbegriff und Widerspruchsfreiheit der Mathematik",
     "authors": [
-      "A. Koyré"
+      "Gerhard Gentzen"
     ],
-    "year": 1936,
+    "year": 1938,
     "type": "article",
-    "journal": "Revue philosophique de la France et de l'Étranger",
-    "volume": "122",
-    "pages": "136-140"
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "volume": "VI",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "201-205",
+    "notes": "Logique et mathématiques, Actualités scientifiques et industrielles 535. Reviewed by Barkley Rosser."
   },
   {
-    "id": "Waismann1936a",
-    "title": "Über den Begriff der Identität",
+    "id": "Hermes1938a",
+    "title": "Ein Axiomensystem für die Syntax des (klassischen) Logikkalküls",
     "authors": [
-      "Friedrich Waismann"
+      "Hans Hermes"
     ],
-    "year": 1936,
+    "year": 1938,
     "type": "article",
-    "journal": "Erkenntnis",
-    "volume": "6",
-    "pages": "56-64"
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "volume": "VI",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "43-45",
+    "notes": "Logique et mathématiques, Actualités scientifiques et industrielles 535."
   },
   {
-    "id": "KleinBarmen1936a",
-    "title": "Dedekindsche und distributive Verbände",
+    "id": "Lautman1938a",
+    "title": "De la réalité inhérente aux théories mathématiques",
     "authors": [
-      "Fritz Klein-Barmen"
+      "Albert Lautman"
     ],
-    "year": 1936,
+    "year": 1938,
     "type": "article",
-    "journal": "Mathematische Zeitschrift",
-    "volume": "41",
-    "pages": "261-280"
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "volume": "VI",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "140-143",
+    "notes": "Logique et mathématiques, Actualités scientifiques et industrielles 535."
   },
   {
-    "id": "Levi1936a",
-    "title": "Review of Hilbert",
+    "id": "Bures1938a",
+    "title": "The concept of probability. A critical survey of recent contributions",
     "authors": [
-      "B. Levi"
+      "Charles E. Bures"
     ],
-    "year": 1936,
+    "year": 1938,
     "type": "article",
-    "journal": "Unknown Journal",
-    "volume": "59",
-    "pages": "170-172",
-    "notes": "Partial citation due to cropped/fragmented source text ('Review of Hilbe...')."
+    "journal": "Philosophy of Science",
+    "volume": "5",
+    "pages": "1-20"
   },
   {
-    "id": "Scholz1936a",
-    "title": "Review of Collected papers of Charles Sanders Peirce, vols. 3-5",
+    "id": "Reichenbach1938a",
+    "title": "On probability and induction",
+    "authors": [
+      "Hans Reichenbach"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "5",
+    "pages": "21-45",
+    "notes": "The author replies to a review of his Wahrscheinlichkeitslehre by Ernest Nagel."
+  },
+  {
+    "id": "Nagel1938a",
+    "title": "Some theses in the philosophy of logic",
+    "authors": [
+      "Ernest Nagel"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "5",
+    "pages": "46-51"
+  },
+  {
+    "id": "WardDilworth1938a",
+    "title": "Residuated lattices",
+    "authors": [
+      "Morgan Ward",
+      "R. P. Dilworth"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "24",
+    "pages": "162-164"
+  },
+  {
+    "id": "Maeda1938a",
+    "title": "Logical structures of orthogonal systems in Hilbert space",
+    "authors": [
+      "Fumitomo Maeda"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Journal of Science of the Hiroshima University, Series A",
+    "volume": "8",
+    "number": "1",
+    "pages": "15-28"
+  },
+  {
+    "id": "Gokieli1937a",
+    "title": "O ponjatii funkcii (Über den Funktionsbegriff)",
+    "authors": [
+      "L. P. Gokieli"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Trudy Tbilisskogo Matematicheskogo Instituta",
+    "volume": "2",
+    "pages": "1-35",
+    "notes": "Russian with very brief German abstract."
+  },
+  {
+    "id": "Jorgensen1938a",
+    "title": "Review of Tarski's Einführung in die mathematische Logik",
+    "authors": [
+      "Jørgen Jørgensen"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Theoria",
+    "volume": "4",
+    "pages": "85-86",
+    "notes": "Danish."
+  },
+  {
+    "id": "Scholz1938c",
+    "title": "Review of Russell's The Principles of Mathematics, 2nd edn.",
     "authors": [
       "Heinrich Scholz"
     ],
-    "year": 1936,
+    "year": 1938,
     "type": "article",
     "journal": "Deutsche Literaturzeitung",
-    "volume": "57",
-    "pages": "137-144"
+    "volume": "59",
+    "pages": "465-468"
   },
   {
-    "id": "Wernick1936a",
-    "title": "Review of Scholz and Schweitzer's Die sogenannten Definitionen durch Abstraktion",
+    "id": "Nagel1938b",
+    "title": "Review of Russell's The Principles of Mathematics, 2nd edn.",
     "authors": [
-      "Georg Wernick"
+      "Ernest Nagel"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Journal of Philosophy",
+    "volume": "35",
+    "pages": "191-192"
+  },
+  {
+    "id": "MacLane1938a",
+    "title": "Review of Carnap's The Logical Syntax of Language",
+    "authors": [
+      "Saunders MacLane"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "44",
+    "pages": "171-176"
+  },
+  {
+    "id": "Black1938a",
+    "title": "Review of Carnap's The Logical Syntax of Language",
+    "authors": [
+      "Max Black"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Mathematical Gazette",
+    "volume": "22",
+    "pages": "90-91"
+  },
+  {
+    "id": "Feibleman1937a",
+    "title": "Review of Langer's An Introduction to Symbolic Logic",
+    "authors": [
+      "James Feibleman"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "New English Weekly",
+    "volume": "12",
+    "pages": "236-237"
+  },
+  {
+    "id": "Waddington1938a",
+    "title": "Review of Woodger's The Axiomatic Method in Biology",
+    "authors": [
+      "C. H. Waddington"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Mathematical Gazette",
+    "volume": "22",
+    "pages": "192-193"
+  },
+  {
+    "id": "Rosinger1938a",
+    "title": "Review of Woodger's The Axiomatic Method in Biology",
+    "authors": [
+      "Kurt Edward Rosinger"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Journal of Philosophy",
+    "volume": "35",
+    "pages": "273-274"
+  },
+  {
+    "id": "Nagel1938c",
+    "title": "Review of Tarski's Einführung in die mathematische Logik",
+    "authors": [
+      "Ernest Nagel"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "5",
+    "pages": "232-233"
+  },
+  {
+    "id": "Levi1938a",
+    "title": "Review of Tarski's Einführung in die mathematische Logik",
+    "authors": [
+      "B. Levi"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Bollettino della Unione Matematica Italiana",
+    "volume": "17",
+    "pages": "55-57"
+  },
+  {
+    "id": "Dennes1938a",
+    "title": "Review of Weinberg's An Examination of Logical Positivism",
+    "authors": [
+      "William R. Dennes"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Philosophical Review",
+    "volume": "47",
+    "pages": "307-310"
+  },
+  {
+    "id": "Aster1937a",
+    "title": "Review of Reichenbach's Wahrscheinlichkeitslehre",
+    "authors": [
+      "Ernst von Aster"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Philosophia",
+    "volume": "2",
+    "pages": "336-345"
+  },
+  {
+    "id": "Schachter1937a",
+    "title": "Review of Waismann's Einführung in das mathematische Denken",
+    "authors": [
+      "Josef Schächter"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Philosophia",
+    "volume": "2",
+    "pages": "346-347"
+  },
+  {
+    "id": "Kraft1937a",
+    "title": "Review of Hempel and Oppenheim's Der Typusbegriff im Lichte der neuen Logik",
+    "authors": [
+      "Julius Kraft"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Philosophia",
+    "volume": "2",
+    "pages": "347-349"
+  },
+  {
+    "id": "Lazar1938a",
+    "title": "The importance of certain concepts and laws of logic for the study and teaching of geometry",
+    "authors": [
+      "Nathan Lazar"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Mathematics Teacher",
+    "volume": "31",
+    "pages": "99-113, 156-174, 216-240",
+    "notes": "Also published separately, New York 1938, 66 pp."
+  },
+  {
+    "id": "Wilkosz1938a",
+    "title": "Sur la notion de constructibilité",
+    "authors": [
+      "W. Wilkosz"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Annales de la Société Polonaise de Mathématique",
+    "volume": "16",
+    "pages": "208"
+  },
+  {
+    "id": "Hirano1937a",
+    "title": "Sugaku no kiso ni tsuite (On the foundation of mathematics)",
+    "authors": [
+      "Tomoharu Hirano"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "The Tohoku Mathematical Journal",
+    "volume": "43",
+    "pages": "314-320"
+  },
+  {
+    "id": "Watanabe1937a",
+    "title": "Sugakuteki kinaho ni tuite (On mathematical induction)",
+    "authors": [
+      "Ichirô Watanabe"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "The Tohoku Mathematical Journal",
+    "volume": "43",
+    "pages": "363-366"
+  },
+  {
+    "id": "Turing1937c",
+    "title": "The p-function in λ-K-conversion",
+    "authors": [
+      "Alan M. Turing"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "The Journal of Symbolic Logic",
+    "volume": "2",
+    "pages": "164"
+  },
+  {
+    "id": "Dilworth1938a",
+    "title": "Abstract residuation over lattices",
+    "authors": [
+      "R. P. Dilworth"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "44",
+    "pages": "262-268"
+  },
+  {
+    "id": "Foradori1937a",
+    "title": "Grundgedanken der Teiltheorie",
+    "authors": [
+      "E. Foradori"
+    ],
+    "year": 1937,
+    "type": "book",
+    "publisher": "S. Hirzel",
+    "location": "Leipzig",
+    "pages": "79"
+  },
+  {
+    "id": "Pacotte1936b",
+    "title": "Le réseau arborescent, schème primordial de la pensée",
+    "authors": [
+      "Julien Pacotte"
     ],
     "year": 1936,
+    "type": "book",
+    "series": "Actualités scientifiques et industrielles",
+    "number": "429",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "55"
+  },
+  {
+    "id": "Bouligand1937a",
+    "title": "Sur quelques points relatifs à l'intervention des collections infinies en analyse mathématique",
+    "authors": [
+      "G. Bouligand"
+    ],
+    "year": 1937,
     "type": "article",
-    "journal": "Deutsche Literaturzeitung",
-    "volume": "57",
-    "pages": "915-917",
-    "notes": "Journal and volume expanded from 'Ibid.' reference to match the preceding Heinrich Scholz entry."
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "volume": "VI",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "174-180",
+    "notes": "Logique et mathématiques, Actualités scientifiques et industrielles 535."
   }
 ]

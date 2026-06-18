@@ -1,101 +1,420 @@
 [
   {
-    "id": "Kleene1936a",
-    "title": "A note on recursive functions",
+    "id": "Gupta1936a",
+    "title": "The nature and status of logical proposition",
     "authors": [
-      "s-c-kleene"
+      "u-n-gupta"
     ],
     "year": 1936,
     "type": "article",
-    "journal": "Bulletin of the American Mathematical Society",
-    "volume": "42",
-    "pages": "544-546",
-    "notes": "Review or commentary text authored by Alonzo Church. Mentions connections to Hilbert and Bernays (Grundlagen der Mathematik, vol. 1), Kurt Gödel (1931), and a previous paper by Kleene (1935-6). Includes text errata: On page 545, line 13, insert a comma between 'do' and 'thus.' On the same page, line 19, insert a comma after the first C."
+    "journal": "The New Scholasticism",
+    "volume": "11",
+    "pages": "361-371"
   },
   {
-    "id": "Emch1936c",
-    "title": "Addendum to the article Implication and deducibility",
+    "id": "Bhattacharya1937a",
+    "title": "Negation as a fact",
     "authors": [
-      "arnold-f-emch"
+      "kalidas-bhattacharya"
     ],
-    "year": 1936,
+    "year": 1937,
     "type": "article",
-    "journal": "The Journal of Symbolic Logic",
-    "volume": "1",
-    "pages": "58"
+    "journal": "The New Scholasticism",
+    "volume": "13",
+    "pages": "202-210"
   },
   {
-    "id": "Koyre1936a",
-    "title": "Review of Jørgensen's A treatise of formal logic",
-    "authors": [
-      "alexandre-koyre"
-    ],
-    "year": 1936,
-    "type": "article",
-    "journal": "Revue philosophique de la France et de l'Étranger",
-    "volume": "122",
-    "pages": "136-140"
-  },
-  {
-    "id": "Waismann1936a",
-    "title": "Über den Begriff der Identität",
-    "authors": [
-      "friedrich-waismann"
-    ],
-    "year": 1936,
-    "type": "article",
-    "journal": "Erkenntnis",
-    "volume": "6",
-    "pages": "56-64"
-  },
-  {
-    "id": "KleinBarmen1936a",
-    "title": "Dedekindsche und distributive Verbände",
-    "authors": [
-      "fritz-klein"
-    ],
-    "year": 1936,
-    "type": "article",
-    "journal": "Mathematische Zeitschrift",
-    "volume": "41",
-    "pages": "261-280"
-  },
-  {
-    "id": "Levi1936a",
-    "title": "Review of Hilbert",
-    "authors": [
-      "beppo-levi"
-    ],
-    "year": 1936,
-    "type": "article",
-    "journal": "Unknown Journal",
-    "volume": "59",
-    "pages": "170-172",
-    "notes": "Partial citation due to cropped/fragmented source text ('Review of Hilbe...')."
-  },
-  {
-    "id": "Scholz1936a",
-    "title": "Review of Collected papers of Charles Sanders Peirce, vols. 3-5",
+    "id": "Scholz1937b",
+    "title": "Die Wissenschaftslehre Bolzanos. Eine Jahrhundert-Betrachtung",
     "authors": [
       "heinrich-scholz"
     ],
-    "year": 1936,
+    "year": 1937,
     "type": "article",
-    "journal": "Deutsche Literaturzeitung",
-    "volume": "57",
-    "pages": "137-144"
+    "journal": "Abhandlungen der Fries'schen Schule",
+    "volume": "6",
+    "pages": "399-472",
+    "notes": "Revised form with additions of a paper previously reviewed in II 82."
   },
   {
-    "id": "Wernick1936a",
-    "title": "Review of Scholz and Schweitzer's Die sogenannten Definitionen durch Abstraktion",
+    "id": "Lazerowitz1938a",
+    "title": "\"Penumbral\" functions",
     "authors": [
-      "georg-wernick"
+      "morris-lazerowitz"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Mind",
+    "volume": "47",
+    "pages": "58-60"
+  },
+  {
+    "id": "Turing1937c",
+    "title": "On computable numbers, with an application to the Entscheidungsproblem. A correction",
+    "authors": [
+      "a-m-turing"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Proceedings of the London Mathematical Society",
+    "volume": "43",
+    "pages": "544-546"
+  },
+  {
+    "id": "Neurath1936a",
+    "title": "Den logiska empirismen ock wienerkretsen",
+    "authors": [
+      "otto-neurath"
     ],
     "year": 1936,
     "type": "article",
+    "journal": "Theoria",
+    "volume": "2",
+    "pages": "72-82",
+    "notes": "Translated by Ingeborg Holm. English title translation: (Logical empiricism and the Vienna Circle)."
+  },
+  {
+    "id": "Anderson1936a",
+    "title": "Review of Barzin and Errera's Sur le principe du tiers exclu",
+    "authors": [
+      "john-anderson"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "The Australasian Journal of Psychology and Philosophy",
+    "volume": "14",
+    "pages": "80"
+  },
+  {
+    "id": "Black1936a",
+    "title": "Review of Carnap's Logische Syntax der Sprache",
+    "authors": [
+      "max-black"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Philosophy",
+    "volume": "11",
+    "pages": "110-114"
+  },
+  {
+    "id": "Mace1936a",
+    "title": "Review of Cohen and Nagel's An Introduction to Logic and Scientific Method",
+    "authors": [
+      "c-a-mace"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Philosophy",
+    "volume": "11",
+    "pages": "219-221"
+  },
+  {
+    "id": "Greenwood1936a",
+    "title": "La notion de concept dans la logique anglaise contemporaine",
+    "authors": [
+      "thomas-greenwood"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Les Études Philosophiques",
+    "volume": "10",
+    "pages": "1-7",
+    "notes": "Nos. 1-2."
+  },
+  {
+    "id": "Pacotte1937a",
+    "title": "L'objet formel",
+    "authors": [
+      "julien-pacotte"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "volume": "VI",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "46-51",
+    "notes": "Logique et mathématiques, Actualités scientifiques et industrielles 535."
+  },
+  {
+    "id": "Tummers1937a",
+    "title": "Autour du problème des nombres infinis",
+    "authors": [
+      "j-h-tummers"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "volume": "VI",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "218-224",
+    "notes": "Logique et mathématiques, Actualités scientifiques et industrielles 535."
+  },
+  {
+    "id": "Sauer1937a",
+    "title": "Die konkrete Aussage und ihre Wahrbewertung",
+    "authors": [
+      "friedrich-sauer"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Blätter für deutsche Philosophie",
+    "volume": "11",
+    "pages": "130-151"
+  },
+  {
+    "id": "Cramer1937a",
+    "title": "Ueber den Begriff des Unendlichen",
+    "authors": [
+      "wolfgang-cramer"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Blätter für deutsche Philosophie",
+    "volume": "11",
+    "pages": "272-284"
+  },
+  {
+    "id": "Schiller1938a",
+    "title": "Logic: a game, or an agent of value",
+    "authors": [
+      "f-c-s-schiller"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Personalist",
+    "volume": "19",
+    "pages": "16-31"
+  },
+  {
+    "id": "Neurath1937a",
+    "title": "La notion de \"type\" à la lumière de la logique nouvelle",
+    "authors": [
+      "otto-neurath"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Scientia",
+    "volume": "62",
+    "pages": "283-287",
+    "notes": "Translated by H. Buriot-Darsiles. A review of Hempel and Oppenheim's Der Typusbegriff im Lichte der neuen Logik."
+  },
+  {
+    "id": "Stern1937a",
+    "title": "Review of Hempel and Oppenheim's Der Typusbegriff im Lichte der neuen Logik",
+    "authors": [
+      "alfred-stern"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Revue Philosophique de la France et de l'Étranger",
+    "volume": "124",
+    "pages": "115-116"
+  },
+  {
+    "id": "Launay1937a",
+    "title": "Le nombre irrationnel gardien de l'espace",
+    "authors": [
+      "robert-launay"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "volume": "VI",
+    "publisher": "Hermann et Cie",
+    "location": "Paris",
+    "pages": "211-217",
+    "notes": "Logique et mathématiques, Actualités scientifiques et industrielles 535."
+  },
+  {
+    "id": "Peter1937a",
+    "title": "Über recursive Funktionen der zweiten Stufe",
+    "authors": [
+      "rozsa-peter"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Comptes rendus du Congrès International des Mathématiciens Oslo 1936",
+    "volume": "2",
+    "publisher": "A. W. Brøggers Boktrykkeri A/S",
+    "location": "Oslo",
+    "pages": "267"
+  },
+  {
+    "id": "Skolem1937a",
+    "title": "Eine Bemerkung zum Entscheidungsproblem",
+    "authors": [
+      "thoralf-skolem"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Comptes rendus du Congrès International des Mathématiciens Oslo 1936",
+    "volume": "2",
+    "publisher": "A. W. Brøggers Boktrykkeri A/S",
+    "location": "Oslo",
+    "pages": "268-270",
+    "notes": "An abstract of Einige Reduktionen des Entscheidungsproblems."
+  },
+  {
+    "id": "Errera1937a",
+    "title": "Sur la notion de compatibilité et les rapports entre l'intuitionnisme et le formalisme",
+    "authors": [
+      "alfred-errera"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Comptes rendus du Congrès International des Mathématiciens Oslo 1936",
+    "volume": "2",
+    "publisher": "A. W. Brøggers Boktrykkeri A/S",
+    "location": "Oslo",
+    "pages": "270-271"
+  },
+  {
+    "id": "MacNeille1937b",
+    "title": "Partially ordered sets",
+    "authors": [
+      "holbrook-m-macneille"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Transactions of the American Mathematical Society",
+    "volume": "42",
+    "pages": "416-460"
+  },
+  {
+    "id": "Glivenko1937a",
+    "title": "Contribution à l'étude des systèmes de choses normées",
+    "authors": [
+      "v-glivenko"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "American Journal of Mathematics",
+    "volume": "59",
+    "pages": "941-956"
+  },
+  {
+    "id": "Nagel1937a",
+    "title": "Review of Waismann's Einführung in das mathematische Denken",
+    "authors": [
+      "ernest-nagel"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "The Journal of Philosophy",
+    "volume": "34",
+    "pages": "693-695"
+  },
+  {
+    "id": "Juhos1936a",
+    "title": "The truth of empirical statements",
+    "authors": [
+      "b-juhos"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Analysis",
+    "volume": "4",
+    "pages": "65-70"
+  },
+  {
+    "id": "Grelling1937a",
+    "title": "Review of Carnap's Philosophy and Logical Syntax",
+    "authors": [
+      "kurt-grelling"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Theoria",
+    "volume": "3",
+    "pages": "355-357"
+  },
+  {
+    "id": "Weiss1937a",
+    "title": "Review of von Freytag's Die ontologischen Grundlagen der Mathematik",
+    "authors": [
+      "e-a-weiss"
+    ],
+    "year": 1937,
+    "type": "article",
     "journal": "Deutsche Literaturzeitung",
-    "volume": "57",
-    "pages": "915-917",
-    "notes": "Journal and volume expanded from 'Ibid.' reference to match the preceding Heinrich Scholz entry."
+    "volume": "58",
+    "pages": "1728-1730"
+  },
+  {
+    "id": "Scholz1937c",
+    "title": "Review of Tarski's Der Wahrheitsbegriff in den formalisierten Sprachen",
+    "authors": [
+      "heinrich-scholz"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Deutsche Literaturzeitung",
+    "volume": "58",
+    "pages": "1914-1917"
+  },
+  {
+    "id": "Ward1937a",
+    "title": "Residuation in structures over which a multiplication is defined",
+    "authors": [
+      "morgan-ward"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Duke Mathematical Journal",
+    "volume": "3",
+    "pages": "627-636"
+  },
+  {
+    "id": "Salamucha1937a",
+    "title": "Pojawienie się zagadnień antynomialnych na gruncie logiki średniowiecznej",
+    "authors": [
+      "j-salamucha"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Przegląd Filozoficzny",
+    "volume": "40",
+    "pages": "68-89, 320-343",
+    "notes": "English title translation: (The appearance of antinomy problems in medieval logic)."
+  },
+  {
+    "id": "Weinberg1938a",
+    "title": "Review of Studia Philosophica, vol. 1",
+    "authors": [
+      "julius-r-weinberg"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Philosophical Review",
+    "volume": "47",
+    "pages": "70-77"
+  },
+  {
+    "id": "Molitor1938a",
+    "title": "Review of Weinberg's An Examination of Logical Positivism",
+    "authors": [
+      "arnulf-molitor"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Philosophisches Jahrbuch der Görres-Gesellschaft",
+    "volume": "51",
+    "pages": "91-93"
+  },
+  {
+    "id": "Cassina1936b",
+    "title": "Sui fondamenti della geometria secondo Hilbert",
+    "authors": [
+      "ugo-cassina"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Atti della Reale Accademia delle Scienze di Torino",
+    "volume": "72",
+    "pages": "337-372",
+    "notes": "Classe di scienze fisiche, matematiche e naturali."
   }
 ]
