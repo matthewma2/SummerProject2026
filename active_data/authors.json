@@ -4206,7 +4206,7 @@
     ]
   },
   {
-    "id": "l-p-gokili",
+    "id": "l-p-gokieli",
     "full_name": "L. P. Gokiéli",
     "alternative_names": [
       "Gokiéli",
@@ -7832,6 +7832,83 @@
     "full_name": "Arnulf Molitor",
     "alternative_names": [
       "Molitor"
+    ]
+  },
+  {
+    "id": "hans-hermes",
+    "full_name": "Hans Hermes",
+    "alternative_names": [
+      "Hermes"
+    ]
+  },
+  {
+    "id": "albert-lautman",
+    "full_name": "Albert Lautman",
+    "alternative_names": [
+      "Lautman"
+    ]
+  },
+  {
+    "id": "charles-e-bures",
+    "full_name": "Charles E. Bures",
+    "alternative_names": [
+      "Bures"
+    ]
+  },
+  {
+    "id": "robert-p-dilworth",
+    "full_name": "Robert P. Dilworth",
+    "alternative_names": [
+      "Dilworth"
+    ]
+  },
+  {
+    "id": "fumitomo-maeda",
+    "full_name": "Fumitomo Maeda",
+    "alternative_names": [
+      "Maeda"
+    ]
+  },
+  {
+    "id": "conrad-h-waddington",
+    "full_name": "Conrad H. Waddington",
+    "alternative_names": [
+      "Waddington"
+    ]
+  },
+  {
+    "id": "william-r-dennes",
+    "full_name": "William R. Dennes",
+    "alternative_names": [
+      "Dennes"
+    ]
+  },
+  {
+    "id": "ernst-von-aster",
+    "full_name": "Ernst von Aster",
+    "alternative_names": [
+      "Aster"
+    ]
+  },
+  {
+    "id": "nathan-lazar",
+    "full_name": "Nathan Lazar",
+    "alternative_names": [
+      "Lazar"
+    ]
+  },
+  {
+    "id": "tomoharu-hirano",
+    "full_name": "Tomoharu Hirano",
+    "alternative_names": [
+      "Hirano"
+    ]
+  },
+  {
+    "id": "ichiro-watanabe",
+    "full_name": "Ichirô Watanabe",
+    "alternative_names": [
+      "Watanabe"
     ]
   }
 ]
