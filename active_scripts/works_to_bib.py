@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Convert active/works.json records to BibTeX."""
+"""Convert active_data/works.json records to BibTeX using author mapping."""
 
 from __future__ import annotations
 
@@ -9,24 +9,27 @@ import re
 from pathlib import Path
 from typing import Any
 
-
+# Adjusted to lowercase keys to perfectly match the 'type' fields in works.json
 TYPE_MAP = {
-    "Article": "article",
-    "Book": "book",
-    "Book Chapter": "incollection",
-    "Chapter": "incollection",
-    "Encyclopedia Entry": "inreference",
-    "Fragment": "misc",
-    "Letters": "misc",
-    "Manuscript": "misc",
-    "Thesis": "thesis",
+    "article": "article",
+    "book": "book",
+    "book chapter": "incollection",
+    "chapter": "incollection",
+    "encyclopedia entry": "inreference",
+    "fragment": "misc",
+    "letters": "misc",
+    "manuscript": "misc",
+    "thesis": "thesis",
+    "dialogue": "misc",
+    "treatise": "book",
+    "novel": "book",
 }
 
 FIELD_ORDER = ("author", "title", "journal", "year", "volume", "address", "pages")
 
 
 def bibtex_type(publication_type: str | None) -> str:
-    return TYPE_MAP.get(publication_type or "", "misc")
+    return TYPE_MAP.get((publication_type or "").lower(), "misc")
 
 
 def normalize_pages(pages: Any) -> str | None:
@@ -55,53 +58,120 @@ def escape_bibtex(value: Any) -> str | None:
         "$": r"\$",
         "#": r"\#",
         "_": r"\_",
-        "~": r"\textasciitilde{}",
-        "^": r"\textasciicircum{}",
     }
-    return "".join(replacements.get(char, char) for char in text)
+    
+    for orig, rep in replacements.items():
+        text = text.replace(orig, rep)
+    return text
 
 
-def record_to_fields(record: dict[str, Any]) -> dict[str, str]:
-    fields = {
-        "author": escape_bibtex(record.get("author_name")),
-        "title": escape_bibtex(record.get("title")),
-        "journal": escape_bibtex(record.get("journal")),
-        "year": escape_bibtex(record.get("year")),
-        "volume": escape_bibtex(record.get("volume")),
-        "address": escape_bibtex(record.get("location")),
-        "pages": escape_bibtex(normalize_pages(record.get("pages"))),
-    }
-    if record.get("publication_type") == "Article":
-        fields["address"] = None
-    else:
-        fields["journal"] = None
-        fields["volume"] = None
-    return {key: value for key, value in fields.items() if value is not None}
+def format_author_fallback(slug: str) -> str:
+    """Fallback formatter if an author ID is missing from authors.json."""
+    parts = slug.split("-")
+    formatted_parts = []
+    for part in parts:
+        if part.lower() in ("von", "de", "di", "van"):
+            formatted_parts.append(part)
+        elif len(part) == 1:
+            formatted_parts.append(part.upper() + ".")
+        else:
+            formatted_parts.append(part.capitalize())
+    return " ".join(formatted_parts)
 
 
-def record_to_bibtex(record: dict[str, Any]) -> str:
-    entry_id = record.get("entry_id")
-    if not entry_id:
-        raise ValueError(f"Record is missing entry_id: {record!r}")
+def record_to_bibtex(record: dict[str, Any], authors_map: dict[str, str]) -> str:
+    entry_id = record.get("id", "unknown")
+    pub_type = record.get("type", "misc")
+    bib_type = bibtex_type(str(pub_type))
+    
+    # Resolve author IDs against the loaded authors data
+    authors_list = record.get("authors", [])
+    formatted_authors = []
+    for author_id in authors_list:
+        if author_id in authors_map:
+            formatted_authors.append(authors_map[author_id])
+        else:
+            # Fallback to string formatting if ID isn't found in authors.json
+            formatted_authors.append(format_author_fallback(author_id))
+            
+    author_str = " and ".join(formatted_authors)
+    
+    # Gather fields (Excluding 'notes')
+    fields = {}
+    if author_str:
+        fields["author"] = author_str
+    if "title" in record:
+        fields["title"] = record["title"]
+    if "journal" in record:
+        fields["journal"] = record["journal"]
+    if "year" in record:
+        fields["year"] = str(record["year"])
+    if "volume" in record:
+        fields["volume"] = record["volume"]
+    if "location" in record:
+        fields["address"] = record["location"]
+    if "pages" in record:
+        fields["pages"] = normalize_pages(record["pages"])
+    if "publisher" in record:
+        fields["publisher"] = record["publisher"]
+    if "number" in record:
+        fields["number"] = record["number"]
+    if "series" in record:
+        fields["series"] = record["series"]
+    if "booktitle" in record:
+        fields["booktitle"] = record["booktitle"]
 
-    entry_type = bibtex_type(record.get("publication_type"))
-    fields = record_to_fields(record)
-    if not fields:
-        return f"@{entry_type}{{{entry_id}\n}}"
+    # Escape specialized LaTeX characters
+    escaped_fields = {}
+    for k, v in fields.items():
+        ev = escape_bibtex(v)
+        if ev:
+            escaped_fields[k] = ev
 
-    width = max(len(field) for field in fields)
-    lines = [f"@{entry_type}{{{entry_id},"]
-    for index, field in enumerate(FIELD_ORDER):
-        if field not in fields:
-            continue
-        suffix = "," if index < len(FIELD_ORDER) - 1 else ""
-        lines.append(f"  {field:<{width}} = {{{fields[field]}}}{suffix}")
+    # Build entry blocks
+    lines = [f"@{bib_type}{{{entry_id},"]
+    
+    all_keys = list(escaped_fields.keys())
+    ordered_keys = [k for k in FIELD_ORDER if k in escaped_fields]
+    other_keys = sorted([k for k in all_keys if k not in FIELD_ORDER])
+    
+    for k in ordered_keys + other_keys:
+        val = escaped_fields[k]
+        if k == "title":
+            lines.append(f"    {k} = {{{{{val}}}}},")
+        else:
+            lines.append(f"    {k} = {{{val}}},")
+            
+    return "\n".join(lines) + "\n}"
 
-    # Remove the trailing comma from the last emitted field, even when later
-    # fields were absent.
-    lines[-1] = lines[-1].rstrip(",")
-    lines.append("}")
-    return "\n".join(lines)
+
+def load_authors(authors_path: Path) -> dict[str, str]:
+    """Loads authors.json and builds a flat map of id -> full_name."""
+    if not authors_path.exists():
+        print(f"Warning: {authors_path} not found. Falling back to ID auto-formatting.")
+        return {}
+        
+    with authors_path.open("r", encoding="utf-8") as infile:
+        data = json.load(infile)
+        
+    authors_map = {}
+    # Case 1: authors.json is a list of objects: [{"id": "...", "full_name": "..."}, ...]
+    if isinstance(data, list):
+        for item in data:
+            if isinstance(item, dict) and "id" in item:
+                name = item.get("full_name") or item.get("name") or item["id"]
+                authors_map[item["id"]] = str(name)
+                
+    # Case 2: authors.json is a top-level dictionary: {"author-id": {"full_name": "..."}}
+    elif isinstance(data, dict):
+        for k, v in data.items():
+            if isinstance(v, dict):
+                name = v.get("full_name") or v.get("name") or k
+                authors_map[k] = str(name)
+            else:
+                authors_map[k] = str(v)
+                
+    return authors_map
 
 
 def load_records(input_path: Path) -> list[dict[str, Any]]:
@@ -119,8 +189,8 @@ def load_records(input_path: Path) -> list[dict[str, Any]]:
     return records
 
 
-def write_bibtex(records: list[dict[str, Any]], output_path: Path) -> None:
-    bibtex = "\n\n".join(record_to_bibtex(record) for record in records)
+def write_bibtex(records: list[dict[str, Any]], authors_map: dict[str, str], output_path: Path) -> None:
+    bibtex = "\n\n".join(record_to_bibtex(record, authors_map) for record in records)
     output_path.write_text(f"{bibtex}\n", encoding="utf-8")
 
 
@@ -128,28 +198,46 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Convert works.json records to a BibTeX .bib file."
     )
+    
+    # Safe multi-level traversal: active_scripts/works_to_bib.py -> parent -> parent -> active_data/
+    project_root = Path(__file__).resolve().parent.parent
+    
+    default_input = project_root / "active_data" / "works.json"
+    default_authors = project_root / "active_data" / "authors.json"
+    default_output = project_root / "active_data" / "works.bib"
+    
     parser.add_argument(
         "input",
         nargs="?",
         type=Path,
-        default=Path(__file__).with_name("works.json"),
-        help="Input JSON file. Defaults to active/works.json.",
+        default=default_input,
+        help="Input JSON file. Defaults to active_data/works.json.",
+    )
+    parser.add_argument(
+        "--authors",
+        type=Path,
+        default=default_authors,
+        help="Authors map JSON file. Defaults to active_data/authors.json.",
     )
     parser.add_argument(
         "output",
         nargs="?",
         type=Path,
-        default=Path(__file__).with_name("works.bib"),
-        help="Output BibTeX file. Defaults to active/works.bib.",
+        default=default_output,
+        help="Output BibTeX file. Defaults to active_data/works.bib.",
     )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
-    records = load_records(args.input)
-    write_bibtex(records, args.output)
-    print(f"Wrote {len(records)} BibTeX entries to {args.output}")
+    try:
+        authors_map = load_authors(args.authors)
+        records = load_records(args.input)
+        write_bibtex(records, authors_map, args.output)
+        print(f"Successfully converted {len(records)} records to {args.output}")
+    except Exception as e:
+        print(f"Error: {e}")
 
 
 if __name__ == "__main__":
