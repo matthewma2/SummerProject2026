@@ -35,7 +35,7 @@ def extract_name_components(name_str):
 def find_best_author_match(input_author, authors_db):
     """
     Validates an author if their surname matches the DB record's full name/aliases,
-    and their given initials match sequentially.
+    and their given initials match sequentially as a subsequence.
     """
     in_initials, in_surname = extract_name_components(input_author)
     
@@ -49,11 +49,12 @@ def find_best_author_match(input_author, authors_db):
             # 2. Check initials matching (if the input provided any given names/initials)
             db_main_initials, _ = extract_name_components(author.get("full_name", ""))
             
-            # If input has initials, verify they match sequentially with the DB record
+            # If input has initials, verify they appear in order anywhere inside the DB initials
             if in_initials and db_main_initials:
-                # Truncate to compare up to the length of whichever sequence is shorter
-                min_len = min(len(in_initials), len(db_main_initials))
-                if in_initials[:min_len] == db_main_initials[:min_len]:
+                # Uses a Python iterator trick to check if `in_initials` 
+                # is an ordered subsequence anywhere inside `db_main_initials`.
+                db_iterator = iter(db_main_initials)
+                if all(initial in db_iterator for initial in in_initials):
                     return author["id"]
             else:
                 # If either side lacks initials (e.g., just a surname query), match on surname
@@ -63,10 +64,9 @@ def find_best_author_match(input_author, authors_db):
 
 def resolve_id_collision(base_id, works_db_ids):
     """
-    Checks if an ID already exists. Shiftts from 'a' -> 'b' -> 'c' ... if collided.
+    Checks if an ID already exists. Shifts from 'a' -> 'b' -> 'c' ... if collided.
     Handles replacing or appending alphabetical suffix seamlessly.
     """
-    # Parse out the trailing alpha character sequence if it follows a year (e.g., Tarski1936a -> suffix 'a')
     match = re.match(r"^([a-zA-Z0-9\-]+?\d{4})([a-z]*)$", base_id)
     if match:
         prefix, suffix = match.groups()
@@ -81,7 +81,6 @@ def resolve_id_collision(base_id, works_db_ids):
             return candidate_id
         
         # Increment alphabetical suffix: 'a' -> 'b', ..., 'z' -> 'aa'
-        # Base-26 conversion algorithm to increment string counters
         num = 0
         for char in current_suffix:
             num = num * 26 + (ord(char) - ord('a') + 1)
@@ -115,7 +114,6 @@ def process_citations(batch_file_path, authors_file_path, works_file_path, outpu
         old_id = item.get("id")
         unique_id = resolve_id_collision(old_id, existing_works_ids)
         new_item["id"] = unique_id
-        # Reserve it immediately so subsequent entries in the same batch don't steal it
         existing_works_ids.add(unique_id)
         
         # Task 2: Match and Replace Authors
@@ -125,8 +123,11 @@ def process_citations(batch_file_path, authors_file_path, works_file_path, outpu
             if matched_id:
                 resolved_authors.append(matched_id)
             else:
-                print(f"⚠️ Match not found for author: \"{author_name}\"")
+                # EDITED HERE: Only print the warning if we haven't encountered this name yet
+                if author_name not in missing_authors:
+                    print(f"⚠️ Match not found for author: \"{author_name}\"")
                 missing_authors.add(author_name)
+                
                 # Fallback to the original text name string if not found
                 resolved_authors.append(author_name)
                 
@@ -143,7 +144,6 @@ def process_citations(batch_file_path, authors_file_path, works_file_path, outpu
 
 # Run the routine
 if __name__ == "__main__":
-    # Specify your file names here
     process_citations(
         batch_file_path="active_data/new_batch.json", 
         authors_file_path="active_data/authors.json", 

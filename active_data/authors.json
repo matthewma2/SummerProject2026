@@ -7095,7 +7095,7 @@
   },
   {
     "id": "bela-v-brandenstein",
-    "full_name": "Béla von Brandenstein",
+    "full_name": "Baron Béla von Brandenstein",
     "alternative_names": ["von Brandenstein", "v. Brandenstein", "Brandenstein"]
   },
   {
@@ -7909,6 +7909,86 @@
     "full_name": "Ichirô Watanabe",
     "alternative_names": [
       "Watanabe"
+    ]
+  },
+  {
+    "id": "c-michalski",
+    "full_name": "C. Michalski",
+    "alternative_names": [
+      "Michalski"
+    ]
+  },
+  {
+    "id": "j-chechelski",
+    "full_name": "J. Chechelski",
+    "alternative_names": [
+      "Chechelski"
+    ]
+  },
+  {
+    "id": "p-chojnacki",
+    "full_name": "P. Chojnacki",
+    "alternative_names": [
+      "Chojnacki"
+    ]
+  },
+  {
+    "id": "j-pastuszka",
+    "full_name": "J. Pastuszka",
+    "alternative_names": [
+      "Pastuszka"
+    ]
+  },
+  {
+    "id": "j-stepa",
+    "full_name": "J. Stępa",
+    "alternative_names": [
+      "Stępa",
+      "Stepa"
+    ]
+  },
+  {
+    "id": "kodi-husimi",
+    "full_name": "Kôdi Husimi",
+    "alternative_names": [
+      "Husimi"
+    ]
+  },
+  {
+    "id": "eug-mihailescu",
+    "full_name": "Eug. Mihăilescu",
+    "alternative_names": [
+      "Mihăilescu",
+      "Mihailescu"
+    ]
+  },
+  {
+    "id": "l-lesage",
+    "full_name": "L. LeSage",
+    "alternative_names": [
+      "LeSage",
+      "Lesage"
+    ]
+  },
+  {
+    "id": "casimir-lewy",
+    "full_name": "Casimir Lewy",
+    "alternative_names": [
+      "Lewy"
+    ]
+  },
+  {
+    "id": "abraham-a-fraenkel",
+    "full_name": "Abraham A. Fraenkel",
+    "alternative_names": [
+      "Fraenkel"
+    ]
+  },
+  {
+    "id": "louis-couffignal",
+    "full_name": "Louis Couffignal",
+    "alternative_names": [
+      "Couffignal"
     ]
   }
 ]
