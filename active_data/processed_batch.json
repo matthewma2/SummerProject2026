@@ -1,338 +1,281 @@
 [
   {
-    "id": "Michalski1937a",
-    "title": "Wstęp",
+    "id": "Godel1938a",
+    "title": "The consistency of the axiom of choice and of the generalized continuum-hypothesis",
     "authors": [
-      "c-michalski"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "7-11",
-    "notes": "Part of the collective collection: Myśl katolicka wobec logiki współczesnej (Catholic thought and modern logic)."
-  },
-  {
-    "id": "Lukasiewicz1937a",
-    "title": "W obronie logistyki",
-    "authors": [
-      "jan-lukasiewicz"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "12-26",
-    "notes": "Part of the collective collection: Myśl katolicka wobec logiki współczesnej (Catholic thought and modern logic)."
-  },
-  {
-    "id": "Bochenski1937a",
-    "title": "Tradycja myśli katolickiej a ścisłość",
-    "authors": [
-      "i-m-bochenski"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "27-34",
-    "notes": "Part of the collective collection: Myśl katolicka wobec logiki współczesnej (Catholic thought and modern logic)."
-  },
-  {
-    "id": "Salamucha1937b",
-    "title": "Zestawienie scholastycznych narzędzi logicznych z narzędziami logistycznymi",
-    "authors": [
-      "j-salamucha"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "35-49",
-    "notes": "Part of the collective collection: Myśl katolicka wobec logiki współczesnej (Catholic thought and modern logic)."
-  },
-  {
-    "id": "Drewnowski1937a",
-    "title": "Neoscholastyka wobec nowoczesnych wymagań nauki",
-    "authors": [
-      "jan-franciszek-drewnowski"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "49-57",
-    "notes": "Part of the collective collection: Myśl katolicka wobec logiki współczesnej (Catholic thought and modern logic)."
-  },
-  {
-    "id": "Chechelski1937a",
-    "title": "Dyskusja",
-    "authors": [
-      "j-chechelski"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "61-64",
-    "notes": "Discussion contribution in Myśl katolicka wobec logiki współczesnej."
-  },
-  {
-    "id": "Chojnacki1937a",
-    "title": "Dyskusja",
-    "authors": [
-      "p-chojnacki"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "65-74",
-    "notes": "Discussion contribution in Myśl katolicka wobec logiki współczesnej."
-  },
-  {
-    "id": "Pastuszka1937a",
-    "title": "Dyskusja",
-    "authors": [
-      "j-pastuszka"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "75-77",
-    "notes": "Discussion contribution in Myśl katolicka wobec logiki współczesnej."
-  },
-  {
-    "id": "Stepa1937a",
-    "title": "Dyskusja",
-    "authors": [
-      "j-stepa"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "78-83",
-    "notes": "Discussion contribution in Myśl katolicka wobec logiki współczesnej."
-  },
-  {
-    "id": "Bochenski1937b",
-    "title": "Odpowiedzi: O \"relatywizmie\" logistycznym",
-    "authors": [
-      "i-m-bochenski"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "87-111",
-    "notes": "Reply contribution in Myśl katolicka wobec logiki współczesnej."
-  },
-  {
-    "id": "Salamucha1937c",
-    "title": "Odpowiedzi: O \"mechanizacji\" myślenia",
-    "authors": [
-      "j-salamucha"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "112-121",
-    "notes": "Reply contribution in Myśl katolicka wobec logiki współczesnej."
-  },
-  {
-    "id": "Salamucha1937d",
-    "title": "Odpowiedzi: O możliwościach ścisłego formalizowania dziedziny pojęć analogicznych",
-    "authors": [
-      "j-salamucha"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Studia Gnesnensia",
-    "volume": "15",
-    "pages": "122-155",
-    "notes": "Reply contribution in Myśl katolicka wobec logiki współczesnej."
-  },
-  {
-    "id": "Ward1938b",
-    "title": "Structure residuation",
-    "authors": [
-      "morgan-ward"
+      "kurt-godel"
     ],
     "year": 1938,
     "type": "article",
-    "journal": "Annals of Mathematics",
-    "series": "Second Series",
-    "volume": "39",
-    "pages": "558-568"
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "24",
+    "pages": "556-557"
   },
   {
-    "id": "MacLane1938b",
-    "title": "A lattice formulation for transcendence degrees and p-bases",
+    "id": "Church1938a",
+    "title": "A bibliography of symbolic logic—Part II",
     "authors": [
-      "saunders-maclane"
+      "alonzo-church"
     ],
     "year": 1938,
     "type": "article",
-    "journal": "Duke Mathematical Journal",
-    "volume": "4",
-    "pages": "455-468"
+    "journal": "The Journal of Symbolic Logic",
+    "volume": "3",
+    "pages": "178-212"
   },
   {
-    "id": "Husimi1937a",
-    "title": "Studies on the foundation of quantum mechanics. I",
+    "id": "Lautman1936a",
+    "title": "L'axiomatique et la méthode de division",
     "authors": [
-      "kodi-husimi"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Proceedings of the Physico-Mathematical Society of Japan",
-    "series": "Third Series",
-    "volume": "19",
-    "pages": "766-789"
-  },
-  {
-    "id": "Mihailescu1937a",
-    "title": "Sur certain sous-systèmes de la logique positive classique",
-    "authors": [
-      "eug-mihailescu"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Comptes Rendus des Séances de l'Académie des Sciences de Roumanie",
-    "volume": "2",
-    "pages": "119-120"
-  },
-  {
-    "id": "Brandenstein1936a",
-    "title": "A végtelen halmazok problémájáról (On the problem of infinite sets)",
-    "authors": [
-      "bela-v-brandenstein"
+      "albert-lautman"
     ],
     "year": 1936,
-    "type": "book",
-    "series": "Filozófiai Értekezések",
-    "number": "6",
-    "publisher": "Magyar Filozófiai Társaság",
-    "location": "Budapest",
-    "pages": "55"
+    "type": "article",
+    "journal": "Recherches Philosophiques (Paris)",
+    "volume": "6",
+    "pages": "191-203"
   },
   {
-    "id": "Weiss1938a",
-    "title": "The self-contradictory",
+    "id": "Rey1937a",
+    "title": "Les logistiques",
+    "authors": [
+      "abel-rey"
+    ],
+    "year": 1937,
+    "type": "incollection",
+    "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
+    "publisher": "Société de Gestion de l'Encyclopédie Française",
+    "location": "Paris",
+    "pages": "1 18-3 to 1 18-6"
+  },
+  {
+    "id": "Rey1937b",
+    "title": "Les axiomatiques",
+    "authors": [
+      "abel-rey"
+    ],
+    "year": 1937,
+    "type": "incollection",
+    "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
+    "publisher": "Société de Gestion de l'Encyclopédie Française",
+    "location": "Paris",
+    "pages": "1 18-6 to 1 18-11"
+  },
+  {
+    "id": "Hadamard1937a",
+    "title": "Nature des mathématiques, principes fondamentaux",
+    "authors": [
+      "jacques-hadamard"
+    ],
+    "year": 1937,
+    "type": "incollection",
+    "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
+    "publisher": "Société de Gestion de l'Encyclopédie Française",
+    "location": "Paris",
+    "pages": "1 52-1 to 1 52-16"
+  },
+  {
+    "id": "Watanabe1937b",
+    "title": "Kigô to zukei (Symbol and figure)",
+    "authors": [
+      "ichiro-watanabe"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Tôkyô Buturigakkô-zassi",
+    "volume": "46",
+    "pages": "1-6",
+    "notes": "Includes a critique of the symbolism of Hilbert and of the view that mathematics deals with meaningless symbols."
+  },
+  {
+    "id": "KleinBarmen1938a",
+    "title": "Ein weiterer Beitrag zum Problem der Zerlegung der Elemente gewisser harmonischer Verbände",
+    "authors": [
+      "fritz-klein"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Deutsche Mathematik",
+    "volume": "3",
+    "pages": "46-64"
+  },
+  {
+    "id": "DuncanJones1938a",
+    "title": "Further questions about 'know' and 'think'",
+    "authors": [
+      "a-e-duncan-jones"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Analysis",
+    "volume": "5",
+    "number": "5",
+    "pages": "74-83"
+  },
+  {
+    "id": "Williams1938a",
+    "title": "The nature and variety of the a priori",
+    "authors": [
+      "donald-c-williams"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Analysis",
+    "volume": "5",
+    "number": "6",
+    "pages": "85-94"
+  },
+  {
+    "id": "MacIver1938a",
+    "title": "Reply to Mr. Duncan-Jones",
+    "authors": [
+      "a-m-maciver"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Analysis",
+    "volume": "5",
+    "number": "6",
+    "pages": "95-97"
+  },
+  {
+    "id": "Barrett1939a",
+    "title": "On \"The null class of premises\"",
+    "authors": [
+      "william-barrett"
+    ],
+    "year": 1939,
+    "type": "article",
+    "journal": "Mind",
+    "series": "New Series",
+    "volume": "48",
+    "pages": "74-77"
+  },
+  {
+    "id": "Hofstadter1938a",
+    "title": "Logical form and epistemic function",
+    "authors": [
+      "albert-hofstadter"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Journal of Philosophy",
+    "volume": "35",
+    "pages": "712-717"
+  },
+  {
+    "id": "Biser1938a",
+    "title": "A general schema for natural systems",
+    "authors": [
+      "irwin-biser"
+    ],
+    "year": 1938,
+    "type": "book",
+    "publisher": "Westbrook Publishing Company",
+    "location": "Philadelphia",
+    "pages": "155"
+  },
+  {
+    "id": "Bachelard1935a",
+    "title": "Review of Reichenbach's Wahrscheinlichkeitslehre",
+    "authors": [
+      "gaston-bachelard"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Recherches Philosophiques (Paris)",
+    "volume": "5",
+    "pages": "446-448"
+  },
+  {
+    "id": "Bachelard1935b",
+    "title": "Review of Hahn's Logique, mathématiques et connaissance de la réalité",
+    "authors": [
+      "gaston-bachelard"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Recherches Philosophiques (Paris)",
+    "volume": "5",
+    "pages": "448-450"
+  },
+  {
+    "id": "Weiss1937b",
+    "title": "A new philosophical school",
+    "authors": [
+      "paul-weiss"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "The New Republic",
+    "volume": "92",
+    "pages": "107-108",
+    "notes": "A review of Weinberg's An examination of logical positivism, Ayer's Language, truth, and logic, and Carnap's The logical syntax of language."
+  },
+  {
+    "id": "Weiss1938b",
+    "title": "Thoughts out of season",
     "authors": [
       "paul-weiss"
     ],
     "year": 1938,
     "type": "article",
-    "journal": "The Philosophical Review",
-    "volume": "47",
-    "pages": "531-533"
+    "journal": "The New Republic",
+    "volume": "95",
+    "pages": "193-194",
+    "notes": "A review of Russell's The principles of mathematics, 2nd. edn."
   },
   {
-    "id": "Lazerowitz1938b",
-    "title": "The null class of premises",
+    "id": "Haldane1938a",
+    "title": "Review of Woodger's The axiomatic method in biology",
     "authors": [
-      "morris-lazerowitz"
+      "j-b-s-haldane"
     ],
     "year": 1938,
     "type": "article",
-    "journal": "Mind",
-    "series": "New Series",
-    "volume": "47",
-    "pages": "357-360"
+    "journal": "Nature",
+    "volume": "141",
+    "pages": "265-266"
   },
   {
-    "id": "Ayer1937c",
-    "title": "Review of Carnap's The Logical Syntax of Language",
+    "id": "Couffignal1938d",
+    "title": "Review of Cavaillès's Remarques sur la formation de la théorie abstraite des ensembles and Méthode axiomatique et formalisme",
     "authors": [
-      "alfred-jules-ayer"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "The Spectator",
-    "volume": "158",
-    "location": "London",
-    "pages": "589-590"
-  },
-  {
-    "id": "Lesage1938a",
-    "title": "Review of Gonseth's Les mathématiques et la réalité",
-    "authors": [
-      "l-lesage"
+      "louis-couffignal"
     ],
     "year": 1938,
     "type": "article",
-    "journal": "Revue de Philosophie",
-    "volume": "38e année, n.s. 7",
-    "pages": "246-254"
+    "journal": "Revue Scientifique (Paris)",
+    "volume": "76",
+    "pages": "392-393"
   },
   {
-    "id": "Lewy1938a",
-    "title": "Review of Langer's An Introduction to Symbolic Logic",
+    "id": "Couffignal1938e",
+    "title": "Review of Greenwood's Les fondements de la logique symbolique",
     "authors": [
-      "casimir-lewy"
+      "louis-couffignal"
     ],
     "year": 1938,
     "type": "article",
-    "journal": "Mind",
-    "series": "New Series",
-    "volume": "47",
-    "pages": "388-390"
+    "journal": "Revue Scientifique (Paris)",
+    "volume": "76",
+    "pages": "593-594"
   },
   {
-    "id": "Forder1938a",
-    "title": "Review of Russell's The Principles of Mathematics, 2nd edn.",
+    "id": "Couffignal1938f",
+    "title": "Review of Dienes's Logic of algebra",
     "authors": [
-      "h-g-forder"
+      "louis-couffignal"
     ],
     "year": 1938,
     "type": "article",
-    "journal": "The Mathematical Gazette",
-    "volume": "22",
-    "pages": "300-301"
+    "journal": "Revue Scientifique (Paris)",
+    "volume": "76",
+    "pages": "594-595"
   },
   {
-    "id": "Forder1938b",
-    "title": "Review of Tarski's Einführung in die mathematische Logik",
-    "authors": [
-      "h-g-forder"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "The Mathematical Gazette",
-    "volume": "22",
-    "pages": "302"
-  },
-  {
-    "id": "Rosser1938b",
-    "title": "Review of Hilbert and Ackermann's Grundzüge der theoretischen Logik, 2nd edn.",
-    "authors": [
-      "j-barkley-rosser"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Bulletin of the American Mathematical Society",
-    "volume": "44",
-    "pages": "474-475"
-  },
-  {
-    "id": "Fraenkel1938b",
-    "title": "Review of Waismann's Einführung in das mathematische Denken",
-    "authors": [
-      "abraham-a-fraenkel"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Scripta Mathematica",
-    "volume": "5",
-    "pages": "124-126"
-  },
-  {
-    "id": "Nagel1938d",
-    "title": "Review of Hilbert and Ackermann's Grundzüge der theoretischen Logik, 2nd edn.",
+    "id": "Nagel1938e",
+    "title": "Review of International encyclopedia of unified science, vol. 1, nos. 1, 2, 5",
     "authors": [
       "ernest-nagel"
     ],
@@ -340,157 +283,42 @@
     "type": "article",
     "journal": "The Journal of Philosophy",
     "volume": "35",
-    "pages": "390-391"
+    "pages": "689-693"
   },
   {
-    "id": "Quine1938c",
-    "title": "Review of Tarski's Einführung in die mathematische Logik",
+    "id": "Speiser1932a",
+    "title": "Review of Reymond's Les principes de la logique et la critique contemporaine",
     "authors": [
-      "w-v-quine"
+      "andreas-speiser"
     ],
-    "year": 1938,
+    "year": 1932,
     "type": "article",
-    "journal": "Bulletin of the American Mathematical Society",
-    "volume": "44",
-    "pages": "317-318"
+    "journal": "Recherches Philosophiques",
+    "volume": "2",
+    "pages": "486-488"
   },
   {
-    "id": "Jorgensen1938b",
-    "title": "Review of Tarski's Einführung in die mathematische Logik and Woodger's The Axiomatic Method in Biology",
+    "id": "Bornstein1935c",
+    "title": "Architektonika świata. Tom I. Prolegomena do architektoniki świata (French Abstract)",
     "authors": [
-      "jorgen-jorgensen"
+      "b-bornstein"
     ],
-    "year": 1938,
+    "year": 1935,
     "type": "article",
-    "journal": "Matematisk Tidsskrift, Afdeling B",
-    "pages": "41-43",
-    "notes": "Danish."
+    "journal": "Studia Philosophica",
+    "volume": "1",
+    "pages": "445-447"
   },
   {
-    "id": "Scholz1937d",
-    "title": "Review of Moody's The Logic of William of Ockham",
+    "id": "Kojevnikoff1934b",
+    "title": "Review of Dingler's Philosophie der Logik und Arithmetik",
     "authors": [
-      "heinrich-scholz"
+      "alexandre-kojeve"
     ],
-    "year": 1937,
+    "year": 1934,
     "type": "article",
-    "journal": "Deutsche Literaturzeitung",
-    "volume": "58",
-    "pages": "693-696"
-  },
-  {
-    "id": "Scholz1938d",
-    "title": "Review of Grabmann's Bearbeitungen und Auslegungen der aristotelischen Logik (...), Michalski's Le problème de la volonté (...), and Salamucha's Pojawienie się zagadnień antynomialnych (...)",
-    "authors": [
-      "heinrich-scholz"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Deutsche Literaturzeitung",
-    "volume": "59",
-    "pages": "763-765"
-  },
-  {
-    "id": "Fitch1938b",
-    "title": "Note on Hofstadter's On semantic problems",
-    "authors": [
-      "frederic-b-fitch"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "The Journal of Philosophy",
-    "volume": "35",
-    "pages": "360-361"
-  },
-  {
-    "id": "Couffignal1938a",
-    "title": "Sur un problème d'analyse mécanique abstraite: la théorie de la réduction résulte de fonctions mécaniques",
-    "authors": [
-      "louis-couffignal"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences",
-    "volume": "206",
-    "location": "Paris",
-    "pages": "1336-1338",
-    "notes": "The text signals a potential typo in the original print's title keyword [déduction?]."
-  },
-  {
-    "id": "Couffignal1938b",
-    "title": "Solution générale, par des moyens mécaniques, des problèmes fondamentaux de la logique déductive",
-    "authors": [
-      "louis-couffignal"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences",
-    "volume": "206",
-    "location": "Paris",
-    "pages": "1529-1531"
-  },
-  {
-    "id": "Couffignal1938c",
-    "title": "Les opérations des mathématiques pures sont toutes des fonctions mécaniques",
-    "authors": [
-      "louis-couffignal"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences",
-    "volume": "207",
-    "location": "Paris",
-    "pages": "20-22"
-  },
-  {
-    "id": "Scholz1937e",
-    "title": "Review of Schächter's Prolegomena zu einer kritischen Grammatik",
-    "authors": [
-      "heinrich-scholz"
-    ],
-    "year": 1937,
-    "type": "article",
-    "journal": "Deutsche Literaturzeitung",
-    "volume": "58",
-    "pages": "477-479"
-  },
-  {
-    "id": "Skolem1938a",
-    "title": "Review of Hilbert and Ackermann's Grundzüge der theoretischen Logik, 2nd edn.",
-    "authors": [
-      "thoralf-skolem"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Norsk Matematisk Tidsskrift",
-    "volume": "20",
-    "pages": "67-69",
-    "notes": "Norwegian."
-  },
-  {
-    "id": "Leonard1938a",
-    "title": "Review of Carnap's The Logical Syntax of Language",
-    "authors": [
-      "henry-s-leonard"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Isis",
-    "volume": "29",
-    "pages": "163-167"
-  },
-  {
-    "id": "Reach1938b",
-    "title": "The name relation and the logical antinomies",
-    "authors": [
-      "k-reach"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Erkenntnis",
-    "volume": "7",
-    "number": "3",
-    "pages": "236-240",
-    "notes": "Summary of the paper which appears in full in this number of the Journal."
+    "journal": "Recherches Philosophiques",
+    "volume": "4",
+    "pages": "430-434"
   }
 ]

@@ -3,7 +3,7 @@ import re
 import unicodedata
 
 def normalize_string(s):
-    """Normalize names for flexible comparison: lowercase, remove diacritics and dots."""
+    """Normalize names and titles for flexible comparison: lowercase, remove diacritics and dots."""
     if not s:
         return ""
     # Strip accents/diacritics (e.g., ô -> o, č -> c)
@@ -14,9 +14,9 @@ def normalize_string(s):
 
 def extract_name_components(name_str):
     """
-    Splits a full name or initials-based name into initials and surname tokens.
-    Example: "Alfred Cyril Ewing" -> initials: ['a', 'c'], surname: 'ewing'
-             "A. A. Hinčin" -> initials: ['a', 'a'], surname: 'hincin'
+    Splits a name string into given name tokens and a single surname token.
+    Treats spaces and hyphens as delimiters.
+    Example: "Austin E. Duncan-Jones" -> givens: ['austin', 'e', 'duncan'], surname: 'jones'
     """
     normalized = normalize_string(name_str)
     tokens = [t for t in re.split(r'[\s\-]+', normalized) if t]
@@ -24,40 +24,74 @@ def extract_name_components(name_str):
     if not tokens:
         return [], ""
         
-    # Surnames are usually the last part
     surname = tokens[-1]
     given_parts = tokens[:-1]
-    
-    # Extract first letter of each given name part as initials
-    initials = [part[0] for part in given_parts if part]
-    return initials, surname
+    return given_parts, surname
+
+def check_givens_match(in_givens, db_givens):
+    """
+    Validates if the input given parts/initials match the database given parts 
+    sequentially as an ordered subsequence.
+    """
+    if not in_givens:
+        return True
+        
+    db_iter = iter(db_givens)
+    for in_part in in_givens:
+        matched = False
+        for db_part in db_iter:
+            # FIX: Bidirectional initial matching. If either side is an initial (length 1), 
+            # check if first letters match. Otherwise, require an exact full-string match.
+            if len(in_part) == 1 or len(db_part) == 1:
+                if in_part[0] == db_part[0]:
+                    matched = True
+                    break
+            else:
+                if in_part == db_part:
+                    matched = True
+                    break
+        if not matched:
+            return False
+            
+    return True
 
 def find_best_author_match(input_author, authors_db):
     """
-    Validates an author if their surname matches the DB record's full name/aliases,
-    and their given initials match sequentially as a subsequence.
+    Looks for a last name match in full_name and alternative_names.
+    If the last name matches, it verifies the remaining given names/initials.
     """
-    in_initials, in_surname = extract_name_components(input_author)
-    
-    for author in authors_db:
-        # 1. Gather all possible surname candidates from the database record
-        db_names = [author.get("full_name", "")] + author.get("alternative_names", [])
-        db_surnames = [extract_name_components(n)[1] for n in db_names if n]
+    in_givens, in_surname = extract_name_components(input_author)
+    if not in_surname:
+        return None
         
-        # Check if the input surname is recognized in the database profile
-        if in_surname in db_surnames:
-            # 2. Check initials matching (if the input provided any given names/initials)
-            db_main_initials, _ = extract_name_components(author.get("full_name", ""))
+    for author in authors_db:
+        # Gather all possible name variations from the database profile
+        db_names = [author.get("full_name", "")] + author.get("alternative_names", [])
+        
+        # 1. Look for a last name match across full_name and alternative_names
+        surname_matched = False
+        for name in db_names:
+            if not name:
+                continue
+            _, db_surname = extract_name_components(name)
+            if in_surname == db_surname:
+                surname_matched = True
+                break
+                
+        # 2. If a last name matches, try matching on the rest
+        if surname_matched:
+            # Collect all unique given name parts across the entire DB profile
+            all_db_givens = []
+            for name in db_names:
+                if not name:
+                    continue
+                db_givens, _ = extract_name_components(name)
+                for g in db_givens:
+                    if g not in all_db_givens:
+                        all_db_givens.append(g)
             
-            # If input has initials, verify they appear in order anywhere inside the DB initials
-            if in_initials and db_main_initials:
-                # Uses a Python iterator trick to check if `in_initials` 
-                # is an ordered subsequence anywhere inside `db_main_initials`.
-                db_iterator = iter(db_main_initials)
-                if all(initial in db_iterator for initial in in_initials):
-                    return author["id"]
-            else:
-                # If either side lacks initials (e.g., just a surname query), match on surname
+            # Verify if the input given components match the DB components sequentially
+            if check_givens_match(in_givens, all_db_givens):
                 return author["id"]
                 
     return None
@@ -104,34 +138,56 @@ def process_citations(batch_file_path, authors_file_path, works_file_path, outpu
     # Set of existing IDs in works database for O(1) loop checks
     existing_works_ids = {work["id"] for work in works_db}
     
+    # Pre-build an optimized lookup dictionary using (year, tuple_of_author_ids) -> set of normalized titles
+    existing_works_lookup = {}
+    for work in works_db:
+        year = work.get("year")
+        authors_tuple = tuple(work.get("authors", []))
+        title_norm = normalize_string(work.get("title", ""))
+        
+        lookup_key = (year, authors_tuple)
+        if lookup_key not in existing_works_lookup:
+            existing_works_lookup[lookup_key] = set()
+        existing_works_lookup[lookup_key].add(title_norm)
+    
     processed_works = []
     missing_authors = set()
+    duplicate_count = 0
 
     for item in input_batch:
-        new_item = item.copy()
-        
-        # Task 1: Handle ID Collisions
-        old_id = item.get("id")
-        unique_id = resolve_id_collision(old_id, existing_works_ids)
-        new_item["id"] = unique_id
-        existing_works_ids.add(unique_id)
-        
-        # Task 2: Match and Replace Authors
+        # Task 1: Match and Replace Authors
         resolved_authors = []
         for author_name in item.get("authors", []):
             matched_id = find_best_author_match(author_name, authors_db)
             if matched_id:
                 resolved_authors.append(matched_id)
             else:
-                # EDITED HERE: Only print the warning if we haven't encountered this name yet
                 if author_name not in missing_authors:
                     print(f"⚠️ Match not found for author: \"{author_name}\"")
                 missing_authors.add(author_name)
-                
                 # Fallback to the original text name string if not found
                 resolved_authors.append(author_name)
-                
+        
+        # Task 2: Check if entry already exists based on Year, Authors, and Title
+        item_year = item.get("year")
+        item_authors_tuple = tuple(resolved_authors)
+        item_title_norm = normalize_string(item.get("title", ""))
+        
+        lookup_key = (item_year, item_authors_tuple)
+        if lookup_key in existing_works_lookup and item_title_norm in existing_works_lookup[lookup_key]:
+            print(f"ℹ️ Skipping duplicate entry (already in database): \"{item.get('title')}\" ({item_year})")
+            duplicate_count += 1
+            continue
+            
+        # Task 3: Handle ID Collisions
+        new_item = item.copy()
         new_item["authors"] = resolved_authors
+        
+        old_id = item.get("id")
+        unique_id = resolve_id_collision(old_id, existing_works_ids)
+        new_item["id"] = unique_id
+        existing_works_ids.add(unique_id)
+        
         processed_works.append(new_item)
 
     # Output processed batch results
@@ -139,6 +195,8 @@ def process_citations(batch_file_path, authors_file_path, works_file_path, outpu
         json.dump(processed_works, f, indent=2, ensure_ascii=False)
         
     print(f"\n🎉 Processing complete! Saved output to: {output_file_path}")
+    if duplicate_count:
+        print(f"ℹ️ Total duplicate entries filtered out: {duplicate_count}")
     if missing_authors:
         print(f"❌ Total unmatched authors needing your action: {len(missing_authors)}")
 
