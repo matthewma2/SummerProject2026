@@ -5986,7 +5986,7 @@
     "notes": "Published in Rev. de math. (Riv. di mat.), vol. 7 (1900-1). By A. Arbicone, T. Boggio, E. Cantoni, F. Castellano, G. Peano, and G. Vacca."
   },
   {
-    "id": "Poretsky1000a",
+    "id": "Poretsky1900a",
     "title": "Exposé élémentaire de la théorie des égalités logiques à deux termes a et b",
     "authors": [
       "platon-poretsky"
@@ -5999,7 +5999,7 @@
     "notes": "Published in Revue de métaphysique et de morale, vol. 8 (1900)."
   },
   {
-    "id": "Poretsky1900a",
+    "id": "Poretsky1900c",
     "title": "Quelques lois ultérieures de la théorie des égalités logiques",
     "authors": [
       "platon-poretsky"
@@ -39598,15 +39598,6 @@
     "journal": "Transactions of the American Mathematical Society",
     "volume": "38",
     "pages": "474-484"
-  },
-  {
-    "id": "Tannery139",
-    "title": "[Author attribution note for entry 139]",
-    "authors": [
-      "jules-tannery"
-    ],
-    "type": "note",
-    "notes": "Not a new work entry. According to Dassen (JSL V 168(3)), the 'J. T.' who bears the number 139 in A bibliography of symbolic logic is Jules Tannery. This record serves as an author attribution correction to entry 139."
   },
   {
     "id": "MaundReeves1934a",
