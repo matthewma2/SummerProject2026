@@ -38194,7 +38194,7 @@
     "id": "Kojevnikoff1934a",
     "title": "Review of Dingler's Philosophie der Logik und Arithmetik (2016)",
     "authors": [
-      "a-kojevnikoff"
+      "alexandre-kojeve"
     ],
     "year": 1934,
     "type": "article",
@@ -38400,7 +38400,7 @@
     "notes": "Tashkent."
   },
   {
-    "id": "Carnap1931a",
+    "id": "Carnap1931b",
     "title": "Ergebnisse der logischen Analyse der Sprache",
     "authors": [
       "rudolf-carnap"
@@ -44226,5 +44226,327 @@
     "journal": "Deutsche Literaturzeitung",
     "volume": "59",
     "pages": "1412-1414"
+  },
+  {
+    "id": "Godel1938a",
+    "title": "The consistency of the axiom of choice and of the generalized continuum-hypothesis",
+    "authors": [
+      "kurt-godel"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "24",
+    "pages": "556-557"
+  },
+  {
+    "id": "Church1938a",
+    "title": "A bibliography of symbolic logic—Part II",
+    "authors": [
+      "alonzo-church"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Journal of Symbolic Logic",
+    "volume": "3",
+    "pages": "178-212"
+  },
+  {
+    "id": "Lautman1936a",
+    "title": "L'axiomatique et la méthode de division",
+    "authors": [
+      "albert-lautman"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Recherches Philosophiques (Paris)",
+    "volume": "6",
+    "pages": "191-203"
+  },
+  {
+    "id": "Rey1937a",
+    "title": "Les logistiques",
+    "authors": [
+      "abel-rey"
+    ],
+    "year": 1937,
+    "type": "incollection",
+    "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
+    "publisher": "Société de Gestion de l'Encyclopédie Française",
+    "location": "Paris",
+    "pages": "1 18-3 to 1 18-6"
+  },
+  {
+    "id": "Rey1937b",
+    "title": "Les axiomatiques",
+    "authors": [
+      "abel-rey"
+    ],
+    "year": 1937,
+    "type": "incollection",
+    "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
+    "publisher": "Société de Gestion de l'Encyclopédie Française",
+    "location": "Paris",
+    "pages": "1 18-6 to 1 18-11"
+  },
+  {
+    "id": "Hadamard1937a",
+    "title": "Nature des mathématiques, principes fondamentaux",
+    "authors": [
+      "jacques-hadamard"
+    ],
+    "year": 1937,
+    "type": "incollection",
+    "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
+    "publisher": "Société de Gestion de l'Encyclopédie Française",
+    "location": "Paris",
+    "pages": "1 52-1 to 1 52-16"
+  },
+  {
+    "id": "Watanabe1937b",
+    "title": "Kigô to zukei (Symbol and figure)",
+    "authors": [
+      "ichiro-watanabe"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Tôkyô Buturigakkô-zassi",
+    "volume": "46",
+    "pages": "1-6",
+    "notes": "Includes a critique of the symbolism of Hilbert and of the view that mathematics deals with meaningless symbols."
+  },
+  {
+    "id": "KleinBarmen1938a",
+    "title": "Ein weiterer Beitrag zum Problem der Zerlegung der Elemente gewisser harmonischer Verbände",
+    "authors": [
+      "fritz-klein"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Deutsche Mathematik",
+    "volume": "3",
+    "pages": "46-64"
+  },
+  {
+    "id": "DuncanJones1938a",
+    "title": "Further questions about 'know' and 'think'",
+    "authors": [
+      "a-e-duncan-jones"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Analysis",
+    "volume": "5",
+    "number": "5",
+    "pages": "74-83"
+  },
+  {
+    "id": "Williams1938a",
+    "title": "The nature and variety of the a priori",
+    "authors": [
+      "donald-c-williams"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Analysis",
+    "volume": "5",
+    "number": "6",
+    "pages": "85-94"
+  },
+  {
+    "id": "MacIver1938a",
+    "title": "Reply to Mr. Duncan-Jones",
+    "authors": [
+      "a-m-maciver"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Analysis",
+    "volume": "5",
+    "number": "6",
+    "pages": "95-97"
+  },
+  {
+    "id": "Barrett1939a",
+    "title": "On \"The null class of premises\"",
+    "authors": [
+      "william-barrett"
+    ],
+    "year": 1939,
+    "type": "article",
+    "journal": "Mind",
+    "series": "New Series",
+    "volume": "48",
+    "pages": "74-77"
+  },
+  {
+    "id": "Hofstadter1938a",
+    "title": "Logical form and epistemic function",
+    "authors": [
+      "albert-hofstadter"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Journal of Philosophy",
+    "volume": "35",
+    "pages": "712-717"
+  },
+  {
+    "id": "Biser1938a",
+    "title": "A general schema for natural systems",
+    "authors": [
+      "irwin-biser"
+    ],
+    "year": 1938,
+    "type": "book",
+    "publisher": "Westbrook Publishing Company",
+    "location": "Philadelphia",
+    "pages": "155"
+  },
+  {
+    "id": "Bachelard1935a",
+    "title": "Review of Reichenbach's Wahrscheinlichkeitslehre",
+    "authors": [
+      "gaston-bachelard"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Recherches Philosophiques (Paris)",
+    "volume": "5",
+    "pages": "446-448"
+  },
+  {
+    "id": "Bachelard1935b",
+    "title": "Review of Hahn's Logique, mathématiques et connaissance de la réalité",
+    "authors": [
+      "gaston-bachelard"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Recherches Philosophiques (Paris)",
+    "volume": "5",
+    "pages": "448-450"
+  },
+  {
+    "id": "Weiss1937b",
+    "title": "A new philosophical school",
+    "authors": [
+      "paul-weiss"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "The New Republic",
+    "volume": "92",
+    "pages": "107-108",
+    "notes": "A review of Weinberg's An examination of logical positivism, Ayer's Language, truth, and logic, and Carnap's The logical syntax of language."
+  },
+  {
+    "id": "Weiss1938b",
+    "title": "Thoughts out of season",
+    "authors": [
+      "paul-weiss"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The New Republic",
+    "volume": "95",
+    "pages": "193-194",
+    "notes": "A review of Russell's The principles of mathematics, 2nd. edn."
+  },
+  {
+    "id": "Haldane1938a",
+    "title": "Review of Woodger's The axiomatic method in biology",
+    "authors": [
+      "j-b-s-haldane"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Nature",
+    "volume": "141",
+    "pages": "265-266"
+  },
+  {
+    "id": "Couffignal1938d",
+    "title": "Review of Cavaillès's Remarques sur la formation de la théorie abstraite des ensembles and Méthode axiomatique et formalisme",
+    "authors": [
+      "louis-couffignal"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Revue Scientifique (Paris)",
+    "volume": "76",
+    "pages": "392-393"
+  },
+  {
+    "id": "Couffignal1938e",
+    "title": "Review of Greenwood's Les fondements de la logique symbolique",
+    "authors": [
+      "louis-couffignal"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Revue Scientifique (Paris)",
+    "volume": "76",
+    "pages": "593-594"
+  },
+  {
+    "id": "Couffignal1938f",
+    "title": "Review of Dienes's Logic of algebra",
+    "authors": [
+      "louis-couffignal"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Revue Scientifique (Paris)",
+    "volume": "76",
+    "pages": "594-595"
+  },
+  {
+    "id": "Nagel1938e",
+    "title": "Review of International encyclopedia of unified science, vol. 1, nos. 1, 2, 5",
+    "authors": [
+      "ernest-nagel"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Journal of Philosophy",
+    "volume": "35",
+    "pages": "689-693"
+  },
+  {
+    "id": "Speiser1932a",
+    "title": "Review of Reymond's Les principes de la logique et la critique contemporaine",
+    "authors": [
+      "andreas-speiser"
+    ],
+    "year": 1932,
+    "type": "article",
+    "journal": "Recherches Philosophiques",
+    "volume": "2",
+    "pages": "486-488"
+  },
+  {
+    "id": "Bornstein1935c",
+    "title": "Architektonika świata. Tom I. Prolegomena do architektoniki świata (French Abstract)",
+    "authors": [
+      "b-bornstein"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Studia Philosophica",
+    "volume": "1",
+    "pages": "445-447"
+  },
+  {
+    "id": "Kojevnikoff1934b",
+    "title": "Review of Dingler's Philosophie der Logik und Arithmetik",
+    "authors": [
+      "alexandre-kojeve"
+    ],
+    "year": 1934,
+    "type": "article",
+    "journal": "Recherches Philosophiques",
+    "volume": "4",
+    "pages": "430-434"
   }
 ]

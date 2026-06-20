@@ -7134,11 +7134,6 @@
     "alternative_names": ["Cavaillès", "Cavailles"]
   },
   {
-    "id": "a-kojevnikoff",
-    "full_name": "A. Kojevnikoff",
-    "alternative_names": ["Kojevnikoff"]
-  },
-  {
     "id": "a-narasinga-rao",
     "full_name": "A. Narasinga Rao",
     "alternative_names": ["Rao"]
@@ -8095,7 +8090,8 @@
     "id": "alexandre-kojeve",
     "full_name": "Alexandre Kojève",
     "alternative_names": [
-      "Kojève"
+      "Kojève",
+      "Kojevnikoff"
     ]
   }
 ]
