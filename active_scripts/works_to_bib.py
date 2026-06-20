@@ -15,7 +15,7 @@ TYPE_MAP = {
     "book": "book",
     "book chapter": "incollection",
     "chapter": "incollection",
-    "encyclopedia entry": "inreference",
+    "encyclopedia entry": "incollection",
     "fragment": "misc",
     "letters": "misc",
     "manuscript": "misc",
