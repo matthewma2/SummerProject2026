@@ -575,7 +575,7 @@
       "gottfried-ploucquet"
     ],
     "year": 1772,
-    "type": "chapter",
+    "type": "book chapter",
     "location": "Tubingen",
     "notes": "Published in his Institutiones philosophiae theorelicae, Tubingen 1772; Elemenla philosophiae contemplativae, Stuttgart 1778, pp. 37-42; and Expositiones philosophiae theoreticae, Stuttgart 1782."
   },
@@ -18740,7 +18740,7 @@
     ],
     "year": 1929,
     "type": "article",
-    "journal": "Sprawozdanie z I Kongresu Matematykdw Krajow Slowianskich (Comptes-rendus du I Congres des Mathematiciens des Pays Slaves), Warszawa, 1929, Warsaw",
+    "journal": "Sprawozdanie z I Kongresu Matematykdw Krajow Slowianskich {Comptes-rendus du I Congres des Mathematiciens des Pays Slaves), Warszawa, 1929, Warsaw",
     "pages": "102-105",
     "notes": "Published in Sprawozdanie z I Kongresu Matematykdw Krajow Slowianskich {Comptes-rendus du I Congres des Mathematiciens des Pays Slaves), Warszawa, 1929, Warsaw 1930."
   },
@@ -24839,7 +24839,7 @@
     "notes": "Published in Fund. math., vol. 22."
   },
   {
-    "id": "Levi1934a",
+    "id": "Levi1934c",
     "title": "Logica matematica",
     "authors": [
       "beppo-levi"
@@ -25552,7 +25552,7 @@
     "notes": "Published in Deutsche Literaturzeitung, vol. 56."
   },
   {
-    "id": "Bell1935a",
+    "id": "Bell1935b",
     "title": "The search for truth",
     "authors": [
       "e-t-bell"
@@ -38114,7 +38114,7 @@
     "notes": "Published in Proc. London Math. Soc., 2 s. vol. 4 (1906). Quote: 'There are two wholly distinct difficulties to be considered-in the theory of transfinite cardinal numbers, namely: (1) The difficulty as to inconsistent aggregates (as they are called by Jourdain); (2) The difficulty as to what we may call Zermelo's axiom.'"
   },
   {
-    "id": "Dubislav1931a",
+    "id": "Dubislav1931c",
     "title": "Les recherches sur la philosophie des mathématiques en Allemagne (Aperçu général)",
     "authors": [
       "walter-dubislav"
@@ -38277,7 +38277,7 @@
     "pages": "ix+285 pp."
   },
   {
-    "id": "Stebbing1933a",
+    "id": "Stebbing1933c",
     "title": "A modern introduction to logic",
     "authors": [
       "l-susan-stebbing"
@@ -38302,7 +38302,7 @@
     "notes": "Chapter in Die philosophischen Strömungen der Gegenwart in Grossbritannien by Rudolf Metz, vol. 2. Leipzig 1935."
   },
   {
-    "id": "Lukasiewicz1913a",
+    "id": "Lukasiewicz1913b",
     "title": "Die logischen Grundlagen der Wahrscheinlichkeitsrechnung",
     "authors": [
       "jan-lukasiewicz"
@@ -38400,7 +38400,7 @@
     "notes": "Tashkent."
   },
   {
-    "id": "Carnap1931b",
+    "id": "Carnap1931d",
     "title": "Ergebnisse der logischen Analyse der Sprache",
     "authors": [
       "rudolf-carnap"
@@ -38465,7 +38465,7 @@
     "notes": "Literaturberichte section. Review of entry 1948 in A bibliography of symbolic logic."
   },
   {
-    "id": "Gonseth1932a",
+    "id": "Gonseth1932d",
     "title": "La vérité mathématique et la réalité",
     "authors": [
       "ferdinand-gonseth"
@@ -38502,7 +38502,7 @@
     "pages": "1-4"
   },
   {
-    "id": "Cassina1933a",
+    "id": "Cassina1933c",
     "title": "L'oeuvre philosophique de G. Peano",
     "authors": [
       "ugo-cassina"
@@ -38526,7 +38526,7 @@
     "pages": "22-26"
   },
   {
-    "id": "Wajsberg1935a",
+    "id": "Wajsberg1935b",
     "title": "Przyczynek do metamatematyki",
     "authors": [
       "mordechaj-wajsberg"
@@ -38624,7 +38624,7 @@
     "notes": "Review of entry 1007 in A bibliography of symbolic logic."
   },
   {
-    "id": "Russell1903a",
+    "id": "Russell1903c",
     "title": "Recent work on the philosophy of Leibniz",
     "authors": [
       "bertrand-russell"
@@ -39088,7 +39088,7 @@
     "notes": "With discussion by K. Kuratowski, S. Leśniewski, A. Tarski."
   },
   {
-    "id": "Ajdukiewicz1927a",
+    "id": "Ajdukiewicz1927b",
     "title": "Errata to 225½",
     "authors": [
       "kazimierz-ajdukiewicz"
@@ -39240,7 +39240,7 @@
     "pages": "23-24"
   },
   {
-    "id": "Ajdukiewicz1926a",
+    "id": "Ajdukiewicz1926b",
     "title": "Analiza semantyczna zdania pytajnego (Semantic analysis of the interrogative proposition)",
     "authors": [
       "kazimierz-ajdukiewicz"
@@ -39266,13 +39266,13 @@
     "notes": "Vol. 11 (1928–9). Review of entry 3282 (possibly 328½) in A bibliography of symbolic logic / Additions and corrections."
   },
   {
-    "id": "Husserl1891a",
+    "id": "Husserl1891d",
     "title": "Frege's Versuch",
     "authors": [
       "edmund-husserl"
     ],
     "year": 1891,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Philosophie der Arithmetik",
     "pages": "129-134",
     "location": "Leipzig"
@@ -39297,7 +39297,7 @@
       "alfred-north-whitehead"
     ],
     "year": 1911,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "The Encyclopaedia Britannica, 11th edn.",
     "volume": "17",
     "pages": "878-883",
@@ -39323,7 +39323,7 @@
       "h-t-costello"
     ],
     "year": 1918,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Studies in the history of ideas",
     "volume": "1",
     "pages": "249-267",
@@ -39405,13 +39405,13 @@
     "pages": "153-175"
   },
   {
-    "id": "Nagel1935a",
+    "id": "Nagel1935b",
     "title": "\"Impossible numbers\": a chapter in the history of modern logic",
     "authors": [
       "ernest-nagel"
     ],
     "year": 1935,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Studies in the history of ideas",
     "volume": "3",
     "pages": "427-474",
@@ -39474,7 +39474,7 @@
       "john-venn"
     ],
     "year": 1886,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Dictionary of National Biography",
     "volume": "5",
     "pages": "369-370",
@@ -39518,7 +39518,7 @@
     "pages": "256 pp."
   },
   {
-    "id": "Czezowski1918a",
+    "id": "Czezowski1918c",
     "title": "Imiona i zdania (Names and sentences)",
     "authors": [
       "tadeusz-czezowski"
@@ -39568,13 +39568,13 @@
     "pages": "269-284"
   },
   {
-    "id": "Stebbing1931a",
+    "id": "Stebbing1931b",
     "title": "Logical constructions and knowledge through description",
     "authors": [
       "l-susan-stebbing"
     ],
     "year": 1931,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Proceedings of the Seventh International Congress of Philosophy held at Oxford, England, September 1–6, 1930",
     "pages": "117-121",
     "location": "London",
@@ -39628,7 +39628,7 @@
     "notes": "Vol. 2 (1934–5)."
   },
   {
-    "id": "Land1876a",
+    "id": "Land1876b",
     "title": "On a supposed improvement in formal logic",
     "authors": [
       "j-p-n-land"
@@ -39696,7 +39696,7 @@
       "friedrich-brunstad"
     ],
     "year": 1933,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Logik (Handbuch der Philosophie, Abtlg. I, Beitrag A)",
     "pages": "79-84",
     "location": "Munich and Berlin",
@@ -39745,19 +39745,19 @@
       "hugh-maccoll"
     ],
     "year": 1900,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
     "pages": "563-565",
     "notes": "Abstract with discussion by Couturat. Cf. entry 3920 in A bibliography of symbolic logic. Contained in CongressPhilosophie1900."
   },
   {
-    "id": "Peano1900a",
+    "id": "Peano1900e",
     "title": "Les définitions mathématiques",
     "authors": [
       "giuseppe-peano"
     ],
     "year": 1900,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
     "pages": "589-591",
     "notes": "Abstract with discussion by J. Tannery, Schröder, Peano, and Padoa. Contained in CongressPhilosophie1900."
@@ -39769,31 +39769,31 @@
       "cesare-burali-forti"
     ],
     "year": 1900,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
     "pages": "591-592",
     "notes": "Contained in CongressPhilosophie1900."
   },
   {
-    "id": "Padoa1900a",
+    "id": "Padoa1900c",
     "title": "Essai d'une théorie algébrique des nombres entiers, avec une Introduction à une théorie déductive quelconque",
     "authors": [
       "alessandro-padoa"
     ],
     "year": 1900,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
     "pages": "592-593",
     "notes": "Contained in CongressPhilosophie1900."
   },
   {
-    "id": "Poretsky1900a",
+    "id": "Poretsky1900b",
     "title": "Théorie des égalités logiques à trois termes (5810)",
     "authors": [
       "platon-poretsky"
     ],
     "year": 1900,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
     "pages": "594-598",
     "notes": "Abstract with introduction and discussion by Couturat. Cf. entry 5810 in A bibliography of symbolic logic. Contained in CongressPhilosophie1900."
@@ -39805,7 +39805,7 @@
       "ernst-schroder"
     ],
     "year": 1900,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
     "pages": "638-642",
     "notes": "Abstract with discussion by Macfarlane. Cf. entry 4218 in A bibliography of symbolic logic. Contained in CongressPhilosophie1900."
@@ -39817,13 +39817,13 @@
       "w-e-johnson"
     ],
     "year": 1900,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Congrès International de Philosophie, Revue de métaphysique et de morale, vol. 8",
     "pages": "642-643",
     "notes": "Cf. entry 834 in A bibliography of symbolic logic. Contained in CongressPhilosophie1900."
   },
   {
-    "id": "Hilbert1919a",
+    "id": "Hilbert1919b",
     "title": "El pensamiento axiomático",
     "authors": [
       "david-hilbert"
@@ -39849,7 +39849,7 @@
     "notes": "Reprinted separately, Halle a. d. S. 1925."
   },
   {
-    "id": "Langford1926a",
+    "id": "Langford1926d",
     "title": "On quantifiers for general propositions",
     "authors": [
       "c-h-langford"
@@ -39918,7 +39918,7 @@
       "waclaw-sierpinski"
     ],
     "year": 1933,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Verhandlungen des Internationalen Mathematiker-Kongresses Zürich 1932",
     "volume": "1",
     "pages": "280-287",
@@ -39994,7 +39994,7 @@
       "s-schayer"
     ],
     "year": 1933,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Festschrift Moriz Winternitz",
     "pages": "247-257",
     "publisher": "Otto Harrassowitz",
@@ -40165,7 +40165,7 @@
     "notes": "Vol. 3 no. 3 (1930)."
   },
   {
-    "id": "Russell1928a",
+    "id": "Russell1928b",
     "title": "Lo-su ti yen-i-lun",
     "authors": [
       "bertrand-russell"
@@ -40243,13 +40243,13 @@
     "notes": "Vol. 5 no. 2 (1933)."
   },
   {
-    "id": "DeMorgan1860a",
+    "id": "DeMorgan1860c",
     "title": "Logic",
     "authors": [
       "augustus-de-morgan"
     ],
     "year": 1860,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "The English Cyclopaedia: Arts and Sciences (fourth division), conducted by Charles Knight",
     "volume": "5",
     "pages": "340-354",
@@ -40262,7 +40262,7 @@
       "augustus-de-morgan"
     ],
     "year": 1860,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "The English Cyclopaedia: Arts and Sciences (fourth division), conducted by Charles Knight",
     "volume": "6",
     "pages": "1016-1017",
@@ -40275,7 +40275,7 @@
       "william-stanley-jevons"
     ],
     "year": 1878,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "The Encyclopaedia Britannica, 9th edn.",
     "volume": "4",
     "pages": "47-48",
@@ -40288,7 +40288,7 @@
       "william-stanley-jevons"
     ],
     "year": 1878,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "The Encyclopaedia Britannica, 9th edn.",
     "volume": "7",
     "pages": "64-67",
@@ -40301,7 +40301,7 @@
       "jno-j-tigert"
     ],
     "year": 1886,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Hand-book of logic",
     "pages": "269-280",
     "publisher": "Southern Methodist Publishing House",
@@ -40309,7 +40309,7 @@
     "notes": "3rd edn. Chapter in Tigert's own Hand-book of logic."
   },
   {
-    "id": "Pieri1906a",
+    "id": "Pieri1906b",
     "title": "Sopra una definizione aritmetica degli irrazionali",
     "authors": [
       "mario-pieri"
@@ -40360,13 +40360,13 @@
     "notes": "The three entries Boehm1911a, Neder1931a, and Kaczmarz1932a are accompanied by an editorial note by Alonzo Church: though concerned with postulates for the natural numbers and informal in treatment, they are listed for their close relationship to Peano's postulates (entry 712). Church also notes the earliest system of postulates for the natural numbers (Peirce, entry 286) and Dedekind's anticipation of the Peano postulates (cf. entries 717, 27)."
   },
   {
-    "id": "Jourdain1915a",
+    "id": "Jourdain1915b",
     "title": "Notes",
     "authors": [
       "p-e-b-jourdain"
     ],
     "year": 1915,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Contributions to the founding of the theory of transfinite numbers, by Georg Cantor, translated by Philip E. B. Jourdain",
     "pages": "202-208",
     "notes": "See JSL XVII 208(1)."
@@ -40402,7 +40402,7 @@
       "b-a-bernstein"
     ],
     "year": 1928,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Proceedings of the International Mathematical Congress held in Toronto, August 11–16, 1924",
     "volume": "1",
     "pages": "207-216",
@@ -40430,7 +40430,7 @@
       "david-garcia"
     ],
     "year": 1933,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Enciclopedia universal ilustrada europeo-americana, tomo IX (Apéndice)",
     "pages": "1326-1339",
     "publisher": "Espasa-Calpe, S. A.",
@@ -40443,7 +40443,7 @@
       "reginald-jackson"
     ],
     "year": 1931,
-    "type": "book_chapter",
+    "type": "book chapter",
     "booktitle": "Proceedings of the Seventh International Congress of Philosophy held at Oxford, England, September 1–6, 1930",
     "pages": "191-197",
     "location": "London"
@@ -40498,7 +40498,7 @@
     "pages": "173-222"
   },
   {
-    "id": "Peirce1903a",
+    "id": "Peirce1903e",
     "title": "Review of Welby's What is meaning? and of Russell's The principles of mathematics, Volume I (111½)",
     "authors": [
       "charles-sanders-peirce"
@@ -40511,7 +40511,7 @@
     "notes": "New York. Reviews of Welby's What is meaning? and Russell's The principles of mathematics vol. I (entry 111½ in A bibliography of symbolic logic)."
   },
   {
-    "id": "Couturat1906a",
+    "id": "Couturat1906c",
     "title": "La logique et la philosophie contemporaine",
     "authors": [
       "louis-couturat"
@@ -40647,7 +40647,7 @@
     "pages": "257-259"
   },
   {
-    "id": "Couturat1914a",
+    "id": "Couturat1914b",
     "title": "Réponse",
     "authors": [
       "louis-couturat"
@@ -40793,7 +40793,7 @@
     "pages": "65-78"
   },
   {
-    "id": "Nicod1924a",
+    "id": "Nicod1924b",
     "title": "La géométrie dans le monde sensible",
     "authors": [
       "jean-nicod"
@@ -40864,7 +40864,7 @@
     "pages": "1-304"
   },
   {
-    "id": "Smart1925a",
+    "id": "Smart1925b",
     "title": "Review of Johnson's Logic (cf. 835)",
     "authors": [
       "h-r-smart"
@@ -41176,7 +41176,7 @@
     "pages": "79-90"
   },
   {
-    "id": "Russell1930a",
+    "id": "Russell1930b",
     "title": "Review of F. C. S. Schiller's Logic for use",
     "authors": [
       "l-j-russell"
@@ -41248,7 +41248,7 @@
     "pages": "376-388"
   },
   {
-    "id": "Weyl1931a",
+    "id": "Weyl1931b",
     "title": "Los grados de lo infinito",
     "authors": [
       "hermann-weyl"
@@ -41297,7 +41297,7 @@
     "notes": "Published 1932-3."
   },
   {
-    "id": "Dassen1933a",
+    "id": "Dassen1933b",
     "title": "Réflexions sur quelques antinomies et sur la logique empiriste",
     "authors": [
       "c-c-dassen"
@@ -41334,7 +41334,7 @@
     "pages": "126-130"
   },
   {
-    "id": "Bell1934a",
+    "id": "Bell1934b",
     "title": "The search for truth",
     "authors": [
       "e-t-bell"
@@ -41404,7 +41404,7 @@
     "pages": "3-38, 150-181, 262-292"
   },
   {
-    "id": "Carnap1934a",
+    "id": "Carnap1934e",
     "title": "On the character of philosophic problems",
     "authors": [
       "rudolf-carnap"
@@ -41429,7 +41429,7 @@
     "pages": "237-238"
   },
   {
-    "id": "Carnap1934b",
+    "id": "Carnap1934f",
     "title": "Meaning, assertion and proposal",
     "authors": [
       "rudolf-carnap"
@@ -41513,7 +41513,7 @@
     "pages": "115-117"
   },
   {
-    "id": "Reiser1935a",
+    "id": "Reiser1935b",
     "title": "Review of Bell's The search for truth (2768)",
     "authors": [
       "o-l-reiser"
@@ -41549,7 +41549,7 @@
     "pages": "283-294"
   },
   {
-    "id": "McKinsey1935a",
+    "id": "McKinsey1935b",
     "title": "On the independence of undefined ideas",
     "authors": [
       "j-c-c-mckinsey"
@@ -44270,7 +44270,7 @@
       "abel-rey"
     ],
     "year": 1937,
-    "type": "incollection",
+    "type": "book chapter",
     "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
     "publisher": "Société de Gestion de l'Encyclopédie Française",
     "location": "Paris",
@@ -44283,7 +44283,7 @@
       "abel-rey"
     ],
     "year": 1937,
-    "type": "incollection",
+    "type": "book chapter",
     "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
     "publisher": "Société de Gestion de l'Encyclopédie Française",
     "location": "Paris",
@@ -44296,7 +44296,7 @@
       "jacques-hadamard"
     ],
     "year": 1937,
-    "type": "incollection",
+    "type": "book chapter",
     "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
     "publisher": "Société de Gestion de l'Encyclopédie Française",
     "location": "Paris",
