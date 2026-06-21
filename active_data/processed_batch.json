@@ -1,324 +1,395 @@
 [
   {
-    "id": "Godel1938a",
-    "title": "The consistency of the axiom of choice and of the generalized continuum-hypothesis",
+    "id": "Morgenstern1936a",
+    "title": "Logistik und Sozialwissenschaften",
     "authors": [
-      "kurt-godel"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Proceedings of the National Academy of Sciences",
-    "volume": "24",
-    "pages": "556-557"
-  },
-  {
-    "id": "Church1938a",
-    "title": "A bibliography of symbolic logic—Part II",
-    "authors": [
-      "alonzo-church"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "The Journal of Symbolic Logic",
-    "volume": "3",
-    "pages": "178-212"
-  },
-  {
-    "id": "Lautman1936a",
-    "title": "L'axiomatique et la méthode de division",
-    "authors": [
-      "albert-lautman"
+      "Oskar Morgenstern"
     ],
     "year": 1936,
     "type": "article",
-    "journal": "Recherches Philosophiques (Paris)",
+    "journal": "Zeitschrift für Nationalökonomie (Vienna)",
+    "volume": "7",
+    "pages": "1-24"
+  },
+  {
+    "id": "Pankajam1938a",
+    "title": "On finite Boolean algebra",
+    "authors": [
+      "s-pankajam"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Mathematics Student (Madras)",
     "volume": "6",
-    "pages": "191-203"
+    "pages": "105-119"
   },
   {
-    "id": "Rey1937a",
-    "title": "Les logistiques",
+    "id": "Shannon1938a",
+    "title": "A symbolic analysis of relay and switching circuits",
     "authors": [
-      "abel-rey"
+      "Claude E. Shannon"
     ],
-    "year": 1937,
-    "type": "incollection",
-    "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
-    "publisher": "Société de Gestion de l'Encyclopédie Française",
-    "location": "Paris",
-    "pages": "1 18-3 to 1 18-6"
+    "year": 1938,
+    "type": "article",
+    "journal": "Transactions of the American Institute of Electrical Engineers",
+    "volume": "57",
+    "pages": "713-723"
   },
   {
-    "id": "Rey1937b",
-    "title": "Les axiomatiques",
+    "id": "Gagnebin1938a",
+    "title": "Review of Gonseth's Qu'est-ce que la logique?",
     "authors": [
-      "abel-rey"
+      "Samuel Gagnebin"
     ],
-    "year": 1937,
-    "type": "incollection",
-    "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
-    "publisher": "Société de Gestion de l'Encyclopédie Française",
-    "location": "Paris",
-    "pages": "1 18-6 to 1 18-11"
+    "year": 1938,
+    "type": "article",
+    "journal": "Revue de Théologie et de Philosophie",
+    "volume": "26",
+    "pages": "135-149"
   },
   {
-    "id": "Hadamard1937a",
-    "title": "Nature des mathématiques, principes fondamentaux",
+    "id": "Lauriers1937a",
+    "title": "Review of Quine's A system of logistic",
     "authors": [
-      "jacques-hadamard"
-    ],
-    "year": 1937,
-    "type": "incollection",
-    "booktitle": "Encyclopédie Française, Vol. I: L'outillage mental",
-    "publisher": "Société de Gestion de l'Encyclopédie Française",
-    "location": "Paris",
-    "pages": "1 52-1 to 1 52-16"
-  },
-  {
-    "id": "Watanabe1937b",
-    "title": "Kigô to zukei (Symbol and figure)",
-    "authors": [
-      "ichiro-watanabe"
+      "M.-L. Guérard des Lauriers"
     ],
     "year": 1937,
     "type": "article",
-    "journal": "Tôkyô Buturigakkô-zassi",
+    "journal": "Revue des Sciences Philosophiques et Théologiques",
+    "volume": "26",
+    "pages": "76-78"
+  },
+  {
+    "id": "Lauriers1937b",
+    "title": "Review of García Bacca's Introducció a la logística",
+    "authors": [
+      "M.-L. Guérard des Lauriers"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "Revue des Sciences Philosophiques et Théologiques",
+    "volume": "26",
+    "pages": "79-81"
+  },
+  {
+    "id": "Dubarle1938a",
+    "title": "Bulletin de philosophie. V. Logique",
+    "authors": [
+      "D. Dubarle"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Revue des Sciences Philosophiques et Théologiques",
+    "volume": "27",
+    "pages": "432-450"
+  },
+  {
+    "id": "Britzelmayr1935a",
+    "title": "Relative Wahrscheinlichkeitsfunktionen",
+    "authors": [
+      "Wilhelm Britzelmayr"
+    ],
+    "year": 1935,
+    "type": "article",
+    "journal": "Allgemeines Statistisches Archiv (Jena)",
+    "volume": "25",
+    "pages": "270-275"
+  },
+  {
+    "id": "Anonymous1936a",
+    "title": "Le professeur David Hilbert",
+    "authors": [],
+    "year": 1936,
+    "type": "article",
+    "journal": "Le Mois",
+    "number": "70",
+    "pages": "263-267"
+  },
+  {
+    "id": "Delevsky1938a",
+    "title": "La physique moderne engendra-t-elle une logique nouvelle?",
+    "authors": [
+      "J. Delevsky"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Le Mois",
+    "number": "85",
+    "pages": "251-268"
+  },
+  {
+    "id": "Bhattacharyya1938a",
+    "title": "Affirmation and negation",
+    "authors": [
+      "C. Bhattacharya"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Philosophical Quarterly",
+    "volume": "14",
+    "pages": "14-20"
+  },
+  {
+    "id": "Naik1938a",
+    "title": "The theory of predication in Vedanta",
+    "authors": [
+      "B. S. Naik"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Philosophical Quarterly",
+    "volume": "14",
+    "pages": "214-220"
+  },
+  {
+    "id": "Mostowski1938a",
+    "title": "Über gewisse universelle Relationen",
+    "authors": [
+      "andrzej-mostowski"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Annales de la Société Polonaise de Mathématique",
+    "volume": "17",
+    "number": "1",
+    "pages": "117-118"
+  },
+  {
+    "id": "Huntington1938a",
+    "title": "The duplicity of logic",
+    "authors": [
+      "e-v-huntington"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Scripta Mathematica",
+    "volume": "5",
+    "pages": "149-157, 233-238"
+  },
+  {
+    "id": "Perelman1938a",
+    "title": "Metafizyka Fregego (Frege's metaphysics)",
+    "authors": [
+      "chaim-perelman"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Kwartalnik Filozoficzny",
+    "volume": "14",
+    "pages": "119-142"
+  },
+  {
+    "id": "Perelman1938b",
+    "title": "De logica en het vrije onderzoek (Logic and free inquiry)",
+    "authors": [
+      "chaim-perelman"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Revue de l'Université de Bruxelles",
+    "volume": "44",
+    "pages": "209-219"
+  },
+  {
+    "id": "Perelman1938c",
+    "title": "Étude sur Gottlob Frege",
+    "authors": [
+      "chaim-perelman"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Revue de l'Université de Bruxelles",
+    "volume": "44",
+    "pages": "224-227"
+  },
+  {
+    "id": "Kattsoff1938a",
+    "title": "La logique non-aristotélicienne et la crisis en science",
+    "authors": [
+      "l-o-kattsoff"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "Scientia",
+    "volume": "64",
+    "pages": "49-52"
+  },
+  {
+    "id": "Kattsoff1939a",
+    "title": "Philosophy, psychology and postulational technique",
+    "authors": [
+      "l-o-kattsoff"
+    ],
+    "year": 1939,
+    "type": "article",
+    "journal": "Psychological Review",
     "volume": "46",
-    "pages": "1-6",
-    "notes": "Includes a critique of the symbolism of Hilbert and of the view that mathematics deals with meaningless symbols."
+    "pages": "62-74"
   },
   {
-    "id": "KleinBarmen1938a",
-    "title": "Ein weiterer Beitrag zum Problem der Zerlegung der Elemente gewisser harmonischer Verbände",
+    "id": "Reiser1939a",
+    "title": "Aristotelian, Galilean and non-Aristotelian modes of thinking",
     "authors": [
-      "fritz-klein"
+      "o-l-reiser"
     ],
-    "year": 1938,
+    "year": 1939,
     "type": "article",
-    "journal": "Deutsche Mathematik",
-    "volume": "3",
-    "pages": "46-64"
+    "journal": "Psychological Review",
+    "volume": "46",
+    "pages": "151-162"
   },
   {
-    "id": "DuncanJones1938a",
-    "title": "Further questions about 'know' and 'think'",
+    "id": "Lazerowitz1939a",
+    "title": "Strong and weak verification",
     "authors": [
-      "a-e-duncan-jones"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Analysis",
-    "volume": "5",
-    "number": "5",
-    "pages": "74-83"
-  },
-  {
-    "id": "Williams1938a",
-    "title": "The nature and variety of the a priori",
-    "authors": [
-      "donald-c-williams"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Analysis",
-    "volume": "5",
-    "number": "6",
-    "pages": "85-94"
-  },
-  {
-    "id": "MacIver1938a",
-    "title": "Reply to Mr. Duncan-Jones",
-    "authors": [
-      "a-m-maciver"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Analysis",
-    "volume": "5",
-    "number": "6",
-    "pages": "95-97"
-  },
-  {
-    "id": "Barrett1939a",
-    "title": "On \"The null class of premises\"",
-    "authors": [
-      "william-barrett"
+      "morris-lazerowitz"
     ],
     "year": 1939,
     "type": "article",
     "journal": "Mind",
     "series": "New Series",
     "volume": "48",
-    "pages": "74-77"
+    "pages": "202-213"
   },
   {
-    "id": "Hofstadter1938a",
-    "title": "Logical form and epistemic function",
+    "id": "Dubreil1939a",
+    "title": "Théorie algébrique des relations d'équivalence",
     "authors": [
-      "albert-hofstadter"
+      "Paul Dubreil",
+      "Marie-Louise Dubreil-Jacotin"
     ],
-    "year": 1938,
+    "year": 1939,
     "type": "article",
-    "journal": "The Journal of Philosophy",
-    "volume": "35",
-    "pages": "712-717"
+    "journal": "Journal de Mathématiques Pures et Appliquées",
+    "series": "Série 9",
+    "volume": "18",
+    "pages": "63-95"
   },
   {
-    "id": "Biser1938a",
-    "title": "A general schema for natural systems",
+    "id": "Wilcox1939a",
+    "title": "Metric lattices",
     "authors": [
-      "irwin-biser"
+      "L. R. Wilcox",
+      "M. F. Smiley"
     ],
-    "year": 1938,
-    "type": "book",
-    "publisher": "Westbrook Publishing Company",
-    "location": "Philadelphia",
-    "pages": "155"
-  },
-  {
-    "id": "Bachelard1935a",
-    "title": "Review of Reichenbach's Wahrscheinlichkeitslehre",
-    "authors": [
-      "gaston-bachelard"
-    ],
-    "year": 1935,
+    "year": 1939,
     "type": "article",
-    "journal": "Recherches Philosophiques (Paris)",
-    "volume": "5",
-    "pages": "446-448"
+    "journal": "Annals of Mathematics",
+    "series": "Second Series",
+    "volume": "40",
+    "pages": "309-327"
   },
   {
-    "id": "Bachelard1935b",
-    "title": "Review of Hahn's Logique, mathématiques et connaissance de la réalité",
+    "id": "Ward1939a",
+    "title": "Evaluations over residuated structures",
     "authors": [
-      "gaston-bachelard"
+      "morgan-ward",
+      "robert-p-dilworth"
     ],
-    "year": 1935,
+    "year": 1939,
     "type": "article",
-    "journal": "Recherches Philosophiques (Paris)",
-    "volume": "5",
-    "pages": "448-450"
+    "journal": "Annals of Mathematics",
+    "series": "Second Series",
+    "volume": "40",
+    "pages": "328-338"
   },
   {
-    "id": "Weiss1937b",
-    "title": "A new philosophical school",
+    "id": "Bernstein1939a",
+    "title": "Sets of postulates for Boolean groups",
     "authors": [
-      "paul-weiss"
+      "b-a-bernstein"
     ],
-    "year": 1937,
+    "year": 1939,
     "type": "article",
-    "journal": "The New Republic",
-    "volume": "92",
-    "pages": "107-108",
-    "notes": "A review of Weinberg's An examination of logical positivism, Ayer's Language, truth, and logic, and Carnap's The logical syntax of language."
+    "journal": "Annals of Mathematics",
+    "series": "Second Series",
+    "volume": "40",
+    "pages": "420-422"
   },
   {
-    "id": "Weiss1938b",
-    "title": "Thoughts out of season",
+    "id": "Wilcox1939b",
+    "title": "Modularity in the theory of lattices",
     "authors": [
-      "paul-weiss"
+      "L. R. Wilcox"
     ],
-    "year": 1938,
+    "year": 1939,
     "type": "article",
-    "journal": "The New Republic",
-    "volume": "95",
-    "pages": "193-194",
-    "notes": "A review of Russell's The principles of mathematics, 2nd. edn."
+    "journal": "Annals of Mathematics",
+    "series": "Second Series",
+    "volume": "40",
+    "pages": "490-505"
   },
   {
-    "id": "Haldane1938a",
-    "title": "Review of Woodger's The axiomatic method in biology",
+    "id": "Ward1939b",
+    "title": "Residuated lattices",
     "authors": [
-      "j-b-s-haldane"
+      "morgan-ward",
+      "robert-p-dilworth"
     ],
-    "year": 1938,
+    "year": 1939,
     "type": "article",
-    "journal": "Nature",
-    "volume": "141",
-    "pages": "265-266"
+    "journal": "Transactions of the American Mathematical Society",
+    "volume": "45",
+    "pages": "335-354"
   },
   {
-    "id": "Couffignal1938d",
-    "title": "Review of Cavaillès's Remarques sur la formation de la théorie abstraite des ensembles and Méthode axiomatique et formalisme",
-    "authors": [
-      "louis-couffignal"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Revue Scientifique (Paris)",
-    "volume": "76",
-    "pages": "392-393"
-  },
-  {
-    "id": "Couffignal1938e",
-    "title": "Review of Greenwood's Les fondements de la logique symbolique",
-    "authors": [
-      "louis-couffignal"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Revue Scientifique (Paris)",
-    "volume": "76",
-    "pages": "593-594"
-  },
-  {
-    "id": "Couffignal1938f",
-    "title": "Review of Dienes's Logic of algebra",
-    "authors": [
-      "louis-couffignal"
-    ],
-    "year": 1938,
-    "type": "article",
-    "journal": "Revue Scientifique (Paris)",
-    "volume": "76",
-    "pages": "594-595"
-  },
-  {
-    "id": "Nagel1938e",
-    "title": "Review of International encyclopedia of unified science, vol. 1, nos. 1, 2, 5",
+    "id": "Nagel1939a",
+    "title": "Probability and the theory of knowledge",
     "authors": [
       "ernest-nagel"
     ],
-    "year": 1938,
+    "year": 1939,
+    "type": "article",
+    "journal": "Philosophy of Science",
+    "volume": "6",
+    "pages": "212-253"
+  },
+  {
+    "id": "Nagel1939b",
+    "title": "Review of Bennett and Baylis's Formal logic",
+    "authors": [
+      "ernest-nagel"
+    ],
+    "year": 1939,
     "type": "article",
     "journal": "The Journal of Philosophy",
-    "volume": "35",
-    "pages": "689-693"
+    "volume": "36",
+    "pages": "274-276"
   },
   {
-    "id": "Speiser1932a",
-    "title": "Review of Reymond's Les principes de la logique et la critique contemporaine",
+    "id": "ED1939a",
+    "title": "Review of Russell's The principles of mathematics, 2nd. edn.",
     "authors": [
-      "andreas-speiser"
+      "E. D."
     ],
-    "year": 1932,
+    "year": 1939,
     "type": "article",
-    "journal": "Recherches Philosophiques",
-    "volume": "2",
-    "pages": "486-488"
+    "journal": "Revue de Philosophie",
+    "volume": "39",
+    "pages": "77-78"
   },
   {
-    "id": "Bornstein1935c",
-    "title": "Architektonika świata. Tom I. Prolegomena do architektoniki świata (French Abstract)",
+    "id": "LeSage1939a",
+    "title": "Review of Gonseth's Qu'est-ce que la logique?",
     "authors": [
-      "b-bornstein"
+      "l-lesage"
     ],
-    "year": 1935,
+    "year": 1939,
     "type": "article",
-    "journal": "Studia Philosophica",
-    "volume": "1",
-    "pages": "445-447"
+    "journal": "Revue de Philosophie",
+    "volume": "39",
+    "pages": "174-175"
   },
   {
-    "id": "Kojevnikoff1934b",
-    "title": "Review of Dingler's Philosophie der Logik und Arithmetik",
+    "id": "AS1939a",
+    "title": "Review of Greenwood's Les fondements de la logique symbolique",
     "authors": [
-      "alexandre-kojeve"
+      "A. S."
     ],
-    "year": 1934,
+    "year": 1939,
     "type": "article",
-    "journal": "Recherches Philosophiques",
-    "volume": "4",
-    "pages": "430-434"
+    "journal": "Revue de Philosophie",
+    "volume": "39",
+    "pages": "175-177"
   }
 ]
