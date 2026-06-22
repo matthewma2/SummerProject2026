@@ -19,7 +19,7 @@ TYPE_MAP = {
     "fragment": "misc",
     "letters": "misc",
     "manuscript": "misc",
-    "thesis": "thesis",
+    "thesis": "phdthesis",
     "dialogue": "misc",
     "treatise": "book",
     "novel": "book",
