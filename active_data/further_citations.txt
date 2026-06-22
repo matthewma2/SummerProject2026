@@ -614,3 +614,620 @@ L. J. RUSSELL. Review of Russell's An inquiry into meaning & truth. Mind, n.s. v
 C. LEWY. Review of Tarski's Introduction to logic and to the methodology of deductive sciences. Ibid., pp. 375–377.
 J. DE LA HARPE. Review of Poirier's Le nombre. Revue de théologie et de philosophie, n.s. vol. 27 (1939), pp. 78–80.
 D. PARODI. Review of Poirier's Le nombre, Cavaillès's Méthode axiomatique et formalisme, and Lautman's Essai sur les notions de structure et d'existence en mathématiques. The Philosophical Review, vol. 48 (1939), pp. 13–18.
+H. R. SMART. What is deduction? English with Spanish abstract. Philosophy and Phenomenological Research, vol. 5, no. 1 (1944), pp. 37–49.
+A. USHENKO. A note on the semantic conception of truth. Ibid., pp. 104–107.
+DEWITT H. PARKER. Knowledge by acquaintance. The Philosophical Review, vol. 54 (1945), pp. 1–18.
+ALBERT HOFSTADTER. Generality and singularity in historical judgment. The Journal of Philosophy, vol. 42 (1945), pp. 57–65.
+JOHN WISDOM. L. Susan Stebbing, 1886-1943. Mind, n.s. vol. 53 (1944), pp. 283–285.
+EDMUND T. WHITTAKER. The philosophy of Bertrand Russell. A review of the book of that title. Nature, vol. 155 (1945), pp. 128–131.
+MAX STECK. Das Hauptproblem der Mathematik. G. Lüttke, Berlin 1942, xvi + 232 pp.
+WILLIAM WERNICK. Distributive properties of set operators. Bulletin of the American Mathematical Society, vol. 51 (1945), pp. 120–125.
+R. VAIDYANATHASWAMY. Partially ordered sets. The Mathematics Student, vol. 12 (1944), pp. 1–6.
+V. S. KRISHNAN. Partially ordered sets and projective geometry. Ibid., pp. 7–14.
+S. PANKAJAM. Group operation in certain distributive lattices. Ibid., pp. 25–29.
+ALFRED L. FOSTER. The idempotent elements of a commutative ring form a Boolean algebra; ring-duality and transformation theory. Duke Mathematical Journal, vol. 12 (1945), pp. 143–152.
+FREDERIC B. FITCH. Review of Cooley's A primer of formal logic. Scripta Mathematica, vol. 10 (1944), pp. 185–186.
+C. J. DUCASSE. Facts, truth, and knowledge. Ibid., vol. 5, no. 3 (1945), pp. 320–332.
+ERNEST NAGEL. Rejoinder to Mr. Kaufmann's reply. Ibid., vol. 5, no. 1 (1944), pp. 75–79.
+FELIX KAUFMANN. Discussion of Mr. Nagel's rejoinder. Ibid., vol. 5, no. 3 (1945), pp. 350–353.
+C. I. LEWIS. In reply to Mr. Baylis. Ibid., vol. 5, no. 1 (1944), pp. 94–96.
+FELIX KAUFMANN. A note on Mr. Baylis's discussion. Ibid., pp. 96–97.
+ERNEST NAGEL. Professor Ducasse's criterion of truth. Ibid., vol. 5, no. 3 (1945), pp. 333–337.
+C. J. DUCASSE. Some comments on Professor Nagel's latest remarks. Ibid., pp. 338–340.
+ROY WOOD SELLARS. Knowing and knowledge. Ibid., pp. 341–344.
+C. J. DUCASSE. Some comments on Professor Sellars' "Knowing and knowledge." Ibid., pp. 345–347.
+ROY WOOD SELLARS. Knowing through propositions. Ibid., pp. 348–349.
+RAY LEPLEY. Fact, value, and meaning. The Philosophical Review, vol. 54 (1945), pp. 115–131.
+KURT GRELLING. Teoría de los conjuntos. Spanish translation of 1872 by Francisco Larroyo and Alfonso Juárez. Ediciones Lógos de México, 1943, 132 pp.
+R. VÁZQUEZ GARCÍA and J. BARROS SIERRA. Review of the preceding. Boletín de la Sociedad Matemática Mexicana, vol. 1, nos. 4-5 (1944), pp. 55–57.
+E. TOMS. Review of Carnap's Formalization of logic. Philosophy, vol. 20 (1945), pp. 84–86.
+L. I. WADE. Post algebras and rings. Duke Mathematical Journal, vol. 12 (1945), pp. 389–395.
+MALCOLM F. SMILEY. A remark on metric Boolean rings. Bulletin of the American Mathematical Society, vol. 51 (1945), pp. 378–380.
+MARLON M. DAY. Arithmetic of ordered systems. Transactions of the American Mathematical Society, vol. 58 (1945), pp. 1–43.
+SAMUEL EILENBERG and SAUNDERS MACLANE. General theory of natural equivalences. Ibid., pp. 231–294.
+PHILIP MARTIN WHITMAN. Free lattices. Harvard University, Graduate School of Arts and Sciences, Summaries of theses accepted in partial fulfilment of the requirements for the degree of Doctor of Philosophy, 1941, Cambridge, Mass., 1945, pp. 325–326.
+HENRY NELSON GOODMAN. A study of qualities: an essay in elementary constructional theory. Ibid., pp. 391–394.
+GUSTAV BERGMANN. A positivistic metaphysics of consciousness. Mind, n.s. vol. 54 (1945), pp. 193–226.
+DONALD WILLIAMS. On the derivation of probabilities from frequencies. Philosophy and Phenomenological Research, vol. 5, no. 4 (1945), pp. 449–484.
+ERNEST NAGEL. Probability and non-demonstrative inference. Ibid., pp. 485–507.
+HANS REICHENBACH. Reply to Donald C. Williams' criticism of the frequency theory of probability. Ibid., pp. 508–512.
+PETER A. CARMICHAEL. Further concerning the null class. Philosophy of Science, vol. 12 (1945), p. 146.
+BRAND BLANSHARD. Current strictures on reason. The Philosophical Review, vol. 54 (1945), pp. 345–368.
+L. J. RUSSELL. The philosophy of Bertrand Russell. A review of the book of that title. Philosophy, vol. 20 (1945), pp. 172–182.
+ROBERT EISLER. Review of the same. The Hibbert Journal, vol. 43, no. 3 (1945), pp. 281–284.
+PAUL WEISS. Review of the same. Philosophy and Phenomenological Research, vol. 5, no. 4 (1945), pp. 594–599.
+EURYALO CANNABRAVA. Review of Quine's O sentido da nova lógica. The Journal of Philosophy, vol. 42 (1945), pp. 472–474.
+ALBERT A. BENNETT. Review of the same. Bulletin of the American Mathematical Society, vol. 51 (1945), pp. 509–510.
+MAX BLACK. Review of Carnap's Introduction to semantics and Formalization of logic. Mind, n.s. vol. 54 (1945), pp. 171–176.
+A. R. TURQUETTE. Review of Reichenbach's Philosophic foundations of quantum mechanics. The Philosophical Review, vol. 54 (1945), pp. 513–516.
+ERNEST NAGEL. Review of the same. The Journal of Philosophy, vol. 42 (1945), pp. 437–444.
+VIRGIL CHARLES ALDRICH. Review of The philosophy of Bertrand Russell. The Journal of Philosophy, vol. 42 (1945), pp. 594–607.
+J. ŁUKASIEWICZ. Logistyka a teologia (Logistic and theology). Przegląd Teologiczny (Lwów), vol. 39 (1936), pp. 115–117.
+ALEKSANDER BIRKENMAJER. Review of Salamucha's Pojawienie się zagadnień antynomialnych na gruncie logiki średniowiecznej. Kwartalnik Filozoficzny, vol. 15 (1938), pp. 85–87.
+FRANCISZEK ZEIDLER. Konsekwencje epistemologiczne teorii kwantów i teorii pola fizyki współczesnej (Epistemological consequences of quantum theory and field theory of modern physics). Ibid., pp. 129–168.
+JAN SALAMUCHA. Review of Bocheński's Z historii logiki zdań modalnych. Ibid., pp. 184–186.
+ALFRED J. AYER. Language, truth and logic. Victor Gollancz, London 1936; Oxford University Press, New York 1936; 254 pp.
+L. SUSAN STEBBING. Review of the preceding. Mind, n.s. vol. 45 (1936), pp. 355–364.
+A. HEYTING. Untersuchungen über intuitionistische Algebra. Verhandelingen der Nederlandsche Akademie van Wetenschappen, Afdeeling Natuurkunde, eerste sectie, vol. 18, no. 2 (1941), 36 pp.
+A. DAAN. Logistiek (Logistic). Encyclopaedisch handboek van het moderne denken, 2nd edn., Arnhem 1942, pp. 420–425.
+A. DAAN. Significa (Significs). Ibid., pp. 680–683.
+FELIX KAUFMANN. Methodenlehre der Sozialwissenschaften. Julius Springer, Vienna 1936, v + 331 pp.
+FELIX KAUFMANN. Methodology of the social sciences. Oxford University Press, London, New York, Toronto, 1944, ix + 272 pp.
+MORRIS R. COHEN. A preface to logic. Henry Holt and Company, New York 1944, xiv + 209 pp.
+J. R. KANTOR. Psychology and logic. Vol. I. The Principia Press, Bloomington, Indiana, 1945, xviii + 363 pp.
+ANONYMOUS. George Boole. Proceedings of the Royal Society of London, vol. 15 (1867), Obituary notices of fellows deceased, pp. vi–xi.
+JOHN VENN. Boole, George. Dictionary of National Biography, vol. 5, London and New York 1886, pp. 369–370.
+A. H. VOIGT. Berichtigung. Vierteljahrsschrift für wissenschaftliche Philosophie, vol. 18 (1894), p. 135.
+RICHARD AVENARIUS. Erklärung des Herausgebers. Ibid., pp. 135–136.
+AUGUST STADLER. Logik. Leipzig 1912, 256 pp.
+TADEUSZ CZEŻOWSKI. Imiona i zdania (Names and sentences). Przegląd Filozoficzny, vol. 21 (1918).
+VICTOR HENRY. Review of König's Neue Grundlagen der Logik, Arithmetik und Mengenlehre. Kant-Studien, vol. 23 (1918–19), pp. 346–351.
+LUCIEN BRULEZ. Delboeufs Bedeutung für die Logik. Ibid., vol. 24 (1919–20), pp. 52–106.
+GUSTAV BERGMANN. Zur Axiomatik der Elementargeometrie. Monatshefte für Mathematik und Physik, vol. 36 (1929), pp. 269–284.
+L. S. STEBBING. Logical constructions and knowledge through description. Proceedings of the Seventh International Congress of Philosophy held at Oxford, England, September 1–6, 1930, London 1931, pp. 117–121.
+ELLI HEESCH. Grundzüge der Bolzanoschen Wissenschaftslehre. Philosophisches Jahrbuch der Görres-Gesellschaft, vol. 48 (1935), pp. 313–341.
+LOUIS WEISNER. Abstract theory of inversion of finite series. Transactions of the American Mathematical Society, vol. 38 (1935), pp. 474–484.
+JULES TANNERY. [According to Dassen, in V 168(3), the J. T. who bears the number 139 in A bibliography of symbolic logic is Jules Tannery.]
+EVERT W. BETH. Verleden en toekomst der wetenschappelijke wijsbegeerte (Past and future of scientific philosophy). De Gids, vol. 107 (1943). Offprint, pp. 1–13.
+ADOLF FRAENKEL. Einleitung in die Mengenlehre. Dover Publications, New York 1946, xiii + 424 pp.
+D. HILBERT and W. ACKERMANN. Grundzüge der theoretischen Logik. 2nd edn. Dover Publications, New York 1946, viii + 133 pp.
+MORRIS LAZEROWITZ. The existence of universals. Mind, n.s. vol. 55 (1946), pp. 1–24.
+H. R. SMART. Review of Kantor's Psychology and logic. The Philosophical Review, vol. 55 (1946), pp. 88–95.
+ERNEST NAGEL. Some reflections on the use of language in the natural sciences. The Journal of Philosophy, vol. 42 (1945), pp. 617–630.
+STEPHEN C. PEPPER. The descriptive definition. Ibid., vol. 43 (1946), pp. 29–36.
+GEORGE S. MCCUE. Salvation through semantics. Or sacred cow₁ is not sacred cow₂. Elizabethan studies and other essays in honor of George F. Reynolds, University of Colorado Studies, Series B. Studies in the Humanities, vol. 2, no. 4, Boulder, Colorado, 1945, pp. 38–44.
+HENRY MARGENAU. On the frequency theory of probability. English with Spanish abstract. Philosophy and Phenomenological Research, vol. 6, no. 1 (1945), pp. 11–25.
+GUSTAV BERGMANN. Frequencies, probabilities, and positivism. English with Spanish abstract. Ibid., pp. 26–44.
+R. v. MISES. Comments on Donald Williams' paper. Ibid., pp. 45–46.
+FELIX KAUFMANN. Scientific procedure and probability. Ibid., pp. 47–66.
+DONALD WILLIAMS. The challenging situation in the philosophy of probability. Ibid., pp. 67–86.
+ORRIN FRINK, Jr. Review of Church's Introduction to mathematical logic, Part I. Bulletin of the American Mathematical Society, vol. 51 (1945), pp. 863–865.
+R. B. BRAITHWAITE. Review of The philosophy of G. E. Moore. Philosophy, vol. 20 (1945), pp. 256–260.
+HARRY SLOCHOWER. Review of The philosophy of Bertrand Russell. Philosophic Abstracts, no. 17-18 (1945), pp. 13–14.
+J. C. C. MCKINSEY. Review of Helmer and Oppenheim's A syntactical definition of probability and of degree of confirmation. Mathematical Reviews, vol. 7 (1946), p. 45.
+J. C. C. MCKINSEY. Review of Carnap's On inductive logic. Ibid., p. 46.
+JOSÉ SEBASTIÃO DE SILVA. A lógica matemática e o ensino médio. Gazeta de matemática (Lisbon), vol. 2 (1941), no. 5, pp. 1–4, and no. 6, pp. 3–7, and no. 7, pp. 3–4.
+JOSÉ SEBASTIÃO DE SILVA. Sobre o método axiomático. Ibid., vol. 6, no. 26 (1945), pp. 2–3.
+J. DIEUDONNÉ. Os métodos axiomáticos modernos e os fundamentos da matemática. Ibid., vol. 2 (1941), no. 8, pp. 1–2.
+BERNARDINO BARROS MACHADO. Lógica matemática—indicações bibliográficas. Ibid., vol. 5, no. 19 (1944), pp. 14–16.
+GARRETT BIRKHOFF. Que é uma estrutura? Ibid., vol. 7, no. 27 (1946), pp. 1–3.
+MISCHA COTLAR. Un método de construcción de estructuras y su aplicación a los espacios topológicos y a la aritmética abstracta. Universidad Nacional de Tucumán, Revista, Serie A, Matemáticas y física teórica, vol. 4 (1944), pp. 105–157.
+M. A. RAÚL VALLEJOS. Aristóteles y la lógica moderna. Universidad de Antioquia, no. 73 (1945), pp. 58–74.
+K. KUYPERS. Tweederlei vooruitgang ten aanzien van de Logica van Aristoteles (Progress of two kinds in regard to the logic of Aristotle). Algemeen Nederlands tijdschrift voor wijsbegeerte en psychologie, vol. 37 (1943–4), pp. 31–40.
+E. W. BETH. Over formeele en inhoudslogica (On formal logic and logic of content). Ibid., pp. 20–30.
+F. PARADIES. De juridische bewijstheorie "terra incognita" (The theory of juridical proof, "terra incognita"). The Hague 1945, 16 pp.
+A. MANSION. Review of Fröbes's Logica formalis. Revue néoscolastique de philosophie, vol. 43, ser. 2, nos. 67–68 (pub. 1945), pp. 277–280.
+J. DOPP. Review of Feys's Logistiek. Ibid., pp. 280–283.
+R. FEYS. Review of Beth's Inleiding tot de wijsbegeerte der wiskunde. Ibid., pp. 284–286.
+R. FEYS. Review of Church's The calculi of lambda-conversion. Revue philosophique de Louvain, vol. 44, ser. 3, no. 1 (1946), p. 166.
+R. FEYS. Review of Church's Introduction to mathematical logic, Part I. Ibid., pp. 167–169.
+R. FEYS. Review of Scholz's Metaphysik als strenge Wissenschaft. Ibid., pp. 170–171.
+R. FEYS. Review of Serrus's Traité de logique. Ibid., vol. 44, ser. 3, no. 2 (1946), pp. 306–308.
+J. DOPP. Review of Wolf's Textbook of logic, 2nd edn. Ibid., pp. 309–310.
+R. FEYS. Review of Cohen and Nagel's An introduction to logic and scientific method, abridged edition. Ibid., pp. 310–312.
+ANDRÉ LALANDE. Review of Boll's Éléments de logique scientifique. Revue philosophique de la France et de l'Étranger, vol. 135 (1945), pp. 73–93.
+ANONYMOUS. Review of Boll's Éléments de logique scientifique. Revue de métaphysique et de morale, vol. 51 (1946), pp. 93–94.
+ANONYMOUS. Review of Piaget's Classes, relations et nombres. Ibid., pp. 94–95.
+OIVA KETONEN. Aksiomaattisesta menetelmästä (On the axiomatic method). Matemaattisten aineiden aikakauskirja, vol. 9 (1945), pp. 56–71.
+OIVA KETONEN. Ristiriidattomuustodistuksen matemaattisesta merkityksestä (On the importance of proofs of consistency in mathematics). Ibid., pp. 174–179.
+RISTO NIINI. Lausekalkyylin aksioomajärjestelmästä (On the axioms of the propositional calculus). Ibid., pp. 224–232.
+HEINRICH SCHOLZ. Pascals Forderungen an die mathematische Methode. Festschrift zum 60. Geburtstag von Prof. Dr. Andreas Speiser, Orell Füssli Verlag, Zurich 1945, pp. 19–33.
+P. MAGG. Homage to Susan Stebbing. The Personalist, vol. 27 (1946), pp. 165–172.
+V. F. LENZEN. Review of Reichenbach's Philosophic foundations of quantum mechanics. Philosophy and Phenomenological Research, vol. 6, no. 3 (1946), pp. 478–486.
+HANS REICHENBACH. Reply to V. F. Lenzen's critique. Ibid., pp. 487–492.
+HANS REICHENBACH. Reply to Ernest Nagel's criticism of my views on quantum mechanics. The Journal of Philosophy, vol. 43 (1946), pp. 239–247.
+ERNEST NAGEL. Professor Reichenbach on quantum mechanics: a rejoinder. Ibid., pp. 247–250.
+HARRY T. COSTELLO. Logic and reality. A review of Cohen's A preface to logic. Ibid., pp. 169–190.
+B. O. KOOPMAN. Review of A symposium on probability, Parts I-II. Mathematical Reviews, vol. 7 (1946), pp. 186–193.
+KARL MENGER. General algebra of analysis. Reports of a mathematical colloquium, issue 7 (1946), pp. 46–60.
+HERMANN WEYL. Mathematics and logic. A brief survey serving as preface to a review of The philosophy of Bertrand Russell. The American Mathematical Monthly, vol. 53 (1946), pp. 2–13.
+HERMANN WEYL. Review of The philosophy of Bertrand Russell. Ibid., pp. 208–214.
+JAMES COLLINS. Review of The philosophy of Bertrand Russell. The Modern Schoolman, vol. 22, no. 2 (1945), pp. 107–112.
+ARON GURWITSCH. Review of Farber's The foundation of phenomenology. Philosophy and Phenomenological Research, vol. 6, no. 3 (1946), pp. 439–445.
+RODERICK M. CHISHOLM. Review of Quine's O sentido da nova lógica. Ibid., vol. 6, no. 4 (1946), pp. 645–648.
+ATWELL RUFUS TURQUETTE. A study and extension of m-valued symbolic logics. Cornell University, Abstracts of theses accepted in partial satisfaction of the requirements for the doctor's degree, 1943, Cornell University Press, Ithaca, N.Y., 1944, pp. 49–51.
+THEODORE HAILPERIN. A set of axioms for logic. Ibid., pp. 207–209.
+GEORGE DAVID WHEATON BERRY. The semantics of truth and designation. Harvard University, Graduate School of Arts and Sciences, Summaries of theses accepted in partial fulfilment of the requirements for the degree of Doctor of Philosophy, 1942, Cambridge, Mass., 1946, pp. 330–334.
+RULON SEYMOUR WELLS, 3D. The correspondence of language to fact. Ibid., pp. 346–348.
+PAUL WEISS. The quest for certainty. The Philosophical Review, vol. 55 (1946), pp. 132–151.
+PHILIP P. WIENER. The evolutionism and pragmaticism of Peirce. Journal of the History of Ideas, vol. 7 (1946), pp. 321–350.
+JOHN DEWEY. Peirce's theory of linguistic signs, thought, and meaning. The Journal of Philosophy, vol. 43 (1946), pp. 85–95.
+CHARLES MORRIS. Note thereon. Ibid., p. 196.
+JOHN DEWEY. Reply thereto. Ibid., p. 280.
+ARTHUR F. BENTLEY. Logicians' underlying postulations. Philosophy of Science, vol. 13 (1946), pp. 3–19.
+C. WEST CHURCHMAN. The dialectic of modern philosophy. The Journal of Philosophy, vol. 43 (1946), pp. 113–124.
+EDGAR A. SINGER, JR. Mechanism, Vitalism, Naturalism. A logico-historical study. Philosophy of Science, vol. 13 (1946), pp. 81–99.
+JOHN R. REID. What are definitions? Ibid., pp. 170–175.
+CHARLES I. GLICKSBERG. General semantics and the science of man. The Scientific Monthly, vol. 62 (1946), pp. 440–446.
+ARCHIE J. BAHM. Opposition of compound propositions. Philosophy of Science, vol. 13 (1946), pp. 78–79.
+ARCHIE J. BAHM. Intension and extension. The New Scholasticism, vol. 20 (1946), p. 183.
+LEE BYRNE. Can we prove 2 plus 2 equals 4? The Mathematics Teacher, vol. 39 (1946), pp. 180–181.
+ALFRED L. FOSTER. The theory of Boolean-like rings. Transactions of the American Mathematical Society, vol. 59 (1946), pp. 166–187.
+PHILIP M. WHITMAN. Lattices, equivalence relations, and subgroups. Bulletin of the American Mathematical Society, vol. 52 (1946), pp. 507–522.
+R. P. DILWORTH. Note on the Kurosch-Ore theorem. Ibid., pp. 659–663.
+HIDETAKA TERASAKA. Theorie der topologischen Verbände: Ein Versuch zur Formalisierung der allgemeinen Topologie und der Theorie der reellen Funktionen. Proceedings of the Imperial Academy (of Japan), vol. 13 (1937), pp. 401–405.
+ALFRED TARSKI. Ideale in vollständigen Mengenkörpern II. Fundamenta Mathematicae, vol. 33 (1945), pp. 51–65.
+BEDŘICH POSPÍŠIL. Wesentliche Primideale in vollständigen Ringen. Ibid., pp. 66–74.
+HERMANN WEYL. David Hilbert 1862-1943. Obituary notices of fellows of the Royal Society, vol. 4, no. 13 (1944), pp. 547–553.
+ARTHUR PAP. Indubitable existential statements. Mind, n.s. vol. 55 (1946), pp. 234–246.
+MORRIS LAZEROWITZ. The positivistic use of "nonsense." Ibid., pp. 247–255.
+HORACE M. KALLEN. The meanings of "unity" among the sciences, once more. Philosophy and Phenomenological Research, vol. 6, no. 4 (1946), pp. 493–496.
+OTTO NEURATH. The orchestration of the sciences by the encyclopedism of logical empiricism. Ibid., pp. 496–508.
+CHARLES MORRIS. The significance of the unity of science movement. Ibid., pp. 508–515.
+HORACE M. KALLEN. Reply. Ibid., pp. 515–526.
+OTTO NEURATH. For the discussion: just annotations, not a reply. Ibid., pp. 526–528.
+H. M. KALLEN. An annotation to the annotation. Ibid., pp. 528–529.
+H. M. KALLEN. Postscript: Otto Neurath 1882-1945. Ibid., pp. 529–533.
+RICHARD VON MISES. Comments on Donald Williams' reply. Ibid., pp. 611–613.
+ERNEST NAGEL. Is the Laplacean theory of probability tenable? Ibid., pp. 613–619.
+DONALD WILLIAMS. The problem of probability. Ibid., pp. 619–622.
+EDWIN ARTHUR BURTT. Right thinking. A study of its principles and methods. Harper & Brothers, New York and London 1946, xi + 764 pp.
+H. J. PATON. The purpose of words. A review of Russell's An inquiry into meaning & truth. The Spectator (London), vol. 166 (1941), pp. 150, 152.
+M. MACDONALD. Review of Jordan's The development of mathematical logic and of logical positivism in Poland between the two wars. Philosophy, vol. 21 (1946), pp. 173–176.
+FRANCISZEK ZEIDLER. Konsekwencje epistemologiczne teorii kwantów i teorii pola fizyki współczesnej. (Dokończenie). (Epistemological consequences of quantum theory and field theory of contemporary physics. (Conclusion).) Kwartalnik filozoficzny, vol. 15 (1938), pp. 195–230.
+IZYDORA DĄBSKA. Konwencjonalizm i relatywizm (Conventionalism and relativism). Ibid., pp. 328–337.
+MARIA KOKOSZYŃSKA. Review of Waismann's Einführung in das mathematische Denken. Ibid., pp. 378–383.
+FRANCISZEK ZEIDLER. Review of Greenwood's Les fondements de la logique symbolique. Ibid., vol. 16, no. 1 (1939), pp. 91–95.
+LEÓN OSTROV. Bertrand Russell y la filosofía científica. Logos (Buenos Aires), vol. 1, no. 1 (1941), pp. 166–170.
+VALÈRE GLIVENKO. Théorie générale des structures. Actualités scientifiques et industrielles 652. Hermann & Cie, Paris 1938, 54 pp.
+ORRIN FRINK, JR. Complemented modular lattices and projective spaces of infinite dimension. Transactions of the American Mathematical Society, vol. 60 (1946), pp. 452–467.
+L. R. WILCOX and M. F. SMILEY. Correction: Metric lattices. Annals of Mathematics, ser. 2, vol. 47 (1946), p. 831.
+A. R. RICHARDSON. Congruences in multiplicative systems. Proceedings of the London Mathematical Society, ser. 2, vol. 49 (1946), pp. 195–210.
+A. PEREIRA GOMES. Introdução ao estudo duma noção de funcional em espaços sem pontos. Portugaliae mathematica, vol. 5, no. 1 (1946), pp. 1–120.
+FRANCISCO ROMERO and EUGENIO PUCCIARELLI. Lógica. Espasa-Calpe Argentina, Buenos Aires and Mexico City. 216 pp. 1st ed., 1938; 5th ed., 1942.
+N. V. BANERJEE. Are mathematical propositions analytic? Philosophical Quarterly, vol. 16 (1940-41), pp. 108–113.
+G. N. MATHRANI. Wittgensteinian philosophy in its general aspects. Ibid., pp. 139–150.
+KNOX MILLSAPS. Infinity—its cause and cure. National Mathematics Magazine, vol. 17 (1942-43), pp. 158–260.
+RUDOLF CARNAP. Theory and prediction in science. Science, vol. 104 (1946), pp. 520–521.
+RUPERT CRAWSHAY-WILLIAMS. The obstinate universal. Polemic (London), no. 2 (1946), pp. 14–21.
+BERTRAND RUSSELL. The problem of universals. Ibid., pp. 21–35.
+SYLVESTER J. HARTMAN. Intension and extension. The New Scholasticism, vol. 20 (1946), pp. 368–373.
+JOHN DEWEY and ARTHUR F. BENTLEY. Specification. The Journal of Philosophy, vol. 43 (1946), pp. 645–663.
+RODERICK M. CHISHOLM. Review of Pap's The a priori in physical theory. The Philosophical Review, vol. 55 (1946), pp. 594–597.
+M. MACDONALD. Review of Cohen's A preface to logic. Mind, n.s. vol. 55 (1946), pp. 364–367.
+ALICE AMBROSE. Review of Jordan's The development of mathematical logic and of logical positivism in Poland between the two wars. Ibid., pp. 367–370.
+G. F. C. GRISS. Idealistische filosofie (Idealistic philosophy). Arnhem 1946, 80 pp.
+-Therein: Aanhangsel I: Negatieloze intuitionistische wiskunde (Appendix I: Negation-free intuitionistic mathematics), pp. 63–71.
+J. CLAY. Logica en natuurwetenschap (Logic and natural science). Algemeen Nederlands tijdschrift voor wijsbegeerte en psychologie, vol. 38 (1946), pp. 33–46.
+H. MEYER. Gelijkenis en gelijkheid (Resemblance and identity). Ibid., pp. 94–103.
+F. PARADIES. Recht en logica (Law and logic). Amsterdam 1946, 55 pp.
+J. B. V. D. GULDEN-ZWAARDEMAKER. Aspecten van de taal (Aspects of language). Algemeen Nederlands tijdschrift voor wijsbegeerte en psychologie, vol. 29 (1935-6), pp. 63–80.
+C. C. J. DE RIDDER. Review of E. W. Beth's Inleiding tot de wijsbegeerte der wiskunde. Ibid., vol. 35 (1941-2), pp. 78–80.
+L. CRIJNS. De paradoxen (The paradoxes). Ibid., pp. 147–149.
+E. W. BETH. De paradoxen: een repliek (The paradoxes: a reply). Ibid., pp. 149–150.
+E. W. BETH. Kanttekeningen op de geschiedenis der wijsbegeerte (Marginalia on the history of philosophy). Ibid., vol. 36 (1942-3), pp. 80–83.
+O. NEURATH. After six years. Synthese, vol. 5 (1946-7), pp. 77–82.
+K. REACH. The foundations of our knowledge. Ibid., p. 86.
+H. GEIRINGER. "Falsification" and theory of errors. Ibid., pp. 86–89.
+M. STRAUSS. Ist die Limes-Theorie der Wahrscheinlichkeit eine sinnvolle Idealisation? Ibid., pp. 90–91.
+E. NAGEL. On the interpretation of probability calculi. Ibid., pp. 92–93.
+E. W. BETH. On a possible interpretation of imperatives. Ibid., pp. 94–95.
+S. C. VAN VEEN. In memoriam David Hilbert (1862-1943). Dutch. Mathematica B (Zutphen), vol. 11 (1943), pp. 159–169.
+L. P. GOKIELI. O ponjatii suščestvovanija v matematike (On the notion of existence in mathematics). Russian with Georgian abstracts. Soobščenija Akademii Nauk Gruzinskoj SSR (Bulletin of the Academy of Sciences of the Georgian SSR), vol. 2 (1941), pp. 881–888, and vol. 3 (1942), pp. 111–118.
+L. P. GOKIELI. O ponjatii suščestvovanija v matematike (On the notion of existence in mathematics). Trudy Tbilisskogo Matematičeskogo Instituta (Travaux de l'Institut Mathématique de Tbilissi), vol. 11 (1942), pp. 23–56, and vol. 13 (1944), pp. 153–206.
+L. P. GOKIELI. O ponjatii aktual'no beskonečno-malogo (On the notion of the actual infinitely small). Georgian and Russian. Soobščenija Akademii Nauk Gruzinskoj SSR (Bulletin of the Academy of Sciences of the Georgian SSR), vol. 5 (1944), pp. 11–20.
+L. P. GOKIELI. O razbienii množestva na klassy s pomošč'ju refleksivnogo, simmetričnogo i tranzitivnogo otnošenija (On the separation of quantities into classes with the help of reflexive, symmetric, and transitive relations). Georgian and Russian. Ibid., pp. 493–502.
+LEOPOLD LÖWENHEIM. On making indirect proofs direct. Translated from the German manuscript by W. V. Quine. Scripta mathematica, vol. 12, no. 2 (1946), pp. 125–139.
+GINO LORIA. Qu'est-ce que la philosophie des mathématiques? Translated by Vera Zdrojewska. "Scientia," vol. 80 (1946), pp. 97–102.
+CLIFFORD G. KOSSEL. Principles of St. Thomas's distinction between the esse and ratio of relation. The Modern Schoolman, vol. 24 (1946-7), pp. 19–36, 93–107.
+T. R. BACHILLER. Review of Birkhoff's Lattice theory. Revista matemática hispano-americana, ser. 4, vol. 6, no. 5 (1946), pp. 224–225.
+ROYAL M. FRYE. Review of Reichenbach's Philosophic foundations of quantum mechanics. The Philosophical Forum (Boston), vol. 3 (1945), pp. 37–39.
+J. O. WISDOM. Review of Reichenbach's Philosophic foundations of quantum mechanics. Mind, n.s. vol. 56 (1947), pp. 77–81.
+I. BERNARD COHEN. Review of Miller's The structure of Aristotelian logic. Isis, vol. 31 (1940), pp. 471–473.
+LOUIS GUTTMAN. Review of Neurath's Foundations of the social sciences and Woodger's The technique of theory construction. The Philosophical Review, vol. 56 (1947), pp. 104–105.
+F. IAN G. RAWLINS. Review of Pap's The a priori in physical theory. Nature, vol. 159 (1947), pp. 43–44.
+GILBERT RYLE. Review of Farber's The foundation of phenomenology. Philosophy, vol. 21 (1946), pp. 263–269.
+FELIX KAUFMANN. Review of Russell's A history of Western philosophy. Philosophy and Phenomenological Research, vol. 7, no. 3 (1947), pp. 461–466.
+LEWIS WHITE BECK. Review of Kantor's Psychology and logic. Ibid., pp. 466–470.
+RODERICK M. CHISHOLM. Review of Quine's Os Estados Unidos e o ressurgimento da lógica. Ibid., pp. 483–485.
+VICTOR LALAN. L'anneau de Boole à seize éléments et le calcul des propositions. Comptes rendus hebdomadaires des séances de l'Académie des Sciences (Paris), vol. 224 (1947), pp. 432–434.
+ARNAUD DENJOY. Les ensembles finis. Ibid., pp. 612–615.
+ARNAUD DENJOY. L'ordination des ensembles. Ibid., pp. 1081–1083.
+AUGUSTIN SESMAT and VICTOR LALAN. Élimination dans le corps de Boole et syllogisme. Ibid., pp. 1411–1413.
+ÉMILE BOREL. Les paradoxes de l'axiome du choix. Ibid., pp. 1537–1538.
+ÉMILE BOREL. Sur les difficultés des définitions asymptotiques. Ibid., pp. 1597–1599.
+JEAN-LOUIS DESTOUCHES. Évolution et unité de la connaissance scientifique. Revue philosophique de la France et de l'Étranger, vol. 134 (1944), pp. 305–316.
+GEORGES BOULIGAND. Les aspects intuitifs de l'activité mathématique. De l'intuition à l'algébrisme. Structure des théories. L'axiomatisation. Les méthodes directes. La formalisation. Ibid., pp. 193–213.
+GEORGES BOULIGAND. Les méthodes mathématiques. De l'intuition à l'algébrisme. La structure des théories. L'axiomatisation. Les méthodes directes. La formalisation. Lithographed from handwritten manuscript. Centre de Documentation Universitaire, Paris 1946, ii + 78 pp.
+A. PEREIRA GOMES. Sur l'axiome de semi-régularité. Portugaliae mathematica, vol. 5, no. 4 (for 1946, pub. 1947), pp. 207–217.
+A. PEREIRA GOMES. Correcção ao artigo "Introdução ao estudo duma noção de funcional em espaços sem pontos." Ibid., p. 218.
+MARCEL-PAUL SCHÜTZENBERGER. Sur la théorie des structures de Dedekind. Comptes rendus hebdomadaires des séances de l'Académie des Sciences (Paris), vol. 216 (1943), pp. 717–718.
+MARCEL-PAUL SCHÜTZENBERGER. Sur les structures de Dedekind. Ibid., vol. 218, no. 21 (for 1944, pub. 1945), pp. 818–819.
+MARCEL-PAUL SCHÜTZENBERGER. Sur certains axiomes de la théorie des structures. Ibid., vol. 221 (1945), pp. 218–220.
+KARL DÜRR. Die Entwicklung der Dialektik von Platon bis Hegel. Dialectica (Neuchâtel), vol. 1 (1947), pp. 45–62.
+S. GAGNEBIN. Pour le troisième centenaire de la naissance de Leibniz (1646-1716). Ibid., pp. 77–97.
+W. PAULI. Review of Reichenbach's Philosophic foundations of quantum mechanics. Ibid., pp. 176–178.
+PAUL BERNAYS. Review of Pólya's How to solve it. Ibid., pp. 178–188.
+U. FILIPPI. Les principes de la Mécanique quantique. Leur interprétation par une logique trivalente. Les études philosophiques, n.s. no. 2 (1940), pp. 121–127.
+GILLES G. GRANGER. Review of Serrus's Traité de logique. Ibid., pp. 158–161.
+GILLES G. GRANGER. Review of Serrus's Traité de logique. Philosophy and Phenomenological Research, vol. 7, no. 4 (1947), pp. 664–666.
+ANONYMOUS. Review of Serrus's Essai sur la signification de la logique. Revue de métaphysique et de morale, vol. 47 (1940), pp. 415–417.
+ANGIOLO MAROS DELL'ORO. Review of Pastore's Logica sperimentale. Sophia, vol. 9 (1941), pp. 288–289.
+J. FRÖBES. Erwiderung auf eine Kritik meines Buches Tractatus Logicae formalis. Philosophisches Jahrbuch der Görres-Gesellschaft, vol. 54 (1941), pp. 517–522.
+A. HEYTING. Review of Beth's Inleiding tot de wijsbegeerte der wiskunde. Nieuw archief voor wiskunde, ser. 2, vol. 21, no. 1-2 (1941), pp. 144–145.
+L. E. J. BROUWER. Zum freien Werden von Mengen und Funktionen. Nederlandsche Akademie van Wetenschappen, Proceedings of the section of sciences, vol. 45 (1942), pp. 322–323.
+L. E. J. BROUWER. Beweis dass der Begriff der Menge höherer Ordnung nicht als Grundbegriff der intuitionistischen Mathematik in Betracht kommt. Ibid., pp. 791–793.
+PHILIP P. WIENER. The Peirce-Langley correspondence and Peirce's manuscript on Hume and the laws of nature. Proceedings of the American Philosophical Society, vol. 91 (1947), pp. 201–228.
+M. WHITCOMB HESS. Language and sense perception. The Thomist, vol. 10 (1947), pp. 56–74.
+ROSAMOND KENT SPRAGUE. The ontological significance of negation. The Journal of Philosophy, vol. 44 (1947), pp. 179–184.
+GUSTAV BERGMANN. Russell on particulars. The Philosophical Review, vol. 56 (1947), pp. 59–72.
+MATILA GHYKA. Bertrand Russell and scientific philosophy. The Personalist, vol. 28 (1947), pp. 129–139.
+FREDERIC B. FITCH. Remarks on the theory of types. Mind, n.s. vol. 56 (1947), p. 184.
+GEORGE GENTRY. Signs, interpretants, and significata. The Journal of Philosophy, vol. 44 (1947), pp. 318–324.
+VIRGIL C. ALDRICH. Review of Morris's Signs, language, and behavior. Ibid., pp. 324–329.
+GEORGE GENTRY. Review of Morris's Signs, language, and behavior. Ethics, vol. 56 (1946), pp. 319–320.
+MAX BLACK. Review of Morris's Signs, language, and behavior. The Philosophical Review, vol. 56 (1947), pp. 203–205.
+DANIEL J. BRONSTEIN. Review of Morris's Signs, language, and behavior. Philosophy and Phenomenological Research, vol. 7, no. 4 (1947), pp. 643–649.
+B. O. KOOPMAN. Review of A symposium on probability, Part III. Mathematical Reviews, vol. 8 (1947), pp. 245–247.
+RUDOLF CARNAP. Probability as a guide in life. The Journal of Philosophy, vol. 44 (1947), pp. 141–148.
+C. A. M. MAUND and J. W. REEVES. Report of lectures on philosophy and logical syntax, delivered on 8, 10 and 12 October at Bedford College in the University of London, by Professor Rudolf Carnap. Analysis, vol. 2 (1934-5), pp. 42–48.
+DONALD C. WILLIAMS. Analysis, analytic propositions, and real definitions. Ibid., vol. 3 (1935-6), pp. 75–80.
+A. M. MACIVER. Demonstratives and proper names. Ibid., pp. 81–88.
+WILLIAM BARRETT. Reduction-sentences and extensionality. Ibid., vol. 4 (1936-7), pp. 71–76.
+DANIEL J. BRONSTEIN. What is logical syntax? Analysis, vol. 3 (1935-6), pp. 49–56.
+M. MACDONALD. Language and reference. Ibid., vol. 4 (1936-7), pp. 33–41.
+C. D. HARDIE. The formal mode of speech. Ibid., pp. 46–48.
+A. M. MACIVER. Token, type and meaning. Ibid., pp. 58–64.
+MARGARET MACDONALD. Reply to Mr. MacIver. Ibid., pp. 77–80.
+A. M. MACIVER. Rejoinder to Miss MacDonald. Ibid., pp. 81–88.
+MARGARET MACDONALD. Further reply to Mr. MacIver. Ibid., vol. 5 (1937-8), pp. 12–16.
+A. M. MACIVER. Last words to Miss MacDonald. Ibid., pp. 28–31.
+MAX BLACK. The limitations of a behavioristic semiotic. The philosophical review, vol. 56 (1947), pp. 258–272.
+DAVID L. MILLER. The nature of scientific statements. Philosophy of Science, vol. 14 (1947), pp. 219–223.
+GUSTAV BERGMANN. Philosophical and psychological pragmatics. Ibid., pp. 271–273.
+JOHN DEWEY and ARTHUR F. BENTLEY. Concerning a vocabulary for inquiry into knowledge. The Journal of Philosophy, vol. 44 (1947), pp. 421–434.
+GILLES G. GRANGER. "Pygmalion": Réflexions sur la pensée formelle. Revue philosophique de la France et de l'Étranger, vol. 72 (1947), pp. 282–300.
+C. LEWY. Review of Pap's The a priori in physical theory. Mind, n.s. vol. 56 (1947), pp. 271–275.
+HEINRICH SCHOLZ. Review of Gödel's Lehre von der Identität in der deutschen Logik-Wissenschaft seit Lotze. Deutsche Literaturzeitung, vol. 58 (1937), pp. 1511–1516.
+J. P. N. LAND. On a supposed improvement in formal logic. Verslagen en mededeelingen der Koninklijke Akademie van Wetenschappen (Amsterdam), Afdeeling letterkunde, ser. 2, vol. 5 (1876), pp. 358–372.
+ROBERT P. RICHARDSON and EDWARD H. LANDIS. Fundamental conceptions of modern mathematics. Variables and quantities, with a discussion of the general conception of functional relation. The Open Court Publishing Company, Chicago and London 1910, xxi + 216 pp.
+WALTHER BRAND and MARIE DEUTSCHBEIN. Introducción a la filosofía matemática. Spanish translation of 3891 and notes by R. Ledesma Ramos. Madrid 1930, 229 pp.
+JOHN WISDOM. Interpretation and analysis in relation to Bentham's theory of definition. Psyche miniatures, general series no. 35. London 1931, 136 pp.
+WILMA PAPST. Gottlob Frege als Philosoph. Dissertation Berlin 1932. Berlin 1932, 51 pp.
+FRIEDRICH BRUNSTAD. Die mathematische Logik. Logik by Friedrich Brunstad (Handbuch der Philosophie, Abtlg. I, Beitrag A), Munich and Berlin 1933, pp. 79–84.
+ROLF W. GÖDEL. Die Lehre von der Identität in der deutschen Logik-Wissenschaft seit Lotze. Ein Beitrag zur Geschichte der modernen Logik und philosophischen Systematik. Mit einer Bibliographie zur logik-wissenschaftlichen Identitäts-Lehre in Deutschland seit der Mitte des 19. Jahrhunderts. Studien und Bibliographien zur Gegenwartsphilosophie, no. 18. Leipzig 1935, xxvi + 462 pp.
+BENT SCHULTZER. Transcendence and the logical difficulties of transcendence. A logical analysis. Copenhagen 1935, xvi + 304 pp.
+J. A. PASSMORE. Logical positivism. The Australasian Journal of Psychology and Philosophy, vol. 21 (1943), pp. 65–92, and vol. 22 (1944), pp. 129–153.
+J. A. PASSMORE. Prediction and scientific law. Ibid., vol. 24 (1947), pp. 1–33.
+J. A. PASSMORE. Critical notice of Cohen's A preface to logic. Ibid., vol. 25 (1947), pp. 104–113.
+JOSÉ FERRATER MORA. Diccionario de filosofía. Second edition, revised and enlarged. Editorial Atlante, S.A., Mexico City 1944, 760 pp.
+LEÓN BRUNSCHVICG. Las etapas de la filosofía matemática. Spanish translation by Cora Ratto de Sadoski. Lautaro, Buenos Aires 1945, 633 pp.
+WALTER BRÖCKER. Das Modalitätenproblem. Zeitschrift für philosophische Forschung (Reutlingen), vol. 1 (1946-7), pp. 35–46.
+GERHARD STAMMLER. Grundsätzliches zur Beurteilung des Verhältnisses von Logik und Logikkalkül (Logistik). Ibid., pp. 308–313.
+WITOLD WUDEL. Powstanie logiki wyższej (The origin of higher logic). Myśl Współczesna, no. 3 (10), 1947, pp. 343–367.
+STANISŁAW JAŚKOWSKI. Zagadnienia logiczne a matematyka (Logical problems and mathematics). Ibid., no. 7-8 (14-15), 1947, pp. 57–70.
+D. BARBILIAN. Metrisch konkave Verbände. Disquisitiones mathematicae et physicae (Bucharest), vol. 5 (1946), pp. 3–63.
+A. NATUCCI. Systématisation scientifique de la philosophie. "Scientia," vol. 81 (1947), pp. 101–106.
+GEORGES BOULIGAND. Une épistémologie conforme à l'esprit de l'Analyse classique. Comptes rendus hebdomadaires des séances de l'Académie des Sciences (Paris), vol. 224 (1947), pp. 1747–1749.
+GEORGES BOULIGAND. Sur l'épistémologie de l'Analyse classique. Ibid., vol. 225 (1947), pp. 780–782.
+CHRISTIAN PAUC. Co-algèbres booléennes. Ibid., vol. 225 (1947), pp. 219–221.
+JEAN-LOUIS DESTOUCHES. L'unité de la Physique théorique. Ibid., vol. 205 (1937), pp. 843–846.
+JEAN-LOUIS DESTOUCHES. Physique moderne et philosophie. Actualités scientifiques et industrielles 847. Hermann et Cie, Paris 1939, 76 pp.
+PAULETTE DESTOUCHES-FÉVRIER. Les notions d'objectivité et de subjectivité en physique atomique. Dialectica (Neuchâtel), vol. 1 (1947), pp. 127–146.
+R. BLANCHÉ. Review of Piaget's Classes, relations et nombres. Journal de psychologie normale et pathologique (Paris), vol. 39 (1946), pp. 376–380.
+PIERRE GRÉCO. Review of Boll and Reinhart's Les étapes de la logique. Les études philosophiques, n.s. no. 1 (1947), p. 86.
+EINO KAILA. Logistik und Metaphysik. Critical discussion of Scholz's Metaphysik als strenge Wissenschaft. Theoria, vol. 8 (1942), pp. 58–60.
+K. REACH. Review of Scholz's Metaphysik als strenge Wissenschaft. Ibid., pp. 72–74.
+MANFRED MORITZ. Review of von Mises's Kleines Lehrbuch des Positivismus. Ibid., pp. 172–176.
+MANFRED MORITZ. Review of Jørgensen's Inledning til logikken og metodelæren. Ibid., pp. 177–179.
+ANDERS WEDBERG. Review of von Wright's Den logiska empirismen. Ibid., vol. 10 (1944), pp. 78–82.
+G. H. VON WRIGHT. Logical empiricism. Ibid., pp. 56–57.
+ALLAN TÖRNUDD. Review of von Wright's Den logiska empirismen. Nya Argus (Helsingfors), 1944, pp. 57–59.
+C. D. BROAD. Review of The philosophy of Bertrand Russell. Mind, n.s. vol. 56 (1947), pp. 355–364.
+JULIUS R. WEINBERG. Review of Boehner's The Tractatus de praedestinatione of Ockham. The Philosophical Review, vol. 56 (1947), pp. 446–448.
+LUCIUS GARVIN. Review of Black's Critical thinking. Ibid., pp. 452–454.
+PAUL JACOBY. Review of Black's Critical thinking. The Modern Schoolman, vol. 25, no. 1 (1947), pp. 70–75.
+ROBERT FEYS. Review of Black's Critical thinking. Erasmus (Amsterdam and Brussels), vol. 1 (1947), pp. 459–460.
+ROBERT FEYS. Review of Morris's Signs, language, and behavior. Revue philosophique de Louvain, vol. 45 (1947), pp. 249–254.
+ROBERT FEYS. Review of Johnson's Science and the meanings of truth. Ibid., pp. 259–263.
+VINCENT EDWARD SMITH. Dr. Charles Morris and semiotic. The Modern Schoolman, vol. 25, no. 2 (1948), pp. 140–143.
+PHILIP BLAIR RICE. The semiotic of Charles Morris. A review of Morris's Signs, language, and behavior. The Kenyon Review, vol. 9 (1947), pp. 303–311.
+DICKINSON S. MILLER. Professor Donald Williams versus Hume. The Journal of Philosophy, vol. 44 (1947), pp. 673–684.
+MARTIN WOLFSON. A note on "insight." Ibid., pp. 684–685.
+ERNEST NAGEL. Review of Williams's The ground of induction. Ibid., pp. 685–693.
+HAO WANG. Notes on the justification of induction. Ibid., pp. 701–710.
+V. F. LENZEN. Review of Williams's The ground of induction. Isis, vol. 38, parts 1-2 (1947), pp. 128–129.
+JOSEPH T. CLARK. Review of Ushenko's Power and events. Thought, vol. 22 (1947), pp. 533–538.
+CHARLES A. BAYLIS. Review of Lewis's Analysis of knowledge and valuation. Philosophy and Phenomenological Research, vol. 8, no. 1 (1947), pp. 152–159.
+EVERETT J. NELSON. A defense of substance. The Philosophical Review, vol. 56 (1947), pp. 491–509.
+RICHARD H. POPKIN. An examination of two inconsistencies in Aristotelian logic. Ibid., pp. 670–681.
+CHARLES L. STEVENSON. Some relations between philosophy and the study of language. Analysis (Oxford), vol. 8, no. 1 (n.s. no. 1) (1947), pp. 1–9.
+MORRIS WEITZ. Philosophy and the abuse of language. The Journal of Philosophy, vol. 44 (1947), pp. 533–546.
+DAVID RYNIN. Probability and meaning. Ibid., pp. 589–597.
+LESLIE A. WHITE. The locus of mathematical reality: An anthropological footnote. Philosophy of Science, vol. 14 (1947), pp. 289–303.
+EVERETT W. HALL. A categorial analysis of value. Ibid., pp. 333–344.
+C. H. LANGFORD. On a certain modal proposition. Mind, n.s. vol. 56 (1947), pp. 348–349.
+C. H. LANGFORD. On paradoxes of the type of the Epimenides. Ibid., p. 350.
+WILLIAM T. PUCKETT. A problem in connected finite closure algebras. Duke Mathematical Journal, vol. 14 (1947), pp. 289–296.
+L. H. LOOMIS. On the representation of $\sigma$-complete Boolean algebras. Bulletin of the American Mathematical Society, vol. 53 (1947), pp. 757–760.
+SILVIO CECCATO. Gli stadi della ricerca. Analysis (Milan), vol. 2, no. 1 (1947), pp. 25–34.
+GIUSEPPE VACCARINO. Review of Dialectica, vol. 1, nos. 1, 2. Sigma (Rome), vol. 1 (1947), pp. 341–349.
+R. RHEES. Review of Cornforth's Science versus idealism. Mind, n.s. vol. 56 (1947), pp. 374–392.
+W. T. STACE. Review of Lewis's An analysis of knowledge and valuation. Mind, n.s. vol. 57 (1948), pp. 71–85.
+J. D. MABBOTT. Review of Ayer's Thinking and meaning. Ibid., pp. 103–106.
+M. MACDONALD. Review of Johnson's Science and the meanings of truth. Ibid., pp. 114–117.
+A. M. MACIVER. Review of Black's Critical thinking. Ibid., pp. 117–119.
+NELSON GOODMAN. Review of Reichenbach's Elements of symbolic logic. The Philosophical Review, vol. 57 (1948), pp. 100–102.
+W. V. QUINE. Review of Reichenbach's Elements of symbolic logic. The Journal of Philosophy, vol. 45 (1948), pp. 161–166.
+BRIAN COFFEY. Review of Reichenbach's Elements of symbolic logic. The Modern Schoolman, vol. 25, no. 3 (1948), pp. 198–202.
+YVES R. SIMON. Aristotelian demonstration. Ibid., pp. 183–190.
+KARL MENGER. Postulational method. Ibid., pp. 190–192.
+GEORGES BOULIGAND. Problèmes. Synthèse globale. Comptes rendus hebdomadaires des séances de l'Académie des Sciences (Paris), vol. 226 (1948), pp. 294–297.
+K. ZARANKIEWICZ. Sur les relations symétriques dans l'ensemble fini. Colloquium mathematicum (Wrocław), vol. 1, no. 1 (1947), pp. 10–14.
+JERZY POGONOWSKI. Metoda nauki językoznawczej w porównaniu z metodą nauk przyrodniczych (The method of linguistic science in comparison with the method of the natural sciences). Kwartalnik filozoficzny, vol. 16, no. 2-4 (1946), pp. 293–350.
+ZYGMUNT SPIRA. Uwagi nad metodologią i teorią poznania Poppera (Remarks on Popper's methodology and theory of knowledge). Ibid., pp. 371–403.
+V. O. ZICH. Logistika v Praze. Ibid., pp. 23–36.
+SIMO SIVENIUS. Ajatuskalkyylin perusteet (The elements of a calculus of thoughts). Ajatus (Helsinki), vol. 14 (1947), pp. 187–246.
+G. H. VON WRIGHT. Looginen empirismi. Finnish translation by Hilppa Kinos. Otava, Helsinki 1945, 187 pp.
+MAX BENSE. Die Wissenschaftstheorie Blaise Pascals. Zeitschrift für philosophische Forschung (Reutlingen), vol. 2, no. 1 (1947), pp. 32–45.
+WILHELM BRITZELMAYR. Über die älteste formale Logik in deutscher Sprache. Ibid., pp. 46–68.
+G. F. C. GRISS. Negationless intuitionistic mathematics. Indagationes mathematicae, vol. 8 (1946), pp. 675–681.
+J. RIDDER. Ueber den Aussagen- und den engeren Prädikatenkalkül. Ibid., vol. 8 (1946), pp. 701–712, and vol. 9 (1947), pp. 9–15.
+L. E. J. BROUWER. Richtlijnen der intuitionistische wiskunde. Ibid., vol. 9 (1947), p. 197.
+J. RIDDER. Einige Anwendungen des Dualitätsprinzips in topologischen Strukturen. Koninklijke Nederlandsche Akademie van Wetenschappen, Proceedings of the section of sciences, vol. 50 (1947), pp. 731–740; also Indagationes mathematicae, vol. 9 (1947), pp. 341–350.
+VITTORIO SOMENZI. Analisi di libri. Sigma (Rome), vol. 1, no. 6-7 (1948), pp. 436–447.
+ANONYMOUS. Review of Beth's Semantical considerations on intuitionistic mathematics. Ibid., pp. 448–449.
+TH. SKOLEM. The development of recursive arithmetic. Den 10. Skandinaviske Matematiker Kongres i København 26-30. August 1946, Jul. Gjellerups Forlag, Copenhagen 1947, pp. 1–16.
+JEAN CAVAILLÈS. Review of Poirier's Le nombre. Revue de métaphysique et de morale, vol. 46 (1939), p. 171.
+GILLES G. GRANGER. Jean Cavaillès ou la montée vers Spinoza. Les études philosophiques (Paris), n.s. no. 3-4 (1947), pp. 271–279.
+R. P. DUBARLE. Jean Cavaillès et la philosophie. Ibid., n.s. vol. 3, no. 1 (1948), pp. 82–83.
+A. N. WHITEHEAD. Mathematics and the good. Essays in science and philosophy, by A. N. Whitehead, Philosophical Library, New York 1947, pp. 97–113.
+ALFRED NORTH WHITEHEAD. Remarks. The Philosophical Review, vol. 46 (1937), pp. 178–186. Reprinted as Analysis of meaning in Essays in science and philosophy, by A. N. Whitehead, Philosophical Library, New York 1947, pp. 122–131.
+BERTRAND RUSSELL. Whitehead and Principia mathematica. Mind, n.s. vol. 57 (1948), pp. 137–138.
+C. D. BROAD. Alfred North Whitehead (1861-1947). Ibid., pp. 139–145.
+SUSANNE K. LANGER. Philosophy in a new key. A study in the symbolism of reason, rite, and art. First Pelican Books edition. Penguin Books, Inc., New York 1948, vii + 248 pp.
+F. S. C. NORTHROP. The logic of the sciences and the humanities. The Macmillan Company, New York 1947, xiv + 402 pp.
+ADAM MARGOSHES. Carnap's logical masterpiece. The New Leader (New York), vol. 30, no. 20 (May 17, 1947), p. 11.
+LADISLAV RIEGER. Review of Carnap's Introduction to semantics. Časopis pro pěstování matematiky a fysiky, vol. 72 (1947), pp. D124–D131.
+WILBUR LONG. Review of Black's Critical thinking. The Personalist, vol. 29 (1948), pp. 301–302.
+HERBERT L. SEARLES. Review of Wendell Johnson's People in quandaries. Ibid., pp. 303–305.
+I. A. RICHARDS. Review of Alexander Bryan Johnson's A treatise on language. Isis, vol. 38 (1947-8), pp. 251–252.
+MAURICE-PAUL SCHÜTZENBERGER. Remarques sur la notion de clivage dans les structures algébriques et son application aux treillis. Comptes rendus hebdomadaires des séances de l'Académie des Sciences (Paris), vol. 224 (1947), pp. 512–514.
+ANTÓNIO MONTEIRO. Sur l'arithmétique des filtres premiers. Ibid., vol. 225 (1947), pp. 846–848.
+JACQUES RIGUET. Produit tensoriel de lattices. Ibid., vol. 226 (1948), pp. 40–41, 143–146.
+JACQUES RIGUET. Sur les lattices pseudo-modulaires. Ibid., pp. 1151–1153.
+ROBERT CROISOT. Une interprétation des relations d'équivalence dans un ensemble. Ibid., pp. 616–617.
+ROBERT CROISOT. Condition suffisante pour l'égalité des longueurs de deux chaînes de mêmes extrémités dans une structure. Application aux relations d'équivalence et aux sous-groupes. Ibid., pp. 767–768.
+ROLAND FRAÏSSÉ. Sur la comparaison des types de relations. Ibid., pp. 987–988.
+ROLAND FRAÏSSÉ. Sur la comparaison des types d'ordres. Ibid., pp. 1330–1331.
+GH. MARINESCU. Structures et nombres caractéristiques. Bulletin mathématique de la Société Roumaine des Sciences, vol. 46 (1944), pp. 113–119.
+E. W. CHITTENDEN. On the characterization of the algebra of four fundamental Boolean functions. Proceedings of the Iowa Academy of Science for 1946, vol. 53 (pub. 1947), pp. 247–248.
+WACŁAW SIERPIŃSKI. L'hypothèse généralisée du continu et l'axiome du choix. Fundamenta mathematicae, vol. 34 (1947), pp. 1–5.
+WACŁAW SIERPIŃSKI. Sur un théorème de M. Tarski concernant les alephs. Ibid., pp. 6–8.
+FRANCESCO SEVERI. Matematica e filosofia. Sophia, vol. 15 (1947), pp. 269–279.
+G. BOULIGAND. Le mathématicien au seuil de la métaphysique. Revue de métaphysique et de morale, vol. 52 (1947), pp. 308–321.
+J. O. URMSON. Two of the senses of "probable." Analysis (Oxford), vol. 8, no. 1 (n.s. no. 1) (1947), pp. 9–16.
+H. WALLIS CHAPMAN. Mr. Urmson on the word "probable." Ibid., vol. 8, no. 5 (n.s. no. 5) (1948), pp. 71–76.
+C. H. WHITELEY. More about probability. Ibid., vol. 8, no. 5 (n.s. no. 5) (1948), pp. 76–80.
+E. PERSICO. Analisi del determinismo fisico. Ibid., pp. 25–50.
+E. FROLA. La matematica come lingua chiusa e la conoscenza del mondo fisico. Ibid., pp. 91–109.
+N. ABBAGNANO. Il problema filosofico della scienza. Ibid., pp. 137–161.
+FRIGYES POZSONYI. Review of Schröter's Ein allgemeiner Kalkülbegriff. Athenaeum (Budapest), vol. 29 (1943), pp. 201–202.
+ANTAL SCHÜTZ. Logikák és logika (Logics and logic). Értekezések a filozófia és társadalmi tudományok köréből, vol. 5, no. 6 (1941), 92 pp.
+FRIGYES POZSONYI. Review of the preceding. Athenaeum (Budapest), vol. 29 (1943), pp. 360–362.
+FRIGYES POZSONYI. A logika tárgyköre és feladata (Subject-field and task of logic). Author's publication, Budapest 1942, 76 pp.
+LAJOS LENGYEL. Review of the preceding. Athenaeum (Budapest), vol. 29 (1943), pp. 364–368.
+JANINA HOSIASSON-LINDENBAUMOWA. Postęp wiedzy z punktu widzenia poznawczego (The progress of knowledge from the theoretical point of view). Przegląd filozoficzny, vol. 44, no. 1-3 (1948), pp. 59–65. English summary, ibid., pp. 286–287.
+TADEUSZ CZEŻOWSKI. Przyczynki do analizy rozumowania (Contributions to the analysis of reasoning). Ibid., pp. 66–76. English summary, ibid., pp. 287–289.
+IZYDORA DĄMBSKA. W sprawie tzw. nazw pustych (About the so-called objectless names). Ibid., pp. 77–81. English summary, ibid., p. 289.
+ANDRIES H. D. MACLEOD. What is a true assertion? Theoria, vol. 13 (1947), pp. 183–214.
+KARL BRITTON. Truth and knowledge. Some comments on Russell. Analysis (Oxford), vol. 8, no. 3 (n.s. no. 3) (1948), pp. 39–43.
+PETER A. CARMICHAEL. "Derivation" of universals. Philosophy and Phenomenological Research, vol. 8, no. 4 (1948), pp. 700–705.
+PHILIP P. WIENER. Philosophical, scientific, and ordinary language. The Journal of Philosophy, vol. 45 (1948), pp. 260–267.
+JOHN WILD and J. L. COBitz. On the distinction between the analytic and the synthetic. Philosophy and Phenomenological Research, vol. 8, no. 4 (1948), pp. 651–667.
+M. A. RAÚL VALLEJOS. Empirismo l6gico y física. Privately printed, Santa Fe, Argentina, 1948, 13 pp.
+LEWIS S. FEUER. Materialism, idealism and science. A review of Cornforth's Science versus idealism. Philosophy of Science, vol. 15 (1948), pp. 71–75.
+R. J. TRAYHERN. Review of Howard's Analytical syllogistics. The Philosophical Review, vol. 57 (1948), pp. 193–195.
+FREDERICK L. WILL. Donald Williams' theory of induction. A review of Williams's The ground of induction. Ibid., pp. 231–247.
+C. J. DUCASSE. C. I. Lewis' analysis of knowledge and valuation. A review of Lewis's An analysis of knowledge and valuation. Ibid., pp. 260–280.
+PAUL HENLE. Review of Lewis's An analysis of knowledge and valuation. The Journal of Philosophy, vol. 45 (1948), pp. 524–532.
+ERNEST NAGEL. Review of Carnap's Meaning and necessity. Ibid., pp. 467–472.
+HENRY W. SYER. Review of Reichenbach's Elements of symbolic logic. The Philosophical Forum (Boston), vol. 6 (1948), pp. 31–32.
+J. C. C. MCKINSEY. Review of Reichenbach's Elements of symbolic logic. The American Mathematical Monthly, vol. 55 (1948), pp. 261–263.
+HANS REICHENBACH. Reply to a review. The Journal of Philosophy, vol. 45 (1948), pp. 464–467.
+E. W. BETH. Reviews of Quine's On universals and Goodman and Quine's Steps toward a constructive nominalism. Mathematical Reviews, vol. 9 (1948), pp. 261–262.
+H. B. CURRY. Review of Popper's Functional logic without axioms or primitive rules of inference. Ibid., p. 321.
+MIECZYSŁAW CHOYNOWSKI. Review of Cohen's A preface to logic. Życie Nauki (Kraków), vol. 5 (1948), pp. 111–113.
+S. JAŚKOWSKI. Sur le problème de décision de la topologie et de la théorie des groupes. Colloquium mathematicum (Wrocław), vol. 1, no. 2 (1948), pp. 176–178.
+ANTÓNIO MONTEIRO. Réticules distributifs de dimension linéaire n. Comptes rendus hebdomadaires des séances de l'Académie des Sciences (Paris), vol. 226 (1948), pp. 1658–1660.
+C. E. RICKART. One-to-one mappings of rings and lattices. Bulletin of the American Mathematical Society, vol. 54 (1948), pp. 758–764.
+K. SCHRÖTER. Die Arithmetik der natürlichen Zahlen im Rahmen der Theorie der Verbände. Mathematische Annalen, vol. 120, no. 2 (1948), pp. 197–201.
+W. SCHWAN. Perspektivitäten in allgemeinen Verbänden. Mathematische Zeitschrift, vol. 51, no. 2 (1948), pp. 126–134.
+SILVIO CECCATO. Divagazioni di animal semioticum. Ibid., pp. 294–302.
+ETTORE CARRUCCIO. Il problema dell'esprimibilità in simboli di un sistema ipotetico-deduttivo. Ibid., pp. 357–364.
+GIULIO PRETI. Lettera a "Sigma." Ibid., pp. 433–435.
+ALFRED KORZYBSKI. Science and sanity. An introduction to non-Aristotelian systems and general semantics. 3rd edn. The International Non-Aristotelian Library Publishing Company. The Institute of General Semantics, distributors, Lakeville, Conn., 1948, lxxv + 806 pp.
+ALFRED KORZYBSKI. Preface to the third edition (of Science and sanity). Separately published by The Institute of General Semantics, Lakeville, Conn., 1948, ix pp.
+GEORGES BOULIGAND. Source et limites de l'unité dans la Mathématique. Archives de philosophie, vol. 17, no. 2 (1948), pp. 7–16.
+DIMITRI RIABOUCHINSKY. Le point euclidien et le point dimensionnel. Comptes rendus hebdomadaires des séances de l'Académie des Sciences (Paris), vol. 227 (1948), pp. 885–887.
+MARCEL-PAUL SCHÜTZENBERGER. Sur certaines applications remarquables des treillis dans eux-mêmes. Ibid., pp. 1008–1010.
+GARRETT BIRKHOFF and ORRIN FRINK, JR. Representations of lattices by sets. Transactions of the American Mathematical Society, vol. 64 (1948), pp. 299–316.
+SHIN-ICHI MATSUSHITA. The algebra of topological operations, I. Mathematica Japonicae (Osaka), vol. 1, no. 1 (1948), pp. 28–30.
+J. G. DIJKMAN. Recherche de la convergence négative dans les mathématiques intuitionistes. Koninklijke Nederlandsche Akademie van Wetenschappen, Proceedings of the section of sciences, vol. 51 (1948), pp. 681–692; also Indagationes mathematicae, vol. 10 (1948), pp. 232–243.
+FREDERIC B. FITCH. Corrections to two papers on modal logic. The Journal of Symbolic Logic, vol. 13 (1948), pp. 38–39.
+KARL DÜRR. Bemerkungen zur Aristotelischen Theorie der modalen Formen. Archiv für Philosophie, no. 1 (Dec. 1947), pp. 81–93.
+E. W. BETH. Hoe is wijsbegeerte mogelijk? (How is philosophy possible?) Algemeen Nederlands tijdschrift voor wijsbegeerte en psychologie, vol. 40, no. 4 (1948), pp. 170–176.
+E. W. BETH. Exact-wetenschappelijke wijsbegeerte in Nederland (Philosophy of the exact sciences in the Netherlands). Nieuw tijdschrift voor wiskunde, vol. 35, no. 3-4 (1947), pp. 100–104.
+D. VAN DANTZIG. General procedures of empirical science. Synthese, vol. 5 (1946-7), pp. 441–455.
+PHILIPP FRANK. The place of logic and metaphysics in the advancement of modern science. Philosophy of Science, vol. 15 (1948), pp. 275–286.
+BERNARD PHILLIPS. Logical positivism and the function of reason. Philosophy, vol. 23 (1948), pp. 346–360.
+D. J. O'CONNOR. Pragmatic paradoxes. Mind, n.s. vol. 57 (1948), pp. 358–359.
+FRANCISCO MIRÓ QUESADA. Síntesis de la conferencia sobre la "Lógica de Leibniz." Actas de la Academia Nacional de Ciencias Exactas, Físicas y Naturales de Lima, vol. 10, no. 1-2 (1947), pp. 79–83.
+WILLIAM W. HAMMERSCHMIDT. Alfred North Whitehead. Scripta Mathematica, vol. 14, no. 1 (1948), pp. 17–23.
+ERIC TEMPLE BELL. Cassius Jackson Keyser. Ibid., pp. 27–33.
+JAMES COLLINS. Mr. Lewis and the a priori. The Journal of Philosophy, vol. 45 (1948), pp. 561–572.
+HEINRICH SCHOLZ. Review of Quine's Elementary logic and Tarski's Introduction to logic. Deutsche Literaturzeitung, vol. 69 (1948), pp. 303–305.
+J. V. KEMPSKI. Review of Jørgensen's Indledning til logikken og metodelæren. Archiv für Philosophie, no. 1 (Dec. 1947), pp. 151–153.
+J. V. KEMPSKI. Review of Schröter's Ein allgemeiner Kalkülbegriff. Ibid., pp. 153–156.
+J. V. KEMPSKI. Review of Kaufmann's Methodenlehre der Sozialwissenschaften. Ibid., pp. 156–159.
+JEAN PIAGET. Du rapport entre la logique des propositions et les "groupements" de classes et de relations. A propos du "Traité de Logique" de Ch. Serrus. Revue de métaphysique et de morale, vol. 53 (1948), pp. 139–163.
+ANONYMOUS. Review of Bocheński's La logique de Théophraste. Ibid., pp. 330–331.
+R. FEYS. Review of Bocheński's La logique de Théophraste. Revue philosophique de Louvain, vol. 46 (1948), pp. 201–202.
+WILLIAM KNEALE. Review of Bocheński's La logique de Théophraste. Mind, n.s. vol. 57 (1948), pp. 527–530.
+A. KORCIK. Review of Bocheński's La logique de Théophraste. Roczniki filozoficzne, vol. 1 (1948), pp. 297–298.
+EVERETT J. NELSON. Review of Williams's The ground of induction. Philosophy and Phenomenological Research, vol. 9, no. 1 (1948), pp. 139–143.
+RULON S. WELLS. Review of Alexander Bryan Johnson's A treatise on language. Ibid., pp. 164–167.
+HERBERT DINGLE. Review of Martin Johnson's Science and the meanings of truth. The Proceedings of the Physical Society (London), vol. 61, part 1 (1948), pp. 102–104.
+JERZY WRÓBLEWSKI. Review of Cornforth's Science versus idealism. Życie Nauki, vol. 5 (1948), pp. 252–254.
+WINSTON H. F. BARNES. Review of Cornforth's Science versus idealism. Philosophy, vol. 23 (1948), pp. 280–282.
+L. J. RUSSELL. Review of Black's Critical thinking. Ibid., pp. 268–270.
+H. H. PRICE. Review of Ayer's Thinking and meaning. Ibid., pp. 239–255.
+A. D. WOOZLEY. Dispositions. Mind, n.s. vol. 57 (1948), pp. 350–353.
+JOHN WISDOM. Note on the new edition of Professor Ayer's Language, Truth and Logic. Ibid., pp. 403–419.
+ETTORE CARRUCCIO. Sull'impossibilità di esprimere integralmente in simboli un sistema ipotetico-deduttivo. Ibid., pp. 91–92.
+CHARLES MORRIS. Recent studies in meaning and communication. Sigma, vol. 2, no. 8-9 (1948), pp. 454–458.
+SILVIO CECCATO. Reviews of Morris's Signs, language, and behavior and Cohen's Introduzione alla logica. Ibid., pp. 547–549.
+ALDO VISALBERGHI. Review of Fondamenti logici della scienza. Rivista di filosofia, vol. 39 (1948), pp. 75–80.
+KURT GÖDEL. Sovmestimost' aksiomy vybora i obobščennoj kontinuum-gipotezy s aksiomami teorii množestv. Russian translation of VI 112 by A. A. Markov. Uspehi matematičeskih nauk, vol. 3, no. 1 (1948), pp. 96–149.
+WITOLD GAŁĘSKI. Zygmunt Zawirski, wspomnienie pośmiertne (Zygmunt Zawirski, an obituary notice). Życie Nauki, vol. 6 (1948), pp. 81–84.
+MIECZYSŁAW CHOYNOWSKI. Review of Woodger's The technique of theory construction. Polish. Ibid., vol. 5 (1948), pp. 424–429.
+MIECZYSŁAW CHOYNOWSKI. Czy filozofia jest nauką? (Is philosophy a science?). Przegląd Filozoficzny, vol. 44, no. 1-3 (1948), pp. 198–217. English summary, ibid., pp. 293–297.
+ARNE NÆSS. Endel elementære logiske emner (Quelques sujets élémentaires de logique). Universitetets Studenterkontor, Oslo 1941, 16 pp.
+ARNE NÆSS. Logikk som elementært undervisningsfag (La logique comme matière élémentaire dans l'enseignement). Norsk pedagogisk tidskrift, vol. 25, no. 4 (1941), pp. 122–127.
+ARNE NÆSS. Symbolsk logikk. I. Mimeographed. Studentkontoret, Oslo 1942, 110 pp.
+ARNE NÆSS. Grunnlagsforskning. Universitetspedagogikens problemer (Foundations of science research. Problems of university pedagogics). Norsk pedagogisk tidskrift, vol. 27, no. 3 (1941), pp. 59–66; and vol. 27, no. 4 (1941), pp. 81–86.
+ARNE NÆSS. Oppgavesamling i logikk med kommentarer (Exercises in logic, with commentaries). 3rd edn., Studentkontoret, Oslo 1944, 58 pp.
+FRANÇOIS LE LIONNAIS. Présentation. Les grands courants de la pensée mathématique, Cahiers du Sud, 1948, pp. 13–17.
+FRANÇOIS LE LIONNAIS. Structures. Ibid., pp. 21–23.
+ÉMILE BOREL. La définition en mathématiques. Ibid., pp. 24–34.
+NICOLAS BOURBAKI (pseudonym). L'architecture des mathématiques. Ibid., pp. 35–47.
+ALBERT LAUTMAN. Symétrie et dissymétrie en mathématiques et en physique. Ibid., pp. 54–65.
+GEORGES BOULIGAND. Le déclin des absolus mathématiques. Ibid., pp. 66–74.
+JEAN DIEUDONNÉ. David Hilbert (1862-1943). Ibid., pp. 291–297.
+FRANÇOIS LE LIONNAIS. Les mathématiques et la philosophie. Ibid., pp. 347–349.
+MARCEL BOLL and JACQUES REINHART. La synthèse logique des résultats et des recherches. Ibid., pp. 350–364.
+RAYMOND QUENEAU. La place des mathématiques dans la classification des sciences. Ibid., pp. 393–397.
+S. I. DOCKX. De la nature et du but de l'Institut International des Sciences Théoriques. Problèmes de philosophie des sciences (Premier symposium—Bruxelles 1947), I, Les méthodes de la connaissance, Actualités scientifiques et industrielles 1059, Hermann & Cie, Paris 1948, pp. 7–10.
+H. J. POS. Le symbolisme de la connaissance et l'idée de l'unité du savoir. Ibid., pp. 11–16.
+E. W. BETH. La cosmologie, dite naturelle, et les sciences mathématiques de la nature. Ibid., pp. 17–24.
+R. BAYER, E. W. BETH, L. E. J. BROUWER, A. DALCQ, J. DAUJAT, TH. DE DONDER, J. L. DESTOUCHES, H. DINGLE, F. FIALA, F. GONSETH, H. JANNE, G. LEMAÎTRE, J. H. POS, M. J. SIRKS, H. WEYL. Discussion. Ibid., pp. 25–41.
+H. D. DUBARLE. La synthèse inductive. Ibid., pp. 43–60.
+R. BAYER, J. L. DESTOUCHES, H. D. DUBARLE, F. GONSETH, A. HEYTING. Discussion. Ibid., pp. 61–69.
+B. RUSSELL. Postulates of scientific inference. Actes du Xème Congrès International de Philosophie (Amsterdam, 11-18 août, 1948) — Proceedings of the Tenth International Congress (Amsterdam, August 11-18, 1948), North-Holland Publishing Company, Amsterdam 1949, pp. 33–41.
+P. BERNAYS. Die Erneuerung der rationalen Aufgabe. Ibid., pp. 42–50.
+L. J. RUSSELL. Propositions and proposals. Ibid., pp. 618–620.
+HENRYK MEHLBERG. Les hypothèses invérifiables dans la science empirique. Ibid., pp. 627–628.
+B. FOGARASI. Le principe fondamental de la dialectique. Ibid., pp. 645–646.
+D. DUBARLE. Logique et réflexion. Ibid., pp. 649–652.
+P. FRUTIGER. Logique nécessaire et logique obligatoire. Ibid., pp. 655–657.
+ÉTIENNE BORDA. Bases épistémologiques, logiques et axiologiques d'un tournant et d'une renaissance philosophiques. Ibid., pp. 671–676.
+J. PICARD. Les normes logiques du raisonnement. Ibid., pp. 677–680.
+D. RIABOUCHINSKY. Réhabilitation du recours à l'intuition sensible en analyse mathématique. Ibid., pp. 713–714.
+P. LORENZEN. The overcoming of logical relativism. Ibid., p. 717.
+A. VIRIEUX-REYMOND. La logique stoïcienne. Ibid., pp. 718–719.
+K. DÜRR. Les diagrammes logiques de Leonhard Euler et de John Venn. Ibid., pp. 720–721.
+K. R. POPPER. The trivialization of mathematical logic. Ibid., pp. 722–727. Errata, ibid., p. 1259.
+J. C. C. MCKINSEY. Construction of systems of modal logic. Ibid., p. 740.
+S. C. KLEENE. On the intuitionistic logic. Ibid., pp. 741–743.
+W. SZMIELEW. Decision problem in group theory. Ibid., pp. 763–766.
+A. GRZEGORCZYK. Un essai d'établir la sémantique du langage descriptif. Ibid., pp. 776–778.
+MAX BLACK. The justification of induction. Ibid., pp. 791–793.
+HANS REICHENBACH. The philosophical analysis of quantum mechanics. Ibid., pp. 824–825.
+J. L. DESTOUCHES. Synthèse inductive et adéquation: un nouveau type de rationalité. Ibid., pp. 826–829.
+P. DESTOUCHES-FÉVRIER. Sur les rapports entre la logique et la physique théorique. Ibid., pp. 830–832.
+R. DE BENGY PUYVALLÉE. Esquisse d'une épistémologie de la physique théorique. Ibid., pp. 835–836.
+M. CAZIN. Persistance des structures formelles dans le développement des théories physiques. Ibid., pp. 837–838.
+H. MEYER. On the heuristic value of scientific models. Ibid., pp. 862–865.
+J. J. CALLAHAN. The philosophical problem of meaning. Ibid., pp. 944–946.
+A. HAYEN. La leçon d'un Congrès international. Revue philosophique de Louvain, vol. 46 (1948), pp. 524–538.
+E. W. BETH. De exact-wetenschappelijke wijsbegeerte op het Congres van Amsterdam (Exact-scientific philosophy at the Congress of Amsterdam). Algemeen Nederlands tijdschrift voor wijsbegeerte en psychologie, vol. 41, no. 1 (1948), pp. 9–14.
+IRVING M. COPILOWISH. Language analysis and metaphysical inquiry. Ibid., pp. 65–70.
+GUSTAV BERGMANN. Two criteria for an ideal language. Ibid., pp. 68–74.
+IRVING M. COPILOWISH. Reply to Professor Bergmann. Ibid., p. 75.
+ERIK AHLMAN. Kielen ja logiikan välimailta (Between language and logic). Ajatus, vol. 15 (1948), no. 1-2, pp. 160–164.
+KLAUS V. VARTIOVAARA. Logiikan merkityksestä (On the significance of logic). Suomalainen Suomi, 1948, no. 6, pp. 330–335.
+SVEN EDVARD RODHE. Is existence a univocal or a multivocal expression? Theoria, vol. 14 (1948), pp. 238–264.
+M. WHITCOMB HESS. The semantic question. The New Scholasticism, vol. 23 (1949), pp. 186–206.
+C. H. LANGFORD. A proof that synthetic a priori propositions exist. The Journal of Philosophy, vol. 46 (1949), pp. 20–24.
+ARTHUR N. PRIOR. Determinables, determinates and determinants. Mind, n.s. vol. 58 (1949), pp. 1–20, 178–194.
+C. J. HOLLOWAY. Mr. Woozley on 'dispositions.' Ibid., pp. 79–81.
+W. B. GALLIE. The limitations of analytical philosophy. Analysis (Oxford), vol. 9, no. 3 (1949), pp. 35–43.
+ARTHUR N. PRIOR. Argument a fortiori. Ibid., pp. 49–50.
+P. T. GEACH. IF's and AND'S. Ibid., vol. 9, no. 4 (1949), pp. 58–62.
+JUAN DAVID GARCÍA BACCA. E. Husserl and J. Joyce. Or, Theory and practice of the phenomenological attitude. Translated by Pedro Gilbert. Philosophy and Phenomenological Research, vol. 9, no. 3 (1949), pp. 588–594.
+S. KÖRNER. The meaning of some metaphysical propositions. Mind, n.s. vol. 57 (1948), pp. 275–293.
+JAN FRANCISZEK BOCHEŃSKI. Roczniki Filozoficzne, vol. 1 (1948), pp. 83–97. French abstract, ibid., pp. 320–321.
+EUGENIUSZ ŻUKOWSKI. Niektóre porządki w zdaniach rozłącznych i równoważnych (Fragment z algebry logiki) (Quelques ordres dans les propositions disjonctives et équivalentes (Un fragment d'algèbre de la logique)). Ibid., pp. 191–197. French abstract, ibid., pp. 323–324.
+ANONYMOUS. O Cantorovoj hipotezi kontinuuma (On the Cantorian hypothesis of the continuum). Glasnik Matematičko-Fizički i Astronomski (Periodicum Mathematico-Physicum et Astronomicum) (Zagreb), ser. 2, vol. 3, no. 3 (1948), p. 131.
+CASIMIR KURATOWSKI. Ensembles projectifs et ensembles singuliers. Fundamenta Mathematicae, vol. 35 (1948), pp. 131–140.
+ROMAN SIKORSKI. On the representation of Boolean algebras as fields of sets. Ibid., pp. 247–258.
+ALFRED HORN and ALFRED TARSKI. Measures in Boolean algebras. Transactions of the American Mathematical Society, vol. 64 (1948), pp. 467–497.
+E. MARCZEWSKI. Concerning the symmetric difference in the theory of sets and in Boolean algebras. Colloquium Mathematicum (Wrocław), vol. 1, no. 3 (1948), pp. 199–202.
+HENRY HELSON. On the symmetric difference of sets as a group operation. Ibid., pp. 203–205.
+M. K. FORT. A specialization of Zorn's lemma. Duke Mathematical Journal, vol. 15 (1948), pp. 763–765.
+DIMITRI RIABOUCHINSKY. Sur les antinomies de la théorie des ensembles. Comptes rendus hebdomadaires des séances de l'Académie des Sciences (Paris), vol. 227 (1948), pp. 1315–1317.
+MARCEL-PAUL SCHÜTZENBERGER. Sur l'extension des théorèmes de dualité aux treillis distributifs non complémentés. Ibid., vol. 228 (1949), pp. 33–35.
+A. HALANAY. Théorèmes de Jordan-Hölder dans la théorie des structures. Disquisitiones Mathematicae et Physicae (Bucharest), vol. 7, no. 1-4 (1948), pp. 3–23.
+W. SCHWAN. Ein allgemeiner Mengenisomorphiesatz der Theorie der Verbände. Mathematische Zeitschrift, vol. 51, no. 3 (1948), pp. 346–354.
+F. KLEIN-BARMEN. Ein Beitrag zur Theorie der linearen Holoide. Ibid., pp. 355–366.
+G. G. LORENTZ. Über die Grenzwerte in Verbänden. Ibid., pp. 404–422.
+S. A. KISS. Semilattices and a ternary operation in modular lattices. Bulletin of the American Mathematical Society, vol. 54 (1948), pp. 1176–1179.
+V. K. BALACHANDRAN. Ideals of the distribution lattice. The Journal of the Indian Mathematical Society, n.s. vol. 12 (1948), pp. 49–56.
+EIZI INABA. On primary lattices. Journal of the Faculty of Science, Hokkaido University, Series I, Mathematics, vol. 11, no. 2 (1948), pp. 39–107.
+ENRIQUETA GONZÁLEZ BAZ. Consideraciones sobre las redes distributivas. Comisión Impulsora y Coordinadora de la Investigación Científica, Anuario 1945, México, D.F., 1947, pp. 31–42.
+FRANCISCO VERA. Dualidad de valores humanos en el campo de la matemática. Editorial Cuadernos, Barranquilla and Bogotá 1942, 180 pp.
+ROLIN WAVRE. La logique amusante. Éditions du Mont-Blanc, Genève-Annemasse 1946, 77 pp.
+D. DUBARLE. Le dernier écrit philosophique de Jean Cavaillès. Revue de métaphysique et de morale, vol. 53 (1948), pp. 225–247, 350–378.
+E. MOROT-SIR. Le traité de logique de Charles Serrus. Ibid., pp. 425–431.
+ÉMILE BRÉHIER. Review of the same. Revue Philosophique de la France et de l'Étranger, vol. 139 (1949), pp. 93–95.
+ANDRÉE LALANDE. Review of Boll and Reinhart's Les étapes de la logique. Ibid., pp. 95–97.
+STÉPHANE LUPASCO. Review of Borel's Les paradoxes de l'infini. Ibid., pp. 99–102.
+LADISLAV RIEGER. Review of Carnap's Formalization of logic. Czechic. Časopis pro pěstování matematiky a fysiky, vol. 73, no. 4 (for 1948, pub. 1949), pp. D64–D68.
+C. LEWY. Review of Carnap's Meaning and necessity. Mind, n.s. vol. 58 (1949), pp. 228–238.
+ERNEST NAGEL. Review of Kattsoff's A philosophy of mathematics. The Journal of Philosophy, vol. 46 (1949), pp. 24–26.
+S. C. KLEENE. Review of the same. The Philosophical Review, vol. 58 (1949), pp. 187–189.
+E. A. MILNE. Review of the same. Philosophy, vol. 24 (1949), pp. 90–92.
+GILBERT RYLE. Meaning and necessity. Ibid., pp. 69–76.
+G. J. WHITROW. Review of Johnson's Science and the meanings of truth. Ibid., pp. 169–171.
+WILLIAM KNEALE. Review of Chwistek's The limits of science. Ibid., vol. 23 (1948), pp. 283–284.
+GEORGE WATSON. Review of Johnson's A treatise on language. The Personalist, vol. 30 (1949), pp. 105–107.
+L. O. KATTSOFF. Review of Whitehead's Essays in science and philosophy. Philosophy and Phenomenological Research, vol. 9, no. 2 (1948), pp. 334–336.
+ERNEST A. MOODY. Review of Bocheński's La logique de Théophraste. The Journal of Philosophy, vol. 45 (1948), pp. 607–610.
+HEINRICH SCHOLZ. Review of Boehner's The Tractatus de praedestinatione et de praescientia Dei et de futuris contingentibus of William Ockham. Deutsche Literaturzeitung, vol. 69 (1948), pp. 47–50.
+HAROLD JEFFREYS. Theory of probability. Second edition. Clarendon Press, Oxford; Oxford University Press, London; 1948, viii + 412 pp.
+BRAND BLANSHARD. The nature of thought. George Allen & Unwin, London 1939 (second impression 1948); in two volumes, 654 pp., and 532 pp.
+BERTRAND RUSSELL. A history of Western philosophy, and its connection with political and social circumstances from the earliest times to the present day. Simon and Schuster, New York 1945, xxiii + 895 pp. George Allen & Unwin, London 1946, 916 pp.
+A. D. RITCHIE. A defence of aristocracy, and other essays. Longmans, Green and Co., London, New York, and Toronto 1938.
+A. D. RITCHIE. The logic of question and answer. Ibid., pp. 102–118.
+A. D. RITCHIE. Errors of logical positivism. Philosophy, vol. 12 (1937), pp. 47–60. Reprinted ibid., pp. 70–85.
+GOTTLOB FREGE. Über das Trägheitsgesetz. Zeitschrift für Philosophie und philosophische Kritik, n.s. vol. 98 (1890), pp. 145–161.
+Congrès International de Philosophie. Edited by Maurice Tardieu. Revue de métaphysique et de morale, vol. 8 (1900), pp. 503–698.
+HUGH MACCOLL. La logique symbolique et ses applications, with discussion by Couturat, pp. 563–565.
+GIUSEPPE PEANO. Les définitions mathématiques, with discussion by J. Tannery, Schröder, Peano, and Padoa, pp. 589–591.
+CESARE BURALI-FORTI. Les différentes méthodes logiques pour la définition de nombre réel, pp. 591–592.
+ALESSANDRO PADOA. Essai d'une théorie algébrique des nombres entiers, avec une Introduction à une théorie déductive quelconque, pp. 592–593.
+PLATON PORETSKY. Théorie des égalités logiques à trois termes, with introduction, and discussion, by Couturat, pp. 594–598.
+ERNST SCHRÖDER. Une extension de l'idée d'ordre, with discussion by Macfarlane, pp. 638–642.
+W. E. JOHNSON. Théorie des équations logiques, pp. 642–643.
+DAVID HILBERT. El pensamiento axiomático. Revista matemática hispano-americana (Madrid), vol. 1 (1919), pp. 14–24.
+D. MAHNKE. Leibnizens Synthese von Universalmathematik und Individualmetaphysik. Jahrbuch für Philosophie und phänomenologische Forschung, vol. 7 (1925), pp. 305–612.
+C. H. LANGFORD. On quantifiers for general propositions. Bulletin of the American Mathematical Society, vol. 32 (1926), pp. 694–704.
+EUGENE SHEN. The "complete scheme" of propositions. Psyche, vol. 9, no. 3 (1929), pp. 48–59.
+VLADIMIR TARDY. Carnapova logická syntax. Česká mysl, vol. 30 (1934), pp. 177–184.
+MAURICE DOROLLE. Le raisonnement par analogie. Presses Universitaires de France, Paris 1949, vii + 181 pp.
+J. A. PASSMORE. Logical positivism (III). The Australasian Journal of Philosophy, vol. 26, no. 1 (1948), pp. 1–19.
+FABIO CONFORTO. Review of Fondamenti logici della scienza. Bollettino della Unione Matematica Italiana, ser. 3, vol. 4 (1949), pp. 86–89.
+ΝΕΙΛΟΣ ΣΑΚΕΛΛΑΡΙΟΥ. Τα θεμέλια της Μαθηματικής Επιστήμης (On the foundations of the Mathematical Science). Δελτίον της Ελληνικής Μαθηματικής Εταιρείας (Bulletin de la Société Mathématique de Grèce), vol. 23, no. 3 (1948), pp. 152–180.
+DEMETRIOS A. KAPPOS. Ein Beitrag zur Carathéodoryschen Definition der Ortsfunktionen in Booleschen Algebren. Mathematische Zeitschrift, vol. 51, no. 5 (1949), pp. 616–634.
+V. S. KRISHNAN. Extensions of partially ordered sets. The Journal of the Indian Mathematical Society, n.s. vol. 11 (1947), pp. 49–68; and n.s. vol. 12 (1948), pp. 89–106.
+ROLAND FRAÏSSÉ. Sur une classification des systèmes de relations faisant intervenir les ordinaux transfinis. Comptes rendus hebdomadaires des séances de l'Académie des Sciences (Paris), vol. 228 (1949), pp. 1682–1684.
