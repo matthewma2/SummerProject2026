@@ -5659,7 +5659,7 @@
     "notes": "Published in Mind, n.s. vol. 8 (1899)."
   },
   {
-    "id": "Padoa1909a",
+    "id": "Padoa1899a",
     "title": "Algebra elementare logicamente esposta",
     "authors": [
       "alessandro-padoa"
@@ -8109,12 +8109,12 @@
     "pages": "xii+164 pp."
   },
   {
-    "id": "Chionio1902a",
+    "id": "Chionio1905a",
     "title": "Super formula de Snell",
     "authors": [
       "florentio-chionio"
     ],
-    "year": 1906,
+    "year": 1905,
     "type": "article",
     "journal": "Rev. de. math",
     "volume": "8",
@@ -8122,12 +8122,12 @@
     "notes": "Published in Rev. de. math., vol. 8 (1902-6)."
   },
   {
-    "id": "Cipolla1902a",
+    "id": "Cipolla1905a",
     "title": "Theoria de congruentias intra numeros integro",
     "authors": [
       "michele-cipolla"
     ],
-    "year": 1906,
+    "year": 1905,
     "type": "article",
     "journal": "Rev. de math",
     "volume": "8",
@@ -9376,7 +9376,7 @@
     "authors": [
       "luitzen-egbertus-jan-brouwer"
     ],
-    "year": 1909,
+    "year": 1907,
     "type": "article",
     "journal": "Nieuw archief voor wiskunde",
     "volume": "2 s 8",
@@ -9389,7 +9389,7 @@
     "authors": [
       "luitzen-egbertus-jan-brouwer"
     ],
-    "year": 1909,
+    "year": 1908,
     "type": "article",
     "journal": "Atti del IV Congresso Internazionale dei Matematici (Roma, 6-11 Aprile",
     "volume": "3",
@@ -9699,12 +9699,12 @@
     "notes": "Published in Association Française pour l'Avancement des Sciences fusionnée avec l'Association Scientifique de France, Compte rendu de la 37me session, Clermont-Ferrand 1908."
   },
   {
-    "id": "Rogers1907a",
+    "id": "Rogers1908a",
     "title": "The logical basis of mathematics",
     "authors": [
       "r-a-p-rogers"
     ],
-    "year": 1909,
+    "year": 1908,
     "type": "article",
     "journal": "Proceedings of the Royal Irish Academy",
     "volume": "27",
@@ -10267,7 +10267,7 @@
     "notes": "Anhang X to 2nd. edn. of Psychologie vom empirischen Standpunkt, 1911. Reprinted in Franz Brentano Psychologie vom Empirischen Standpunkt, ed. by Oskar Kraus, vol. 2 (Leipzig 1925)."
   },
   {
-    "id": "Brouwer1909a",
+    "id": "Brouwer1911a",
     "title": "Review of Mannoury's Methodologisches und Philosophisches zur Elementar-Mathematik",
     "authors": [
       "luitzen-egbertus-jan-brouwer"
@@ -10657,7 +10657,7 @@
     "authors": [
       "artur-schoenflies"
     ],
-    "year": 1911,
+    "year": 1910,
     "type": "article",
     "journal": "Schriften der Phys.-ökon. Gesellschaft zu Königsberg i. Pr",
     "volume": "51",
@@ -11753,7 +11753,7 @@
     "authors": [
       "luitzen-egbertus-jan-brouwer"
     ],
-    "year": 1914,
+    "year": 1913,
     "type": "article",
     "journal": "Bull. Amer. Math. Soc",
     "volume": "20",
@@ -13712,7 +13712,7 @@
     "notes": "Published in Jour. philos. etc., vol. 17. Quote: \"Mr. E. L. Post, of the department of mathematics in Columbia University, calls my attention to an error in the development of the system of 'Strict Implication,' as presented in Chapter V of A Survey of Symbolic Logic.\" See further Appendix II of Lewis and Langford's Symbolic logic."
   },
   {
-    "id": "Loria120a",
+    "id": "Loria1920a",
     "title": "Review of Burali-Forti's Logica matematica, 2nd. edn.",
     "authors": [
       "gino-loria"
@@ -15039,7 +15039,7 @@
     "authors": [
       "michele-cipolla"
     ],
-    "year": 1924,
+    "year": 1923,
     "type": "article",
     "journal": "Annali di matematica pura ed applicata",
     "volume": "4 s 1",
@@ -16043,12 +16043,12 @@
     "notes": "English translation of title: (On the Russell antinomy)."
   },
   {
-    "id": "Brouwer1924a",
+    "id": "Brouwer1925c",
     "title": "Zur Begründung der intuitionistischen Mathematik",
     "authors": [
       "luitzen-egbertus-jan-brouwer"
     ],
-    "year": 1926,
+    "year": "1925-27",
     "type": "article",
     "journal": "Math. Annalen",
     "volume": "93",
@@ -22212,7 +22212,7 @@
     "notes": "Author block contains an A flag. Published in Erkenntnis, vol. 3 (1932-3)."
   },
   {
-    "id": "Reymond1922a",
+    "id": "Reymond1932a",
     "title": "Les principes de la logique et la critique contemporaine",
     "authors": [
       "arnold-reymond"
@@ -38142,7 +38142,7 @@
     ],
     "year": 1934,
     "type": "book chapter",
-    "journal": "Dictionary of American Biography",
+    "book_title": "Dictionary of American Biography",
     "volume": "14",
     "pages": "398-403",
     "notes": "New York 1934."
@@ -38291,7 +38291,7 @@
     ],
     "year": 1935,
     "type": "book chapter",
-    "journal": "Die philosophischen Strömungen der Gegenwart in Grossbritannien",
+    "book_title": "Die philosophischen Strömungen der Gegenwart in Grossbritannien",
     "volume": "2",
     "pages": "247-264",
     "notes": "Chapter in Die philosophischen Strömungen der Gegenwart in Grossbritannien by Rudolf Metz, vol. 2. Leipzig 1935."
@@ -38894,7 +38894,7 @@
     ],
     "year": 1874,
     "type": "book chapter",
-    "journal": "Psychologie vom empirischen Standpunkte, vol. 1",
+    "book_title": "Psychologie vom empirischen Standpunkte, vol. 1",
     "pages": "266-306",
     "notes": "Book II, Chapter VII of Psychologie vom empirischen Standpunkte, Leipzig 1874. Reprinted 1911 as Chapter III of Von der Klassifikation der psychischen Phänomene. Reprinted Leipzig 1925 in Franz Brentano Psychologie vom empirischen Standpunkt, edited by Oskar Kraus, vol. 2, pp. 38–82. Cf. entry 771 in A bibliography of symbolic logic."
   },
@@ -40726,7 +40726,7 @@
     ],
     "year": 1923,
     "type": "book chapter",
-    "journal": "The meaning of meaning, A study of the influence of language upon thought and of the science of symbolism",
+    "book_title": "The meaning of meaning, A study of the influence of language upon thought and of the science of symbolism",
     "pages": "419-444",
     "notes": "Harcourt, Brace & Company, Inc., New York, and Kegan Paul, Trench, Trubner & Co., Ltd., London, 1923."
   },
@@ -40797,7 +40797,7 @@
     ],
     "year": 1924,
     "type": "book chapter",
-    "journal": "La géométrie dans le monde sensible",
+    "book_title": "La géométrie dans le monde sensible",
     "pages": "XI-XV",
     "notes": "In Jean Nicod, La géométrie dans le monde sensible (1924)."
   },
@@ -40809,7 +40809,7 @@
     ],
     "year": 1930,
     "type": "book chapter",
-    "journal": "Foundations of geometry & induction",
+    "book_title": "Foundations of geometry & induction",
     "pages": "1-192",
     "notes": "English translation of XXXII 552(15) by Philip Paul Wiener. Harcourt, Brace and Company, New York, and Kegan Paul, Trench, Trubner & Co., Ltd., London, 1930."
   },
@@ -40821,7 +40821,7 @@
     ],
     "year": 1930,
     "type": "book chapter",
-    "journal": "Foundations of geometry & induction",
+    "book_title": "Foundations of geometry & induction",
     "pages": "5-9",
     "notes": "English translation of XXXII 552(16) by Philip Paul Wiener. In Jean Nicod, Foundations of geometry & induction (1930)."
   },
@@ -40833,7 +40833,7 @@
     ],
     "year": 1925,
     "type": "book chapter",
-    "journal": "Lehrbuch der Philosophie, Vol. 2, Die Philosophie in ihren Einzelgebieten",
+    "book_title": "Lehrbuch der Philosophie, Vol. 2, Die Philosophie in ihren Einzelgebieten",
     "pages": "1-294",
     "notes": "Edited by Max Dessoir, Ullstein, Berlin 1925."
   },
@@ -40869,7 +40869,7 @@
     ],
     "year": 1925,
     "type": "book chapter",
-    "journal": "Abstracts of theses, Science series vol. 1",
+    "book_title": "Abstracts of theses, Science series vol. 1",
     "pages": "31-37",
     "notes": "The University of Chicago Press, Chicago, The Baker & Taylor Company, New York, The Cambridge University Press, London, The Maruzen-Kabushiki-Kaisha, Tokyo, Osaka, Kyoto, Fukuoka, and Sendai, and The Mission Book Company, Shanghai, 1925."
   },
@@ -41024,7 +41024,7 @@
     ],
     "year": 1929,
     "type": "book chapter",
-    "journal": "Essays in philosophy by seventeen Doctors of Philosophy of the University of Chicago",
+    "book_title": "Essays in philosophy by seventeen Doctors of Philosophy of the University of Chicago",
     "pages": "251-268",
     "notes": "Edited by Thomas Vernor Smith and William Kelley Wright, The Open Court Publishing Co., Chicago and London 1929."
   },
@@ -41062,7 +41062,7 @@
     ],
     "year": 1929,
     "type": "book chapter",
-    "journal": "Essays in honor of John Dewey on the occasion of his seventieth birthday, October 20, 1929",
+    "book_title": "Essays in honor of John Dewey on the occasion of his seventieth birthday, October 20, 1929",
     "pages": "369-388",
     "notes": "Henry Holt and Company, New York 1929."
   },
@@ -41133,7 +41133,7 @@
     ],
     "year": 1930,
     "type": "book chapter",
-    "journal": "Contemporary American philosophy, personal statements, vol. II",
+    "book_title": "Contemporary American philosophy, personal statements, vol. II",
     "pages": "29-51",
     "notes": "Edited by George P. Adams and Wm. Pepperell Montague, The Macmillan Company, New York 1930."
   },
@@ -41349,7 +41349,7 @@
     ],
     "year": 1934,
     "type": "book chapter",
-    "journal": "Alte Probleme—Neue Lösungen in den exakten Wissenschaften, Fünf Wiener Vorträge, Zweiter Zyklus",
+    "book_title": "Alte Probleme—Neue Lösungen in den exakten Wissenschaften, Fünf Wiener Vorträge, Zweiter Zyklus",
     "pages": "93-116",
     "notes": "Franz Deuticke, Leipzig and Vienna 1934."
   },
@@ -41361,7 +41361,7 @@
     ],
     "year": 1934,
     "type": "book chapter",
-    "journal": "Atti VIII° Congresso Nazionale di Filosofia, Roma, 24-28 Ottobre 1933-XI°",
+    "book_title": "Atti VIII° Congresso Nazionale di Filosofia, Roma, 24-28 Ottobre 1933-XI°",
     "pages": "84-94",
     "notes": "Società Filosofica Italiana, Rome 1934."
   },
@@ -41373,7 +41373,7 @@
     ],
     "year": 1934,
     "type": "book chapter",
-    "journal": "Atti VIII° Congresso Nazionale di Filosofia, Roma, 24-28 Ottobre 1933-XI°",
+    "book_title": "Atti VIII° Congresso Nazionale di Filosofia, Roma, 24-28 Ottobre 1933-XI°",
     "pages": "95-105",
     "notes": "Società Filosofica Italiana, Rome 1934."
   },
@@ -41567,7 +41567,7 @@
     ],
     "year": 1901,
     "type": "book chapter",
-    "journal": "Bibliothèque du Congrès International de Philosophie, Volume III, Logique et histoire des sciences",
+    "book_title": "Bibliothèque du Congrès International de Philosophie, Volume III, Logique et histoire des sciences",
     "pages": "309-365",
     "notes": "Librairie Armand Colin, Paris 1901. Omitted from A bibliography of symbolic logic but historically important as the first publication of Padoa's method. Note signed by Alonzo Church."
   },
@@ -41976,7 +41976,7 @@
     ],
     "year": 1936,
     "type": "book chapter",
-    "journal": "Actes du Congrès International de Philosophie Scientifique",
+    "book_title": "Actes du Congrès International de Philosophie Scientifique",
     "volume": "Hermann & Cie Editeurs, Actualités Scientifiques et Industrielles 389",
     "notes": "Published in Paris."
   },
@@ -41988,7 +41988,7 @@
     ],
     "year": 1936,
     "type": "book chapter",
-    "journal": "Actes du Congrès International de Philosophie Scientifique",
+    "book_title": "Actes du Congrès International de Philosophie Scientifique",
     "volume": "Hermann & Cie Editeurs, Actualités Scientifiques et Industrielles 389",
     "notes": "Expanded journal from 'Ibid.' reference matching the Hempel/Oppenheim Actes entry."
   },
@@ -42000,7 +42000,7 @@
     ],
     "year": 1936,
     "type": "book chapter",
-    "journal": "Actes du Congrès International de Philosophie Scientifique",
+    "book_title": "Actes du Congrès International de Philosophie Scientifique",
     "volume": "Hermann & Cie Editeurs, Actualités Scientifiques et Industrielles 390",
     "notes": "Fragmented title entry in source due to layout overlap."
   },
@@ -42012,7 +42012,7 @@
     ],
     "year": 1936,
     "type": "book chapter",
-    "journal": "Actes du Congrès International de Philosophie Scientifique",
+    "book_title": "Actes du Congrès International de Philosophie Scientifique",
     "notes": "Fragmented citation from Actes collection."
   },
   {
@@ -42023,7 +42023,7 @@
     ],
     "year": 1936,
     "type": "book chapter",
-    "journal": "Actes du Congrès International de Philosophie Scientifique",
+    "book_title": "Actes du Congrès International de Philosophie Scientifique",
     "notes": "Fragmented citation from Actes collection."
   },
   {
@@ -42034,7 +42034,7 @@
     ],
     "year": 1936,
     "type": "book chapter",
-    "journal": "Actes du Congrès International de Philosophie Scientifique",
+    "book_title": "Actes du Congrès International de Philosophie Scientifique",
     "volume": "Actualités Scientifiques et Industrielles",
     "notes": "Fragmented citation."
   },
@@ -42046,7 +42046,7 @@
     ],
     "year": 1936,
     "type": "book chapter",
-    "journal": "Actes du Congrès International de Philosophie Scientifique",
+    "book_title": "Actes du Congrès International de Philosophie Scientifique",
     "notes": "Fragmented citation context."
   },
   {
@@ -42057,7 +42057,7 @@
     ],
     "year": 1936,
     "type": "book chapter",
-    "journal": "Actes du Congrès International de Philosophie Scientifique",
+    "book_title": "Actes du Congrès International de Philosophie Scientifique",
     "notes": "Fragmented citation context."
   },
   {
@@ -42068,7 +42068,7 @@
     ],
     "year": 1936,
     "type": "book chapter",
-    "journal": "Actes du Congrès International de Philosophie Scientifique",
+    "book_title": "Actes du Congrès International de Philosophie Scientifique",
     "pages": "20-23"
   },
   {
@@ -42805,7 +42805,7 @@
       "julien-pacotte"
     ],
     "year": 1937,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Travaux du IXe Congrès International de Philosophie",
     "volume": "VI",
     "publisher": "Hermann et Cie",
@@ -42820,7 +42820,7 @@
       "j-h-tummers"
     ],
     "year": 1937,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Travaux du IXe Congrès International de Philosophie",
     "volume": "VI",
     "publisher": "Hermann et Cie",
@@ -42896,7 +42896,7 @@
       "robert-launay"
     ],
     "year": 1937,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Travaux du IXe Congrès International de Philosophie",
     "volume": "VI",
     "publisher": "Hermann et Cie",
@@ -42911,7 +42911,7 @@
       "rozsa-peter"
     ],
     "year": 1937,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Comptes rendus du Congrès International des Mathématiciens Oslo 1936",
     "volume": "2",
     "publisher": "A. W. Brøggers Boktrykkeri A/S",
@@ -42925,7 +42925,7 @@
       "thoralf-skolem"
     ],
     "year": 1937,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Comptes rendus du Congrès International des Mathématiciens Oslo 1936",
     "volume": "2",
     "publisher": "A. W. Brøggers Boktrykkeri A/S",
@@ -42940,7 +42940,7 @@
       "alfred-errera"
     ],
     "year": 1937,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Comptes rendus du Congrès International des Mathématiciens Oslo 1936",
     "volume": "2",
     "publisher": "A. W. Brøggers Boktrykkeri A/S",
@@ -43100,7 +43100,7 @@
       "paul-bernays"
     ],
     "year": 1938,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Travaux du IXe Congrès International de Philosophie",
     "volume": "VI",
     "publisher": "Hermann et Cie",
@@ -43115,7 +43115,7 @@
       "a-fraenkel"
     ],
     "year": 1938,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Travaux du IXe Congrès International de Philosophie",
     "volume": "VI",
     "publisher": "Hermann et Cie",
@@ -43130,7 +43130,7 @@
       "gerhard-gentzen"
     ],
     "year": 1938,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Travaux du IXe Congrès International de Philosophie",
     "volume": "VI",
     "publisher": "Hermann et Cie",
@@ -43145,7 +43145,7 @@
       "hans-hermes"
     ],
     "year": 1938,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Travaux du IXe Congrès International de Philosophie",
     "volume": "VI",
     "publisher": "Hermann et Cie",
@@ -43160,7 +43160,7 @@
       "albert-lautman"
     ],
     "year": 1938,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Travaux du IXe Congrès International de Philosophie",
     "volume": "VI",
     "publisher": "Hermann et Cie",
@@ -43507,7 +43507,7 @@
       "georges-bouligand"
     ],
     "year": 1937,
-    "type": "article",
+    "type": "inproceedings",
     "journal": "Travaux du IXe Congrès International de Philosophie",
     "volume": "VI",
     "publisher": "Hermann et Cie",
