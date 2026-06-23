@@ -22,6 +22,14 @@ def load_authors(file_path):
         print(f"Error: expected a JSON array in '{file_path}'")
         return []
 
+    def is_first_name_only(term, full_name):
+        if not term or not full_name:
+            return False
+
+        term_norm = term.strip().lower()
+        full_tokens = re.findall(r"\b[\w'-]+\b", full_name.lower())
+        return len(full_tokens) > 1 and term_norm == full_tokens[0]
+
     terms = []
     for author in authors:
         if not isinstance(author, dict):
@@ -41,7 +49,7 @@ def load_authors(file_path):
             })
 
         for alt_name in alternative_names:
-            if alt_name:
+            if alt_name and not is_first_name_only(alt_name, full_name):
                 terms.append({
                     'term': alt_name,
                     'match_source': 'author_alternative_name',
@@ -66,28 +74,30 @@ def load_work_terms(file_path):
         return []
 
     work_terms = []
-    for work_id, work in works.items():
+    for work in works:
         title = work.get('title')
+        id = work.get('id')
         if title:
             work_terms.append({
                 'term': title,
-                'work_id': work_id,
+                'work_id': id,
                 'match_source': 'work_title',
                 'canonical_title': title,
                 'year': work.get('year'),
                 'author_id': work.get('author'),
             })
 
-        for alt_title in work.get('alternative_titles', []):
-            if alt_title:
-                work_terms.append({
-                    'term': alt_title,
-                    'work_id': work_id,
-                    'match_source': 'work_alternative_title',
-                    'canonical_title': title,
-                    'year': work.get('year'),
-                    'author_id': work.get('author'),
-                })
+        if work.get('alternative_titles') is not None:
+            for alt_title in work.get('alternative_titles', []):
+                if alt_title:
+                    work_terms.append({
+                        'term': alt_title,
+                        'work_id': id,
+                        'match_source': 'work_alternative_title',
+                        'canonical_title': title,
+                        'year': work.get('year'),
+                        'author_id': work.get('author'),
+                    })
 
     return work_terms
 
@@ -104,19 +114,64 @@ def extract_text_from_pdf(pdf_path):
     return " ".join(text_content)
 
 
-def find_matches(text, term, window=80):
-    """Find every occurrence of a term and return context snippets with fixed windows."""
+def split_sentences(text):
+    """Split text into sentences while preserving start/end offsets."""
+    sentences = []
+    start = 0
+    for match in re.finditer(r'(?<=[.!?])\s+', text):
+        end = match.end()
+        sentence = text[start:end].strip()
+        if sentence:
+            sentences.append((start, end, sentence))
+        start = end
+
+    if start < len(text):
+        sentence = text[start:].strip()
+        if sentence:
+            sentences.append((start, len(text), sentence))
+
+    if not sentences and text.strip():
+        sentences.append((0, len(text), text.strip()))
+
+    return sentences
+
+
+def find_matches(text, term, window=80, require_capitalized_start=False):
+    """Find every occurrence of a term and return snippets containing nearby sentences."""
     snippets = []
     escaped_term = re.escape(term)
     pattern = re.compile(rf'(?<!\w){escaped_term}(?!\w)', flags=re.IGNORECASE)
+    sentence_spans = split_sentences(text)
 
     for match in pattern.finditer(text):
-        start = max(0, match.start() - window)
-        end = min(len(text), match.end() + window)
-        snippet = text[start:end].replace('\n', ' ')
+        if require_capitalized_start:
+            first_char = text[match.start()]
+            if not first_char.isupper():
+                continue
+
+        # Locate the sentence containing the match
+        sentence_index = None
+        for idx, (sent_start, sent_end, _) in enumerate(sentence_spans):
+            if sent_start <= match.start() < sent_end:
+                sentence_index = idx
+                break
+
+        if sentence_index is None:
+            continue
+
+        selected = []
+        if sentence_index > 0:
+            selected.append(sentence_spans[sentence_index - 1][2])
+        selected.append(sentence_spans[sentence_index][2])
+        if sentence_index + 1 < len(sentence_spans):
+            selected.append(sentence_spans[sentence_index + 1][2])
+
+        snippet = ' '.join(s.replace('\n', ' ') for s in selected)
         snippet = ' '.join(snippet.split())
-        prefix = '...' if start > 0 else ''
-        suffix = '...' if end < len(text) else ''
+        sentence_start = sentence_spans[sentence_index][0]
+        sentence_end = sentence_spans[sentence_index][1]
+        prefix = '...' if sentence_start > 0 else ''
+        suffix = '...' if sentence_end < len(text) else ''
         snippets.append(f"{prefix}{snippet}{suffix}")
 
     return snippets
@@ -139,9 +194,6 @@ def find_work_references(snippet, work_terms):
                 'work_id': term_item['work_id'],
                 'matched_term': term_item['term'],
                 'canonical_title': term_item['canonical_title'],
-                'match_source': term_item['match_source'],
-                'year': term_item.get('year'),
-                'author_id': term_item.get('author_id'),
             })
     return references
 
@@ -163,33 +215,27 @@ def extract_matches_from_text(pdf_path, authors_file_path, works_file_path, wind
     results = []
     for term_item in terms_to_search:
         term = term_item['term']
-        matches = find_matches(raw_text, term, window=window)
+        matches = find_matches(raw_text, term, window=window, require_capitalized_start=True)
         for snippet in matches:
-            result = {
-                'matched_term': term,
-                'match_source': term_item['match_source'],
-                'author_id': term_item.get('author_id'),
-                'work_id': None,
-                'canonical_title': None,
-                'snippet': snippet,
-                'year_matches': collect_years(snippet),
-            }
-
             related_works = find_work_references(snippet, work_terms)
             if related_works:
-                result['related_works'] = related_works
-
-            results.append(result)
+                result = {
+                    'matched_term': term,
+                    'matched_author': term_item.get('author_id'),
+                    'snippet': snippet,
+                    'matched_works': related_works,
+                }
+                results.append(result)
 
     return results
 
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Extract name and title matches from a PDF.')
-    parser.add_argument('--pdf', default='/Users/matthewma/Downloads/Sidgwick-Mind-1880.pdf', help='Path to the PDF file to scan.')
-    parser.add_argument('--authors', default='active/authors.json', help='Path to the authors JSON file.')
-    parser.add_argument('--works', default='mind_works.json', help='Path to the works JSON file.')
-    parser.add_argument('--output', default='extracted_mind_citations.json', help='Path to write the JSON output.')
+    parser.add_argument('--pdf', default='/Users/matthewma/Downloads/Chadwick-LogicalConstants-1927.pdf', help='Path to the PDF file to scan.')
+    parser.add_argument('--authors', default='active_data/authors.json', help='Path to the authors JSON file.')
+    parser.add_argument('--works', default='active_data/works.json', help='Path to the works JSON file.')
+    parser.add_argument('--output', default='active_data/extracted_mind_citations.json', help='Path to write the JSON output.')
     parser.add_argument('--window', type=int, default=80, help='Characters before and after each match.')
     return parser.parse_args()
 

@@ -1,0 +1,471 @@
+[
+  {
+    "matched_term": "Russell",
+    "matched_author": "bertrand-russell",
+    "snippet": "...Again, the non-formal qualities and relations of things in the world are contrasted with logical -constants when Mr. Russell asserts, of any proposition which belongs to Logic, that \"Since it does not mention any particular thing, or even any particular quality or relation, it is wholly independent of the accidental facts of the existent world, and can be known, I Logic, Part II., p. 138....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860b",
+        "matched_term": "Relation",
+        "canonical_title": "Relation"
+      }
+    ]
+  },
+  {
+    "matched_term": "Johnson",
+    "matched_author": "d-randolph-johnson-jr",
+    "snippet": "...Logical constants are discussed under the title of \"purely logical factors\" in the following passage from Mr. Johnson's Logic (Part I., p. xxiv): \" Mathematics is applied logic in a certain very unique sense, for mnathematics is nothing but an extension of logical formule introducing none but purely logical factors; while every other science borrows its material from experiential sources, and can only use logical principles when or after such material is supplied \"....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      },
+      {
+        "work_id": "Whitehead1911a",
+        "matched_term": "Mathematics",
+        "canonical_title": "Mathematics"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  },
+  {
+    "matched_term": "Johnson",
+    "matched_author": "d-randolph-johnson-jr",
+    "snippet": "...Mr. Johnson goes on to explain that it is only in Applied Mathematics, where these formule have to be applied to Reality, that \"a process of thought other than merely mathematical enters in, and in- tuition is directed to what is given in solne form of experience \". Whereas, he says, in every extension of Pure Mathematics, \" no new idea or mode of thought need accompany the work of the calculus....",
+    "matched_works": [
+      {
+        "work_id": "Whitehead1911a",
+        "matched_term": "Mathematics",
+        "canonical_title": "Mathematics"
+      }
+    ]
+  },
+  {
+    "matched_term": "Johnson",
+    "matched_author": "d-randolph-johnson-jr",
+    "snippet": "...The ideas which enter into the mathe- matical sciences thus constructed have a form which renders them amenable to purely logical processes of indefinite degrees of complexity; this distinguishes them from the non-mathe- matical or 'natural' sciences that introduce ideas dependent simply upon brute matter, unamenable to.logical analysis, logic entering only in the applicationl to thes.e ideas of classi- fication and the-principles of inductive inference.\" In contrast to these \"ideas dependent simply upon brute matter,\" Mr. Johnson 1 describes the \" purely logical factors \" -or logical constants-as formal conceptions which are to be understood by the logician as such. He instances such notions as red, popular, virtuous, as not having to be under- stood by the logician as such, since they are not essential -to the explication of logical forms....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  },
+  {
+    "matched_term": "Russell",
+    "matched_author": "f-c-russell",
+    "snippet": "...Again, the non-formal qualities and relations of things in the world are contrasted with logical -constants when Mr. Russell asserts, of any proposition which belongs to Logic, that \"Since it does not mention any particular thing, or even any particular quality or relation, it is wholly independent of the accidental facts of the existent world, and can be known, I Logic, Part II., p. 138....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860b",
+        "matched_term": "Relation",
+        "canonical_title": "Relation"
+      }
+    ]
+  },
+  {
+    "matched_term": "Ramsey",
+    "matched_author": "frank-plumpton-ramsey",
+    "snippet": "...This distinction must of course be reflected in the ranges of propositions which are values for a propositional function; and that reflected dis- tinction is, in my view, the \" obscurely felt difference in regard to ranges of propositions\" to which Mr. Ramsey (if I have rightly understood his recent papers) ascribes the philosopher's habit of taking for granted the distinction between universals on the one hand and existents (or particulars) on the other. To return to the concrete facts which make up Reality and from which universals and existents are, so to speak, extracted....",
+    "matched_works": [
+      {
+        "work_id": "Ramsey1925c",
+        "matched_term": "Universals",
+        "canonical_title": "Universals"
+      }
+    ]
+  },
+  {
+    "matched_term": "Sheffer",
+    "matched_author": "h-m-sheffer",
+    "snippet": "...Whereas in the case of a conjunctive fact to know P-and-Q is equivalent to know- ing P and knowing Q. If we agree to take this notion of conjunction as one of our indefinables, and if we also take the notion of negation as indefinable, we can proceed to define what Sheffer and Nicod have called \"the incompatibility of P and Q,\" and 'have symbolised by P/Q, as not-(P-and-Q)-i.e., as the negation of a conjunction. The uniformity of this stroke-notation is found to be symbolically convenient in that part of Mathe- matical Logic which is known as the \" Calculus of Proposi- tions \"....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  },
+  {
+    "matched_term": "J. A. Chadwick",
+    "matched_author": "j-a-chadwick",
+    "snippet": "Logical Constants Author(s): J. A....",
+    "matched_works": [
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      }
+    ]
+  },
+  {
+    "matched_term": "J. A. Chadwick",
+    "matched_author": "j-a-chadwick",
+    "snippet": "...A QUARTERLY REVIEW OF PSYCHOLOGY AND PHILOSOPHY I.-LOGICAL CONSTANTS. BY J. A....",
+    "matched_works": [
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      }
+    ]
+  },
+  {
+    "matched_term": "J. A. Chadwick",
+    "matched_author": "j-a-chadwick",
+    "snippet": "...Thus if it is the case that the sun is being eclipsed, and we take this to be the fact that the moonl is between the earth and the sun at such-and-such a time, then a possible analysis of this fact will be into a triadic re- lation-\" being linearly between \"-as principal universal and three other entities which are related by that relation, one of the three being an event in the history of the moon, and the other two being events in the history of the earth and of the sun respectively. Analysis of any given fact, therefore, will reveal one and only one entity (viz., a simple non-analysable property or 1 This content downloaded from (cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)70.31.233.72 on Tue, 23 Jun 2026 14:44:00 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0) All use subject to https://about.jstor.org/terms 2 J. A....",
+    "matched_works": [
+      {
+        "work_id": "DeMorgan1860b",
+        "matched_term": "Relation",
+        "canonical_title": "Relation"
+      }
+    ]
+  },
+  {
+    "matched_term": "J. A. Chadwick",
+    "matched_author": "j-a-chadwick",
+    "snippet": "...III. So far, then, we have relations of conjunction forming our first set of logical constants, and relations of negation forming This content downloaded from (cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)70.31.233.72 on Tue, 23 Jun 2026 14:44:00 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0) All use subject to https://about.jstor.org/terms 6 J. A....",
+    "matched_works": [
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      }
+    ]
+  },
+  {
+    "matched_term": "Chadwick",
+    "matched_author": "j-a-chadwick",
+    "snippet": "...A. CHADWICK. BEFORE focussing our attention upon logical constants them- selves we ought perhaps to take a bird's-eye view of some of the surrounding territory which forms, as it were, their setting or context....",
+    "matched_works": [
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      }
+    ]
+  },
+  {
+    "matched_term": "Chadwick",
+    "matched_author": "j-a-chadwick",
+    "snippet": "...A. CHADWICK: relation) functioning as its principal universal. The remain- ing entity or entities yield.ed by analysis will, in the case of some facts, be existents (such, for instance, as events in the moon, the earth, and the sun in our example of the eclipse); but in the case of other facts I am going to suggest that they may be properties or relations-i.e., that they may be uni- versals, although not functioninig as the principal universal of the fact in question....",
+    "matched_works": [
+      {
+        "work_id": "MacColl1907a",
+        "matched_term": "Question",
+        "canonical_title": "Question"
+      },
+      {
+        "work_id": "DeMorgan1860b",
+        "matched_term": "Relation",
+        "canonical_title": "Relation"
+      }
+    ]
+  },
+  {
+    "matched_term": "Chadwick",
+    "matched_author": "j-a-chadwick",
+    "snippet": "...A. CHADWICK: II. WeI have just been considering the triadic relation of \" giving\" as holding between A, B and C....",
+    "matched_works": [
+      {
+        "work_id": "DeMorgan1860b",
+        "matched_term": "Relation",
+        "canonical_title": "Relation"
+      }
+    ]
+  },
+  {
+    "matched_term": "Chadwick",
+    "matched_author": "j-a-chadwick",
+    "snippet": "...A. CHADWICK: it would seem as if Modality is simply introduced implicitly instead of being explicitly acknowledged. On the traditional view Logic guarantees certain proposi- tions (namely those which \" belong to Logic\" and whatever others are entailed by those) as necessary, but- is not concerned either to assert or to deny that other propositions are true without being necessary-are, in other words, contingent truths....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  },
+  {
+    "matched_term": "Chadwick",
+    "matched_author": "j-a-chadwick",
+    "snippet": "...A. CHADWICK: fact, a triadic relation hold-ing between A and C and the re- lation of giving. This relation, which is the principal uni- versal of the fact recorded by \" There is an x such that A gives x to C,\" will be one of the logical constants belonging to our fourth set; and so likewise will the property of \" having application \" and the relation of \" belonging to the field of \"....",
+    "matched_works": [
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      },
+      {
+        "work_id": "DeMorgan1860b",
+        "matched_term": "Relation",
+        "canonical_title": "Relation"
+      }
+    ]
+  },
+  {
+    "matched_term": "McTaggart",
+    "matched_author": "j-e-mctaggart",
+    "snippet": "...But I should not feel it safe to rule out the bare possibility that there may be existents which are neither in space nor in time. For example, the selves or spirits into which (according to McTaggart) the Absolute is differentiated would be existents enjoying a timeless and non- spatial existence. Consequently I have to fall back upon the admittedly questionable a priori distinction, being left with *the bare assertion that existents are in a different logical category from universals-their distinctive mark being that they are ineligible for the post of principal universal in a fact....",
+    "matched_works": [
+      {
+        "work_id": "Ramsey1925c",
+        "matched_term": "Universals",
+        "canonical_title": "Universals"
+      }
+    ]
+  },
+  {
+    "matched_term": "Johnson",
+    "matched_author": "james-s-johnson",
+    "snippet": "...Logical constants are discussed under the title of \"purely logical factors\" in the following passage from Mr. Johnson's Logic (Part I., p. xxiv): \" Mathematics is applied logic in a certain very unique sense, for mnathematics is nothing but an extension of logical formule introducing none but purely logical factors; while every other science borrows its material from experiential sources, and can only use logical principles when or after such material is supplied \"....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      },
+      {
+        "work_id": "Whitehead1911a",
+        "matched_term": "Mathematics",
+        "canonical_title": "Mathematics"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  },
+  {
+    "matched_term": "Johnson",
+    "matched_author": "james-s-johnson",
+    "snippet": "...Mr. Johnson goes on to explain that it is only in Applied Mathematics, where these formule have to be applied to Reality, that \"a process of thought other than merely mathematical enters in, and in- tuition is directed to what is given in solne form of experience \". Whereas, he says, in every extension of Pure Mathematics, \" no new idea or mode of thought need accompany the work of the calculus....",
+    "matched_works": [
+      {
+        "work_id": "Whitehead1911a",
+        "matched_term": "Mathematics",
+        "canonical_title": "Mathematics"
+      }
+    ]
+  },
+  {
+    "matched_term": "Johnson",
+    "matched_author": "james-s-johnson",
+    "snippet": "...The ideas which enter into the mathe- matical sciences thus constructed have a form which renders them amenable to purely logical processes of indefinite degrees of complexity; this distinguishes them from the non-mathe- matical or 'natural' sciences that introduce ideas dependent simply upon brute matter, unamenable to.logical analysis, logic entering only in the applicationl to thes.e ideas of classi- fication and the-principles of inductive inference.\" In contrast to these \"ideas dependent simply upon brute matter,\" Mr. Johnson 1 describes the \" purely logical factors \" -or logical constants-as formal conceptions which are to be understood by the logician as such. He instances such notions as red, popular, virtuous, as not having to be under- stood by the logician as such, since they are not essential -to the explication of logical forms....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  },
+  {
+    "matched_term": "Nicod",
+    "matched_author": "jean-nicod",
+    "snippet": "...Whereas in the case of a conjunctive fact to know P-and-Q is equivalent to know- ing P and knowing Q. If we agree to take this notion of conjunction as one of our indefinables, and if we also take the notion of negation as indefinable, we can proceed to define what Sheffer and Nicod have called \"the incompatibility of P and Q,\" and 'have symbolised by P/Q, as not-(P-and-Q)-i.e., as the negation of a conjunction. The uniformity of this stroke-notation is found to be symbolically convenient in that part of Mathe- matical Logic which is known as the \" Calculus of Proposi- tions \"....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  },
+  {
+    "matched_term": "Russell",
+    "matched_author": "l-j-russell",
+    "snippet": "...Again, the non-formal qualities and relations of things in the world are contrasted with logical -constants when Mr. Russell asserts, of any proposition which belongs to Logic, that \"Since it does not mention any particular thing, or even any particular quality or relation, it is wholly independent of the accidental facts of the existent world, and can be known, I Logic, Part II., p. 138....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860b",
+        "matched_term": "Relation",
+        "canonical_title": "Relation"
+      }
+    ]
+  },
+  {
+    "matched_term": "Wittgenstein",
+    "matched_author": "ludwig-wittgenstein",
+    "snippet": "...But, in addition, we shall have four more complicated facts which may be recorded by the sentences:- (1) \" P-and-Q is logically possible\" (2) \" P-and-(not-Q) is logically possible\" (3) \" (not-P)-and-Q is logically possible \" (4) \" (not-P)-and-(not-Q) is logically possible.\" These correspond to the four \" truth-possibilities \" which Mr. Wittgenstein talks of in such a case (see Tractatus Logico-Philosophicus, 43). Mr....",
+    "matched_works": [
+      {
+        "work_id": "Wittgenstein1922a",
+        "matched_term": "Tractatus logico-philosophicus",
+        "canonical_title": "Tractatus logico-philosophicus"
+      }
+    ]
+  },
+  {
+    "matched_term": "Wittgenstein",
+    "matched_author": "ludwig-wittgenstein",
+    "snippet": "...Now, Mr. Wittgenstein's view appears to envisage the alternatives:- (i) No atomic propositions are necessary (ii) No atomic propositions are contingent (iii) Some atomic propositions are necessary and others are contingent and to accept the first of these alternatives on the ground that each one of the atomic facts, the totalitv of which is the world, is contingent.' One might accordingly ask whether (i) is itself a contingent truth. If the answer is affirmative, then Logic remains completely indifferent as to its truth or falsity; yet Logic will still be concerned with the categories of Modality (even though one of these categories happens not to find any application in the actual existing world)....",
+    "matched_works": [
+      {
+        "work_id": "Aristotle-350a",
+        "matched_term": "Categories",
+        "canonical_title": "Categories"
+      },
+      {
+        "work_id": "Aristotle-350a",
+        "matched_term": "The Categories",
+        "canonical_title": "Categories"
+      },
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  },
+  {
+    "matched_term": "Johnson",
+    "matched_author": "w-e-johnson",
+    "snippet": "...Logical constants are discussed under the title of \"purely logical factors\" in the following passage from Mr. Johnson's Logic (Part I., p. xxiv): \" Mathematics is applied logic in a certain very unique sense, for mnathematics is nothing but an extension of logical formule introducing none but purely logical factors; while every other science borrows its material from experiential sources, and can only use logical principles when or after such material is supplied \"....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      },
+      {
+        "work_id": "Whitehead1911a",
+        "matched_term": "Mathematics",
+        "canonical_title": "Mathematics"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  },
+  {
+    "matched_term": "Johnson",
+    "matched_author": "w-e-johnson",
+    "snippet": "...Mr. Johnson goes on to explain that it is only in Applied Mathematics, where these formule have to be applied to Reality, that \"a process of thought other than merely mathematical enters in, and in- tuition is directed to what is given in solne form of experience \". Whereas, he says, in every extension of Pure Mathematics, \" no new idea or mode of thought need accompany the work of the calculus....",
+    "matched_works": [
+      {
+        "work_id": "Whitehead1911a",
+        "matched_term": "Mathematics",
+        "canonical_title": "Mathematics"
+      }
+    ]
+  },
+  {
+    "matched_term": "Johnson",
+    "matched_author": "w-e-johnson",
+    "snippet": "...The ideas which enter into the mathe- matical sciences thus constructed have a form which renders them amenable to purely logical processes of indefinite degrees of complexity; this distinguishes them from the non-mathe- matical or 'natural' sciences that introduce ideas dependent simply upon brute matter, unamenable to.logical analysis, logic entering only in the applicationl to thes.e ideas of classi- fication and the-principles of inductive inference.\" In contrast to these \"ideas dependent simply upon brute matter,\" Mr. Johnson 1 describes the \" purely logical factors \" -or logical constants-as formal conceptions which are to be understood by the logician as such. He instances such notions as red, popular, virtuous, as not having to be under- stood by the logician as such, since they are not essential -to the explication of logical forms....",
+    "matched_works": [
+      {
+        "work_id": "Spalding1857a",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      },
+      {
+        "work_id": "Chadwick1927a",
+        "matched_term": "Logical constants",
+        "canonical_title": "Logical constants"
+      },
+      {
+        "work_id": "DeMorgan1860c",
+        "matched_term": "Logic",
+        "canonical_title": "Logic"
+      }
+    ]
+  }
+]
