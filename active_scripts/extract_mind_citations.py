@@ -194,6 +194,9 @@ def find_work_references(snippet, work_terms):
                 'work_id': term_item['work_id'],
                 'matched_term': term_item['term'],
                 'canonical_title': term_item['canonical_title'],
+                'match_source': term_item['match_source'],
+                'year': term_item.get('year'),
+                'author_id': term_item.get('author_id'),
             })
     return references
 

@@ -49,7 +49,7 @@
             },
             {
                 "reference": "P. Bernays, Axiomaoiscihe Unltersuchung des Aussagenkalkids der \"Principia Afakenmalica,'! Mathematische Zeitschrift, vol. 25 (1926), pp. 305-320.",
-                "id": null
+                "id": "Bernays1926a"
             },
             {
                 "reference": "Apparent variables from the standpoint of ccmbinatory logic, Annals of mathematics, vol. 34 (1933), pp. 381-401.",
@@ -83,7 +83,7 @@
             },
             {
                 "reference": "Whitehead and Russell, Principia mathematica, 2nd. edn., vol. 1, pp. 60-65",
-                "id": null
+                "id": "RussellWhitehead1910a"
             },
             {
                 "reference": "A. Fraenkel, Einleitung in die Mengenlehre, 2nd. edn., Berlin 1923, pp. 151-157.",
@@ -91,7 +91,7 @@
             },
             {
                 "reference": "Max Black, The nature of mathematics, New York 1934",
-                "id": null
+                "id": "Black1933a"
             },
             {
                 "reference": "W. V. Quine, A system of logistic, Harvard Univ. Press 1934",
@@ -103,7 +103,7 @@
             },
             {
                 "reference": "K. Gödel, Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
-                "id": null
+                "id": "Godel1931a"
             }
         ]
     },
@@ -116,7 +116,7 @@
             },
             {
                 "reference": "Paul Weiss, On alternative loaics, The philosophical review, vol. 42 (1933), p. 522.",
-                "id": null
+                "id": "Weiss1933a"
             },
             {
                 "reference": "C. I. Lewis, Mind and the world order, New York, 1929, p. 435.",
@@ -128,7 +128,7 @@
             },
             {
                 "reference": "Bertrand Russell, Our knowledge of the external world, New York, 1929, pp. 221-223.",
-                "id": null
+                "id": "Russell1914a"
             },
             {
                 "reference": "The monist, vol. 42 (1932), p. 502",
@@ -141,7 +141,7 @@
         "references": [
             {
                 "reference": "Lewis and Langford, Symbolic logic, Chapter VI.",
-                "id": null
+                "id": "LangfordLewis1932a"
             },
             {
                 "reference": "No. 2, page 58. Editor.",
@@ -170,7 +170,7 @@
             },
             {
                 "reference": "Jacques Her- brand, Sur la non-contradiction de l'arithmtique, Journal für die reine und angewandte Mathe- matik, vol. 166 (1931-2), pp. 1-8.",
-                "id": "Herbrand1931b"
+                "id": null
             },
             {
                 "reference": "Monatshefte für Mathematik und Physik, vol. 37 (1930), pp. 349-360).",
@@ -187,7 +187,7 @@
         "references": [
             {
                 "reference": "K. Gödel, Oberformal unentscheidbare SaIze der Principia A!athematicat und ver- wandlerSysteme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
-                "id": null
+                "id": "Godel1931a"
             },
             {
                 "reference": "S. C. Kleene, General reczrsivefunctions of natural numbers, Mathe- matische Annalen, vol. 112 (1936), pp. 727-742.",
@@ -216,7 +216,7 @@
             },
             {
                 "reference": "Łukasiewicz and Tarski, Untersuchungen fiber den Aussagenkalkid, Comptes rendus Soc. Sci. et Let. de Varsovie, vol. 23 (1930), Classe III, p. 34",
-                "id": null
+                "id": "LukasiewiczTarski1930a"
             },
             {
                 "reference": "Quine, Truth by convention, Philosophical essays for A. N. Whitehead (0. H. Lee, edi- tor; New York, 1936), pp. 107-112, esp. note 18.",
@@ -228,7 +228,7 @@
             },
             {
                 "reference": "Łukasiewicz, Uwagi o aksyomacie Nicod'a i o \"dedukcyi uogólniajqcej,\" Księga pamiąt- kowa Polskiego Towarzystwa Filozowicznego we Lwowie (Lwów, 1931), pp. 2-7.",
-                "id": null
+                "id": "Lukasiewicz1931a"
             },
             {
                 "reference": "Wiener, A simplification of the logic of relations, Proceedings of the Cambridge Philosophi- cal Society, vol. 17 (1914), pp. 387-390.",
@@ -236,7 +236,7 @@
             },
             {
                 "reference": "Kuratowski, Sur la notion de l'ordre dans la thdorie des ensembles, Fundamenta mathematicae, vol. 2 (1920), p. 171.",
-                "id": null
+                "id": "KuratowskiPosament1934a"
             },
             {
                 "reference": "Der Walvkeils- begriff in den formalisierlen Sprache, Studia philosophica, vol. 1 (1935), pp. 365-366, 291-299.",
@@ -253,11 +253,11 @@
             },
             {
                 "reference": "Logistic [Quine, A system of logistic], pp. 3, 191-193",
-                "id": null
+                "id": "Quine1934a"
             },
             {
                 "reference": "Whitehead and Russell's Principia mathematica, 2nd. ed., vol. 1",
-                "id": null
+                "id": "RussellWhitehead1910a"
             },
             {
                 "reference": "Quine, Ontological remarks on the propositional calculus, Mind, n.s. vol. 43 (1934), pp. 472- 476.",
@@ -265,11 +265,11 @@
             },
             {
                 "reference": "Frege, Grundgesetze der Arithmetik, vol. 1, p. 50",
-                "id": null
+                "id": "Frege1893a"
             },
             {
                 "reference": "Carnap, Logische Syntax der Sprache, pp. 38, 192-202.",
-                "id": null
+                "id": "Carnap1934b"
             },
             {
                 "reference": "A set of postulates for tiefoundation of logic, Annals of mathematics, 2 s. vol. 33 (1932), pp. 351-354.",

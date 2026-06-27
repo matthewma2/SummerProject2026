@@ -1,11 +1,14 @@
 import json
 import re
 import unicodedata
+from difflib import SequenceMatcher
 
 # --- CONFIGURATION ---
 WORKS_FILE = "active_data/works.json"
-JSL_CITATIONS_FILE = "active_data/jsl_citations_1936.json"
-OUTPUT_FILE = "active_data/jsl_citations_1936_resolved.json"
+JSL_CITATIONS_FILE = "active_data/jsl_citations.json"
+OUTPUT_FILE = "active_data/jsl_citations_resolved.json"
+RESOLVED_REFERENCES_FILE = "active_data/jsl_citations_resolved_reference_strings.json"
+UNRESOLVED_REFERENCES_FILE = "active_data/jsl_citations_unresolved_reference_strings.json"
 
 # Multilingual stop words list to remove noise from titles/citations
 STOP_WORDS = {
@@ -20,6 +23,7 @@ STOP_WORDS = {
 
 # Tokens that appear in author-like positions but are not surnames
 AUTHOR_IGNORED = {'and', 'von', 'van', 'der', 'the', 'this', 'vol', 'journal', 'review'}
+FUZZY_TOKEN_MATCH_THRESHOLD = 0.78
 
 
 # ---------------------------------------------------------------------------
@@ -33,6 +37,20 @@ def strip_diacritics(s):
     tokenisation so that ASCII-only character classes still match names that
     contain diacritics in the source or in OCR output.
     """
+    s = str(s).translate(str.maketrans({
+        'Ł': 'L',
+        'ł': 'l',
+        'Ø': 'O',
+        'ø': 'o',
+        'Đ': 'D',
+        'đ': 'd',
+        'Þ': 'Th',
+        'þ': 'th',
+        'Æ': 'Ae',
+        'æ': 'ae',
+        'Œ': 'Oe',
+        'œ': 'oe',
+    }))
     return ''.join(
         c for c in unicodedata.normalize('NFD', str(s))
         if unicodedata.category(c) != 'Mn'
@@ -49,6 +67,26 @@ def tokenize_string(s):
         return set()
     words = re.findall(r'\b\w{3,}\b', strip_diacritics(str(s)).lower())
     return {w for w in words if w not in STOP_WORDS}
+
+
+def fuzzy_token_overlap(ref_tokens, candidate_tokens):
+    """Count exact plus close OCR/typo token matches between two token sets."""
+    exact_matches = ref_tokens.intersection(candidate_tokens)
+    matched_candidate_tokens = set(exact_matches)
+    overlap = len(exact_matches)
+
+    for ref_token in ref_tokens - exact_matches:
+        if len(ref_token) < 5:
+            continue
+        for candidate_token in candidate_tokens - matched_candidate_tokens:
+            if len(candidate_token) < 5:
+                continue
+            if SequenceMatcher(None, ref_token, candidate_token).ratio() >= FUZZY_TOKEN_MATCH_THRESHOLD:
+                matched_candidate_tokens.add(candidate_token)
+                overlap += 1
+                break
+
+    return overlap
 
 
 def normalize_text(s):
@@ -105,9 +143,15 @@ def extract_year_and_authors(reference_string):
         author_segment = reference_string
 
     author_segment = re.sub(r'\[\d+\]', '', author_segment)
+    normalized_author_segment = strip_diacritics(author_segment).lower()
     # Strip diacritics before ASCII-only regex so 'Gödel' → 'Godel' etc.
-    author_tokens = re.findall(r'\b[a-zA-Z]{3,}\b', strip_diacritics(author_segment).lower())
+    author_tokens = re.findall(r'\b[a-zA-Z]{3,}\b', normalized_author_segment)
     author_hints = [w for w in author_tokens if w not in AUTHOR_IGNORED]
+
+    # For a single named person ("Max Black", "Alonzo Church"), the last token is
+    # the surname. Coauthor strings joined by "and" keep each surname-like token.
+    if len(author_hints) > 1 and " and " not in f" {normalized_author_segment} ":
+        author_hints = [author_hints[-1]]
 
     return year, author_hints
 
@@ -162,7 +206,8 @@ def build_author_index(works_data):
 
 def _make_record(work):
     """Build the scoring record for a work, including all title variants and metadata tokens."""
-    title_tokens = tokenize_string(work.get("title", ""))
+    title = work.get("title", "")
+    title_tokens = tokenize_string(title)
     for alt_title in work.get("alternative_titles") or []:
         title_tokens.update(tokenize_string(alt_title))
 
@@ -177,8 +222,8 @@ def _make_record(work):
         "year": work.get("year"),
         "journal_norm": normalize_text(work.get("journal", "")),
         "volume": str(work.get("volume")) if work.get("volume") is not None else None,
-        # Volume hint derived from notes (e.g. "Vol. 1." in Principia notes)
-        "vol_hint": extract_vol_number(work.get("notes", "")),
+        # Volume hint derived from title or notes (e.g. Frege's Vol. 1, Principia notes)
+        "vol_hint": extract_vol_number(title) or extract_vol_number(work.get("notes", "")),
     }
 
 
@@ -187,7 +232,7 @@ def _extract_author_tokens(work):
     ignored = {'the', 'cynic', 'von', 'van', 'der', 'and'}
     tokens = set()
     for author in work.get("authors", []):
-        for w in re.findall(r'\b[a-zA-Z]{3,}\b', author.lower()):
+        for w in re.findall(r'\b[a-zA-Z]{3,}\b', strip_diacritics(author).lower()):
             if w not in ignored:
                 tokens.add(w)
     return tokens
@@ -262,7 +307,7 @@ def score_candidate(ref_tokens, ref_vol, ref_year_hint, candidate):
     Returns a comparable tuple: (title_overlap, vol_match, year_bonus, meta_bonus).
     Higher is better on every component.
     """
-    title_overlap = len(ref_tokens.intersection(candidate["title_tokens"]))
+    title_overlap = fuzzy_token_overlap(ref_tokens, candidate["title_tokens"])
 
     # Volume-number tiebreaker (especially useful for multi-volume works like Principia)
     vol_match = 0
@@ -390,6 +435,8 @@ def main():
     skipped_count = 0
     unresolved_count = 0
     loc_cit_count = 0
+    resolved_reference_strings = []
+    unresolved_reference_strings = []
 
     print("[*] Resolving reference string matches...")
     for entry in jsl_data:
@@ -427,9 +474,14 @@ def main():
 
                 ref_obj["id"] = matched_id
                 if matched_id:
+                    resolved_reference_strings.append({
+                        "reference": raw_ref,
+                        "id": matched_id,
+                    })
                     loc_cit_count += 1
                     resolved_count += 1
                 else:
+                    unresolved_reference_strings.append(raw_ref)
                     unresolved_count += 1
                 # Don't push loc. cit. entries onto history (they're not primary citations)
                 continue
@@ -442,19 +494,34 @@ def main():
             source_resolved_history.append((author_hints, resolved_id))
 
             if ok:
+                resolved_reference_strings.append({
+                    "reference": raw_ref,
+                    "id": resolved_id,
+                })
                 resolved_count += 1
             else:
+                unresolved_reference_strings.append(raw_ref)
                 unresolved_count += 1
 
     print(f"[*] Saving resolved structures to {OUTPUT_FILE}...")
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(jsl_data, f, indent=4, ensure_ascii=False)
 
+    print(f"[*] Saving resolved reference strings to {RESOLVED_REFERENCES_FILE}...")
+    with open(RESOLVED_REFERENCES_FILE, 'w', encoding='utf-8') as f:
+        json.dump(resolved_reference_strings, f, indent=4, ensure_ascii=False)
+
+    print(f"[*] Saving unresolved reference strings to {UNRESOLVED_REFERENCES_FILE}...")
+    with open(UNRESOLVED_REFERENCES_FILE, 'w', encoding='utf-8') as f:
+        json.dump(unresolved_reference_strings, f, indent=4, ensure_ascii=False)
+
     print("\n[✓] Execution Completed Successfully!")
     print(f"    - Matches Resolved (Unique ID Assigned): {resolved_count}")
     print(f"      of which loc. cit. / ibid. back-refs:  {loc_cit_count}")
     print(f"    - Internal Structural Shortcuts Skipped: {skipped_count}")
     print(f"    - Remaining Unresolved Items left as null: {unresolved_count}")
+    print(f"    - Resolved reference strings saved: {len(resolved_reference_strings)}")
+    print(f"    - Unresolved reference strings saved: {len(unresolved_reference_strings)}")
 
 
 if __name__ == "__main__":
