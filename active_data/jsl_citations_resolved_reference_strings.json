@@ -408,10 +408,6 @@
         "id": "Kleene1936a"
     },
     {
-        "reference": "Rosser, loc. cit., pp. 133-134.",
-        "id": "Rosser1937a"
-    },
-    {
         "reference": "W. V. Quine, On Cantor's theorem, this JOURNAL, vol. 2 (1937), pp. 120-124.",
         "id": "Quine1937b"
     },
@@ -1300,23 +1296,11 @@
         "id": "Bourbaki1949a"
     },
     {
-        "reference": "J. Myhill, loc. cit.",
-        "id": "Myhill1951a"
-    },
-    {
-        "reference": "J. Myhill, loc. cit.",
-        "id": "Myhill1951a"
-    },
-    {
         "reference": "E. J. LEMMON, New foundations for Lewis modal systems, this JOURNAL, vol. 22 (1957), pp. 176-186.",
         "id": "Lemmon1957a"
     },
     {
         "reference": "Lewis and Langford, Symbolic Logic, pp. 500-501.",
-        "id": "LangfordLewis1932a"
-    },
-    {
-        "reference": "Lewis and Langford, loc. cit., p. 492",
         "id": "LangfordLewis1932a"
     },
     {
@@ -1784,10 +1768,6 @@
         "id": "Birkhoff1934c"
     },
     {
-        "reference": "Birkhoff, loc. cit. p. 128",
-        "id": "Birkhoff1934c"
-    },
-    {
         "reference": "R. M. SMULLYAN, Extended canonical systems, Proceedings of the American Mathematical Society, vol. 12 (1961).",
         "id": "Smullyan1962a"
     },
@@ -1840,32 +1820,8 @@
         "id": "Henkin1949b"
     },
     {
-        "reference": "Alonzo Church, op. cit., pp. 45-46",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "Alonzo Church's F1, op. cit., p. 40",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "Alonzo Church, op. cit., pp. 73-82",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "Alonzo Church, op. cit., p. 81",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "Kurt Gödel, Ober formal unentscheidbare Sdtze der Principia Mathematica und verwandter Systeme 1, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a"
-    },
-    {
-        "reference": "Alonzo Church, op. cit., pp. 59-61",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "Alonzo Church, op. cit.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "K. GÖDEL, Consistency-proof for the generalized continuum hypothesis, Proceedings of the National Academy of Sciences of the U.S.A., vol. 25 (1939), pp. 220-224.",
@@ -2288,10 +2244,6 @@
         "id": "Mckinsey1943a"
     },
     {
-        "reference": "McKinsey, loc. cit., p. 65",
-        "id": "Mckinsey1943a"
-    },
-    {
         "reference": "D. Hilbert and P. Bernays, Grundlagen der Mathematik, Berlin 1934, vol. 1, p. 57.",
         "id": "BernaysHilbert1934a"
     },
@@ -2476,50 +2428,6 @@
         "id": "BerryChurch1945a"
     },
     {
-        "reference": "Tarski, loc. cit., esp. pp. 284-303",
-        "id": "Tarski1936a"
-    },
-    {
-        "reference": "Church, loc. cit., p. 37",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "Tarski, loc. cit., p. 289",
-        "id": "Tarski1936a"
-    },
-    {
-        "reference": "Tarski, loc. cit., pp. 285-286",
-        "id": "Tarski1936a"
-    },
-    {
-        "reference": "Tarski, loc. cit., p. 287",
-        "id": "Tarski1936a"
-    },
-    {
-        "reference": "Tarski, loc. cit., pp. 311-313",
-        "id": "Tarski1936a"
-    },
-    {
-        "reference": "Tarski, loc. cit., pp. 305-306",
-        "id": "Tarski1936a"
-    },
-    {
-        "reference": "Tarski, loc. cit., pp. 365- 366",
-        "id": "Tarski1936a"
-    },
-    {
-        "reference": "A. Church, loc. cit., pp. 59-61",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "Tarski, loc. cit., pp. 327-363",
-        "id": "Tarski1936a"
-    },
-    {
-        "reference": "Tarski, loc. cit., pp. 363-369",
-        "id": "Tarski1936a"
-    },
-    {
         "reference": "Tarski, On undecidable statements in enlarged systems of logic and the concept of truth, this JOURNAL, vol. 4 (1939), pp. 105-112, esp. p. 110.",
         "id": "Tarski1939a"
     },
@@ -2613,10 +2521,6 @@
     },
     {
         "reference": "Th. Skolem, Über einige Grundlagenfragen der Mathematik, Skrifter utgitt av det Norske Videnskaps-Akademi i Oslo, mat.-naturv. klasse, 1929, no. 4, pp. 1-49, especially §4.",
-        "id": "Skolem1929a"
-    },
-    {
-        "reference": "Skolem, loc. cit., and Ackermann, loc. cit., especially pp. 421-422",
         "id": "Skolem1929a"
     },
     {
@@ -3092,10 +2996,6 @@
         "id": "GoodmanLeonard1940a"
     },
     {
-        "reference": "Hilbert and Ackermann, loc. cit.",
-        "id": "AckermannHilbert1928a"
-    },
-    {
         "reference": "J. von Neumann, Zur Hilbertschen Beweis- theoric, Mathematische Zeitschrift, vol. 26 (1927), pp. 1-46",
         "id": "Neumann1927a"
     },
@@ -3364,14 +3264,6 @@
         "id": "AckermannHilbert1928a"
     },
     {
-        "reference": "Hilbert and Ackermann, loc. cit., p. 95",
-        "id": "AckermannHilbert1928a"
-    },
-    {
-        "reference": "Hilbert and Ackermann, loc. cit., p. 92",
-        "id": "AckermannHilbert1928a"
-    },
-    {
         "reference": "Th. Skolem, Untersuchungen über die Axiome des Klassenkalkuls und über Produktations- und Summationsprobleme, welche gewisse Klassen von Aussagen betreffen, Skrifter utgit av Videnskapsselskapet i Kristiania, I. Matematisk-naturvidenskabelig klasse 1919, no. 3 (1919), 37 pp.",
         "id": "Skolem1919a"
     },
@@ -3405,10 +3297,6 @@
     },
     {
         "reference": "H. LEBLANC, On logically false evidence statements, this JOURNAL, vol. 22 (1957), no. 4, pp. 345-349.",
-        "id": "Leblanc1957a"
-    },
-    {
-        "reference": "Leblanc, loc. cit., p. 345",
         "id": "Leblanc1957a"
     },
     {
@@ -3504,15 +3392,7 @@
         "id": "Carnap1934b"
     },
     {
-        "reference": "Carnap, loc. cit., pp. 1 ff., pp. 120 ff",
-        "id": "Carnap1934b"
-    },
-    {
         "reference": "Carnap, Logische Syntax der Sprache, p. 126",
-        "id": "Carnap1934b"
-    },
-    {
-        "reference": "Carnap, loc. cit., pp. 123-4",
         "id": "Carnap1934b"
     },
     {
@@ -3740,38 +3620,6 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "Hilbert and Bernays, loc. cit., p. 155,",
-        "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "Carnap, loc. cit. (see footnote 6), p. 142, T 28-11",
-        "id": "Carnap1935b"
-    },
-    {
-        "reference": "Hilbert and Bernays, loc. cit., p. 121",
-        "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "Hilbert and Bernays, loc. cit., pp. 185-186",
-        "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "Hilbert and Bernays, loc. cit., p. 155",
-        "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "Hilbert and Bernays, loc. cit., p. 106",
-        "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "Hilbert and Bernays, loc. cit., p. 106",
-        "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "Hilbert and Bernays, loc. cit., p. 121",
-        "id": "BernaysHilbert1934a"
-    },
-    {
         "reference": "K. GÖDEL, The consistency of the axiom of choice and of the generalized continuum hypothesis with the axioms of set theory, Princeton, 1940.",
         "id": "Godel1938a"
     },
@@ -3937,10 +3785,6 @@
     },
     {
         "reference": "W. T. Parry, Zum Lewisschen Aussagenkalkül, Ergebnisse eines the- matischen Kolloquiums, Heft 4 (1933), pp. 15-16.",
-        "id": "Parry1933b"
-    },
-    {
-        "reference": "W. T. Parry, Zum Lewisschen Aussagenkalkül, loc. cit.",
         "id": "Parry1933b"
     },
     {
@@ -4536,10 +4380,6 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "F. B. FITCH, loc. cit., 3.13 (p. 212)",
-        "id": "Fitch1949b"
-    },
-    {
         "reference": "A. HEYTING, On weakened quantification, this JOURNAL, vol. 11 (1946), pp. 119- 121",
         "id": "Heyting1946a"
     },
@@ -4745,14 +4585,6 @@
     },
     {
         "reference": "Lewis and Langford, Symbolic logic, pp. 500-501",
-        "id": "LangfordLewis1932a"
-    },
-    {
-        "reference": "Lewis and Langford, loc. cit., p. 492",
-        "id": "LangfordLewis1932a"
-    },
-    {
-        "reference": "Vide Lewis and Langford, loc. cit., pp. 492-493",
         "id": "LangfordLewis1932a"
     },
     {
@@ -5532,18 +5364,6 @@
         "id": "AckermannHilbert1928a"
     },
     {
-        "reference": "Alonzo Church, op. cit.",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "Alonzo Church and Hilbert and Ackermann, op. cit.",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "Alonzo Church, op. cit., p. 44",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "I. NISHIMURA, On formulas of one variable in intuitionistic propositional calculus, this JOURNAL, Vol. 25 (1960), pp. 327-331.",
         "id": "Nishimura1960a"
     },
@@ -5928,10 +5748,6 @@
         "id": "Tarski1924b"
     },
     {
-        "reference": "J. v. Neumann, loc. cit., Kap. VIII",
-        "id": "Neumann1928b"
-    },
-    {
         "reference": "R. M. SMULLYAN, Analytic natural deduction, this JOURNAL, vol. 30 (1965), pp. 123-139.",
         "id": "Smullyan1965a"
     },
@@ -5953,18 +5769,6 @@
     },
     {
         "reference": "N. Goodman and W. V. Quine, Steps toward a constructive nominalism, this JOURNAL, vol. 12 (1947), pp. 105-122.",
-        "id": "GoodmanQuine1947a"
-    },
-    {
-        "reference": "Tarski, loc. cit.",
-        "id": "Tarski1936a"
-    },
-    {
-        "reference": "Goodman and Quine, loc. cit.",
-        "id": "GoodmanQuine1947a"
-    },
-    {
-        "reference": "Goodman and Quine, loc. cit., esp. p. 112.",
         "id": "GoodmanQuine1947a"
     },
     {
@@ -6029,14 +5833,6 @@
     },
     {
         "reference": "Martin Davis, Arithmetical problems and recursively enumerable predicates, this JOURNAL, vol. 18 (1953), pp. 33-41, Theorem 3.1.",
-        "id": "Davis1953a"
-    },
-    {
-        "reference": "Davis, loc. cit., Theorems 3.3 and 3.4",
-        "id": "Davis1953a"
-    },
-    {
-        "reference": "Davis, loc. cit., Theorem 3.5",
         "id": "Davis1953a"
     },
     {
@@ -6148,15 +5944,7 @@
         "id": "Robinson1949a"
     },
     {
-        "reference": "JULIA ROBINSON, loc. cit.",
-        "id": "Robinson1949a"
-    },
-    {
         "reference": "Lewis and Langford, Symbolic logic, pp. 405 ff",
-        "id": "LangfordLewis1932a"
-    },
-    {
-        "reference": "Lewis and Langford, loc. cit.",
         "id": "LangfordLewis1932a"
     },
     {
@@ -6308,28 +6096,12 @@
         "id": "Fitch1942a"
     },
     {
-        "reference": "F. B. Fitch, loc. cit., p. 109",
-        "id": "Fitch1942a"
-    },
-    {
         "reference": "D. Hilbert and P. Bernays, Grundlagen der Mathematik, (1934-39), vol. 1, p. 165-9.",
-        "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "D. Hilbert and P. Bernays, loc. cit., vol. 2, pp. 9-18",
         "id": "BernaysHilbert1934a"
     },
     {
         "reference": "F. B. Fitch, Representations of calculi, this JOURNAL, vol. 9, (1944), p. 58.",
         "id": "Fitch1944b"
-    },
-    {
-        "reference": "F. B. Fitch, loc. cit., p. 59",
-        "id": "Fitch1944b"
-    },
-    {
-        "reference": "D. Hilbert and P. Bernays, loc. cit., vol. 1, p. 371",
-        "id": "BernaysHilbert1934a"
     },
     {
         "reference": "F. B. Fitch, Representations of calculi, pp. 57-62",
@@ -7004,10 +6776,6 @@
         "id": "Wajsberg1933b"
     },
     {
-        "reference": "C. I. LEWIS AND C. H. LANGFORD [7]. Symbolic logic. New York (The Century Co.), 1932, xi + 506 pp.",
-        "id": "LangfordLewis1932a"
-    },
-    {
         "reference": "J. C. C. McKinsey [8]. A solution of the decision problem for the Lewis systems S2 and 54, with an application to topology, this JOURNAL, vol. 6 (1941), pp. 117-134.",
         "id": "Mckinsey1941a"
     },
@@ -7120,10 +6888,6 @@
         "id": "Quine1936a"
     },
     {
-        "reference": "Gödel, loc. cit.",
-        "id": "Godel1931a"
-    },
-    {
         "reference": "M. TAKAHASHI, Many-valued logics of extended Gentzen style 1, Science Reports of the Tokyo Kyoiku Daigaku, Section A, vol. 9 (1967), (231), pp. 95-116.",
         "id": "Takahashi1970a"
     },
@@ -7194,10 +6958,6 @@
     {
         "reference": "S. C. Kleene, A theory of positive integers informal logic, American journal of mathemat- ics, vol. 57 (1935), pp. 153-173, 219-244.",
         "id": "Kleene1935a"
-    },
-    {
-        "reference": "Cf. Hilbert and Ackermann, loc. cit.",
-        "id": "BernaysHilbert1934a"
     },
     {
         "reference": "P. Bernays, Axiomatische Untersuchung des Aussagen-Kalkuls der \"Principia Mathematica,\" Mathematische Zeitschrift, vol. 25 (1926), pp. 305-320.",

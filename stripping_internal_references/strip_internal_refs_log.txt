@@ -1,0 +1,5376 @@
+=== strip_internal_refs removal log ===
+
+Input  : active_data/jsl_citations.json
+Output : active_data/jsl_citations_cleaned.json
+
+Total references   : 7502
+Removed            : 1786
+Kept               : 5716
+
+Breakdown by category:
+   1518  Numbered back-ref  [N] / Name [N] / [N, p.X]
+     60  Bare ibid. page pointer
+      3  Wrapped ibid  [ibid.] / (ibid.)
+    106  loc. cit. reference
+     98  op. cit. reference
+      1  q.v. cross-reference
+
+──────────────────────────────────────────────────────────────────────
+
+[bracket_ref]  source=Daigneault1963a
+  REF: [4] (Princeton 1959)
+
+[bracket_ref]  source=Daigneault1963a
+  REF: [3]
+
+[bracket_ref]  source=Daigneault1963a
+  REF: [4]
+
+[bracket_ref]  source=Daigneault1963a
+  REF: [11]
+
+[bracket_ref]  source=Daigneault1963a
+  REF: [5]
+
+[bracket_ref]  source=Daigneault1963a
+  REF: [7]
+
+[bracket_ref]  source=Daigneault1963a
+  REF: [7]
+
+[bracket_ref]  source=Daigneault1963a
+  REF: [7]
+
+[bracket_ref]  source=Robinson1968a
+  REF: [2], p. 261
+
+[bracket_ref]  source=Robinson1968a
+  REF: Harrop [3]
+
+[bracket_ref]  source=Robinson1968a
+  REF: Church [1]
+
+[bracket_ref]  source=Robinson1968a
+  REF: [1], pp. 125-128
+
+[bracket_ref]  source=Meyer1966a
+  REF: [1]
+
+[bracket_ref]  source=Meyer1966a
+  REF: Meredith [3]
+
+[bracket_ref]  source=Meyer1966a
+  REF: Chang[5]
+
+[bracket_ref]  source=Meyer1966a
+  REF: [4]
+
+[bracket_ref]  source=Putnam1965a
+  REF: [3]
+
+[bracket_ref]  source=Putnam1965a
+  REF: [1], ch. 9
+
+[bracket_ref]  source=Putnam1965a
+  REF: [2], p. 394, Theorem 35
+
+[bracket_ref]  source=Putnam1965a
+  REF: [4]
+
+[bracket_ref]  source=Putnam1965a
+  REF: [1], pp. 43-45
+
+[bracket_ref]  source=Simons1953a
+  REF: Parry, ([5], p. 144, fn. 11)
+
+[bracket_ref]  source=Simons1953a
+  REF: Wajsberg ([7], pp. 118f.)
+
+[bracket_ref]  source=Simons1953a
+  REF: Parry ([41, p. 143, fn. 9)
+
+[bracket_ref]  source=Simons1953a
+  REF: Hilbert and Ackermann ([2], p. 40)
+
+[bracket_ref]  source=Simons1953a
+  REF: Hilbert and Ackermann ((2], p. 41)
+
+[bracket_ref]  source=Henkin1953a
+  REF: pp. 57, 58, 100, of [1]
+
+[bracket_ref]  source=Henkin1953a
+  REF: p. 63 of [1]
+
+[bracket_ref]  source=Henkin1953a
+  REF: p. 64 of [1]
+
+[bracket_ref]  source=Henkin1953a
+  REF: Church in [1]
+
+[bracket_ref]  source=Henkin1953a
+  REF: [2]
+
+[bracket_ref]  source=Henkin1953a
+  REF: [3], page 344
+
+[bracket_ref]  source=Henkin1953a
+  REF: [3]
+
+[bracket_ref]  source=Henkin1953a
+  REF: [3]
+
+[bracket_ref]  source=Henkin1953a
+  REF: Compare [1], p. 58
+
+[loc_cit]  source=Myhill1949a
+  REF: Fitch, loc. cit., p. 102
+
+[bracket_ref]  source=Curry1952d
+  REF: TFD [37]
+
+[bracket_ref]  source=Turquette1958a
+  REF: Frederic Fitch's [4]
+
+[bracket_ref]  source=Turquette1958a
+  REF: László Kalmár in [7]
+
+[bracket_ref]  source=Turquette1958a
+  REF: Leon Henkin's [5]
+
+[loc_cit]  source=Curry1941a
+  REF: Rosser (loc. cit.)
+
+[op_cit]  source=Tarski1941a
+  REF: Cf. Schröder, op. cit., p. 52 ff
+
+[op_cit]  source=Tarski1941a
+  REF: Schröder, op. cit., p. 153
+
+[ibid_bare]  source=Tarski1941a
+  REF: Correc- tion, ibid., pp. 101-102
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31, p. 156, 3.242]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [36]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [32]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31, p. 155, 3.233]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [20]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: Shepherdson's [55]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [4]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: Feferman, in [6]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [6]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [23]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [27]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [50, bottom of p. 246]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [43]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [43]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [43]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [28, pp. 136-137]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [49]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [39]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [30]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [39]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: Mostowski [47]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [30]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [30]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [33, p. 157, paragraph 2]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [69]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [5]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [73]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [58]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [58]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [58]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [24]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [21]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31, p. 139]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [99]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [17, p. 329]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31, p. 110]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [28]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [31, p. 165, 3.3322]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [98]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: [98]
+
+[bracket_ref]  source=Kreisel1968a
+  REF: Friedman [74]
+
+[op_cit]  source=Quine1938a
+  REF: Wajsberg, op. cit., pp. 132, 157-159.
+
+[loc_cit]  source=Rosser1939c
+  REF: Rosser, loc. cit., pp. 133-134.
+
+[op_cit]  source=ChurchQuine1952a
+  REF: Church, op. cit.
+
+[op_cit]  source=ChurchQuine1952a
+  REF: Hilbert and Ackermann, op. cit., Chapter 3, §12
+
+[op_cit]  source=ChurchQuine1952a
+  REF: Löwenheim, op. cit.
+
+[op_cit]  source=ChurchQuine1952a
+  REF: Skolem, op. cit.
+
+[op_cit]  source=ChurchQuine1952a
+  REF: Behmann, op. cit.
+
+[bracket_ref]  source=Shoenfield1958b
+  REF: Skolem [2]
+
+[bracket_ref]  source=Shoenfield1958b
+  REF: [3] p. 14
+
+[bracket_ref]  source=Cresswell1967a
+  REF: Kripke's E5, [2, p. 209
+
+[bracket_ref]  source=Cresswell1967a
+  REF: [2]
+
+[bracket_ref]  source=Cresswell1967a
+  REF: [2, pp. 210-211]
+
+[bracket_ref]  source=Cresswell1967a
+  REF: [3, p. 68]
+
+[bracket_ref]  source=Cresswell1967a
+  REF: [3, p. 68]
+
+[bracket_ref]  source=Cresswell1967a
+  REF: [4]
+
+[bracket_ref]  source=Cresswell1967a
+  REF: [2]
+
+[bracket_ref]  source=Graham1967a
+  REF: [6]
+
+[bracket_ref]  source=Graham1967a
+  REF: [6]
+
+[bracket_ref]  source=JohnsonThomason1969a
+  REF: Henkin's definition in [3]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [15]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [16]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: Nelson's [16]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [9] p. 32
+
+[bracket_ref]  source=Kleene1945a
+  REF: [1]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [6]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [17]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [18]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [15]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [11]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [15]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [12]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [15]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [13]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [4]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [6]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [11]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [12].
+
+[bracket_ref]  source=Kleene1945a
+  REF: [11]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [15]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [16]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [7] p. 52 and p. 56
+
+[bracket_ref]  source=Kleene1945a
+  REF: [8] p. 18
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [15]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [16]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [16]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [2]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [3]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [10] pp. 360 ff
+
+[bracket_ref]  source=Kleene1945a
+  REF: [10] p. 334 and p. 368
+
+[bracket_ref]  source=Kleene1945a
+  REF: [4]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [14]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [16]
+
+[bracket_ref]  source=Kleene1945a
+  REF: [5]
+
+[bracket_ref]  source=Kleene1945a
+  REF: HEYTING, AREND. [7] Die formalen Regeln der intuitionistischen Logik, Sitzungs- berichte der Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse, 1930, pp. 42-56.
+
+[bracket_ref]  source=Kleene1945a
+  REF: NELSON, DAVID. [16] Recursive functions and intuitionistic number theory, forthcom- ing.
+
+[bracket_ref]  source=Robinson1949a
+  REF: Tarski [10]
+
+[bracket_ref]  source=Robinson1949a
+  REF: Hilbert-Bernays [6], vol. I, pp. 234-264
+
+[bracket_ref]  source=Robinson1949a
+  REF: B. A. Bernstein [1]
+
+[bracket_ref]  source=Robinson1949a
+  REF: Hilbert-Bernays [6], vol. I, p. 343
+
+[bracket_ref]  source=Smullyan1962a
+  REF: [4]
+
+[bracket_ref]  source=Smullyan1962a
+  REF: [3]
+
+[bracket_ref]  source=Schtte1960a
+  REF: Gentzen's system LK in [3]
+
+[bracket_ref]  source=Schtte1960a
+  REF: [10]
+
+[bracket_ref]  source=Schtte1960a
+  REF: Beth [1]
+
+[bracket_ref]  source=Schtte1960a
+  REF: [2]
+
+[bracket_ref]  source=Schtte1960a
+  REF: Hintikka [7]
+
+[bracket_ref]  source=Schtte1960a
+  REF: [8]
+
+[bracket_ref]  source=Schtte1960a
+  REF: Kanger [9]
+
+[bracket_ref]  source=Schtte1960a
+  REF: [10]
+
+[bracket_ref]  source=Schtte1960a
+  REF: [1]
+
+[bracket_ref]  source=Schtte1960a
+  REF: [2]
+
+[bracket_ref]  source=Schtte1960a
+  REF: [7]
+
+[bracket_ref]  source=Schtte1960a
+  REF: [8]
+
+[bracket_ref]  source=Schtte1960a
+  REF: [9]
+
+[bracket_ref]  source=Schtte1960a
+  REF: Takeuti [12]
+
+[bracket_ref]  source=Vaught1967a
+  REF: [11]
+
+[bracket_ref]  source=Vaught1967a
+  REF: [1, p. 302]
+
+[bracket_ref]  source=Vaught1967a
+  REF: [7]
+
+[bracket_ref]  source=Krom1963a
+  REF: [2]
+
+[bracket_ref]  source=Lb1970a
+  REF: Kreisel in [4]
+
+[loc_cit]  source=Myhill1953a
+  REF: Loc. cit., vol. 1, Berlin, 1934, p. 371
+
+[loc_cit]  source=Myhill1953a
+  REF: Loc. cit., vol. 2, p. 337
+
+[loc_cit]  source=Myhill1953a
+  REF: Loc. cit., vol. 2, p. 338
+
+[loc_cit]  source=Myhill1953a
+  REF: Loc. cit., vol. 2, p. 333
+
+[bracket_ref]  source=Kreisel1958b
+  REF: Heyting [7] p. 102
+
+[bracket_ref]  source=Kreisel1958b
+  REF: Heyting's remarks in [4] p. 43
+
+[bracket_ref]  source=Kreisel1958b
+  REF: Gödel's interpretation [3]
+
+[bracket_ref]  source=Kreisel1958b
+  REF: Heyting's remark of [6] p. 81
+
+[bracket_ref]  source=Kreisel1958b
+  REF: [3]
+
+[bracket_ref]  source=Kreisel1958b
+  REF: [11]
+
+[bracket_ref]  source=Kreisel1958b
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1958b
+  REF: p. 250 of [12]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: Robinson [9]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [13]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [14]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [10]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [10]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [11]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [12]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [10]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [12]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [1]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [13]
+
+[bracket_ref]  source=Shepherdson1956b
+  REF: [14]
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [12]
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [5]
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [5]
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [9]
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [13]
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [14]
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [8] p. 494
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [4] p. 284
+
+[bracket_ref]  source=Kreisel1962a
+  REF: [12]
+
+[ibid_bare]  source=Wang1953a
+  REF: Ibid., pp. 328-340.
+
+[op_cit]  source=Wang1953a
+  REF: HILBERT–BERNAYS, op. cit., p. 368
+
+[ibid_bare]  source=Wang1953a
+  REF: Ibid., p. 369 and pp. 338-339.
+
+[op_cit]  source=Wang1953a
+  REF: pp. 334-337 of Hilbert–Bernays, op. cit.
+
+[op_cit]  source=Wang1953a
+  REF: HILBERT–BERNAYS, op. cit., pp. 254-258
+
+[op_cit]  source=Carnap1946a
+  REF: Hilbert and Ackermann, op.cit.
+
+[op_cit]  source=Carnap1946a
+  REF: Lewis and Langford (op. cit.)
+
+[op_cit]  source=Carnap1946a
+  REF: Parry, op. cit., pp. 152 ff
+
+[op_cit]  source=Carnap1946a
+  REF: Parry, op. cit., p. 144
+
+[op_cit]  source=Carnap1946a
+  REF: Quine, op. cit., p. 88, *100, 102, 103, 104
+
+[op_cit]  source=Carnap1946a
+  REF: Quine, op. cit.
+
+[op_cit]  source=Carnap1946a
+  REF: Hilbert and Bernays, op. cit., pp. 179 ff
+
+[op_cit]  source=Marcus1953a
+  REF: LEWIS and LANGFORD, op. cit.
+
+[op_cit]  source=Marcus1953a
+  REF: LEWIS and LANGFORD, op. cit., the Group III matrix on p. 493
+
+[bracket_ref]  source=Matheson1962a
+  REF: [15], p. 45
+
+[bracket_ref]  source=Matheson1962a
+  REF: [18], pp. 203-206
+
+[bracket_ref]  source=Matheson1962a
+  REF: [20], pp. 95-96
+
+[bracket_ref]  source=Matheson1962a
+  REF: [8], p. 3
+
+[bracket_ref]  source=Matheson1962a
+  REF: [20], p. 118ff
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], pp. 145-146
+
+[bracket_ref]  source=Matheson1962a
+  REF: [18], pp. 205-206
+
+[bracket_ref]  source=Matheson1962a
+  REF: [18], p. 202
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], pp. 1-9
+
+[bracket_ref]  source=Matheson1962a
+  REF: [26], Convention T (pp. 187-188)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [8], p. 27
+
+[bracket_ref]  source=Matheson1962a
+  REF: [10], p. 62
+
+[bracket_ref]  source=Matheson1962a
+  REF: [20], pp. 112-113, p. 176
+
+[bracket_ref]  source=Matheson1962a
+  REF: [23], p. 329
+
+[bracket_ref]  source=Matheson1962a
+  REF: [9], p. 32
+
+[bracket_ref]  source=Matheson1962a
+  REF: [5]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], p. 9 and p. 21
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], p. 32
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], p. 165
+
+[bracket_ref]  source=Matheson1962a
+  REF: [20], p. 176
+
+[bracket_ref]  source=Matheson1962a
+  REF: [14], p. 57
+
+[bracket_ref]  source=Matheson1962a
+  REF: [15], p. 57
+
+[bracket_ref]  source=Matheson1962a
+  REF: [1], pp. 45-46
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], p. 3ff
+
+[bracket_ref]  source=Matheson1962a
+  REF: [3], p. 58ff
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XX (p. 25ff.)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 24-1 (p. 98) and p. 100
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XV C(pp. 16-17)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [16], pp. 26-27
+
+[bracket_ref]  source=Matheson1962a
+  REF: [17], pp. 264-265
+
+[bracket_ref]  source=Matheson1962a
+  REF: [5], T13-1(d) (p. 51)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [5], T13-1(1)(p. 52)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [8], p. 27
+
+[bracket_ref]  source=Matheson1962a
+  REF: [18], p. 220
+
+[bracket_ref]  source=Matheson1962a
+  REF: [26], p. 273
+
+[bracket_ref]  source=Matheson1962a
+  REF: [3], p. 61
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XIII B (p. 35)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [21], pp. 178-179
+
+[bracket_ref]  source=Matheson1962a
+  REF: [22], p. 85.
+
+[bracket_ref]  source=Matheson1962a
+  REF: Martin ([16], p. 17)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [13]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [14]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [4]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [11]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [12]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 11-3(c) (p. 48)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], pp. 6-7
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], VIII B (p. 6)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], pp. 74-75
+
+[bracket_ref]  source=Matheson1962a
+  REF: [5], p. 161
+
+[bracket_ref]  source=Matheson1962a
+  REF: [18], p. 218
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], pp. 7-8
+
+[bracket_ref]  source=Matheson1962a
+  REF: [20], pp. 178-179
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XIII A (1) (p. 13)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [17], p. 262
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 34-8 (p. 154)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 3-5(a) (p. 14)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 39-1 (p. 174)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], p. 143
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XIII A (2) (p. 13)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [17], p. 267
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 34-9 (p. 154)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 3-5(b) (p. 14)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [8], pp. 173-174
+
+[bracket_ref]  source=Matheson1962a
+  REF: [17], RS (p. 264)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [17]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 12-1(a) (p. 51)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [17], RI (p. 263)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 12-2(a) (p. 52)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [7], p. 12
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], p. 3
+
+[bracket_ref]  source=Matheson1962a
+  REF: [20], p. 237
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 41-5(a) (p. 186)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [3], pp. 3-7,
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], p. 25
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XI A (p. 10)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [1], D12-B (pp. 53-54)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [26]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [1], D7-B (p. 27)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XVI B (p. 18)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6] sects. XXI-XXIV (pp. 29-44)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [12]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [5], sects. 5, 6, 11 (pp. 15-23; 42-45)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], p. 83ff
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [4], sects. 2, 3 (pp. 66-71)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 2nd ed., pp. 223-228
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XXIII D (p. 36)
+
+[bracket_ref]  source=Matheson1962a
+  REF: Wilson ([28], p. 75
+
+[bracket_ref]  source=Matheson1962a
+  REF: Quine ([20], p. 182
+
+[bracket_ref]  source=Matheson1962a
+  REF: [27], p. 31
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], p. 130
+
+[bracket_ref]  source=Matheson1962a
+  REF: [5], sect. 18 b (pp. 73-74)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [27]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [18], pp. 218-224
+
+[bracket_ref]  source=Matheson1962a
+  REF: [19], pp. 5-8
+
+[bracket_ref]  source=Matheson1962a
+  REF: [20], pp. 188-189
+
+[bracket_ref]  source=Matheson1962a
+  REF: [27], pp. 185-186
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XXIV E (p. 40)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [12]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [4], pp. 69-70
+
+[bracket_ref]  source=Matheson1962a
+  REF: [2], 2nd ed., p. 226
+
+[bracket_ref]  source=Matheson1962a
+  REF: [6], XXVI B (p. 44)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [12], Def. 8 (p. 16)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [14], pp. 51-52
+
+[bracket_ref]  source=Matheson1962a
+  REF: [1]
+
+[bracket_ref]  source=Matheson1962a
+  REF: [5], T6-1(a) (p. 20)
+
+[bracket_ref]  source=Matheson1962a
+  REF: [26], p. 164
+
+[bracket_ref]  source=Matheson1962a
+  REF: [27], p. 66ff
+
+[bracket_ref]  source=Matheson1962a
+  REF: [24], p. 175
+
+[bracket_ref]  source=Matheson1962a
+  REF: [25], p. 237)
+
+[bracket_ref]  source=Hay1969a
+  REF: [4]
+
+[bracket_ref]  source=Hay1969a
+  REF: [1]
+
+[bracket_ref]  source=Schindler1970a
+  REF: McKinsey and Tarski [8, p. 151]
+
+[bracket_ref]  source=NewmanTuring1942a
+  REF: M. H. A. Newman [1]
+
+[bracket_ref]  source=NewmanTuring1942a
+  REF: A. Church [1]
+
+[bracket_ref]  source=NewmanTuring1942a
+  REF: M. H. A. Newman [1]. Stratified systems of logic. Forthcoming
+
+[bracket_ref]  source=ElMartin1970a
+  REF: Janiczak [1]
+
+[op_cit]  source=Quine1942a
+  REF: Bernays, op. cit., p. 65
+
+[op_cit]  source=Quine1942a
+  REF: Bernays, op. cit., p. 72
+
+[op_cit]  source=Halldn1950a
+  REF: Parry, op.cit.
+
+[bracket_ref]  source=HenselPutnam1965a
+  REF: Kleene [9], p. 337, theorem xx
+
+[bracket_ref]  source=HenselPutnam1965a
+  REF: [9], p. 230
+
+[bracket_ref]  source=HenselPutnam1965a
+  REF: Kleene in [9], p. 291
+
+[bracket_ref]  source=HenselPutnam1965a
+  REF: Davis [4]
+
+[bracket_ref]  source=HenselPutnam1965a
+  REF: [14], p. 382
+
+[loc_cit]  source=Myhill1951b
+  REF: J. Myhill, loc. cit.
+
+[loc_cit]  source=Myhill1951b
+  REF: J. Myhill, loc. cit.
+
+[loc_cit]  source=Dugundji1940a
+  REF: Lewis and Langford, loc. cit., p. 492
+
+[bracket_ref]  source=Orey1955a
+  REF: [9]
+
+[bracket_ref]  source=Orey1955a
+  REF: p. 56 of [9]
+
+[bracket_ref]  source=Orey1955a
+  REF: [9], p. 95
+
+[bracket_ref]  source=Orey1955a
+  REF: [11]
+
+[bracket_ref]  source=Ehrenfeucht1957a
+  REF: [8] p. 19
+
+[bracket_ref]  source=Ehrenfeucht1957a
+  REF: [6] p. 384
+
+[bracket_ref]  source=Ehrenfeucht1957a
+  REF: Behmann [1]
+
+[bracket_ref]  source=Ehrenfeucht1957a
+  REF: Kreisel in [6]
+
+[op_cit]  source=Gandy1956a
+  REF: Church, op. cit., p. 62
+
+[bracket_ref]  source=Moschovakis1969a
+  REF: Kreisel [17]
+
+[bracket_ref]  source=Moschovakis1969a
+  REF: [22]
+
+[bracket_ref]  source=Moschovakis1969a
+  REF: [23]
+
+[bracket_ref]  source=Mendelson1956a
+  REF: Gödel [3]
+
+[bracket_ref]  source=Mendelson1956a
+  REF: Tarski [12]
+
+[bracket_ref]  source=Mendelson1956a
+  REF: [4]
+
+[bracket_ref]  source=Mendelson1956a
+  REF: Kuratowski [5]
+
+[bracket_ref]  source=Mendelson1956a
+  REF: Rosser [8]
+
+[bracket_ref]  source=Mendelson1956a
+  REF: [4]
+
+[bracket_ref]  source=Mendelson1956a
+  REF: [4] p. 30
+
+[bracket_ref]  source=Mendelson1956a
+  REF: [11] p. 226
+
+[bracket_ref]  source=Drake1962a
+  REF: [5]
+
+[bracket_ref]  source=Drake1962a
+  REF: A. R. Anderson [6]
+
+[bracket_ref]  source=Drake1962a
+  REF: [6]
+
+[bracket_ref]  source=Goldberg1963a
+  REF: page 43f of [1]
+
+[bracket_ref]  source=Goldberg1963a
+  REF: [1]
+
+[bracket_ref]  source=Goldberg1963a
+  REF: page 39 of [1]
+
+[bracket_ref]  source=Goldberg1963a
+  REF: page 42 of [1]
+
+[bracket_ref]  source=Goldberg1963a
+  REF: [1]
+
+[bracket_ref]  source=Goldberg1963a
+  REF: [3]
+
+[bracket_ref]  source=Hanson1966b
+  REF: [1]
+
+[bracket_ref]  source=Hanson1966b
+  REF: [2]
+
+[bracket_ref]  source=Hanson1966b
+  REF: [5]
+
+[bracket_ref]  source=Hanson1966b
+  REF: [2]
+
+[bracket_ref]  source=Hanson1966b
+  REF: [5]
+
+[loc_cit]  source=Post1936a
+  REF: Church, loc. cit., p. 350
+
+[loc_cit]  source=Post1936a
+  REF: Church, loc. cit., pp. 346, 356-358
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [4]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [20]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [20]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [13]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: Kleene [9]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [2]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [8]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: Henkin [7]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [7]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [10]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [19]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [10]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [19]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [19]
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [18], p. 14
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: Kleene ([9], pp. 32-43
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: Church ([2], p. 176, Footnote 314)
+
+[bracket_ref]  source=CraigVaught1958a
+  REF: [2]
+
+[bracket_ref]  source=Smullyan1968a
+  REF: [3]
+
+[bracket_ref]  source=Smullyan1968a
+  REF: (3]
+
+[bracket_ref]  source=Smullyan1968a
+  REF: [1]
+
+[bracket_ref]  source=Umezawa1959a
+  REF: Gödel [1]
+
+[bracket_ref]  source=Umezawa1959a
+  REF: [4]
+
+[bracket_ref]  source=Umezawa1959a
+  REF: Maehara [6]
+
+[bracket_ref]  source=Umezawa1959a
+  REF: [4]
+
+[bracket_ref]  source=Umezawa1959a
+  REF: [5]
+
+[bracket_ref]  source=Umezawa1959a
+  REF: Birkhoff [7] chap. XII
+
+[bracket_ref]  source=Umezawa1959a
+  REF: J. C. C. McKinsey [8]
+
+[bracket_ref]  source=Umezawa1959a
+  REF: Hilbert and Ackermann [9] chap. 1 § 2
+
+[op_cit]  source=Hintikka1956a
+  REF: op. cit., p. 169
+
+[op_cit]  source=Hintikka1956a
+  REF: op. cit., p. 169
+
+[bracket_ref]  source=Kopperman1967a
+  REF: [5]
+
+[op_cit]  source=Shimony1955a
+  REF: R. Carnap, op. cit., p. 431.
+
+[op_cit]  source=Shimony1955a
+  REF: Op. cit., p. 285.
+
+[op_cit]  source=Shimony1955a
+  REF: R. Carnap, op. cit., section 51
+
+[op_cit]  source=Shimony1955a
+  REF: R. Carnap, op. cit., pp. 83-84.
+
+[op_cit]  source=Shimony1955a
+  REF: K. Gödel, op. cit., pp. 150-52
+
+[op_cit]  source=Shimony1955a
+  REF: F. B. Fitch, op. cit., pp. 77-78.
+
+[op_cit]  source=Shimony1955a
+  REF: B. O. Koopman, op. cit., pp. 290-91
+
+[op_cit]  source=Shimony1955a
+  REF: J. M. Keynes, op. cit., pp. 41-64.
+
+[bracket_ref]  source=Quine1955a
+  REF: [8], p. 227
+
+[bracket_ref]  source=Quine1955a
+  REF: [7], pp. 128 f
+
+[bracket_ref]  source=Quine1955a
+  REF: [4], pp. 157 f
+
+[bracket_ref]  source=Quine1955a
+  REF: Bernays and Schönfinkel [1]
+
+[bracket_ref]  source=Quine1955a
+  REF: Gödel's completeness argument [3]
+
+[bracket_ref]  source=Quine1955a
+  REF: Dreben [2]
+
+[bracket_ref]  source=Quine1955a
+  REF: [5]
+
+[bracket_ref]  source=Quine1955a
+  REF: [9]
+
+[op_cit]  source=Myhill1951a
+  REF: L. Chwistek, op. cit., pp. 182, 188
+
+[op_cit]  source=Myhill1951a
+  REF: L. Chwistek, op. cit., p. 167 and pp. 94-5 respectively
+
+[op_cit]  source=Myhill1951a
+  REF: L. Chwistek, op. cit., pp. 171, 183
+
+[op_cit]  source=Myhill1951a
+  REF: F. B. Fitch, op. cit., pp. 104-6
+
+[op_cit]  source=Myhill1951a
+  REF: L. Chwistek, op. cit., p. 133
+
+[bracket_ref]  source=Richter1965a
+  REF: [10]
+
+[bracket_ref]  source=Richter1965a
+  REF: [11]
+
+[bracket_ref]  source=Richter1965a
+  REF: [3]
+
+[bracket_ref]  source=Richter1965a
+  REF: [5]
+
+[bracket_ref]  source=Richter1965a
+  REF: [5]
+
+[bracket_ref]  source=Richter1965a
+  REF: [1]
+
+[bracket_ref]  source=Richter1965a
+  REF: [10]
+
+[bracket_ref]  source=Richter1965a
+  REF: [11]
+
+[bracket_ref]  source=Richter1965a
+  REF: [14]
+
+[bracket_ref]  source=Richter1965a
+  REF: [8]
+
+[bracket_ref]  source=Richter1965a
+  REF: [2]
+
+[loc_cit]  source=Mostowski1948a
+  REF: Birkhoff, loc. cit. p. 128
+
+[loc_cit]  source=Mostowski1948a
+  REF: McKinsey and Tarski, loc. cit.
+
+[bracket_ref]  source=Patton1963a
+  REF: Smullyan [2]
+
+[bracket_ref]  source=Patton1963a
+  REF: Smullyan [1], Chapter II, #C, § 9
+
+[bracket_ref]  source=Patton1963a
+  REF: Smullyan [1], Chapter I, #A, § 1
+
+[bracket_ref]  source=Patton1963a
+  REF: Smullyan [1], Chapter IV, #B, § 10
+
+[bracket_ref]  source=Patton1963a
+  REF: Smullyan [2]
+
+[bracket_ref]  source=Cresswell1969b
+  REF: [1, p. 184]
+
+[bracket_ref]  source=Cresswell1969b
+  REF: [1, p. 185]
+
+[bracket_ref]  source=Cresswell1969b
+  REF: [1, p. 141]
+
+[bracket_ref]  source=Cresswell1969b
+  REF: [2, p. 211]
+
+[bracket_ref]  source=Cresswell1969b
+  REF: [3, p. 27]
+
+[bracket_ref]  source=Cresswell1969b
+  REF: [1, p. 184]
+
+[bracket_ref]  source=Cresswell1969b
+  REF: [1, p. 146f]
+
+[bracket_ref]  source=Cresswell1969b
+  REF: Prior [2, p. 211]
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [4], p. 573 f
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [1], p. 576 f
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [2], p. 17
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [5], p. 587
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [3]
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [1], p. 836
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: p. 20 of [2]
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [1], p. 837
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [4], p. 66
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [6], p. 587
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: [1], p. 841
+
+[bracket_ref]  source=ChangMorel1958a
+  REF: R. C. LYNDON, review of [2], this JOURNAL, Vo1. 16 (1951), pp. 216-217.
+
+[ibid_bare]  source=RosserTurquette1951a
+  REF: Ibid., pp. 190-192.
+
+[ibid_bare]  source=RosserTurquette1951a
+  REF: Ibid., pp. 78-80.
+
+[ibid_bare]  source=RosserTurquette1951a
+  REF: ibid., footnote 37, p. 188.
+
+[op_cit]  source=RosserTurquette1951a
+  REF: Alonzo Church, op. cit., pp. 45-46
+
+[op_cit]  source=RosserTurquette1951a
+  REF: Alonzo Church's F1, op. cit., p. 40
+
+[ibid_bare]  source=RosserTurquette1951a
+  REF: Ibid., p. 185.
+
+[ibid_bare]  source=RosserTurquette1951a
+  REF: Ibid., p. 182.
+
+[op_cit]  source=RosserTurquette1951a
+  REF: Hilbert and Acker- mann, op. cit., pp. 76-81
+
+[op_cit]  source=RosserTurquette1951a
+  REF: Alonzo Church, op. cit., pp. 73-82
+
+[op_cit]  source=RosserTurquette1951a
+  REF: Church's condition 3(3), op. cit., p. 80
+
+[op_cit]  source=RosserTurquette1951a
+  REF: "Motivation," part I of the present paper, op. cit., pp. 182-184
+
+[ibid_bare]  source=RosserTurquette1951a
+  REF: Ibid., pp. 182-186.
+
+[op_cit]  source=RosserTurquette1951a
+  REF: Alonzo Church, op. cit., p. 81
+
+[op_cit]  source=RosserTurquette1951a
+  REF: Alonzo Church, op. cit., pp. 59-61
+
+[op_cit]  source=RosserTurquette1951a
+  REF: Alonzo Church, op. cit.
+
+[loc_cit]  source=Reach1938a
+  REF: Tarski, loc. cit.
+
+[bracket_ref]  source=Hanson1966a
+  REF: [5]
+
+[bracket_ref]  source=Hanson1966a
+  REF: [2], pp. 2-13
+
+[bracket_ref]  source=Hanson1966a
+  REF: Church [4], p. 172
+
+[bracket_ref]  source=Hanson1966a
+  REF: [1]
+
+[bracket_ref]  source=Hanson1966a
+  REF: [2] chapter 5
+
+[bracket_ref]  source=Hanson1966a
+  REF: Kripke [7]
+
+[bracket_ref]  source=Hanson1966a
+  REF: [7] (section 3.3)
+
+[bracket_ref]  source=Hanson1966a
+  REF: [7]
+
+[bracket_ref]  source=Hanson1966a
+  REF: [7]
+
+[bracket_ref]  source=Hanson1966a
+  REF: Church [4], p. 172
+
+[bracket_ref]  source=Hanson1966a
+  REF: [2], pp. 2-13
+
+[bracket_ref]  source=Hiz1959a
+  REF: [1] pp. 108-110
+
+[bracket_ref]  source=Hiz1959a
+  REF: [2] p. 51
+
+[bracket_ref]  source=Hiz1959a
+  REF: [4]
+
+[bracket_ref]  source=Hiz1959a
+  REF: Łoś in [5]
+
+[op_cit]  source=Smiley1962a
+  REF: Shepherdson, op. cit.
+
+[op_cit]  source=Smiley1962a
+  REF: Wang, op. cit.
+
+[bracket_ref]  source=Barwise1969a
+  REF: Kunen [8]
+
+[bracket_ref]  source=Barwise1969a
+  REF: [1]
+
+[bracket_ref]  source=Barwise1969a
+  REF: [2]
+
+[bracket_ref]  source=Barwise1969a
+  REF: Shoenfield [10, p. 187]
+
+[bracket_ref]  source=Feiner1970a
+  REF: [5]
+
+[bracket_ref]  source=LeblancThomason1967a
+  REF: [5]
+
+[bracket_ref]  source=LeblancThomason1967a
+  REF: Church [2, p. 146]
+
+[bracket_ref]  source=LeblancThomason1967a
+  REF: [3], pp. 442-443
+
+[op_cit]  source=Quine1945a
+  REF: Goodman, op. cit.
+
+[op_cit]  source=Quine1945a
+  REF: Goodman, op. cit., p. 151
+
+[bracket_ref]  source=Nelson1949a
+  REF: [3]
+
+[bracket_ref]  source=Nelson1949a
+  REF: GÖDEL, KURT. [1] Zur intuitionistischen Arithmetik und Zahlentheorie, Ergebnisse eines mathematischen Kolloquiums, vol. 4 (for 1931-1932, published 1933), pp. 34-38.
+
+[bracket_ref]  source=Nelson1949a
+  REF: [2] On undecidable propositions of formal mathematical systems, mimeographed lecture notes, Institute for Advanced Study, 1934.
+
+[bracket_ref]  source=Nelson1949a
+  REF: HEYTING, AREND. [3] Die formalen Regeln der intuitionistischen Logik, Sitzungsbe- richte der Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse, 1930, pp. 42-56.
+
+[bracket_ref]  source=Tanaka1970a
+  REF: Shoenfield [11, pp. 188-189]
+
+[bracket_ref]  source=Tanaka1970a
+  REF: Rogers [10, pp. 426- 429]
+
+[bracket_ref]  source=Tanaka1970a
+  REF: Addison-Kleene [2, (1)]
+
+[bracket_ref]  source=Friedberg1958a
+  REF: [2], p. 313
+
+[bracket_ref]  source=Henkin1963a
+  REF: [2]
+
+[bracket_ref]  source=Henkin1963a
+  REF: [7]
+
+[bracket_ref]  source=Henkin1963a
+  REF: [4]
+
+[bracket_ref]  source=Henkin1963a
+  REF: [5]
+
+[bracket_ref]  source=Henkin1963a
+  REF: [6]
+
+[bracket_ref]  source=Henkin1963a
+  REF: M. A. Taitslin in a review of [6]
+
+[bracket_ref]  source=Henkin1963a
+  REF: [3]
+
+[bracket_ref]  source=Henkin1963a
+  REF: [1]
+
+[bracket_ref]  source=Belluce1964a
+  REF: [2]
+
+[loc_cit]  source=Horn1951a
+  REF: McKinsey, loc. cit., p. 65
+
+[bracket_ref]  source=El1968a
+  REF: Undecidable theories [13]
+
+[bracket_ref]  source=El1968a
+  REF: [10]
+
+[bracket_ref]  source=El1968a
+  REF: [10]
+
+[bracket_ref]  source=El1968a
+  REF: [1]
+
+[bracket_ref]  source=Cannonito1966a
+  REF: Kleene [11] p. 230
+
+[ibid_bare]  source=Blake1946a
+  REF: ibid., pp. 101-102.
+
+[bracket_ref]  source=BoolosPutnam1968a
+  REF: Boyd, Hensel, and Putnam [1]
+
+[bracket_ref]  source=BoolosPutnam1968a
+  REF: G. S. BOOLOS [1] The hierarchy of constructible sets of integers, Ph.D. thesis, M.I.T. Humanities Depart- ment, Cambridge, Mass., 1966.
+
+[bracket_ref]  source=BoolosPutnam1968a
+  REF: R. BOYD, G. HENSEL, and H. PUTNAM [1] On an intrinsic characterization of the ramified analytic hierarchy (to appear).
+
+[bracket_ref]  source=BoolosPutnam1968a
+  REF: M. DAVIS [11 Computability and unsolvability, McGraw-Hill, New York, 1958.
+
+[bracket_ref]  source=BoolosPutnam1968a
+  REF: S. C. KLEENE [1] Introduction to metamathematics, Van Nostrand, Princeton, N.J., 1952.
+
+[bracket_ref]  source=BoolosPutnam1968a
+  REF: L. THARP [1] Constructibility in impredicative set theory, Ph.D. Thesis, M.I.T. Mathematics Department, Cambridge, Mass., 1965.
+
+[bracket_ref]  source=BoolosPutnam1968a
+  REF: H. WANG [1] A survey of mathematical logic, North Holland, Amsterdam, 1963.
+
+[ibid_bare]  source=Rescher1954a
+  REF: ibid., pp. 261-264
+
+[ibid_bare]  source=Rescher1954a
+  REF: Ibid., p. 356
+
+[ibid_bare]  source=Rescher1954a
+  REF: Ibid., and cf. p. 353
+
+[bracket_ref]  source=Bing1956a
+  REF: [6]
+
+[bracket_ref]  source=Bing1956a
+  REF: [5], pp. 627-629
+
+[bracket_ref]  source=Bing1956a
+  REF: [1]
+
+[bracket_ref]  source=Bing1956a
+  REF: [5], p. 627
+
+[bracket_ref]  source=Bing1956a
+  REF: [3], p. 531
+
+[bracket_ref]  source=Bing1956a
+  REF: [4]
+
+[bracket_ref]  source=Feferman1957a
+  REF: Fried- berg [6]
+
+[bracket_ref]  source=Feferman1957a
+  REF: Mučnik [9]
+
+[bracket_ref]  source=Feferman1957a
+  REF: [5]
+
+[bracket_ref]  source=Feferman1957a
+  REF: [11]
+
+[bracket_ref]  source=Feferman1957a
+  REF: [4]
+
+[bracket_ref]  source=Feferman1957a
+  REF: [10]
+
+[bracket_ref]  source=Feferman1957a
+  REF: (cf. [12] p. 91)
+
+[bracket_ref]  source=Feferman1957a
+  REF: [8] (p. 309 Theorem XV)
+
+[bracket_ref]  source=Feferman1957a
+  REF: Uspénskij in [15]
+
+[bracket_ref]  source=Feferman1957a
+  REF: [15]
+
+[loc_cit]  source=Martin1953a
+  REF: Tarski, loc. cit., esp. pp. 284-303
+
+[loc_cit]  source=Martin1953a
+  REF: Church, loc. cit., p. 37
+
+[loc_cit]  source=Martin1953a
+  REF: Tarski, loc. cit., p. 289
+
+[loc_cit]  source=Martin1953a
+  REF: Tarski, loc. cit., pp. 285-286
+
+[loc_cit]  source=Martin1953a
+  REF: Tarski, loc. cit., p. 287
+
+[loc_cit]  source=Martin1953a
+  REF: Tarski, loc. cit., pp. 311-313
+
+[loc_cit]  source=Martin1953a
+  REF: Quine, loc. cit., p. 296
+
+[loc_cit]  source=Martin1953a
+  REF: Tarski, loc. cit., pp. 305-306
+
+[loc_cit]  source=Martin1953a
+  REF: Tarski, loc. cit., pp. 365- 366
+
+[loc_cit]  source=Martin1953a
+  REF: Hilbert–Ackermann, loc. cit., p. 83
+
+[loc_cit]  source=Martin1953a
+  REF: A. Church, loc. cit., pp. 59-61
+
+[loc_cit]  source=Martin1953a
+  REF: Tarski, loc. cit., pp. 327-363
+
+[loc_cit]  source=Martin1953a
+  REF: Tarski, loc. cit., pp. 363-369
+
+[bracket_ref]  source=Thomason1968a
+  REF: Gödel [5]
+
+[ibid_bare]  source=Kalmr1939a
+  REF: Correction, ibid., pp. 101-102
+
+[loc_cit]  source=Kalmr1939a
+  REF: Alonzo Church, An unsolvable problem etc. (loc. cit.), pp. 350-351
+
+[loc_cit]  source=Kalmr1939a
+  REF: Church (An unsolvable problem etc., loc. cit., pp. 356-358)
+
+[loc_cit]  source=Kalmr1939a
+  REF: footnote 8 of my paper Zurückführung etc., loc. cit., p. 138
+
+[loc_cit]  source=Kalmr1939a
+  REF: Skolem, loc. cit., and Ackermann, loc. cit., especially pp. 421-422
+
+[loc_cit]  source=Kalmr1939a
+  REF: Hilbert-Bernays, loc. cit., especially p. 141
+
+[bracket_ref]  source=ScottSuppes1958a
+  REF: [7]
+
+[bracket_ref]  source=ScottSuppes1958a
+  REF: Sierpinski [5], Section 7, pp. 141 ff.
+
+[bracket_ref]  source=ScottSuppes1958a
+  REF: Birkhoff [1], pp. 31-32
+
+[bracket_ref]  source=ScottSuppes1958a
+  REF: [4], Section 2, p. 181
+
+[bracket_ref]  source=ScottSuppes1958a
+  REF: Hailperin in [3]
+
+[bracket_ref]  source=ScottSuppes1958a
+  REF: Suppes and Winet [6]
+
+[bracket_ref]  source=Harrop1960a
+  REF: [1]
+
+[bracket_ref]  source=Harrop1960a
+  REF: [1]
+
+[bracket_ref]  source=Harrop1960a
+  REF: [1]
+
+[bracket_ref]  source=Harrop1960a
+  REF: [1]
+
+[bracket_ref]  source=Harrop1960a
+  REF: [1]
+
+[bracket_ref]  source=Harrop1960a
+  REF: [1]
+
+[bracket_ref]  source=Lob1955a
+  REF: Gödel in [1]
+
+[bracket_ref]  source=Trew1970a
+  REF: [1]
+
+[bracket_ref]  source=Trew1970a
+  REF: [21]
+
+[bracket_ref]  source=Trew1970a
+  REF: [10]
+
+[bracket_ref]  source=Trew1970a
+  REF: [14]
+
+[bracket_ref]  source=Trew1970a
+  REF: [4]
+
+[bracket_ref]  source=Trew1970a
+  REF: [17]
+
+[bracket_ref]  source=Trew1970a
+  REF: [10]
+
+[bracket_ref]  source=Trew1970a
+  REF: [15]
+
+[bracket_ref]  source=Trew1970a
+  REF: [14]
+
+[bracket_ref]  source=Trew1970a
+  REF: [9]
+
+[bracket_ref]  source=Trew1970a
+  REF: p. 89 of [9]
+
+[bracket_ref]  source=Trew1970a
+  REF: [5]
+
+[bracket_ref]  source=Massey1966a
+  REF: Kripke [3], p. 2
+
+[ibid_bare]  source=Massey1966a
+  REF: Ibid.
+
+[bracket_ref]  source=Massey1966a
+  REF: [6]
+
+[bracket_ref]  source=Massey1966a
+  REF: Kripke [4], p. 84
+
+[bracket_ref]  source=Massey1966a
+  REF: [5], pp. 68-70
+
+[bracket_ref]  source=Massey1966a
+  REF: Carnap [0]
+
+[bracket_ref]  source=Massey1966a
+  REF: Church [1], p. 130
+
+[bracket_ref]  source=Massey1966a
+  REF: Quine [7], p. 59
+
+[bracket_ref]  source=Massey1966a
+  REF: Feys [2], p. 118
+
+[bracket_ref]  source=Massey1966a
+  REF: Kripke [3], p. 11
+
+[bracket_ref]  source=Massey1966a
+  REF: Feys [2], pp. 117-118
+
+[bracket_ref]  source=Shoenfield1960a
+  REF: Craig's theorem [1]
+
+[bracket_ref]  source=Shoenfield1960a
+  REF: [5]
+
+[bracket_ref]  source=Shoenfield1960a
+  REF: [6]
+
+[bracket_ref]  source=Kearns1969a
+  REF: [1, pp. 179-184]
+
+[bracket_ref]  source=Kearns1969a
+  REF: [1]
+
+[bracket_ref]  source=Kearns1969a
+  REF: [1]
+
+[bracket_ref]  source=Kearns1969a
+  REF: [1]
+
+[bracket_ref]  source=Kearns1969a
+  REF: [1]
+
+[bracket_ref]  source=Kearns1969a
+  REF: [1]
+
+[bracket_ref]  source=Kearns1969a
+  REF: [1]
+
+[ibid_bare]  source=Fraenkel1937a
+  REF: T. Viola, ibid., S. 75-101
+
+[ibid_bare]  source=Fraenkel1937a
+  REF: Zusatz, ibid., S. 392 f
+
+[bracket_ref]  source=Orey1956b
+  REF: S. Feferman's review of [5]
+
+[bracket_ref]  source=Orey1956b
+  REF: [5]
+
+[bracket_ref]  source=Orey1956b
+  REF: Henkin in [2]
+
+[bracket_ref]  source=Orey1956b
+  REF: Kreisel's review of [3]
+
+[bracket_ref]  source=Orey1956b
+  REF: [7]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: [1]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: Anderson in [3]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: [5]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: [6]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: [6]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: [14]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: Belnap [7]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: [15]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: Belnap in [7]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: [9]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: Belnap and Dunn in [10]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: Anderson in [3]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: Dunn [9]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: [17]
+
+[bracket_ref]  source=DunnMeyer1969a
+  REF: Belnap [6]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: A. Tarski [2] paper I
+
+[bracket_ref]  source=Cresswell1966a
+  REF: R. L. Goodstein [3]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: Prior [1] p. 131
+
+[bracket_ref]  source=Cresswell1966a
+  REF: FC v. [5] p. 215
+
+[bracket_ref]  source=Cresswell1966a
+  REF: v. [10] pp. 153, 154
+
+[bracket_ref]  source=Cresswell1966a
+  REF: [6] pp. 182-208
+
+[bracket_ref]  source=Cresswell1966a
+  REF: Philosophical Studies [7]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: [6]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: p. 70 of [9]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: [10]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: [14]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: [15]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: [16] p. 163
+
+[bracket_ref]  source=Cresswell1966a
+  REF: [10] p. 311
+
+[bracket_ref]  source=Cresswell1966a
+  REF: [10] Chapter IV § 48, p. 280
+
+[bracket_ref]  source=Cresswell1966a
+  REF: v. [18]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: v. [19]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: Chapter XII of [20]
+
+[bracket_ref]  source=Cresswell1966a
+  REF: [17] p. 405
+
+[bracket_ref]  source=Wang1952a
+  REF: [2]
+
+[bracket_ref]  source=Wang1952a
+  REF: [1]
+
+[bracket_ref]  source=Wang1952a
+  REF: [1]
+
+[bracket_ref]  source=Wang1952a
+  REF: [3]
+
+[bracket_ref]  source=Wang1952a
+  REF: [3], pp. 149-152
+
+[bracket_ref]  source=Wang1952a
+  REF: [4], vol. 1, pp. 460-462
+
+[bracket_ref]  source=Wang1952a
+  REF: [3]
+
+[bracket_ref]  source=Wang1952a
+  REF: [3], p. 75
+
+[bracket_ref]  source=Wang1952a
+  REF: [3]
+
+[bracket_ref]  source=Wang1952a
+  REF: [3]
+
+[bracket_ref]  source=Wang1952a
+  REF: [3]
+
+[bracket_ref]  source=Wang1952a
+  REF: [3], p. 89
+
+[bracket_ref]  source=Wang1952a
+  REF: [3]
+
+[bracket_ref]  source=Wang1952a
+  REF: [3]
+
+[bracket_ref]  source=Wang1952a
+  REF: [3]
+
+[bracket_ref]  source=Wang1952a
+  REF: [3]
+
+[bracket_ref]  source=Wang1952a
+  REF: [6], pp. 59-61, pp. 68-72, pp. 45-46, pp. 42-44
+
+[bracket_ref]  source=Wang1952a
+  REF: [7]
+
+[bracket_ref]  source=Wang1952a
+  REF: [6], pp. 73-79
+
+[op_cit]  source=Rose1953a
+  REF: Łukasiewicz (op. cit.)
+
+[bracket_ref]  source=Kruse1963a
+  REF: [5]
+
+[bracket_ref]  source=Kruse1963a
+  REF: [5]
+
+[bracket_ref]  source=Kruse1963a
+  REF: [5]
+
+[op_cit]  source=RosserTurquette1945a
+  REF: Emil Post (op. cit., p.177)
+
+[op_cit]  source=RosserTurquette1945a
+  REF: Post's definition of consistency, op. cit., p. 177
+
+[bracket_ref]  source=Friedberg1957a
+  REF: Kleene and Post [2]
+
+[bracket_ref]  source=Friedberg1957a
+  REF: [1]
+
+[bracket_ref]  source=ApplebaumDekker1970a
+  REF: H. Gonshor [5]
+
+[bracket_ref]  source=Mckinsey1953a
+  REF: [2] pp. 492-502
+
+[bracket_ref]  source=Mckinsey1953a
+  REF: [5]
+
+[bracket_ref]  source=Mckinsey1953a
+  REF: [2] pp. 125-126
+
+[bracket_ref]  source=Mckinsey1953a
+  REF: [2] p. 493
+
+[ibid_bare]  source=Fine1954a
+  REF: Ibid., Chapter X, § 6
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [2]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [3]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [9]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [1]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [10]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [6]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [1]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [7]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [8]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [4]
+
+[bracket_ref]  source=Kemeny1955a
+  REF: [5]
+
+[bracket_ref]  source=Leblanc1968b
+  REF: [2]
+
+[bracket_ref]  source=Leblanc1968b
+  REF: [3]
+
+[bracket_ref]  source=Leblanc1968b
+  REF: [5]
+
+[bracket_ref]  source=Leblanc1968b
+  REF: [4]
+
+[bracket_ref]  source=Leblanc1968b
+  REF: [1]
+
+[bracket_ref]  source=Leblanc1968b
+  REF: [8]
+
+[loc_cit]  source=Martin1943a
+  REF: Hilbert and Ackermann, loc. cit.
+
+[loc_cit]  source=Martin1943a
+  REF: J. H. Woodger, loc. cit., p. 163
+
+[bracket_ref]  source=Soare1969c
+  REF: Jockusch [2]
+
+[bracket_ref]  source=Qvist1964a
+  REF: [10]
+
+[bracket_ref]  source=Qvist1964a
+  REF: Lemmon in [3]
+
+[bracket_ref]  source=Qvist1964a
+  REF: [4]
+
+[bracket_ref]  source=Qvist1964a
+  REF: [7]
+
+[bracket_ref]  source=Qvist1964a
+  REF: [4]
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Salmon, [4], pp. 245-264.
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Carnap, [2], pp. 44-47.
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Carnap, [2], pp. 30-32.
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Carnap, [1], pp. 122-130
+
+[bracket_ref]  source=Lehrer1963a
+  REF: [2], pp. 10-11
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Carnap, [3]
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Kemeny, [5]
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Salmon, [4], pp. 247-249.
+
+[ibid_bare]  source=Lehrer1963a
+  REF: Ibid.
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Salmon, [4], pp. 248-249.
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Carnap, [1], p. 75
+
+[bracket_ref]  source=Lehrer1963a
+  REF: Carnap, [1], p. 126.
+
+[bracket_ref]  source=Myhill1952b
+  REF: [3]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [4]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [5]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [6]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [4]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [4]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [16]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [6]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [14], pp. 33-37
+
+[bracket_ref]  source=Myhill1952b
+  REF: Martin in RR8(1)-(3) of [10]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [10], p. 2
+
+[bracket_ref]  source=Myhill1952b
+  REF: [3]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [1], pp. 83-100
+
+[bracket_ref]  source=Myhill1952b
+  REF: [4]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [12]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [13]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [6]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [17]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [18]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [9]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [4]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [1]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [1], p. 167
+
+[bracket_ref]  source=Myhill1952b
+  REF: [1], p. 171
+
+[bracket_ref]  source=Myhill1952b
+  REF: Hetper and Quine ([8]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [15]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [1], pp. 96-7
+
+[bracket_ref]  source=Myhill1952b
+  REF: [8]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [1] pp. 97-8
+
+[bracket_ref]  source=Myhill1952b
+  REF: [8]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [14], p. 296
+
+[bracket_ref]  source=Myhill1952b
+  REF: [4]
+
+[bracket_ref]  source=Myhill1952b
+  REF: Chwistek ([1], p. 172)
+
+[bracket_ref]  source=Myhill1952b
+  REF: [4]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [6]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [4]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [4]
+
+[bracket_ref]  source=Myhill1952b
+  REF: [18], p. 27
+
+[bracket_ref]  source=Robinson1965a
+  REF: [6]
+
+[bracket_ref]  source=Robinson1965a
+  REF: [4]
+
+[bracket_ref]  source=Robinson1965a
+  REF: [4]
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], pp. 502-503
+
+[bracket_ref]  source=Robinson1965a
+  REF: [4]
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], § 65, p. 340
+
+[bracket_ref]  source=Robinson1965a
+  REF: [5]
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], p. 201, (A), and Pp
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], pp. 340-344
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], p. 34
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], § 65, p. 340
+
+[bracket_ref]  source=Robinson1965a
+  REF: [1], pp. 170-171
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], §§ 50-52
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], p. 230 # 19, p. 279, p. 329
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], p. 330, Theorem XVIII
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], p. 337, Theorem XX
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], pp. 340-341
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], p. 195
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], p. 153
+
+[bracket_ref]  source=Robinson1965a
+  REF: [1], p. 192, *350
+
+[bracket_ref]  source=Robinson1965a
+  REF: [3], p. 283, Theorem V (Part I)
+
+[bracket_ref]  source=Pter1950a
+  REF: Siehe [9]
+
+[bracket_ref]  source=Pter1950a
+  REF: Siehe [1]
+
+[bracket_ref]  source=Pter1950a
+  REF: siehe noch [6]
+
+[bracket_ref]  source=Pter1950a
+  REF: [8]
+
+[bracket_ref]  source=Pter1950a
+  REF: Siehe [7], S. 494
+
+[bracket_ref]  source=Pter1950a
+  REF: Siehe [7]
+
+[bracket_ref]  source=Pter1950a
+  REF: siehe [2]
+
+[bracket_ref]  source=Pter1950a
+  REF: Siehe z. B. [4]
+
+[bracket_ref]  source=Pter1950a
+  REF: Siehe z. B. [5], S. 615-619
+
+[bracket_ref]  source=Pter1950a
+  REF: Siehe [3]
+
+[bracket_ref]  source=Pter1950a
+  REF: Siehe [7], S. 519
+
+[bracket_ref]  source=Pter1950a
+  REF: Siehe [7], S. 518
+
+[bracket_ref]  source=Lb1956a
+  REF: [1] p. 36
+
+[bracket_ref]  source=Lb1956a
+  REF: [1]
+
+[loc_cit]  source=Mckinsey1943a
+  REF: Hilbert and Ackermann, loc. cit., p. 95
+
+[loc_cit]  source=Mckinsey1943a
+  REF: Hilbert and Ackermann, loc. cit., p. 92
+
+[loc_cit]  source=Leblanc1960a
+  REF: Leblanc, loc. cit., p. 345
+
+[loc_cit]  source=Leblanc1960a
+  REF: Popper, loc. cit., pp. 332-333
+
+[loc_cit]  source=Leblanc1960a
+  REF: Popper's proof of formula (70), loc. cit., page 353
+
+[bracket_ref]  source=Kreisel1958a
+  REF: p. 238 of [17]
+
+[bracket_ref]  source=Kreisel1958a
+  REF: [14]
+
+[bracket_ref]  source=Kreisel1958a
+  REF: Mostowski [13]
+
+[bracket_ref]  source=Kreisel1958a
+  REF: myself [10]
+
+[bracket_ref]  source=Kreisel1958a
+  REF: [9], p. 275
+
+[bracket_ref]  source=Kreisel1958a
+  REF: [9]
+
+[bracket_ref]  source=Kreisel1958a
+  REF: [10]
+
+[bracket_ref]  source=Kreisel1958a
+  REF: Putnam [15]
+
+[bracket_ref]  source=Dekker1969a
+  REF: [3]
+
+[bracket_ref]  source=Wang1955a
+  REF: Hilbert and Bernays [2] (to be referred to as HB), II, pp. 234-253
+
+[bracket_ref]  source=Wang1955a
+  REF: Wang [6]
+
+[bracket_ref]  source=Wang1955a
+  REF: Kreisel [3]
+
+[bracket_ref]  source=Wang1955a
+  REF: Wang [5]
+
+[bracket_ref]  source=Wang1955a
+  REF: Bernays [1]
+
+[bracket_ref]  source=Wang1955a
+  REF: Kreisel [3]
+
+[bracket_ref]  source=Wang1955a
+  REF: Bernays [1]
+
+[bracket_ref]  source=Wang1955a
+  REF: Kreisel [3], I, p. 283
+
+[bracket_ref]  source=Friedman1969a
+  REF: [1]
+
+[bracket_ref]  source=Friedman1969a
+  REF: footnote 34, p. 375 of [4]
+
+[loc_cit]  source=Hempel1937a
+  REF: Carnap, loc. cit., pp. 1 ff., pp. 120 ff
+
+[loc_cit]  source=Hempel1937a
+  REF: Carnap, loc. cit., pp. 123-4
+
+[bracket_ref]  source=Karp1962a
+  REF: Smith-Tarski [18]
+
+[bracket_ref]  source=Karp1962a
+  REF: Rasiowa-Sikorski [15]
+
+[bracket_ref]  source=Karp1962a
+  REF: Krasner, [12]
+
+[bracket_ref]  source=Karp1962a
+  REF: Jordan [6]
+
+[bracket_ref]  source=Karp1962a
+  REF: Erdös-Tarski [1]
+
+[bracket_ref]  source=Karp1962a
+  REF: Scott- Tarski [17]
+
+[bracket_ref]  source=Karp1962a
+  REF: [7]
+
+[bracket_ref]  source=Karp1962a
+  REF: [8]
+
+[bracket_ref]  source=Karp1962a
+  REF: [5], pp. 92-95
+
+[bracket_ref]  source=Karp1962a
+  REF: Ginsburg [2]
+
+[bracket_ref]  source=Oberschelp1968a
+  REF: [6]
+
+[bracket_ref]  source=Oberschelp1968a
+  REF: [4]
+
+[bracket_ref]  source=Oberschelp1968a
+  REF: [5]
+
+[bracket_ref]  source=Oberschelp1968a
+  REF: (6]
+
+[bracket_ref]  source=GandySoare1970a
+  REF: [2]
+
+[bracket_ref]  source=GandySoare1970a
+  REF: [1]
+
+[bracket_ref]  source=Shoenfield1958a
+  REF: p. 67 of [5]
+
+[bracket_ref]  source=Geiser1968a
+  REF: A. Robinson [10]
+
+[bracket_ref]  source=Geiser1968a
+  REF: [5, p. 179]
+
+[bracket_ref]  source=Geiser1968a
+  REF: [10]
+
+[bracket_ref]  source=Geiser1968a
+  REF: A. Robinson [10]
+
+[bracket_ref]  source=Spector1958a
+  REF: Halmos [6]
+
+[bracket_ref]  source=Spector1958a
+  REF: Kleene [7]
+
+[bracket_ref]  source=Spector1958a
+  REF: [6] p. 83
+
+[bracket_ref]  source=Jones1969a
+  REF: [3, p. 63]
+
+[loc_cit]  source=Hempel1943a
+  REF: Hilbert and Bernays, loc. cit., p. 155,
+
+[loc_cit]  source=Hempel1943a
+  REF: Carnap, loc. cit. (see footnote 6), p. 142, T 28-11
+
+[loc_cit]  source=Hempel1943a
+  REF: Hilbert and Bernays, loc. cit., p. 121
+
+[loc_cit]  source=Hempel1943a
+  REF: Hilbert and Bernays, loc. cit., pp. 185-186
+
+[loc_cit]  source=Hempel1943a
+  REF: Hilbert and Bernays, loc. cit., p. 155
+
+[loc_cit]  source=Hempel1943a
+  REF: Hilbert and Bernays, loc. cit., p. 106
+
+[loc_cit]  source=Hempel1943a
+  REF: Hilbert and Bernays, loc. cit., p. 106
+
+[loc_cit]  source=Hempel1943a
+  REF: Hilbert and Bernays, loc. cit., p. 121
+
+[ibid_bare]  source=Wang1954a
+  REF: Ibid, § 57.
+
+[bracket_ref]  source=Lvy1959a
+  REF: [5]
+
+[bracket_ref]  source=Lvy1959a
+  REF: [5]
+
+[bracket_ref]  source=Lvy1959a
+  REF: [5]
+
+[bracket_ref]  source=Post1947a
+  REF: [7, p. 240]
+
+[bracket_ref]  source=Post1947a
+  REF: [2]
+
+[bracket_ref]  source=Post1947a
+  REF: [5, footnote 2]
+
+[bracket_ref]  source=Post1947a
+  REF: [7]
+
+[bracket_ref]  source=Post1947a
+  REF: [7, p. 235]
+
+[bracket_ref]  source=Post1947a
+  REF: [7, p. 236]
+
+[bracket_ref]  source=Post1947a
+  REF: [2]
+
+[bracket_ref]  source=Post1947a
+  REF: [5]
+
+[bracket_ref]  source=Post1947a
+  REF: [4]
+
+[bracket_ref]  source=Post1947a
+  REF: [4]
+
+[bracket_ref]  source=Post1947a
+  REF: [3]
+
+[bracket_ref]  source=Post1947a
+  REF: Church [1]
+
+[bracket_ref]  source=Post1947a
+  REF: [8]
+
+[bracket_ref]  source=Putnam1960a
+  REF: [3] p. 438
+
+[bracket_ref]  source=Putnam1960a
+  REF: [1]
+
+[bracket_ref]  source=Putnam1960a
+  REF: [2]
+
+[bracket_ref]  source=Putnam1960a
+  REF: [1]
+
+[bracket_ref]  source=Putnam1960a
+  REF: Mostowski [5] p. 16
+
+[bracket_ref]  source=Putnam1960a
+  REF: [2] Theorem 3.8 p. 113
+
+[bracket_ref]  source=Putnam1960a
+  REF: [4]
+
+[bracket_ref]  source=Smiley1963a
+  REF: [3]
+
+[bracket_ref]  source=Smiley1963a
+  REF: [5]
+
+[bracket_ref]  source=Smiley1963a
+  REF: [7] p. 117
+
+[bracket_ref]  source=Smiley1963a
+  REF: [8] p. 125
+
+[bracket_ref]  source=Smiley1963a
+  REF: [9]
+
+[bracket_ref]  source=Smiley1963a
+  REF: [7]
+
+[bracket_ref]  source=Smiley1963a
+  REF: [9] p. 7
+
+[bracket_ref]  source=Smiley1963a
+  REF: [10]
+
+[bracket_ref]  source=Smiley1963a
+  REF: [11]
+
+[bracket_ref]  source=Smiley1963a
+  REF: [10]
+
+[bracket_ref]  source=Smiley1963a
+  REF: Prior, [14] p. 189
+
+[bracket_ref]  source=Smiley1963a
+  REF: [15]
+
+[bracket_ref]  source=Smiley1963a
+  REF: Prior, [16] p. 141
+
+[bracket_ref]  source=Smiley1963a
+  REF: [1]
+
+[bracket_ref]  source=Smiley1963a
+  REF: note 9 above and [1] p. 55
+
+[bracket_ref]  source=Smiley1963a
+  REF: [17]
+
+[bracket_ref]  source=Smiley1963a
+  REF: [18]
+
+[op_cit]  source=Parry1939a
+  REF: O. Becker, op. cit.
+
+[op_cit]  source=Parry1939a
+  REF: Becker, op. cit., I, §2
+
+[op_cit]  source=Parry1939a
+  REF: Churchman (op. cit., pp. 78-81)
+
+[op_cit]  source=Parry1939a
+  REF: M. Wajsberg, op. cit.
+
+[loc_cit]  source=Parry1939a
+  REF: W. T. Parry, Zum Lewisschen Aussagenkalkül, loc. cit.
+
+[op_cit]  source=Parry1939a
+  REF: Becker, op. cit., Bemerkung zu §2 516f.)
+
+[op_cit]  source=Parry1939a
+  REF: Churchman, op. cit., pp. 78, 81n
+
+[ibid_bare]  source=Wang1950b
+  REF: Ibid., p. 3
+
+[op_cit]  source=Wang1950b
+  REF: Gödel, op. cit., Chapters 1-2
+
+[bracket_ref]  source=Mccall1967a
+  REF: [1])
+
+[bracket_ref]  source=Mccall1967a
+  REF: [2]
+
+[bracket_ref]  source=Bull1966a
+  REF: [1]
+
+[bracket_ref]  source=Bull1966a
+  REF: p. 101 of [2]
+
+[bracket_ref]  source=Bull1966a
+  REF: [3]
+
+[bracket_ref]  source=Bull1966a
+  REF: [2]
+
+[bracket_ref]  source=Kleinberg1970b
+  REF: MATHIAS [12]
+
+[bracket_ref]  source=LorenzenMyhill1959a
+  REF: [1]
+
+[bracket_ref]  source=LorenzenMyhill1959a
+  REF: [2]
+
+[bracket_ref]  source=Quine1956b
+  REF: Hailperin's axioms [5]
+
+[bracket_ref]  source=Quine1956b
+  REF: [7]
+
+[bracket_ref]  source=Quine1956b
+  REF: Specker [10]
+
+[bracket_ref]  source=Quine1956b
+  REF: [9]
+
+[bracket_ref]  source=Quine1956b
+  REF: [8]
+
+[bracket_ref]  source=Quine1956b
+  REF: [10]
+
+[bracket_ref]  source=Quine1956b
+  REF: [9]
+
+[bracket_ref]  source=Bull1965a
+  REF: Harrop's [4]
+
+[bracket_ref]  source=Kleene1962a
+  REF: Introduction to metamathematics [7]
+
+[bracket_ref]  source=Kleene1962a
+  REF: [3]
+
+[bracket_ref]  source=Kleene1962a
+  REF: [1]
+
+[bracket_ref]  source=Kleene1962a
+  REF: [5] p. 18
+
+[bracket_ref]  source=Kleene1962a
+  REF: [6] p. 115
+
+[bracket_ref]  source=Kleene1962a
+  REF: [10]
+
+[bracket_ref]  source=Kleene1962a
+  REF: [11]
+
+[bracket_ref]  source=Kleene1962a
+  REF: Kreisel [8]
+
+[bracket_ref]  source=Henson1969a
+  REF: [4]
+
+[bracket_ref]  source=Henson1969a
+  REF: [4]
+
+[bracket_ref]  source=Henson1969a
+  REF: [4]
+
+[bracket_ref]  source=Henson1969a
+  REF: [5]
+
+[bracket_ref]  source=Henson1969a
+  REF: [4]
+
+[bracket_ref]  source=Henson1969a
+  REF: R. L. VAUGHT, Review of [1]
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid. pp. 74 ff., pp. 77 ff., and pp. 86-7.
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid. p. 74.
+
+[op_cit]  source=Copilowish1948a
+  REF: Peirce, op. cit. pp. 27-98.
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid. p. 86.
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid. p. 140 and pp. 180-181.
+
+[ibid_bare]  source=Copilowish1948a
+  REF: ibid. p. 140
+
+[ibid_bare]  source=Copilowish1948a
+  REF: ibid. p. 180.
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid. p. 141 and p. 184.
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid. pp. 34, 140, 144, 195, 377.
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid. p. 28
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid. p. 200
+
+[op_cit]  source=Copilowish1948a
+  REF: Schröder, op. cit. pp. 33-34.
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid. p. 11, p. 44, and pp. 64-66.
+
+[ibid_bare]  source=Copilowish1948a
+  REF: Ibid., p. 5
+
+[ibid_bare]  source=Copilowish1948a
+  REF: ibid., pp. 4-5
+
+[bracket_ref]  source=MontgomeryRoutley1968a
+  REF: [2, p. 342]
+
+[bracket_ref]  source=MontgomeryRoutley1968a
+  REF: [6, p. 415]
+
+[bracket_ref]  source=MontgomeryRoutley1968a
+  REF: [6, pp. 415-416]
+
+[bracket_ref]  source=MontgomeryRoutley1968a
+  REF: Angell [2, p. 329]
+
+[bracket_ref]  source=MontgomeryRoutley1968a
+  REF: McCall ([6, p. 418])
+
+[bracket_ref]  source=MontgomeryRoutley1968a
+  REF: McCall in [7]
+
+[bracket_ref]  source=Smullyan1968b
+  REF: [10]
+
+[bracket_ref]  source=Smullyan1968b
+  REF: [7]
+
+[bracket_ref]  source=Smullyan1968b
+  REF: [1]-[4]
+
+[bracket_ref]  source=Smullyan1968b
+  REF: [1]-[4]
+
+[bracket_ref]  source=Smullyan1968b
+  REF: [5]
+
+[bracket_ref]  source=Smullyan1968b
+  REF: [6]
+
+[bracket_ref]  source=Smullyan1968b
+  REF: [1]
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: Vgl. [5]
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: [7]
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: [4]
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: [6]
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: [2]
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: [1]
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: Vgl. hierzu [4] S. 9, 18
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: Vgl. hierzu [4]
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: Benutzung von [4] § 4
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: Vgl. [3] pp. 319, 320
+
+[bracket_ref]  source=Hasenjaeger1953a
+  REF: [3] p. 465
+
+[loc_cit]  source=Emch1937a
+  REF: The caksdus of logial implication, loc. cit.
+
+[bracket_ref]  source=Craig1957b
+  REF: A. Robinson [11]
+
+[bracket_ref]  source=Craig1957b
+  REF: [3]
+
+[bracket_ref]  source=Craig1957b
+  REF: [1]
+
+[bracket_ref]  source=Craig1957b
+  REF: [11]
+
+[bracket_ref]  source=Craig1957b
+  REF: [11]
+
+[op_cit]  source=Quine1945b
+  REF: Op. cit., pp. 56-57
+
+[op_cit]  source=Quine1945b
+  REF: Op. cit., pp. 74-81.
+
+[ibid_bare]  source=Dotterer1943a
+  REF: Ibid. p. 95.
+
+[bracket_ref]  source=Thatcher1966a
+  REF: Asser [1]
+
+[bracket_ref]  source=Thatcher1966a
+  REF: Hilbert and Bernays [4], pp. 413-415
+
+[bracket_ref]  source=Thatcher1966a
+  REF: [2]
+
+[loc_cit]  source=KalmrSurnyi1950a
+  REF: Surányi's theorem (loc. cit.)
+
+[loc_cit]  source=KalmrSurnyi1950a
+  REF: Surányi (loc. cit.)
+
+[loc_cit]  source=KalmrSurnyi1950a
+  REF: Pepis (loc. cit.)
+
+[loc_cit]  source=KalmrSurnyi1950a
+  REF: Surányi (loc. cit.)
+
+[bracket_ref]  source=Dummett1959a
+  REF: [4]
+
+[bracket_ref]  source=Orey1956a
+  REF: [1]
+
+[bracket_ref]  source=Orey1956a
+  REF: [1]
+
+[bracket_ref]  source=Margaris1958a
+  REF: [4]
+
+[bracket_ref]  source=Lindstrm1968a
+  REF: Rabin [5]
+
+[bracket_ref]  source=Lindstrm1968a
+  REF: Craig [2]
+
+[op_cit]  source=Lemmon1956a
+  REF: Lewis and Langford's (op. cit.) 16.15
+
+[op_cit]  source=Lemmon1956a
+  REF: Lewis and Langford, op. cit., p. 501
+
+[loc_cit]  source=Myhill1953c
+  REF: F. B. FITCH, loc. cit., 3.13 (p. 212)
+
+[bracket_ref]  source=Pager1962a
+  REF: Reviews of [2]
+
+[op_cit]  source=Svenonius1955a
+  REF: Op. cit., p. 69
+
+[op_cit]  source=Rose1952a
+  REF: J. B. ROSSER and A. R. TURQUETTE, op. cit., pp. 73-74
+
+[bracket_ref]  source=Craig1953a
+  REF: [3]
+
+[bracket_ref]  source=Craig1953a
+  REF: [1]
+
+[bracket_ref]  source=Craig1953a
+  REF: [3]
+
+[bracket_ref]  source=Craig1953a
+  REF: [2]
+
+[bracket_ref]  source=Feferman1968a
+  REF: Bachmann [1]
+
+[bracket_ref]  source=Feferman1968a
+  REF: [7]
+
+[bracket_ref]  source=Feferman1968a
+  REF: [2]
+
+[bracket_ref]  source=Feferman1968a
+  REF: [8]
+
+[bracket_ref]  source=Feferman1968a
+  REF: [10]
+
+[ibid_bare]  source=More1959a
+  REF: Ibid., p. 8
+
+[bracket_ref]  source=Montague1962a
+  REF: [8]
+
+[bracket_ref]  source=Martin1954a
+  REF: [1]
+
+[bracket_ref]  source=Martin1954a
+  REF: [4]
+
+[bracket_ref]  source=Martin1954a
+  REF: [5]
+
+[bracket_ref]  source=Martin1954a
+  REF: [9]
+
+[bracket_ref]  source=Martin1954a
+  REF: [6]
+
+[bracket_ref]  source=Martin1954a
+  REF: [12]
+
+[bracket_ref]  source=Martin1954a
+  REF: [8]
+
+[bracket_ref]  source=Martin1954a
+  REF: Piccard, is contained in [6] p. 55
+
+[bracket_ref]  source=Martin1954a
+  REF: [11]
+
+[bracket_ref]  source=Martin1954a
+  REF: Łoś [3]
+
+[bracket_ref]  source=Martin1954a
+  REF: [10]
+
+[bracket_ref]  source=Martin1954a
+  REF: Kalicki [2]
+
+[bracket_ref]  source=Martin1954a
+  REF: [10]
+
+[bracket_ref]  source=Martin1954a
+  REF: Swift [12], pp. 619-620
+
+[bracket_ref]  source=Martin1954a
+  REF: Götlind [1]
+
+[ibid_bare]  source=Martin1954a
+  REF: Errata, ibid., p. iv.
+
+[bracket_ref]  source=Martin1954a
+  REF: ALAN ROSE, Review of [4]
+
+[loc_cit]  source=Alban1943a
+  REF: Lewis and Langford, loc. cit., p. 492
+
+[loc_cit]  source=Alban1943a
+  REF: Vide Lewis and Langford, loc. cit., pp. 492-493
+
+[bracket_ref]  source=Davis1953a
+  REF: [2]
+
+[bracket_ref]  source=Davis1953a
+  REF: [1]
+
+[bracket_ref]  source=Davis1953a
+  REF: [3], pp. 191-193
+
+[bracket_ref]  source=Davis1953a
+  REF: [5]
+
+[bracket_ref]  source=Davis1953a
+  REF: [7], pp. 48, 49
+
+[bracket_ref]  source=Davis1953a
+  REF: [8], pp. 96, 97
+
+[bracket_ref]  source=Davis1953a
+  REF: [10], p. 704 and p. 707
+
+[bracket_ref]  source=Davis1953a
+  REF: [2]
+
+[bracket_ref]  source=Davis1953a
+  REF: [11]
+
+[bracket_ref]  source=Davis1953a
+  REF: [7]
+
+[bracket_ref]  source=Davis1953a
+  REF: [9]
+
+[bracket_ref]  source=Bene1955a
+  REF: [1]
+
+[bracket_ref]  source=Bing1957a
+  REF: [4]
+
+[bracket_ref]  source=Bing1957a
+  REF: [4]
+
+[bracket_ref]  source=Bing1957a
+  REF: [2]
+
+[bracket_ref]  source=Bing1957a
+  REF: [1]
+
+[loc_cit]  source=Robinson1939a
+  REF: H. Vieler, loc. cit., pp. 9-11
+
+[loc_cit]  source=Robinson1939a
+  REF: H. Vieler, loc. cit.
+
+[loc_cit]  source=KalmrSurnyi1947a
+  REF: László Kalmár, Zur Reduktion des Entscheidungsproblems, loc. cit. in footnote 5
+
+[bracket_ref]  source=Barwise1969b
+  REF: [1]
+
+[bracket_ref]  source=Barwise1969b
+  REF: Takeuti-Kino [21]
+
+[bracket_ref]  source=Barwise1969b
+  REF: Lopez-Escobar in [15]
+
+[bracket_ref]  source=FefermanSpector1962a
+  REF: [2]
+
+[bracket_ref]  source=FefermanSpector1962a
+  REF: [4]
+
+[bracket_ref]  source=FefermanSpector1962a
+  REF: [6]
+
+[bracket_ref]  source=FefermanSpector1962a
+  REF: [5]
+
+[bracket_ref]  source=Kripke1959a
+  REF: Prior [6]
+
+[bracket_ref]  source=Kripke1959a
+  REF: Curry [8]
+
+[bracket_ref]  source=Kripke1959a
+  REF: [3]
+
+[bracket_ref]  source=Kripke1959a
+  REF: [3]
+
+[ibid_bare]  source=AndersonCleaver1965a
+  REF: Ibid., n. 1, p. 108.
+
+[ibid_bare]  source=AndersonCleaver1965a
+  REF: Ibid., p. 108.
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Church [1], p. 37
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Tarski [8], §5
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Tarski [7]
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Tarski [10]
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Skolem [5], §4
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Hausdorff [2]
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Szmielew [6]
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Skolem [4]
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Skolem [5]
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Tarski [8]
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Skolem [4]
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Tarski [7], §3
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Skolem [4], p. 36
+
+[bracket_ref]  source=Mostowski1952a
+  REF: Tarski [9], p. 50, note 11
+
+[bracket_ref]  source=Mostowski1952a
+  REF: J. Robinson [3], p. 101
+
+[loc_cit]  source=Bernays1941a
+  REF: Loc. cit. (footnote 20)
+
+[bracket_ref]  source=Fitch1967a
+  REF: [6]
+
+[bracket_ref]  source=Fitch1967a
+  REF: [4]
+
+[bracket_ref]  source=Fitch1967a
+  REF: [1]
+
+[bracket_ref]  source=Fitch1967a
+  REF: [4]
+
+[bracket_ref]  source=Appel1959a
+  REF: [1]
+
+[bracket_ref]  source=Lemmon1957a
+  REF: [9], p. 305
+
+[bracket_ref]  source=Lemmon1957a
+  REF: [2]
+
+[bracket_ref]  source=Lemmon1957a
+  REF: [9], p. 306-307
+
+[bracket_ref]  source=Lemmon1957a
+  REF: [11]
+
+[bracket_ref]  source=Lemmon1957a
+  REF: Lewis's group I, [5], p. 493
+
+[bracket_ref]  source=Lemmon1957a
+  REF: [2]
+
+[bracket_ref]  source=Feferman1964a
+  REF: [10]
+
+[bracket_ref]  source=Feferman1964a
+  REF: [4]
+
+[bracket_ref]  source=Feferman1964a
+  REF: [7]
+
+[bracket_ref]  source=Feferman1964a
+  REF: [26]
+
+[bracket_ref]  source=Cresswell1969a
+  REF: Åqvist [1]
+
+[bracket_ref]  source=Cresswell1969a
+  REF: [6]
+
+[bracket_ref]  source=Cresswell1969a
+  REF: Hughes and Cresswell [4]
+
+[bracket_ref]  source=Cresswell1969a
+  REF: V. Hughes and Cresswell [4, pp. 50-56]
+
+[bracket_ref]  source=Cresswell1969a
+  REF: Cresswell [2]
+
+[bracket_ref]  source=Cresswell1969a
+  REF: [3, p. 204]
+
+[bracket_ref]  source=Cresswell1969a
+  REF: Cresswell [2]
+
+[bracket_ref]  source=Cresswell1969a
+  REF: Kripke [5]
+
+[bracket_ref]  source=Cresswell1969a
+  REF: Lemmon [6]
+
+[bracket_ref]  source=Leblanc1957a
+  REF: Kemeny in [3], pp. 265-6
+
+[bracket_ref]  source=Leblanc1957a
+  REF: [2], pp. 295-6
+
+[bracket_ref]  source=Leblanc1957a
+  REF: [1], p. 12
+
+[bracket_ref]  source=Leblanc1957a
+  REF: Shimony's axiom (4) in [4], p. 3
+
+[bracket_ref]  source=Leblanc1957a
+  REF: [5], pp. 93-4
+
+[bracket_ref]  source=Leblanc1957a
+  REF: [6]
+
+[bracket_ref]  source=Cresswell1965a
+  REF: [2] p. 52
+
+[bracket_ref]  source=Cresswell1965a
+  REF: Prior [4] p. 130
+
+[bracket_ref]  source=Cresswell1965a
+  REF: Tarski, [5] paper I
+
+[bracket_ref]  source=Grewe1969a
+  REF: [2]
+
+[bracket_ref]  source=Grewe1969a
+  REF: Zermelo-Fraenkel (see [6])
+
+[bracket_ref]  source=Grewe1969a
+  REF: [1]
+
+[bracket_ref]  source=Bull1969b
+  REF: [1]
+
+[bracket_ref]  source=Ellentuck1970b
+  REF: [2]
+
+[bracket_ref]  source=Harrop1965a
+  REF: [7], § 29
+
+[bracket_ref]  source=Harrop1965a
+  REF: [10]
+
+[bracket_ref]  source=Harrop1965a
+  REF: [7]
+
+[bracket_ref]  source=Harrop1965a
+  REF: [24]
+
+[bracket_ref]  source=Harrop1965a
+  REF: [32], p. 86
+
+[bracket_ref]  source=Harrop1965a
+  REF: Kuznekov [35]
+
+[bracket_ref]  source=Harrop1965a
+  REF: [35]
+
+[bracket_ref]  source=Harrop1965a
+  REF: Łukasiewicz and Tarski [40]
+
+[bracket_ref]  source=Harrop1965a
+  REF: Rasiowa [46]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [1]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [5], S. 112 f
+
+[bracket_ref]  source=Behmann1959a
+  REF: [5], S. 115
+
+[bracket_ref]  source=Behmann1959a
+  REF: [8], Bd. I, S. 54 f
+
+[bracket_ref]  source=Behmann1959a
+  REF: [12], insbes. S. 307 f
+
+[bracket_ref]  source=Behmann1959a
+  REF: [5], S. 71
+
+[bracket_ref]  source=Behmann1959a
+  REF: [10], S. 141
+
+[bracket_ref]  source=Behmann1959a
+  REF: [12], S. 315
+
+[bracket_ref]  source=Behmann1959a
+  REF: [7], S. 184
+
+[bracket_ref]  source=Behmann1959a
+  REF: [7], S. 260
+
+[bracket_ref]  source=Behmann1959a
+  REF: [6]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [7], S. 258 f
+
+[bracket_ref]  source=Behmann1959a
+  REF: vgl. [7], S. 4
+
+[bracket_ref]  source=Behmann1959a
+  REF: Behmann [vgl. [1], S. 40 ff
+
+[bracket_ref]  source=Behmann1959a
+  REF: [1], S. 41
+
+[bracket_ref]  source=Behmann1959a
+  REF: [1]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [7]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [1]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [3]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [11], insbes. S. 91
+
+[bracket_ref]  source=Behmann1959a
+  REF: [7], S. 80 ff
+
+[bracket_ref]  source=Behmann1959a
+  REF: [13], Bd. I, S. 323
+
+[bracket_ref]  source=Behmann1959a
+  REF: [3]
+
+[bracket_ref]  source=Behmann1959a
+  REF: Freges ([8], S. 9)
+
+[bracket_ref]  source=Behmann1959a
+  REF: [4]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [14], S. 173-179
+
+[bracket_ref]  source=Behmann1959a
+  REF: [3], S. 100 ff
+
+[bracket_ref]  source=Behmann1959a
+  REF: [3], S. 101
+
+[bracket_ref]  source=Behmann1959a
+  REF: [3], S. 101 f
+
+[bracket_ref]  source=Behmann1959a
+  REF: [9], S. 57
+
+[bracket_ref]  source=Behmann1959a
+  REF: [1], S. 44
+
+[bracket_ref]  source=Behmann1959a
+  REF: [13], Bd. III, S. 42-63
+
+[bracket_ref]  source=Behmann1959a
+  REF: [2]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [2]
+
+[bracket_ref]  source=Behmann1959a
+  REF: [1], S. 47 f
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Rosser and Turquette, op. cit., p. 78
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Rosser and Turquette, op. cit., p. 68
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Rosser and Turquette, op. cit., pp. 61-82
+
+[ibid_bare]  source=RosserTurquette1948a
+  REF: Ibid.
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Alonzo Church, op. cit.
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Roser and Turquette, op. cit., sec. 2
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Rosser and Turquette, op. cit., p. 68
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Rosser and Turquette, op. cit., p. 70
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Alonzo Church and Hilbert and Ackermann, op. cit.
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Rosser and Turquette, op. cit., p. 68
+
+[op_cit]  source=RosserTurquette1948a
+  REF: Alonzo Church, op. cit., p. 44
+
+[bracket_ref]  source=Makinson1966a
+  REF: Dummett and Lemmon [1] 1959
+
+[bracket_ref]  source=Makinson1966a
+  REF: Nishimura [2] 1960
+
+[bracket_ref]  source=Makinson1966a
+  REF: Prior [3] 1957, p. 23
+
+[bracket_ref]  source=Makinson1966a
+  REF: Prior [4] 1958
+
+[bracket_ref]  source=Anderson1954a
+  REF: [1]
+
+[bracket_ref]  source=Anderson1954a
+  REF: von Wright [11]
+
+[bracket_ref]  source=Anderson1954a
+  REF: [11]
+
+[bracket_ref]  source=Anderson1954a
+  REF: [11]
+
+[bracket_ref]  source=Anderson1954a
+  REF: Anderson [3]
+
+[bracket_ref]  source=Anderson1954a
+  REF: Lewis and Langford [5], p. 501, p. 493, and pp. 125-126
+
+[bracket_ref]  source=Anderson1954a
+  REF: von Wright [11], p. 85
+
+[bracket_ref]  source=Anderson1954a
+  REF: Lewis's system S2 ([5], p. 500)
+
+[bracket_ref]  source=Anderson1954a
+  REF: McKinsey [6]
+
+[bracket_ref]  source=Anderson1954a
+  REF: von Wright [11]
+
+[bracket_ref]  source=Anderson1954a
+  REF: von Wright [11]
+
+[bracket_ref]  source=Anderson1954a
+  REF: McKinsey [6]
+
+[bracket_ref]  source=Anderson1954a
+  REF: McKinsey and Tarski [7]
+
+[bracket_ref]  source=Anderson1954a
+  REF: McKinsey and Tarski [7], pp. 1-2
+
+[bracket_ref]  source=Anderson1954a
+  REF: McKinsey and Tarski [7]
+
+[bracket_ref]  source=Anderson1954a
+  REF: [5], p. 125
+
+[bracket_ref]  source=Anderson1954a
+  REF: Parry [8], p. 144
+
+[bracket_ref]  source=Anderson1954a
+  REF: Anderson [1]
+
+[bracket_ref]  source=Anderson1954a
+  REF: Quine [9], Chapter I
+
+[bracket_ref]  source=Anderson1954a
+  REF: Lewis and Langford [5], p. 126
+
+[bracket_ref]  source=Anderson1954a
+  REF: McKinsey and Tarski [7]
+
+[bracket_ref]  source=Anderson1954a
+  REF: Simons [10]
+
+[bracket_ref]  source=Anderson1954a
+  REF: Von Wright [11], pp. 84-85
+
+[bracket_ref]  source=Anderson1954a
+  REF: Anderson [2]
+
+[bracket_ref]  source=Anderson1954a
+  REF: Lewis and Langford [5], p. 501
+
+[bracket_ref]  source=Anderson1954a
+  REF: Carnap [4]
+
+[bracket_ref]  source=Anderson1954a
+  REF: McKinsey and Tarski [7], pp. 13-14
+
+[bracket_ref]  source=Anderson1954a
+  REF: McKinsey [6], p. 132
+
+[bracket_ref]  source=Anderson1954a
+  REF: Von Wright ([11], p. 63)
+
+[bracket_ref]  source=Anderson1954a
+  REF: [11], p. 64
+
+[bracket_ref]  source=Anderson1954a
+  REF: McKinsey ([6], p. 128)
+
+[bracket_ref]  source=Anderson1954a
+  REF: A. R. ANDERSON, Review of von Wright [11]
+
+[ibid_bare]  source=Harary1950a
+  REF: ibid.
+
+[bracket_ref]  source=Crossley1966a
+  REF: [3]
+
+[bracket_ref]  source=Mendelson1956b
+  REF: [3]
+
+[bracket_ref]  source=Mendelson1956b
+  REF: [4]
+
+[bracket_ref]  source=Mendelson1956b
+  REF: [5]
+
+[bracket_ref]  source=Mendelson1956b
+  REF: [8]
+
+[bracket_ref]  source=Mendelson1956b
+  REF: Shepherdson [11], pp. 164-165
+
+[bracket_ref]  source=Mendelson1956b
+  REF: Bernays [1], pp. 83-84
+
+[bracket_ref]  source=Stein1960a
+  REF: [1]
+
+[bracket_ref]  source=Pollock1967a
+  REF: [11]
+
+[bracket_ref]  source=Pollock1967a
+  REF: [11]
+
+[bracket_ref]  source=Lejewski1969a
+  REF: [1]
+
+[bracket_ref]  source=Lejewski1969a
+  REF: [5, vol. 2, p. 257]
+
+[bracket_ref]  source=Lejewski1969a
+  REF: [2]
+
+[bracket_ref]  source=Lejewski1969a
+  REF: [4, p. 66]
+
+[bracket_ref]  source=Nishimura1960a
+  REF: [6] p. 22
+
+[bracket_ref]  source=Nishimura1960a
+  REF: Gentzen [1]
+
+[bracket_ref]  source=Nishimura1960a
+  REF: Mostowski [4]
+
+[bracket_ref]  source=Nishimura1960a
+  REF: Umezawa [5]
+
+[bracket_ref]  source=Nishimura1960a
+  REF: [6]
+
+[bracket_ref]  source=Nishimura1960a
+  REF: [6]
+
+[bracket_ref]  source=Nishimura1960a
+  REF: [6] p. 22
+
+[bracket_ref]  source=Nishimura1960a
+  REF: [4] p. 204
+
+[bracket_ref]  source=Nishimura1960a
+  REF: [6] p. 23
+
+[bracket_ref]  source=Nishimura1960a
+  REF: [6] p. 23
+
+[bracket_ref]  source=BelluceChang1963a
+  REF: [1]
+
+[bracket_ref]  source=BelluceChang1963a
+  REF: [2]
+
+[bracket_ref]  source=BelluceChang1963a
+  REF: [8]
+
+[bracket_ref]  source=BelluceChang1963a
+  REF: [10]
+
+[bracket_ref]  source=Belnap1960a
+  REF: Ackermann [1]
+
+[bracket_ref]  source=Spector1955a
+  REF: Mostowski [14]
+
+[bracket_ref]  source=Spector1955a
+  REF: [8]
+
+[bracket_ref]  source=Spector1955a
+  REF: Kleene [5]
+
+[bracket_ref]  source=Spector1955a
+  REF: Mostow- ski [13]
+
+[bracket_ref]  source=Spector1955a
+  REF: Markwald [12]
+
+[bracket_ref]  source=Spector1955a
+  REF: Kleene [9]
+
+[bracket_ref]  source=Spector1955a
+  REF: [12]
+
+[bracket_ref]  source=Spector1955a
+  REF: [8]
+
+[bracket_ref]  source=Spector1955a
+  REF: [9]
+
+[bracket_ref]  source=Spector1955a
+  REF: [12]
+
+[bracket_ref]  source=Spector1955a
+  REF: [7] bottom page 538
+
+[bracket_ref]  source=Spector1955a
+  REF: [9]
+
+[bracket_ref]  source=Spector1955a
+  REF: [9]
+
+[bracket_ref]  source=Spector1955a
+  REF: [8]
+
+[bracket_ref]  source=Spector1955a
+  REF: [8]
+
+[bracket_ref]  source=Spector1955a
+  REF: [6]
+
+[bracket_ref]  source=Spector1955a
+  REF: [7] p. 527
+
+[bracket_ref]  source=Spector1955a
+  REF: [9]
+
+[bracket_ref]  source=Rice1956a
+  REF: John Myhill [3]
+
+[bracket_ref]  source=Lehman1955a
+  REF: Carnap in [1]
+
+[bracket_ref]  source=Lehman1955a
+  REF: [5], pp. 165-166
+
+[loc_cit]  source=Doss1945a
+  REF: J. v. Neumann, loc. cit., Kap. VIII
+
+[bracket_ref]  source=Smullyan1966a
+  REF: [1]
+
+[bracket_ref]  source=Smullyan1966a
+  REF: [1]
+
+[loc_cit]  source=MartinWoodger1951a
+  REF: Tarski, loc. cit.
+
+[loc_cit]  source=MartinWoodger1951a
+  REF: Goodman and Quine, loc. cit.
+
+[loc_cit]  source=MartinWoodger1951a
+  REF: Goodman and Quine, loc. cit., esp. p. 112.
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [7]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [13]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [11]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [12]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [15]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [14]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [14]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: p. 162 of [7]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [10]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [10]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [10]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: pp. 448, 449 of [12]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: p. 448 of [12]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [8]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [9]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [6], pp. 88, 89
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [16]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: [4]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: page 128 of [17]
+
+[bracket_ref]  source=Mcnaughton1953a
+  REF: pp. 450-452 of [12]
+
+[op_cit]  source=Goodman1943a
+  REF: Op. cit., p. 151 and footnote 6
+
+[op_cit]  source=Goodman1943a
+  REF: Op. cit., p. 152
+
+[op_cit]  source=Goodman1943a
+  REF: Op. cit., p. 151 and footnote 6
+
+[loc_cit]  source=Robinson1956a
+  REF: Davis, loc. cit., Theorems 3.3 and 3.4
+
+[loc_cit]  source=Robinson1956a
+  REF: Davis, loc. cit., Theorem 3.5
+
+[bracket_ref]  source=Feferman1962a
+  REF: [26] p. 209
+
+[ibid_bare]  source=Feferman1962a
+  REF: ibid. p. 168.
+
+[bracket_ref]  source=Feferman1962a
+  REF: [26] pp. 217 ff
+
+[ibid_wrapped]  source=Feferman1962a
+  REF: (ibid. pp. 197-198)
+
+[bracket_ref]  source=Feferman1962a
+  REF: [2]
+
+[bracket_ref]  source=Feferman1962a
+  REF: [3]
+
+[bracket_ref]  source=Feferman1962a
+  REF: [4]
+
+[bracket_ref]  source=Feferman1962a
+  REF: [17]
+
+[bracket_ref]  source=Feferman1962a
+  REF: [2]
+
+[bracket_ref]  source=Feferman1962a
+  REF: Kreider in [13]
+
+[bracket_ref]  source=Feferman1962a
+  REF: [14]
+
+[bracket_ref]  source=Feferman1962a
+  REF: [5]
+
+[bracket_ref]  source=Feferman1962a
+  REF: Rogers in [19] pp. 134-135
+
+[bracket_ref]  source=Feferman1962a
+  REF: [14]
+
+[bracket_ref]  source=Feferman1962a
+  REF: [21] pp. 168-169
+
+[bracket_ref]  source=Feferman1962a
+  REF: [22]
+
+[bracket_ref]  source=Feferman1962a
+  REF: [10] pp. 414-415
+
+[bracket_ref]  source=Feferman1962a
+  REF: Kreisel in [15]
+
+[op_cit]  source=Quine1936a
+  REF: Łukasiewicz and Tarski, op. cit., p. 42
+
+[op_cit]  source=Quine1936a
+  REF: Tarski, op. cit., p. 97
+
+[loc_cit]  source=Myhill1950b
+  REF: JULIA ROBINSON, loc. cit.
+
+[loc_cit]  source=Langford1939a
+  REF: Lewis and Langford, loc. cit.
+
+[bracket_ref]  source=Belnap1967a
+  REF: Belnap [11]
+
+[bracket_ref]  source=Belnap1967a
+  REF: Belnap and Spencer [13]
+
+[bracket_ref]  source=Belnap1967a
+  REF: Anderson and Belnap [8]
+
+[bracket_ref]  source=Belnap1967a
+  REF: Belnap [10]
+
+[bracket_ref]  source=Belnap1967a
+  REF: Anderson and Belnap [5]
+
+[bracket_ref]  source=Belnap1967a
+  REF: [6]
+
+[bracket_ref]  source=Belnap1967a
+  REF: [8]
+
+[bracket_ref]  source=Robinson1969a
+  REF: [9]
+
+[bracket_ref]  source=Lvy1960a
+  REF: [11]
+
+[bracket_ref]  source=Lvy1960a
+  REF: Hajnal [3] p. 135
+
+[bracket_ref]  source=Lvy1960a
+  REF: Hajnal [3] p. 135
+
+[bracket_ref]  source=Lvy1960a
+  REF: Hajnal [3]
+
+[bracket_ref]  source=Lvy1960a
+  REF: [8]
+
+[ibid_bare]  source=Parry1965a
+  REF: ibid. (1950) 160f
+
+[ibid_wrapped]  source=Parry1965a
+  REF: [ibid. (1959) 165]
+
+[ibid_wrapped]  source=Parry1965a
+  REF: (ibid. 164)
+
+[ibid_bare]  source=Parry1965a
+  REF: p. 163 (ibid.)
+
+[loc_cit]  source=Myhill1950a
+  REF: F. B. Fitch, loc. cit., p. 109
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine's, loc. cit., p. 152
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., p. 74 and pp. 177-8
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., pp. 142-3
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., †182 (p. 137)
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., *100 (p. 88)
+
+[ibid_bare]  source=Myhill1950a
+  REF: W. V. Quine, ibid.
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., *232 (p. 172)
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., *235 (p. 174) and footnote 16 below
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., †514 (p. 217)
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., †517 (p. 217)
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., pp. 201-2
+
+[loc_cit]  source=Myhill1950a
+  REF: L. Chwistek, loc. cit., p. 94
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., pp. 11, 12-13, 119-20 and 130-32
+
+[loc_cit]  source=Myhill1950a
+  REF: D. Hilbert and P. Bernays, loc. cit., vol. 2, pp. 9-18
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., pp. 215-16, 220-21
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., pp. 253-54
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., p. 202, D25
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., pp. 197-8
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., p. 200, D24
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., p. 241, D40
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., p. 48, D6
+
+[loc_cit]  source=Myhill1950a
+  REF: F. B. Fitch, loc. cit., p. 59
+
+[loc_cit]  source=Myhill1950a
+  REF: S. C. Kleene, loc. cit., p. 63
+
+[loc_cit]  source=Myhill1950a
+  REF: Peano (cf. Quine, loc. cit., p. 259
+
+[loc_cit]  source=Myhill1950a
+  REF: D. Hilbert and P. Bernays, loc. cit., vol. 1, p. 371
+
+[loc_cit]  source=Myhill1950a
+  REF: S. C. Kleene, loc. cit., p. 63, Theorem VIII
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., p. 178, *254
+
+[loc_cit]  source=Myhill1950a
+  REF: W. V. Quine, loc. cit., pp. 235-6
+
+[bracket_ref]  source=Tharp1967a
+  REF: [8]
+
+[bracket_ref]  source=Tharp1967a
+  REF: [6]
+
+[bracket_ref]  source=Ullian1960a
+  REF: [8]
+
+[bracket_ref]  source=Keisler1960a
+  REF: Henkin [5]
+
+[bracket_ref]  source=Keisler1960a
+  REF: Tarski [14]
+
+[bracket_ref]  source=Keisler1960a
+  REF: Lyndon [11]
+
+[bracket_ref]  source=Keisler1960a
+  REF: Lyndon [11]
+
+[bracket_ref]  source=Keisler1960a
+  REF: Tarski [14]
+
+[bracket_ref]  source=Keisler1960a
+  REF: Tarski and Vaught [15]
+
+[bracket_ref]  source=Keisler1960a
+  REF: Frayne and Scott in [2]
+
+[ibid_bare]  source=Churchman1938a
+  REF: Ibid., Theorem 87.
+
+[bracket_ref]  source=Craig1960a
+  REF: [4]
+
+[bracket_ref]  source=Craig1960a
+  REF: [4]
+
+[bracket_ref]  source=Craig1960a
+  REF: [21]
+
+[bracket_ref]  source=Craig1960a
+  REF: [17] p. 162
+
+[bracket_ref]  source=Craig1960a
+  REF: [7]
+
+[bracket_ref]  source=Craig1960a
+  REF: Kleene's result in [13]
+
+[bracket_ref]  source=Craig1960a
+  REF: Vaught's result 2.1 in [7]
+
+[bracket_ref]  source=Craig1960a
+  REF: [7]
+
+[bracket_ref]  source=Craig1960a
+  REF: [1]
+
+[bracket_ref]  source=Craig1960a
+  REF: [2]
+
+[bracket_ref]  source=Craig1960a
+  REF: [19]
+
+[bracket_ref]  source=Craig1960a
+  REF: [7]
+
+[bracket_ref]  source=Craig1960a
+  REF: [4]
+
+[bracket_ref]  source=Craig1960a
+  REF: [6]
+
+[bracket_ref]  source=Craig1960a
+  REF: [5]
+
+[bracket_ref]  source=Craig1960a
+  REF: [5]
+
+[bracket_ref]  source=Craig1960a
+  REF: [5] p. 264.
+
+[bracket_ref]  source=Craig1960a
+  REF: Herbrand [10] p. 117
+
+[bracket_ref]  source=Craig1960a
+  REF: [5]
+
+[bracket_ref]  source=Craig1960a
+  REF: [10] pp. 85-97
+
+[bracket_ref]  source=Craig1960a
+  REF: [5]
+
+[bracket_ref]  source=Craig1960a
+  REF: [10] pp. 85-97
+
+[bracket_ref]  source=Craig1960a
+  REF: [6]
+
+[bracket_ref]  source=Craig1960a
+  REF: [10] pp. 97-108
+
+[bracket_ref]  source=Craig1960a
+  REF: Tarski [18]
+
+[bracket_ref]  source=Prawitz1967a
+  REF: Rosser [6, p. 130]
+
+[bracket_ref]  source=Prawitz1967a
+  REF: Prawitz [5]
+
+[loc_cit]  source=Anderson1956a
+  REF: Simons' Theorems 1, 28, and 29, loc. cit.
+
+[op_cit]  source=Anderson1956a
+  REF: Lewis and Langford, op. cit.
+
+[op_cit]  source=Anderson1956a
+  REF: Lewis and Langford, op. cit., p. 498, item (8)
+
+[bracket_ref]  source=Vaught1960a
+  REF: [19]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [20]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [12]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [12]
+
+[bracket_ref]  source=Vaught1960a
+  REF: Szmielew and Tarski in [14]
+
+[bracket_ref]  source=Vaught1960a
+  REF: Tarski, and by Cobham [2]
+
+[bracket_ref]  source=Vaught1960a
+  REF: Kalmár [7]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [16]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [17]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [16]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [16]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [16]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [17]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [17]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [17]
+
+[bracket_ref]  source=Vaught1960a
+  REF: W. Szmielew and A. Tarski (cf. [15] p. 34)
+
+[bracket_ref]  source=Vaught1960a
+  REF: [17]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [17]
+
+[bracket_ref]  source=Vaught1960a
+  REF: Trahténbrot [17]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [8]
+
+[bracket_ref]  source=Vaught1960a
+  REF: pp. 137-139 of [11]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [17]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [2]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [3]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [6]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [5] pp. 42-43
+
+[bracket_ref]  source=Vaught1960a
+  REF: [4]
+
+[bracket_ref]  source=Vaught1960a
+  REF: [13]
+
+[qv_ref]  source=Quine1936b
+  REF: Logistic (q.v., pp. 10-16).
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Tarski [6]
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Tarski [5]
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Church [1]
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Rosser [4]
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Mostowski [2], theorem 2.17, p. 91
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Mostowski [2], theorem 5.31, p. 103
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Post [3] p. 290
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Mostowski [2], theorem 5.51, p. 106
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Rosser [4]
+
+[bracket_ref]  source=Janiczak1950a
+  REF: Tarski [6], theorem II
+
+[bracket_ref]  source=Prior1958a
+  REF: [3]
+
+[bracket_ref]  source=FineHarrop1957a
+  REF: [1], pp. 249-253
+
+[bracket_ref]  source=Makkai1969a
+  REF: Henkin [6]
+
+[bracket_ref]  source=Makkai1969a
+  REF: Lyndon [11]
+
+[bracket_ref]  source=Cocchiarella1969a
+  REF: [7]
+
+[bracket_ref]  source=Cocchiarella1969a
+  REF: [5]
+
+[op_cit]  source=Cocchiarella1969a
+  REF: op. cit., p. 162
+
+[bracket_ref]  source=Cocchiarella1969a
+  REF: [9, p. 161f]
+
+[bracket_ref]  source=Cocchiarella1969a
+  REF: [6]
+
+[op_cit]  source=Rose1962a
+  REF: Anderson and Belnap (op. cit., p. 302)
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: Hailperin [1953]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: Quine [1954]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: van Fraassen [1966]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: Mostowski [1951]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: Hailperin [1953]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: Leblanc and Thomason [1966]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: van Fraassen [1966]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: Leblanc and Thomason [1966]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: Quine [1951]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: van Fraassen [1966]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: Bar-Hillel [2]
+
+[bracket_ref]  source=LambertMeyer1968a
+  REF: Leonard [1964]
+
+[bracket_ref]  source=Shepherdson1956a
+  REF: [2] p. 7, D19
+
+[bracket_ref]  source=Shepherdson1956a
+  REF: [1]
+
+[bracket_ref]  source=Shepherdson1956a
+  REF: [4]
+
+[bracket_ref]  source=Shepherdson1953a
+  REF: [1]
+
+[bracket_ref]  source=Shepherdson1953a
+  REF: [1]
+
+[bracket_ref]  source=Shepherdson1953a
+  REF: [1], pp. 12-13
+
+[bracket_ref]  source=Gl1958a
+  REF: J. C. C. McKinsey [4]
+
+[bracket_ref]  source=Gl1958a
+  REF: Kleene [3], p. 283
+
+[bracket_ref]  source=Bergmann1956a
+  REF: Wajsberg [6]
+
+[bracket_ref]  source=Bergmann1956a
+  REF: Quine [5]
+
+[bracket_ref]  source=Bergmann1956a
+  REF: Bergmann [1]
+
+[bracket_ref]  source=Bergmann1956a
+  REF: McKinsey, [2], Theorem 3)
+
+[ibid_bare]  source=Berry1941a
+  REF: Ibid., p. 89.
+
+[ibid_bare]  source=Berry1941a
+  REF: Ibid., pp. 27-37.
+
+[ibid_bare]  source=Berry1941a
+  REF: Ibid., p. 34.
+
+[ibid_bare]  source=Berry1941a
+  REF: Ibid., pp. 79-80.
+
+[ibid_bare]  source=Berry1941a
+  REF: Ibid., p. 88.
+
+[ibid_bare]  source=Berry1941a
+  REF: Ibid., p. 80.
+
+[bracket_ref]  source=Henkin1956a
+  REF: [1]
+
+[bracket_ref]  source=Henkin1956a
+  REF: [2]
+
+[bracket_ref]  source=Henkin1956a
+  REF: [3]
+
+[bracket_ref]  source=Henkin1956a
+  REF: [4]
+
+[bracket_ref]  source=Henkin1956a
+  REF: [5]
+
+[bracket_ref]  source=Henkin1956a
+  REF: [2]
+
+[bracket_ref]  source=Henkin1956a
+  REF: [6]
+
+[bracket_ref]  source=Henkin1956a
+  REF: [7]
+
+[bracket_ref]  source=Henkin1956a
+  REF: [3]
+
+[bracket_ref]  source=Curry1952b
+  REF: Cf. [4], p. 115, footnote 5
+
+[bracket_ref]  source=Curry1952b
+  REF: [4]
+
+[bracket_ref]  source=Curry1952b
+  REF: [5]
+
+[bracket_ref]  source=Curry1952b
+  REF: [7] p. 501
+
+[bracket_ref]  source=Curry1952b
+  REF: [4] p. 34, footnote 10
+
+[bracket_ref]  source=Curry1952b
+  REF: [4] p. 37, footnote 11
+
+[bracket_ref]  source=Curry1952b
+  REF: [4]
+
+[bracket_ref]  source=Curry1952b
+  REF: [3]
+
+[bracket_ref]  source=Curry1952b
+  REF: [4] p. 120
+
+[bracket_ref]  source=Curry1952b
+  REF: [1]
+
+[bracket_ref]  source=Curry1952b
+  REF: [3]
+
+[bracket_ref]  source=Curry1952b
+  REF: [4]
+
+[bracket_ref]  source=Curry1952b
+  REF: [1]
+
+[bracket_ref]  source=Curry1952b
+  REF: C. I. LEWIS AND C. H. LANGFORD [7]. Symbolic logic. New York (The Century Co.), 1932, xi + 506 pp.
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Kalicki [3]
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Linial and Post [6]
+
+[bracket_ref]  source=Kalicki1954a
+  REF: McKinsey [7], in particular Theorem 4 and Footnote 7, p. 122
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Kalicki [3]
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Post [9]
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Church [2], p. 10
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Church [1]
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Post [9], p. 291
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Kleene [5]
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Mostowski [8]
+
+[bracket_ref]  source=Kalicki1954a
+  REF: Kalicki [4]
+
+[bracket_ref]  source=DavisPutnam1958a
+  REF: [1]
+
+[bracket_ref]  source=DavisPutnam1958a
+  REF: [3]
+
+[bracket_ref]  source=DavisPutnam1958a
+  REF: [4]
+
+[bracket_ref]  source=DavisPutnam1958a
+  REF: [1]
+
+[bracket_ref]  source=DavisPutnam1958a
+  REF: [1]
+
+[bracket_ref]  source=DavisPutnam1958a
+  REF: [1]
+
+[bracket_ref]  source=DavisPutnam1958a
+  REF: [4]
+
+[bracket_ref]  source=Wang1950c
+  REF: pp. 213-235 of [3]
+
+[bracket_ref]  source=Wang1950c
+  REF: p. 64 of [4]
+
+[bracket_ref]  source=Wang1950c
+  REF: p. 140 of [5]
+
+[bracket_ref]  source=Wang1950c
+  REF: [6]
+
+[bracket_ref]  source=Wang1950c
+  REF: [7]
+
+[bracket_ref]  source=Wang1950c
+  REF: [1]
+
+[bracket_ref]  source=Wang1950c
+  REF: [2]
+
+[bracket_ref]  source=Wang1950c
+  REF: [6]
+
+[bracket_ref]  source=Lb1966a
+  REF: [8]
+
+[bracket_ref]  source=Lb1966a
+  REF: [1]
+
+[bracket_ref]  source=Lb1966a
+  REF: [3]
+
+[bracket_ref]  source=Lb1966a
+  REF: [4]
+
+[bracket_ref]  source=Lb1966a
+  REF: [6]
+
+[bracket_ref]  source=Lb1966a
+  REF: [9]
+
+[bracket_ref]  source=Lb1966a
+  REF: [6]
+
+[bracket_ref]  source=Lb1966a
+  REF: Kreisel in [5]
+
+[ibid_bare]  source=RosserTurquette1950a
+  REF: Ibid., pp. 78-79.
+
+[ibid_bare]  source=RosserTurquette1950a
+  REF: Ibid., pp. 77-78.
+
+[ibid_bare]  source=RosserTurquette1950a
+  REF: Ibid., p. 78.
+
+[ibid_bare]  source=RosserTurquette1950a
+  REF: Ibid., p. 70.
+
+[ibid_bare]  source=RosserTurquette1950a
+  REF: Ibid., pp. 61-62.
+
+[ibid_bare]  source=RosserTurquette1950a
+  REF: Ibid., pp. 78-81.
+
+[ibid_bare]  source=RosserTurquette1950a
+  REF: Ibid., pp. 79-81.
+
+[loc_cit]  source=Quine1937b
+  REF: Gödel, loc. cit.
+
+[bracket_ref]  source=Takahashi1970a
+  REF: Unlike [2]
+
+[bracket_ref]  source=Takahashi1970a
+  REF: [1]
+
+[loc_cit]  source=Church1940a
+  REF: Cf. Hilbert and Ackermann, loc. cit.
+
+[bracket_ref]  source=Hay1963a
+  REF: Church [3], pp. 169-170.
+
+[bracket_ref]  source=Hay1963a
+  REF: [5]
+
+[bracket_ref]  source=Hay1963a
+  REF: [6]
+
+[bracket_ref]  source=Hay1963a
+  REF: [1]
+
+[bracket_ref]  source=Scroggs1951a
+  REF: Dugundji [2]
+
+[bracket_ref]  source=Scroggs1951a
+  REF: Lewis and Langford [4], pp. 122-178, and pp. 492-502
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey and Tarski [7], p. 7
+
+[bracket_ref]  source=Scroggs1951a
+  REF: Lewis and Langford [4], pp. 125-126
+
+[bracket_ref]  source=Scroggs1951a
+  REF: Tarski [9], pp. 103-109
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [5], p. 118
+
+[bracket_ref]  source=Scroggs1951a
+  REF: Huntington [3], p. 292
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [5], p. 118
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [5], p. 122
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [5],p. 123
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey and Tarski [7], p. 9, Theorem 3.9.
+
+[bracket_ref]  source=Scroggs1951a
+  REF: Parry [8], p. 144, footnote 11.
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [5], p. 119
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [5], p. 127
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [5], p. 119
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [5], p. 120
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [5], p. 119
+
+[bracket_ref]  source=Scroggs1951a
+  REF: Lewis and Langford [4], Appendix II, p. 492, footnote 1
+
+[bracket_ref]  source=Scroggs1951a
+  REF: Bergmann [1]
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey and Tarski [7], p. 5
+
+[bracket_ref]  source=Scroggs1951a
+  REF: Dugundji [2]
+
+[bracket_ref]  source=Scroggs1951a
+  REF: McKinsey [6]
+
+[bracket_ref]  source=Kreisel1951a
+  REF: [10]
+
+[bracket_ref]  source=Kreisel1951a
+  REF: [2]
+
+[bracket_ref]  source=Kreisel1951a
+  REF: [2]
+
+[bracket_ref]  source=Kreisel1951a
+  REF: [3]
+
+[bracket_ref]  source=Kreisel1951a
+  REF: [3]
+
+[bracket_ref]  source=Kreisel1951a
+  REF: [3]
+
+[bracket_ref]  source=Burgess1969a
+  REF: Quine [4, pp. 101-107 and 192-194]
+
+[bracket_ref]  source=Burgess1969a
+  REF: Feys [1]
+
+[bracket_ref]  source=Burgess1969a
+  REF: Prior [3]
+
+[op_cit]  source=Gandy1959a
+  REF: Gödel (op. cit. p. 19)
+
+[op_cit]  source=Gandy1959a
+  REF: Gödel, op. cit., p. 32
+
+[bracket_ref]  source=Collins1954a
+  REF: [4], p. 162
+
+[bracket_ref]  source=Kemeny1948a
+  REF: [9]
+
+[op_cit]  source=Martin1958a
+  REF: TARSKI, op. cit., pp. 173-174
+
+[bracket_ref]  source=Gill1970a
+  REF: Rosser and Turquette [3]
+
+[bracket_ref]  source=Materna1969a
+  REF: [1, p. 70]
+
+[bracket_ref]  source=Hasenjaeger1952a
+  REF: Vgl. [9]
+
+[bracket_ref]  source=Hasenjaeger1952a
+  REF: und [2]
+
+[bracket_ref]  source=Hasenjaeger1952a
+  REF: Vgl. [11]
+
+[bracket_ref]  source=Hasenjaeger1952a
+  REF: Vgl. [7]
+
+[bracket_ref]  source=Hasenjaeger1952a
+  REF: Vgl. hierzu [8], p. 160, letzter Absatz
+
+[bracket_ref]  source=Hasenjaeger1952a
+  REF: Ein Hauptresultat von [4]
+
+[bracket_ref]  source=Hasenjaeger1952a
+  REF: vgl. [1]
+
+[bracket_ref]  source=Young1966a
+  REF: Martin in [4]
+
+[bracket_ref]  source=Young1966a
+  REF: [4]
+
+[bracket_ref]  source=Young1966a
+  REF: [15]
+
+[loc_cit]  source=Bernays1948a
+  REF: von Neumann's "Bereich II" (loc. cit. p. 237)
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey and Tarski [10]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey and Tarski [11]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: Lewis and Langford [5], expecially Chapter VI and Appendix II
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: Heyting [4]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: Tarski [13], p. 106
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey and Tarski [10]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey and Tarski [10], Definition 1.1
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey [8]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey and Tarski [10]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey and Tarski [10]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: Lewis and Langford [5]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey and Tarski [11]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey and Tarski [11]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: Gödel [2]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: McKinsey [7]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: Wajsberg [14]
+
+[bracket_ref]  source=MckinseyTarski1948a
+  REF: Gödel in [2]
+
+[bracket_ref]  source=Gilmore1962a
+  REF: Robinson in [7]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: Gentzen in [2]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [2]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [3]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [2]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [2]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [3]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [2]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: Bernays in [1]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [1]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [4]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [4]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [5]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: [6]
+
+[bracket_ref]  source=Leblanc1968c
+  REF: p. 20 of [6]
+
+[bracket_ref]  source=Prawitz1968a
+  REF: [5]
+
+[bracket_ref]  source=Richter1968a
+  REF: [12]
+
+[bracket_ref]  source=Richter1968a
+  REF: [10]
+
+[bracket_ref]  source=Richter1968a
+  REF: [4, p. 22]
+
+[bracket_ref]  source=Richter1968a
+  REF: Shoenfield [14]
+
+[bracket_ref]  source=Richter1968a
+  REF: Shoenfield [15]
+
+[bracket_ref]  source=Richter1968a
+  REF: [4])
+
+[bracket_ref]  source=Hacking1963a
+  REF: Anderson and Belnap [2]
+
+[bracket_ref]  source=Hacking1963a
+  REF: Kripke [8]
+
+[bracket_ref]  source=Hacking1963a
+  REF: Ackermann [1]
+
+[bracket_ref]  source=Hacking1963a
+  REF: Kripke [7]
+
+[bracket_ref]  source=Kreisel1958c
+  REF: [11]
+
+[bracket_ref]  source=Kreisel1958c
+  REF: [32] p. 125
+
+[bracket_ref]  source=Kreisel1958c
+  REF: [32] p. 126
+
+[bracket_ref]  source=Kreisel1958c
+  REF: [6]
+
+[bracket_ref]  source=Kreisel1958c
+  REF: Rosser [24]
+
+[bracket_ref]  source=Kreisel1958c
+  REF: Kleene [8]
+
+[bracket_ref]  source=Kemeny1953a
+  REF: [30], p. 91
+
+[op_cit]  source=Kemeny1953a
+  REF: Wittgenstein (op. Cit., 5.15)
+
+[op_cit]  source=Kemeny1953a
+  REF: Carnap (op. cit., chapter V)
+
+[op_cit]  source=Kemeny1953a
+  REF: Hempel and Oppenheim (op. cit., p. 169)
+
+[op_cit]  source=Kemeny1953a
+  REF: Carnap (op. cit., section 73)
+
+[loc_cit]  source=Kemeny1953a
+  REF: Degree of factual support (loc. cit.)
+
+[loc_cit]  source=Kemeny1953a
+  REF: Carnap does (loc. cit.)
+
+[op_cit]  source=Kemeny1953a
+  REF: Helmer and Oppenheim's development (op. cit., pp. 30-32)
+
+[ibid_bare]  source=Kemeny1953a
+  REF: Ibid.
+
+[bracket_ref]  source=Smiley1962b
+  REF: Ackermann's [2]
+
+[bracket_ref]  source=Smiley1962b
+  REF: Harrop, [3]
+
+[bracket_ref]  source=Smiley1962b
+  REF: matrix in [4]
+
+[bracket_ref]  source=Smiley1962b
+  REF: [1]
+
+[bracket_ref]  source=Smiley1962b
+  REF: [4] p. 122
+
+[bracket_ref]  source=Smiley1962b
+  REF: Suszko's "logic without axioms" ([8] reviewed in this Journal at vol. 15, p. 66)
+
+[bracket_ref]  source=Lemmon1966a
+  REF: Church [1]
+
+[bracket_ref]  source=Lemmon1966a
+  REF: [7]
+
+[bracket_ref]  source=Lemmon1966a
+  REF: McKinsey [11]
+
+[bracket_ref]  source=Lemmon1966a
+  REF: Thomas [16]
+
+[bracket_ref]  source=Lemmon1966a
+  REF: Dummett-Lemmon [2]
+
+[bracket_ref]  source=Lemmon1966a
+  REF: Kripke [6], p. 70
+
+[bracket_ref]  source=Lemmon1966a
+  REF: Prior [14]
+
+[bracket_ref]  source=Lemmon1966a
+  REF: [4]
+
+[bracket_ref]  source=ElgotRabin1966a
+  REF: Quine [5]
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [11], pp. 145-147
+
+[bracket_ref]  source=Quine1938b
+  REF: [11]
+
+[bracket_ref]  source=Quine1938b
+  REF: Whitehead and Russell [16], Vol. I, pp. 37-65
+
+[bracket_ref]  source=Quine1938b
+  REF: Wiener [17]
+
+[bracket_ref]  source=Quine1938b
+  REF: Kuratowski [6]
+
+[bracket_ref]  source=Quine1938b
+  REF: Gödel [5], p. 176
+
+[bracket_ref]  source=Quine1938b
+  REF: Tarski [15], pp. 363-364
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [10], pp. 123-124
+
+[bracket_ref]  source=Quine1938b
+  REF: Chwistek [3]
+
+[bracket_ref]  source=Quine1938b
+  REF: Ramsey [12], pp. 20-29
+
+[bracket_ref]  source=Quine1938b
+  REF: Church [2], p. 169
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [8]
+
+[bracket_ref]  source=Quine1938b
+  REF: Tarski [14], pp. 97-103
+
+[bracket_ref]  source=Quine1938b
+  REF: Tarski [14]
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [11]
+
+[bracket_ref]  source=Quine1938b
+  REF: Whitehead and Russell [16]
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [7], pp. 30-31
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [11]
+
+[bracket_ref]  source=Quine1938b
+  REF: Whitehead and Russell [16], Vol. II, p. 203
+
+[bracket_ref]  source=Quine1938b
+  REF: Whitehead and Russell [16], Vol. I, pp. 415-417
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [9], pp. 79-80
+
+[bracket_ref]  source=Quine1938b
+  REF: [9]
+
+[bracket_ref]  source=Quine1938b
+  REF: [9]
+
+[bracket_ref]  source=Quine1938b
+  REF: [9]
+
+[bracket_ref]  source=Quine1938b
+  REF: [9]
+
+[bracket_ref]  source=Quine1938b
+  REF: [9]
+
+[bracket_ref]  source=Quine1938b
+  REF: [9]
+
+[bracket_ref]  source=Quine1938b
+  REF: [9]
+
+[bracket_ref]  source=Quine1938b
+  REF: Bernays [1]
+
+[bracket_ref]  source=Quine1938b
+  REF: [9]
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [10]
+
+[bracket_ref]  source=Quine1938b
+  REF: Rosser [13]
+
+[bracket_ref]  source=Quine1938b
+  REF: Bernays [1]
+
+[bracket_ref]  source=Quine1938b
+  REF: Curry [4]
+
+[bracket_ref]  source=Quine1938b
+  REF: Tarski [14], p. 103
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [11], p. 146
+
+[bracket_ref]  source=Quine1938b
+  REF: Quine [11], p. 152 (M27)
+
+[op_cit]  source=Kalicki1950b
+  REF: J. Łukasiewicz and A. Tarski, op. cit.
+
+[bracket_ref]  source=Mccall1966a
+  REF: Nelson in [10]
+
+[bracket_ref]  source=Mccall1966a
+  REF: [2]
+
+[bracket_ref]  source=Mccall1966a
+  REF: Kneale in [6], p. 129
+
+[bracket_ref]  source=Mccall1966a
+  REF: [10], pp. 440-1
+
+[bracket_ref]  source=Mccall1966a
+  REF: [11]
+
+[bracket_ref]  source=Mccall1966a
+  REF: [11], p. 26
+
+[bracket_ref]  source=Mccall1966a
+  REF: [3]
+
+[bracket_ref]  source=Mccall1966a
+  REF: [7]
+
+[bracket_ref]  source=Mccall1966a
+  REF: Angell in [2]
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: [15]
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: Orey [16]
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: Ackermann [1] p. 98
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: Leśniewski [13] p. 123
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: [9] (cf. pp. 284-285)
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: [12]
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: Henkin [8] p. 85
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: Gödel's completeness theorem in [5]
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: Davis [4]
+
+[bracket_ref]  source=GrzegorczykMostowskiNardzewski1958a
+  REF: Craig [3]
+
+[bracket_ref]  source=Lemmon1966b
+  REF: Simons [15]
+
+[bracket_ref]  source=Lemmon1966b
+  REF: [8]
+
+[bracket_ref]  source=Lemmon1966b
+  REF: [7]
+
+[bracket_ref]  source=Lemmon1966b
+  REF: [7]
+
+[bracket_ref]  source=Lemmon1966b
+  REF: Łukasiewicz [10]
+
+[bracket_ref]  source=Lemmon1966b
+  REF: Smiley [16]
+
+[bracket_ref]  source=Lemmon1966b
+  REF: Halldén [3]
+
+[bracket_ref]  source=AndersonBelnap1959b
+  REF: [1], p. 126
+
+[bracket_ref]  source=AndersonBelnap1959b
+  REF: [2]
+
+[bracket_ref]  source=AndersonBelnap1959b
+  REF: [2]
+
+[bracket_ref]  source=AndersonBelnap1959b
+  REF: von Wright's M ([6])
+
+[bracket_ref]  source=AndersonBelnap1959b
+  REF: Robinson's review [5]
+
+[bracket_ref]  source=AndersonBelnap1959b
+  REF: Acker- mann's [1]
