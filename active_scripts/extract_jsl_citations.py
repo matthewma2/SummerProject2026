@@ -7,8 +7,8 @@ from difflib import SequenceMatcher
 WORKS_FILE = "active_data/works.json"
 JSL_CITATIONS_FILE = "active_data/jsl_citations.json"
 OUTPUT_FILE = "active_data/jsl_citations_resolved.json"
-RESOLVED_REFERENCES_FILE = "active_data/jsl_citations_resolved_reference_strings.json"
-UNRESOLVED_REFERENCES_FILE = "active_data/jsl_citations_unresolved_reference_strings.json"
+RESOLVED_REFERENCES_FILE = "active_data/jsl_resolved_reference_strings.json"
+UNRESOLVED_REFERENCES_FILE = "active_data/jsl_unresolved_reference_strings.json"
 
 # Multilingual stop words list to remove noise from titles/citations
 STOP_WORDS = {
