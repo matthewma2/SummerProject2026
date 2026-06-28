@@ -166,7 +166,7 @@ def is_ignorable(text):
     if re.match(r'^[A-ZÄÖÜ][a-zäöü]+(?:\s+(?:and\s+)?[A-ZÄÖÜ][a-zäöüłś]+)*\s+\d{4}(?:,\s*[pP]+\.\s*\d+.*)?\.?$', t):
         return True, "AuthorYearOnly"
     # "SURNAME YEAR" format
-    if re.match(r'^[A-ZÄÖÜ]{3,}(?:\s+[A-ZÄÖÜ]{3,})*\s+\d{4}(?:,?\s*pp?\.\s*\d+.*)?$', t) and ',' not in t.split(str(re.search(r'\d{4}', t).group()), 1)[0]:
+    if re.match(r'^[A-ZÀ-ÖØ-ÞĀ-ſ]{3,}(?:\s+[A-ZÀ-ÖØ-ÞĀ-ſ]{3,})*\s+\d{4}(?:,?\s*pp?\.\s*\d+.*)?$', t) and ',' not in t.split(str(re.search(r'\d{4}', t).group()), 1)[0]:
         return True, "AuthorYearOnly"
     # "Duncan-Jones (1934, p. 71)" style
     if re.match(r'^[A-ZÄÖÜ][a-z]+(?:-[A-Z][a-z]+)?\s*\(\d{4},?\s*(?:vol\.|p\.|pp\.).*\)\.?$', t):
@@ -439,6 +439,14 @@ MULTI_TC_AUTH_PAT = re.compile(
     re.UNICODE
 )
 
+# Initials + title-case surname: "A. W. Burks and J. B. Wright, Title"
+_INIT_TC_UNIT = r'(?:[A-ZÄÖÜ]\.\s*)+[A-ZÄÖÜ][a-zäöüłśń]+'
+MULTI_INIT_TC_AUTH_PAT = re.compile(
+    rf'^({_INIT_TC_UNIT}(?:\s+and\s+{_INIT_TC_UNIT})*)'
+    rf'(?:,\s+|\.\s+)',
+    re.UNICODE
+)
+
 # "SURNAME, FIRSTNAME" inverted (with optional citation marker [1])
 INVERTED_AUTH_PAT = re.compile(
     r'^([A-ZÄÖÜŁŚŃ][A-ZÄÖÜŁŚŃ\-]+,\s+[A-ZÄÖÜ][A-ZÄÖÜ\s\.]+?)'
@@ -451,6 +459,10 @@ INVERTED_TC_PAT = re.compile(
     r'^([A-ZÄÖÜ][a-zäöüłś]+,\s+[A-Z]\.)(?:\s+,|\.\s+)',
     re.UNICODE
 )
+
+AUTHOR_CONNECTORS = {'and', 'AND', 'und'}
+AUTHOR_PARTICLES = {'v', 'von', 'van', 'de', 'del', 'der', 'den', 'di', 'du'}
+AUTHOR_TOKEN_PAT = re.compile(r'[A-Za-zÀ-ÖØ-ÞĀ-ſ]+|[,.]')
 
 def normalise_author_string(raw):
     """Convert 'SURNAME FIRSTNAME' / 'F. SURNAME' etc to 'Firstname Surname' style."""
@@ -465,6 +477,13 @@ def normalise_author_string(raw):
         return f'{first} {last}'.strip()
     return raw
 
+def _is_initial_token(token):
+    return len(token) == 1 and token == token.upper()
+
+def _is_caps_author_name_token(token):
+    letters = ''.join(ch for ch in token if ch.isalpha())
+    return len(letters) > 1 and letters == letters.upper()
+
 def split_author_block(raw):
     """Split an author block string like 'A. TARSKI and R. M. ROBINSON' into list."""
     parts = re.split(r'\s*,\s*(?=[A-ZÄÖÜ]|and\s)|\s+and\s+|\s+AND\s+|\s+und\s+', raw)
@@ -474,6 +493,52 @@ def split_author_block(raw):
         if p:
             out.append(normalise_author_string(p))
     return out
+
+def extract_caps_author_block(text):
+    """
+    Extract all-caps author blocks, including period-delimited references like
+    "J. D. MONK. Title" and mixed initial/full-name forms like
+    "HASKELL B. CURRY, Title".
+    """
+    tokens = [(m.group(0), m.start(), m.end()) for m in AUTHOR_TOKEN_PAT.finditer(text)]
+    if not tokens:
+        return None
+
+    saw_caps_name = False
+    previous_was_caps_name = False
+
+    for token, start, end in tokens:
+        if token == ',':
+            if saw_caps_name:
+                return text[:start].strip(), text[end:].strip()
+            return None
+
+        if token == '.':
+            if previous_was_caps_name:
+                return text[:start].strip(), text[end:].strip()
+            previous_was_caps_name = False
+            continue
+
+        if token in AUTHOR_CONNECTORS:
+            previous_was_caps_name = False
+            continue
+
+        if token.lower() in AUTHOR_PARTICLES:
+            previous_was_caps_name = False
+            continue
+
+        if _is_initial_token(token):
+            previous_was_caps_name = False
+            continue
+
+        if _is_caps_author_name_token(token):
+            saw_caps_name = True
+            previous_was_caps_name = True
+            continue
+
+        return None
+
+    return None
 
 def extract_authors(text):
     """
@@ -498,6 +563,19 @@ def extract_authors(text):
         raw = m.group(1)
         rest = text[m.end():]
         return [normalise_author_string(raw)], rest
+
+    caps_block = extract_caps_author_block(text)
+    if caps_block:
+        raw_block, rest = caps_block
+        return split_author_block(raw_block), rest
+
+    # Try initials + title-case surname pattern
+    m = MULTI_INIT_TC_AUTH_PAT.match(text)
+    if m:
+        raw_block = m.group(1)
+        rest = text[m.end():]
+        authors = [a.strip() for a in re.split(r'\s+and\s+', raw_block)]
+        return authors, rest
 
     # Try caps+initials multi-author pattern
     m = MULTI_CAPS_AUTH_PAT.match(text)
@@ -850,7 +928,7 @@ def parse_one(raw_text):
 # 9. RUN ON ALL ENTRIES
 # ─────────────────────────────────────────────
 
-with open('active_data/jsl_unresolved_reference_strings.json', 'r', encoding='utf-8') as f:
+with open('active_data/jsl_unresolved_reference_strings_all_caps_authors.json', 'r', encoding='utf-8') as f:
     refs = json.load(f)
 
 parsed  = []
