@@ -1,3 +1,7 @@
+# ============================================================
+# old_scripts/resolve_addendum_authors.py
+# Resolve and normalize author names from addendum data.
+# ============================================================
 import json
 import os
 

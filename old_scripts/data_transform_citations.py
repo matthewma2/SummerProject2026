@@ -1,3 +1,8 @@
+# ============================================================
+# old_scripts/data_transform_citations.py
+# Transform raw citation data into the project’s normalized
+# JSON structure for downstream use.
+# ============================================================
 import json
 
 # Define your file paths

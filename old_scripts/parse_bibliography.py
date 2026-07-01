@@ -1,3 +1,7 @@
+# ============================================================
+# old_scripts/parse_bibliography.py
+# Parse bibliography text into structured per-author segments.
+# ============================================================
 """
 segment_bibliography.py
 =======================

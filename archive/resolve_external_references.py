@@ -1,3 +1,7 @@
+# ============================================================
+# resolve_external_references.py
+# Resolve external references against known works and metadata.
+# ============================================================
 import json
 import os
 import time

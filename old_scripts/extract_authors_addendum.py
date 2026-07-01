@@ -1,3 +1,7 @@
+# ============================================================
+# old_scripts/extract_authors_addendum.py
+# Extract author names from the addendum PDF source text.
+# ============================================================
 import re
 import pdfplumber
 

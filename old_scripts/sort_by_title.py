@@ -1,3 +1,7 @@
+# ============================================================
+# old_scripts/sort_by_title.py
+# Sort JSTOR metadata records alphabetically by title.
+# ============================================================
 import json
 import os
 

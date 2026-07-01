@@ -1,3 +1,7 @@
+# ============================================================
+# old_scripts/extract_jsl_metadata.py
+# Merge and normalize JSL metadata from multiple source files.
+# ============================================================
 import json
 import time
 

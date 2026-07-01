@@ -1,3 +1,8 @@
+# ============================================================
+# hydrate_records.py
+# Hydrate citation and work records with additional metadata
+# from external sources and stored data files.
+# ============================================================
 import json
 import os
 import time

@@ -1,3 +1,8 @@
+# ============================================================
+# further_citations/process_further_citations.py
+# Process further citation batches and resolve them against
+# the existing works catalog.
+# ============================================================
 import json
 import re
 import unicodedata

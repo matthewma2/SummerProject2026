@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# ============================================================
+# old_scripts/remove_empty_jsl_citations.py
+# Remove JSL citation entries whose reference lists are empty.
+# ============================================================
 """Remove entries with an empty references list from JSL citations."""
 
 from __future__ import annotations

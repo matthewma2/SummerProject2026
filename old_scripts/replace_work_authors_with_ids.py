@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# ============================================================
+# old_scripts/replace_work_authors_with_ids.py
+# Replace work author names with canonical author IDs where
+# the mapping can be done safely.
+# ============================================================
 """Replace work author names with ids from authors.json where matches are safe."""
 
 from __future__ import annotations

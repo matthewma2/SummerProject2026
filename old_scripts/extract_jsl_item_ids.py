@@ -1,3 +1,7 @@
+# ============================================================
+# old_scripts/extract_jsl_item_ids.py
+# Extract publishing metadata item IDs from JSL-related data.
+# ============================================================
 import json
 
 # Extracting articles published from 1936 to 1970 in The Journal of Symbolic Logic

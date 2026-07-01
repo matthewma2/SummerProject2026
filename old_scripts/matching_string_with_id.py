@@ -1,3 +1,8 @@
+# ============================================================
+# old_scripts/matching_string_with_id.py
+# Match citation strings to work IDs using token and fuzzy
+# heuristics for noisy bibliographic text.
+# ============================================================
 import json
 import re
 

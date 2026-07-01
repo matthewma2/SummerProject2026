@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# ============================================================
+# old_scripts/add_article_journal_volume.py
+# Add journal and volume fields to article-style work records.
+# ============================================================
 """Add journal and volume fields to article records in works.json."""
 
 from __future__ import annotations

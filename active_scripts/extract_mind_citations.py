@@ -1,3 +1,8 @@
+# ============================================================
+# active_scripts/extract_mind_citations.py
+# Extract and structure mind-citation references from source
+# text and related bibliographic data.
+# ============================================================
 import argparse
 import json
 import re

@@ -1,3 +1,7 @@
+# ============================================================
+# stripping_internal_references/strip_internal_refs.py
+# Remove internal back-references from citation data.
+# ============================================================
 """
 strip_internal_refs.py
 -----------------------

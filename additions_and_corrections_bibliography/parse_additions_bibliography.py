@@ -1,3 +1,8 @@
+# ============================================================
+# parse_additions_bibliography.py
+# Parse the additions bibliography into structured per-author
+# blocks for downstream extraction.
+# ============================================================
 """
 parse_additions_bibliography.py
 ===============================

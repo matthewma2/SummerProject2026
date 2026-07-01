@@ -1,3 +1,8 @@
+# ============================================================
+# extract_jsl_external_references.py
+# Extract and normalize external references from JSL citation
+# data for later matching and resolution.
+# ============================================================
 import json
 import os
 import re

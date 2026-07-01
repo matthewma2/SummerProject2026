@@ -1,3 +1,7 @@
+# ============================================================
+# old_scripts/generate_graph.py
+# Generate graph-based visualizations from bibliographic data.
+# ============================================================
 import json
 import networkx as nx
 import matplotlib.pyplot as plt

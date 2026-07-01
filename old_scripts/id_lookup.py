@@ -1,3 +1,7 @@
+# ============================================================
+# old_scripts/id_lookup.py
+# Look up work IDs from sorted JSTOR metadata for matching.
+# ============================================================
 import json
 import os
 

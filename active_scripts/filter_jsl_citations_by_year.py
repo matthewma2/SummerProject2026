@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# ============================================================
+# active_scripts/filter_jsl_citations_by_year.py
+# Filter JSL citation entries by year and keep the matching
+# records for downstream processing.
+# ============================================================
 """Extract JSL citations whose source id contains 1936."""
 
 from __future__ import annotations

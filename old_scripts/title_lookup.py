@@ -1,3 +1,7 @@
+# ============================================================
+# old_scripts/title_lookup.py
+# Look up and align work titles against the bibliography index.
+# ============================================================
 import json
 import os
 

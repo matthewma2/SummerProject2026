@@ -1,3 +1,8 @@
+# ============================================================
+# additions_and_corrections_bibliography/segment_additions_corrections.py
+# Segment additions and corrections text into per-author
+# bibliography blocks for later extraction.
+# ============================================================
 import re
 
 def segment_bibliography(text):

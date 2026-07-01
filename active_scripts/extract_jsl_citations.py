@@ -1,3 +1,8 @@
+# ============================================================
+# active_scripts/extract_jsl_citations.py
+# Resolve JSL citation references against works.json and write
+# the resolved and unresolved reference outputs.
+# ============================================================
 import json
 import re
 import unicodedata

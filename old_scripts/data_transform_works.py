@@ -1,3 +1,8 @@
+# ============================================================
+# old_scripts/data_transform_works.py
+# Transform raw work records into the repository’s canonical
+# works.json format.
+# ============================================================
 import json
 import os
 import re

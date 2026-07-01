@@ -1,3 +1,8 @@
+# ============================================================
+# expanding_bibliography_with_jsl_references.py
+# Expand bibliography entries by integrating JSL reference
+# data and related work metadata.
+# ============================================================
 import json
 import re
 

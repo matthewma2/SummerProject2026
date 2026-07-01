@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# ============================================================
+# active_data/parsing_unresolved_works.py
+# Parse unresolved JSL reference strings into structured JSON
+# and enrich them with metadata where possible.
+# ============================================================
 """
 Parse JSL unresolved bibliographic reference strings into structured JSON.
 Uses CrossRef API for author/metadata enrichment where needed.

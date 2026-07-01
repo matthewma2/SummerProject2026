@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# ============================================================
+# active_scripts/works_to_bib.py
+# Convert works data into BibTeX entries for bibliography use.
+# ============================================================
 """Convert active_data/works.json records to BibTeX using author mapping."""
 
 from __future__ import annotations
