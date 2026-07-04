@@ -12,8 +12,8 @@ from difflib import SequenceMatcher
 WORKS_FILE = "active_data/works.json"
 JSL_CITATIONS_FILE = "active_data/jsl_citations.json"
 OUTPUT_FILE = "active_data/jsl_citations_resolved.json"
-RESOLVED_REFERENCES_FILE = "active_data/jsl_resolved_reference_strings.json"
-UNRESOLVED_REFERENCES_FILE = "active_data/jsl_unresolved_reference_strings.json"
+RESOLVED_REFERENCES_FILE = "active_data/1a_resolved.json"
+UNRESOLVED_REFERENCES_FILE = "active_data/1b_unresolved.json"
 
 # Multilingual stop words list to remove noise from titles/citations
 STOP_WORDS = {
@@ -62,6 +62,17 @@ def strip_diacritics(s):
     )
 
 
+def rejoin_hyphenated_linebreaks(s):
+    """
+    OCR'd text frequently carries line-wrap hyphenation like 'Mathe- matik' or
+    'North- Holland', where a word was split across the original printed line.
+    Left alone, tokenization would split these into unrelated fragments
+    ('mathe', 'matik') that fail to match the unhyphenated word elsewhere.
+    Join 'word- word' back into 'wordword' before tokenizing.
+    """
+    return re.sub(r'(\w)-\s+(\w)', r'\1\2', str(s))
+
+
 def tokenize_string(s):
     """
     Splits a string into a set of lower-case alphanumeric words, filtering out
@@ -70,7 +81,7 @@ def tokenize_string(s):
     """
     if not s:
         return set()
-    words = re.findall(r'\b\w{3,}\b', strip_diacritics(str(s)).lower())
+    words = re.findall(r'\b\w{3,}\b', strip_diacritics(rejoin_hyphenated_linebreaks(s)).lower())
     return {w for w in words if w not in STOP_WORDS}
 
 
@@ -280,20 +291,28 @@ def _all_year_candidates(year, works_index):
 def _yearless_candidates(author_hints, author_index):
     """
     Find candidates across all years that match ALL supplied author hints (intersection).
-    Falls back to union if the intersection is empty (OCR name variant, single author, etc.).
+
+    When there is only a single author hint, "intersection" and "union" are the same
+    set, so there's nothing to fall back to. When there are multiple author hints
+    (e.g. a co-authored reference like "DAIGNEAULT and MONK"), an empty intersection
+    means no single work in the database is credited to *all* of the cited authors.
+    In that case we deliberately do NOT fall back to the union of each author's solo
+    works -- doing so previously caused a co-authored reference to be silently merged
+    into an unrelated single-author record (e.g. "Daigneault and Monk" resolving to a
+    Daigneault-only work). Leaving it unresolved is the correct, honest outcome.
     """
     hint_sets = [author_index.get(h, []) for h in author_hints if h in author_index]
     if not hint_sets:
         return {}
 
-    id_sets = [set(c["id"] for c in recs) for recs in hint_sets]
-
-    # Intersection: every hint must be covered — strong constraint for multi-author refs
-    common_ids = id_sets[0].intersection(*id_sets[1:]) if len(id_sets) > 1 else id_sets[0]
-
-    # If intersection is empty, fall back to union (handles OCR name variants etc.)
-    if not common_ids:
-        common_ids = set().union(*id_sets)
+    if len(hint_sets) == 1:
+        common_ids = {c["id"] for c in hint_sets[0]}
+    else:
+        id_sets = [set(c["id"] for c in recs) for recs in hint_sets]
+        common_ids = id_sets[0].intersection(*id_sets[1:])
+        if not common_ids:
+            # No work is credited to every cited co-author -- do not guess.
+            return {}
 
     id_to_record = {}
     for recs in hint_sets:
@@ -306,6 +325,41 @@ def _yearless_candidates(author_hints, author_index):
 # ---------------------------------------------------------------------------
 # Scoring
 # ---------------------------------------------------------------------------
+
+BIB_FILLER_WORDS = {
+    'vol', 'volume', 'no', 'pp', 'page', 'pages', 'doctoral', 'dissertation',
+    'thesis', 'forthcoming', 'appear', 'reprint', 'reprinted', 'press',
+    'university', 'edition', 'ed', 'edn', 'aufl', 'auflage', 'revised',
+    'band', 'supplement', 'trans', 'translated', 'translation',
+}
+
+
+def extract_title_segment(reference_string):
+    """
+    Best-effort extraction of just the title portion of a reference string.
+    In this bibliography's citation style, a reference is typically
+    "AUTHOR, Title. Venue, year, pp..." or "AUTHOR, Title, vol. N (year)...",
+    so the title reliably sits between the author's comma and the first clear
+    venue boundary: a sentence-ending period, or a comma introducing "vol.",
+    "to appear", "doctoral dissertation", etc. This is a heuristic (it can
+    over- or under-cut on unusual formats) -- it's only used as a secondary
+    sanity check, never as the primary matching signal.
+    """
+    ref = reference_string.replace('\n', ' ').strip()
+    rest = ref.split(',', 1)[1].strip() if ',' in ref else ref
+
+    period_match = re.search(r'\.\s+', rest)
+    venue_match = re.search(
+        r',\s*(?:to appear|forthcoming|doctoral dissertation|thesis|vol\.?|'
+        r'volume|no\.?)\b',
+        rest, re.IGNORECASE
+    )
+
+    cut_points = [m.start() for m in (period_match, venue_match) if m]
+    if cut_points:
+        return rest[:min(cut_points)]
+    return rest
+
 
 def score_candidate(ref_tokens, ref_vol, ref_year_hint, candidate):
     """
@@ -343,7 +397,8 @@ def resolve_reference(raw_ref, works_index, author_index):
     Returns (id_or_None, was_resolved).
     """
     year, author_hints = extract_year_and_authors(raw_ref)
-    ref_tokens = tokenize_string(raw_ref)
+    ref_tokens_raw = tokenize_string(raw_ref)
+    ref_tokens = ref_tokens_raw - set(author_hints)
     ref_vol = extract_vol_number(raw_ref)
 
     candidates = {}
@@ -368,13 +423,27 @@ def resolve_reference(raw_ref, works_index, author_index):
         if not candidates and not author_hints:
             candidates = _all_year_candidates(year, works_index)
 
-    # 2. Year-agnostic global author index (reference has no parseable year)
+    # 2. Year-agnostic global author index (reference has no year bucket to search,
+    #    either because none was parsed, or because the parsed year isn't in the DB)
     if not candidates and author_hints:
         candidates = _yearless_candidates(author_hints, author_index)
         used_yearless = True
 
     if not candidates:
         return None, False
+
+    # Flag the riskiest kind of match before scoring: a yearless resolution where
+    # the cited author only has ONE work in the database at all, AND the reference
+    # doesn't look like a normal "journal, vol. N" citation (so there's no
+    # volume/journal corroboration either). Such a match is accepted purely on
+    # "this person has exactly one entry" rather than real evidence, which lets a
+    # reference for a genuinely different work (e.g. a PhD dissertation) latch
+    # onto that person's one indexed journal article just because it's the only
+    # thing available. These get an extra title-segment check further down.
+    is_single_candidate_monopoly = used_yearless and len(candidates) == 1
+    if is_single_candidate_monopoly:
+        _journal, _volume = extract_journal_volume(raw_ref)
+        is_single_candidate_monopoly = _journal is None
 
     # --- Score all candidates ---
     # When using yearless matching, pass the year extracted from the ref as a hint so
@@ -413,10 +482,39 @@ def resolve_reference(raw_ref, works_index, author_index):
     if not author_hints and year is not None:
         min_overlap = max(min_overlap, 3)
 
-    if title_overlap >= min_overlap:
-        return best_id, True
+    if title_overlap < min_overlap:
+        return None, False
 
-    return None, False
+    if used_yearless:
+        candidate_title_len = len(candidates[best_id]["title_tokens"])
+        if candidate_title_len and (title_overlap / candidate_title_len) < 0.5:
+            return None, False
+
+    if is_single_candidate_monopoly:
+        # Compare just the extracted title segment against the candidate's title,
+        # rather than the candidate-side overlap used above -- this is the one
+        # situation where "most of the candidate's title words are covered" isn't
+        # enough evidence, since the only reason this candidate is here is that
+        # it's the author's sole DB entry, not because a year, volume, or journal
+        # corroborated it. Filler words and bare numbers are stripped from both
+        # sides first since they're not really "title" content and otherwise
+        # distort the comparison in both directions.
+        _filler = BIB_FILLER_WORDS
+        title_segment_tokens = {
+            t for t in tokenize_string(extract_title_segment(raw_ref))
+            if t not in _filler and not t.isdigit()
+        }
+        candidate_title_tokens = {
+            t for t in candidates[best_id]["title_tokens"] if t not in _filler
+        }
+        if title_segment_tokens and candidate_title_tokens:
+            overlap = fuzzy_token_overlap(title_segment_tokens, candidate_title_tokens)
+            denom = len(title_segment_tokens) + len(candidate_title_tokens) - overlap
+            jaccard = overlap / denom if denom else 0
+            if jaccard < 0.55:
+                return None, False
+
+    return best_id, True
 
 
 # ---------------------------------------------------------------------------

@@ -933,7 +933,7 @@ def parse_one(raw_text):
 # 9. RUN ON ALL ENTRIES
 # ─────────────────────────────────────────────
 
-with open('active_data/jsl_unresolved_reference_strings_all_caps_authors.json', 'r', encoding='utf-8') as f:
+with open('active_data/2a_all_caps_authors.json', 'r', encoding='utf-8') as f:
     refs = json.load(f)
 
 parsed  = []

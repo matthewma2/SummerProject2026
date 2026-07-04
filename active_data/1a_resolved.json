@@ -8,19 +8,7 @@
         "id": "Parry1934a"
     },
     {
-        "reference": "A. CHURCH, Introduction to Mathematical Logic, Vol. 1, Princeton (1956), ix + 376 pp.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "A. DAIGNEAULT, Tensor products of polyadic algebras. Notices of the American Mathematical Society, 1959, p. 44.",
-        "id": "Daigneault1963a"
-    },
-    {
-        "reference": "A. DAIGNEAULT, Products of polyadic algebras and of their representations. Doctoral dissertation, Princeton University (1959).",
-        "id": "Daigneault1963a"
-    },
-    {
-        "reference": "A. DAIGNEAULT and D. MONK, Representation theory for polyadic algebras, to appear in Fundamenta Mathematicae.",
         "id": "Daigneault1963a"
     },
     {
@@ -36,16 +24,8 @@
         "id": "Harrop1965a"
     },
     {
-        "reference": "Alfred North Whitehead and Bertrand Russell. Principia mathematica. Cambridge University Press, Cambridge, England, 1910-13; second edition, 1925-27.",
-        "id": "RussellWhitehead1910a"
-    },
-    {
         "reference": "G. D. W. BERRY, On Quine's axioms of quantification, this JOURNAL, vol. 6 (1941), pp. 23-27.",
         "id": "Berry1941a"
-    },
-    {
-        "reference": "ALONZO CHURCH, A formulation of the logic of sense and denotation, Structure, method, and meaning: essays in honor of Henry M. Sheffer, Liberal Arts Press, New York, 1951, pp. 3-24, especially pp. 17f.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "THEODORE HAILPERIN, Quantification theory and empty individual domains, this JOURNAL, vol. 18 (1953), pp. 197-200.",
@@ -82,10 +62,6 @@
     {
         "reference": "J. N. CROSSLEY, Constructive order types. II, this JOURNAL, vol. 31 (1966), pp. 525-538.",
         "id": "Crossley1966a"
-    },
-    {
-        "reference": "A. B. MANASTER, Full co-ordinals of RETs, Pacific Journal of Mathematics (to appear).",
-        "id": "Manaster1969a"
     },
     {
         "reference": "ABRAHAM ROBINSON, On the independence of the axioms of definiteness (Axiome der Bestimmtheit), this JOURNAL, vol. 4 (1939), pp. 69-72.",
@@ -140,32 +116,8 @@
         "id": "Tarski1936a"
     },
     {
-        "reference": "C. I. Lewis and C. H. Langford. Symbolic logic. New York 1932.",
-        "id": "LangfordLewis1932a"
-    },
-    {
-        "reference": "D. J. Bronstein and Harry Tarter. Review of Lewis and Langford's Symbolic logic. The philosophical review, vol. 43 (1934), pp. 305-309.",
-        "id": "BronsteinTarter1934a"
-    },
-    {
-        "reference": "J. C. C. McKinsey. A note on Bronstein's and Tarter's definition of strict implication. Ibid., vol. 43 (1934), pp. 518-520.",
-        "id": "BronsteinTarter1934a"
-    },
-    {
-        "reference": "Rudolf Carnap. The logical syntax of language. New York and London 1937.",
-        "id": "Carnap1935b"
-    },
-    {
         "reference": "A. LÉVY, A hierarchy of formulas in set theory, Memoirs of the American Mathematical Society, no. 57 (1965).",
         "id": "Lvy1959a"
-    },
-    {
-        "reference": "C. KARP, Languages with expressions of infinite length, North-Holland, Amsterdam, 1964.",
-        "id": "Karp1962a"
-    },
-    {
-        "reference": "G. KREISEL, Model-theoretic invariants: applications to recursive and hyperarithmetic operations, The theory of models, Proceedings of the 1963 international symposium at Berkeley, North-Holland, Amsterdam, 1965, pp. 190-205.",
-        "id": "Kreisel1952a"
     },
     {
         "reference": "Cf. K. Gödel, Uber formal unentscheidbare Sdtze der Principia Mathematica und ver- wandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
@@ -174,10 +126,6 @@
     {
         "reference": "ALONZO CHURCH, Introduction to mathematical logic, vol. 1, Princeton mathematical series, no. 17, Princeton (Princeton University Press), 1956, x + 376 pp.",
         "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "IRVING M. COPI, Symbolic logic, New York (Macmillan), 1954, xiii + 355 pp.",
-        "id": "CopiWilder1956a"
     },
     {
         "reference": "FREDERIC FITCH, Closure and Quine's *1o0, this JOURNAL, vol. 6 (1941), pp. 18-22.",
@@ -204,16 +152,8 @@
         "id": "Post1921a"
     },
     {
-        "reference": "W. V. QUINE, Mathematical logic, revised edition, Harvard University Press, Cambridge, Mass., 1951.",
-        "id": "Quine1933b"
-    },
-    {
         "reference": "W. V. QUINE, Quantification and the empty domain, this JOURNAL, vol. 19 (1954), pp. 177- 179.",
         "id": "Quine1954b"
-    },
-    {
-        "reference": "The Richard paradox, The American mathematical monthly, vol. 41 (1934), pp. 356-361.",
-        "id": "Church1934a"
     },
     {
         "reference": "C. I. Lewis, A survey of symbolic logic, Berkeley, California, 1918.",
@@ -260,16 +200,8 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "W. A. HOWARD, Bar induction, bar recursion, and the ,-axiom of choice, this JOURNAL, vol. 28 (1963), p. 303.",
-        "id": "HowardKreisel1966a"
-    },
-    {
         "reference": "W. A. HOWARD and G. KREISEL, Transfinite induction and bar induction of types zero and one, and the role of continuity in intuitionistic analysis, this JOURNAL, vol. 31 (1966), pp. 325-358.",
         "id": "HowardKreisel1966a"
-    },
-    {
-        "reference": "C. R. KARP, Languages with expressions of infinite length, North-Holland, Amsterdam, 1964.",
-        "id": "Karp1962a"
     },
     {
         "reference": "G. KREISEL, Mathematical significance of consistency proofs, this JOURNAL, vol. 23 (1958), pp. 155-182.",
@@ -282,10 +214,6 @@
     {
         "reference": "G. KREISEL, Model-theoretic invariants; applications to recursive and hyperarithmetic operations, The theory of models, North-Holland, Amsterdam,1965, pp. 190-205.",
         "id": "KreiselSacks1965a"
-    },
-    {
-        "reference": "G. KREISEL, Informal rigour and completeness proofs, Problems in the philosophy of mathe- matics, North-Holland, Amsterdam, 1967, pp. 138-171.",
-        "id": "Kreisel1958a"
     },
     {
         "reference": "K. KUNEN, Implicit definability and infinitary languages, this JOURNAL, vol. 33 (1968), pp. 446-451.",
@@ -304,10 +232,6 @@
         "id": "Lob1955a"
     },
     {
-        "reference": "A. MOSTOWSKI, Representability of sets in formal systems, Recursive function theory, Proceedings of symposia in pure mathematics, vol. 5, American Mathematical Society, Provi- dence, R.I., 1962, pp. 29-48.",
-        "id": "Mostowski1951a"
-    },
-    {
         "reference": "K. SCHÜTTE, Properties of simple type theory, this JOURNAL, vol. 25 (1960), pp. 305-326.",
         "id": "Schtte1960a"
     },
@@ -324,10 +248,6 @@
         "id": "Vaught1960a"
     },
     {
-        "reference": "W. ACKERMANN, Die Widerspruchsfreiheit der allgemeinen Mengenlehre, Mathematische Annalen, vol. 114 (1937), pp. 305-315.",
-        "id": "Ackermann1934b"
-    },
-    {
         "reference": "L. HENKIN, Fragments of the propositional calculus, this JOURNAL, vol. 14 (1949), pp. 42-48.",
         "id": "Henkin1949a"
     },
@@ -338,10 +258,6 @@
     {
         "reference": "A. HORN, The separation theorem of intuitionistic propositional calculus, this JOURNAL, vol. 27 (1963), pp. 391-399",
         "id": "Horn1962a"
-    },
-    {
-        "reference": "G. KREISEL, Note on arithmetic models for consistent formulae of the predicate calculus 1I, Proceedings of the Eleventh International Congress of Philosophy (1953), pp. 39-49, Pergamon Press, New York.",
-        "id": "Kreisel1958b"
     },
     {
         "reference": "G. KREISEL, Relative consistency proofs, this JOURNAL, vol. 23 (1958), pp. 109-110.",
@@ -360,24 +276,8 @@
         "id": "Tait1967a"
     },
     {
-        "reference": "W. A. HOWARD, Functional interpretation of bar induction by bar recursion, Compositio, vol. 20 (1968), pp. 107-124.",
-        "id": "HowardKreisel1966a"
-    },
-    {
-        "reference": "K. I. APPEL AND T. G. MCLAUGHLIN, On properties of regressive sets, Transactions of the American Mathematical Society, vol. 115 (1965), pp. 83-93.",
-        "id": "Appel1967a"
-    },
-    {
         "reference": "A. GRZEGORCZYK, A. MOSTOWSKI, AND C. RYLL-NARDZEWSKI, The classical and the w-complete arithmetic, this JOURNAL, vol. 23 (1958), pp. 188-206.",
         "id": "GrzegorczykMostowskiNardzewski1958a"
-    },
-    {
-        "reference": "H. ROGERS, JR., Recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
-        "reference": "C. E. M. YATES, Recursively enumerable sets and retracing functions, Zeitschrift für Mathematische Logik und Grundlagen der Mathematik, vol. 8 (1962), pp. 331-345.",
-        "id": "Yates1966a"
     },
     {
         "reference": "C. E. M. YATES, Three theorems on the degrees of recursively enumerable sets, Duke mathematical journal, vol. 32 (1965), pp. 461-468.",
@@ -436,10 +336,6 @@
         "id": "Kleene1936a"
     },
     {
-        "reference": "Church, Introduction to mathematical logic I, §47.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "Hilbert and Ackermann, Grundzüge der theoretischen Logik, Chapter 3, ?10",
         "id": "AckermannHilbert1928a"
     },
@@ -458,14 +354,6 @@
     {
         "reference": "Hilbert and Bernays, Grundlagen der Mathe- matik, vol. I, pp. 193-195",
         "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "Church, Introduction to mathematical logic I, revised edition, ?46.",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "Quine, Methods of Logic, §38",
-        "id": "Quine1934c"
     },
     {
         "reference": "Julia Robinson, Definability and decision problems in arithmetic, this JOURNAL, vol. 14 (1949), pp. 98-114.",
@@ -492,24 +380,12 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "T. SKOLEM, Peano's axioms and models of arithmetic, Mathematical inter- pretations of formal systems, Amsterdam (North Holland), 1955, pp. 1-14.",
-        "id": "Skolem1919a"
-    },
-    {
-        "reference": "H. ROGERS JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1968.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "A. LÉVY, Definability in axiomatic set theory, I. Logic, methodology and the philosophy of science, Proceedings of the 1964 International Congress, North-Holland, Amsterdam, 1965, pp. 127-151.",
         "id": "Lvy1959a"
     },
     {
         "reference": "J. A. FARIS, The Gergonne relations, this JOURNAL, vol. 20 (1955), pp. 207-231.",
         "id": "Faris1955a"
-    },
-    {
-        "reference": "SAUL A. KRIPKE, Semantical analysis of modal logic. II. Non-normal modal propositional calculi, The theory of models, Proceedings of the 1963 International Symposium at Berkeley, North Holland, Amsterdam, 1965, pp. 206-220.",
-        "id": "Kripke1959a"
     },
     {
         "reference": "SAUL A. KRIPKE, Semantical analysis of modal logic. I. Normal modalpropositional calculi, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 9 (1963), pp. 67-?)6.",
@@ -532,16 +408,8 @@
         "id": "Salomaa1960a"
     },
     {
-        "reference": "A. SALOMAA, Some completeness criteria for sets of functions over a finite domain. I, II, Annales Universitates Turkuensis, vol. 53 (1962) and vol. 63 (1963).",
-        "id": "Salomaa1960a"
-    },
-    {
         "reference": "S. LEŚNIEWSKI, 0 podstawach matematyki (On the foundations of mathematics), Przegląd filozoficzny (Philosophical Review), vol. 30 (1927), pp. 164-206",
         "id": "Lesniewski1927a"
-    },
-    {
-        "reference": "Vgl. Kurt-R. Biermann, Über die Untersuchung einer speziellen Frage der Kom- binatorik durch G. W. Leibniz, Forschungen und Fortschritte, 28, 1954, S. 357-361.",
-        "id": "BiermannMau1958a"
     },
     {
         "reference": "L. HENKIN, The completeness of the first-order functional calculus, this JOURNAL, vol. 14 (1949), pp. 159-166.",
@@ -560,6 +428,10 @@
         "id": "JohnsonThomason1969a"
     },
     {
+        "reference": "GENTZEN, GERHARD. [2] Die Widerspruchsfreiheit der reinen Zahlentheorie, Mathe- matische Annalen, vol. 112 (1936), pp. 493-565.",
+        "id": "Gentzen1938a"
+    },
+    {
         "reference": "GÖDEL, KURT. [4] Uber formal unentscheidbare Satze der Principia Mathematica und verwandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a"
     },
@@ -574,14 +446,6 @@
     {
         "reference": "TURING, A. M. [17] On computable numbers, with an application to the Entscheidungs- problem, Proceedings of the London Mathematical Society, ser. 2 Vol. 42 (1937), pp. 230-265.",
         "id": "Turing1937c"
-    },
-    {
-        "reference": "P. BERNAYS, Zur Frage der Unendlichkeitsschemata in der axiomatischen Men- genlehre, Essays on the Foundations of Mathematics, Dedicated to Professor A. H. Fraenkel on his 70th birthday, Magnes Press, The Hebrew University, Jerusalem, 1961, 49 pp.",
-        "id": "Bernays1938a"
-    },
-    {
-        "reference": "BERNSTEIN, B. A., Weak definitions of a field, Duke mathematical journal, vol. 14 (1947), pp. 475-482.",
-        "id": "Bernstein1926d"
     },
     {
         "reference": "GöDEL, KURT, Ober formal unentscheidbare Sdtze der Principia Mathematica und verwandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38(1931), pp. 173- 198.",
@@ -604,10 +468,6 @@
         "id": "Gold1965a"
     },
     {
-        "reference": "EMIL L. POST, Degrees of recursive unsolvability, Preliminary report, Abstract number 269, Bulletin of the American Mathematical Society, vol. 54 (1948), pp. 641-642.",
-        "id": "MckinseyPost1945a"
-    },
-    {
         "reference": "HILARY PUTNAM, Trial and error predicates and the solution to a problem of Mostowski, this JOURNAL, vol. 30 (1965), pp. 49-57.",
         "id": "Putnam1965a"
     },
@@ -626,14 +486,6 @@
     {
         "reference": "P. G. J. VREDENDUIN, The logic of negationless mathematics, Compositio mathematica, Vol. 11 (1953), pp. 204-277.",
         "id": "Vredenduin1933a"
-    },
-    {
-        "reference": "ERNEST A. MOODY t Truth and consequence in medieval logic (Amsterdam, 1953). [For the schoolmen's treatment of the temporal ampliation of the terms of categorical propositions using tensed operators for past, present, and future, see pp. 53-63.J",
-        "id": "ChurchNagel1945a"
-    },
-    {
-        "reference": "E. POST, Formal reductions of the general combinatorial decision problem, American journal of mathematics, vol. 65 (1943), pp. 197-215.",
-        "id": "MckinseyPost1945a"
     },
     {
         "reference": "H. J. KEISLER, Ultraproducts of finite sets, this JOURNAL, vol. 32 (1967), pp. 47-57.",
@@ -688,10 +540,6 @@
         "id": "Feferman1962a"
     },
     {
-        "reference": "R. MONTAGUE, Semantical closure and non-finite axiomatizability, I. Proceedings of the Symposium on Logic: Infinitistic methods, Warsaw, 1959, Pergamon Press, New York, 1961, pp. 45-69.",
-        "id": "Montague1906a"
-    },
-    {
         "reference": "R. VAUGHT, Axiomatizability by a schema, Notices of the American Mathematical Society, vol. 11 (1964), p. 590.",
         "id": "Vaught1967a"
     },
@@ -708,10 +556,6 @@
         "id": "Henkin1950a"
     },
     {
-        "reference": "G. KREISEL, Interpretation of analysis by means of functionals of finite types, Constructivity in mathematics, North-Holland, Amsterdam, 1959, pp. 101-128.",
-        "id": "HowardKreisel1966a"
-    },
-    {
         "reference": "A. TARSKI, Der Wahrheitsbegriff in den formalisierten Sprachen, Studia philosophica, vol. 1 (1936), pp. 261-405.",
         "id": "Tarski1936a"
     },
@@ -720,20 +564,12 @@
         "id": "Quine1945b"
     },
     {
-        "reference": "D. Hilbert and W. Ackermann, Grundzüge der theoretischen Logik, 3rd edn., Springer-Verlag, Berlin-Gbttingen-Heidelberg, p. 78.",
-        "id": "AckermannHilbert1928a"
-    },
-    {
         "reference": "G. D. W. Berry, On Quine's axioms of quantification, this JOURNAL, vol. 6 (1941), pp. 23-27.",
         "id": "Berry1941a"
     },
     {
         "reference": "K. GÖDEL, Consistency of the continuum hypothesis. Annals of Mathe- niatics. Studies, No. 3, Princeton, 1940.",
         "id": "Godel1938a"
-    },
-    {
-        "reference": "A. CHURCH, Introduction to mathematical logic, Princeton University Press, Princeton, N.J., 1956.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "Hilbert and Bernays, Grundlagen der Mathematik, vol. 2, Berlin, 1939, Sup- plement I B.",
@@ -752,12 +588,16 @@
         "id": "Godel1931a"
     },
     {
-        "reference": "D. HILBERT and P. BERNAYS, Grundlagen der Mathematik, vol. 2, Berlin (Springer), 1939.",
-        "id": "BernaysHilbert1934a"
+        "reference": "A. HEYTING, Die formalen Regeln der intuitionistischen Logik, Sitzungs- berichte der preussischen Akademie der Wissenschaften, Physikalisch- mathematische Klasse (1930), pp. 42-56.",
+        "id": "Heyting1930a"
     },
     {
-        "reference": "S. C. KLEENE, Realizability, mimeographed Summaries of talks presented at the Summer Institute of Symbolic Logic in 1957 at Cornell University, 1957, pp. 100-105",
-        "id": "Kleene1938b"
+        "reference": "A. HEYTING, Die formalen Regeln der intuitionistischen Mathematik, ibid. (1930), pp. 57-71, 158-169.",
+        "id": "Heyting1930a"
+    },
+    {
+        "reference": "D. HILBERT and P. BERNAYS, Grundlagen der Mathematik, vol. 2, Berlin (Springer), 1939.",
+        "id": "BernaysHilbert1934a"
     },
     {
         "reference": "A. KOLMOGOROV, Sur le principe de tertium non datur, Recueil mathéma- tique de la Société mathématique de Moscou, vol. 32 (1925), pp. 646-667.",
@@ -844,10 +684,6 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "pp. 140-145 of QUINE's Element and number, this JOURNAL, vol. 6 (1941), pp. 135-149.",
-        "id": "Quine1941a"
-    },
-    {
         "reference": "P. BERNAYS, A system of axiomatic set theory, this JOURNAL, vol. 2 (1937), pp. 65-77",
         "id": "Bernays1937a"
     },
@@ -870,10 +706,6 @@
     {
         "reference": "C. I. LEWIS and C. H. LANGFORD, Symbolic logic, New York and London, 1932, p. 247.",
         "id": "LangfordLewis1932a"
-    },
-    {
-        "reference": "R. CARNAP in Modalities and quantification, this JOURNAL, vol. 11 (1946), p. 56.",
-        "id": "Carnap1946a"
     },
     {
         "reference": "J. C. C. MCKINSEY and ALFRED TARSKI, Some theorems about the sentential calculi of Lewis and Heyting, this JOURNAL, vol. 13 (1948), p. 5.",
@@ -948,14 +780,6 @@
         "id": "Wittgenstein1922a"
     },
     {
-        "reference": "RUDOLF CARNAP, Introduction to symbolic logic and its applications, New York, 1958.",
-        "id": "Carnap1934a"
-    },
-    {
-        "reference": "ALONZO CHURCH, The calculi of lambda-conversion, Princeton, 1941.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "ALONZO CHURCH, Introduction to mathematical logic, Vol. 1, Princeton, 1956.",
         "id": "BerryChurch1945a"
     },
@@ -980,10 +804,6 @@
         "id": "Johnson1969a"
     },
     {
-        "reference": "J. D. MONK, On representable relation algebras, The Michigan mathematical journal, vol. 11 (1964), pp. 207-210.",
-        "id": "Monk1969a"
-    },
-    {
         "reference": "J. D. MONK, Nonfinitizability of classes of representable cylindric algebras, this JOURNAL, vol. 34 (1969), pp. 331-343.",
         "id": "Monk1969a"
     },
@@ -1000,14 +820,6 @@
         "id": "Hay1969a"
     },
     {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
-        "reference": "K. NAMBA, On No-complete cardinals, Journal of the Mathematical Society of Japan, to appear.",
-        "id": "Namba1967a"
-    },
-    {
         "reference": "G. TAKEUTI, On the recursive functions of ordinal numbers, Journal of the Mathematical Society of Japan, vol. 12 (1960), pp. 119-127.",
         "id": "Takeuti1965a"
     },
@@ -1022,10 +834,6 @@
     {
         "reference": "R. A. BULL, An algebraic study of tense logics with linear time, this JOURNAL, vol. 33 (1968), pp. 27-38.",
         "id": "Bull1968a"
-    },
-    {
-        "reference": "R. HARROP, On the existence of finite models and decision procedures for propositional calculi, Proceedings of the Cambridge Philosophical Society, vol. 54 (1958), pp. 1-13.",
-        "id": "Harrop1965a"
     },
     {
         "reference": "J. C. C. MCKINSEY, A solution of the decision problem for the Lewis systems S2 and S4 with an application to topology, this JOURNAL, vol. 6 (1941), pp. 117-134.",
@@ -1060,10 +868,6 @@
         "id": "Bull1965a"
     },
     {
-        "reference": "A. JANICZAK, Undecidability of some simple formalized theories, Fundamenta Mathematicae, vol. 40 (1953), pp. 131-139.",
-        "id": "Janiczak1950a"
-    },
-    {
         "reference": "J. von Neumann, Eine Axiomatisierung der Mengenlehre, Journal für die reine und angewandte Mathematik, vol. 154 (1925), pp. 219-240.",
         "id": "Neumann1925a"
     },
@@ -1078,18 +882,6 @@
     {
         "reference": "K. OHASHI, On a problem of G. E. Sacks, this JOURNAL, vol. 35 (1970), pp. 46-50.",
         "id": "Ohashi1970a"
-    },
-    {
-        "reference": "G. E. SACKS, Metarecursion theory, Sets, models and recursion theory, J. N. Crossley ed., North-Holland, Amsterdam, 1967.",
-        "id": "KreiselSacks1965a"
-    },
-    {
-        "reference": "L. H. THARP, Set theory, mimeographed notes, M.I.T., 1966.",
-        "id": "Tharp1967a"
-    },
-    {
-        "reference": "Lewis and Langford's Symbolic logic, pp. 493, 498",
-        "id": "LangfordLewis1932a"
     },
     {
         "reference": "W. T. Parry, Zum Lewisschen Aussagenkalkfil, Ergebnisse eines mathematischen Kollo- quiums, no. 4 (1931-32), pp. 15-16.",
@@ -1117,10 +909,6 @@
     },
     {
         "reference": "J. C. C. McKinsey, On the number of complete extensions of the Lewis systems of sentential calculus, this JOURNAL, Vol. 9 (1944), pp. 42-46.",
-        "id": "Mckinsey1944a"
-    },
-    {
-        "reference": "McKinsey, On the number of complete extensions . . . , p. 42",
         "id": "Mckinsey1944a"
     },
     {
@@ -1160,10 +948,6 @@
         "id": "BerryChurch1945a"
     },
     {
-        "reference": "IRVING COPI, Symbolic logic (1954).",
-        "id": "CopiWilder1956a"
-    },
-    {
         "reference": "C. I. LEWIS, Implication and the algebra of logic, Mind, vol. 21 (1912), pp. 522-531.",
         "id": "Lewis1912a"
     },
@@ -1182,10 +966,6 @@
     {
         "reference": "EVERETT J. NELSON, Three logical principles of intension, Monist, vol. 43 (1933), pp. 268-284.",
         "id": "Nelson1933b"
-    },
-    {
-        "reference": "J. BARKLEY ROSSER, Logic for mathematicians (1953).",
-        "id": "Rosser1935b"
     },
     {
         "reference": "G. HENSEL, On the notational independence of various hierarchies of degrees of unsolvability, Thesis, Princeton, 1963.",
@@ -1236,16 +1016,8 @@
         "id": "Belnap1960a"
     },
     {
-        "reference": "ALONZO CHURCH, The weak theory of implication, Kontrolliertes Denken (Fest. gabe zum 60 Geburtstag von Prof. W. Britzelmayr), Munich, 1951.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "AUSTIN E. DUNCAN-JONES, Is strict implication the same as entailment? Analysis, vol. 2 (1935), pp. 70-78.",
         "id": "DuncanJones1934b"
-    },
-    {
-        "reference": "AREND HEYTING, Die formalen Regeln der intuitionistischen Logik, Sitzungs- berichte der Preussischen Akademie der Wissenschaften, Physikalisch-mathe- matische KMasse (1930), pp. 42-56, 57-71, 158-169.",
-        "id": "Heyting1930a"
     },
     {
         "reference": "C. I. LEWIS and C. H. LANGFORD, Symbolic logic, New York, 1932.",
@@ -1260,10 +1032,6 @@
         "id": "Moore1920a"
     },
     {
-        "reference": "MOH SHAW-KWEI, The deduction theorems and two new logical systems, Methodos, vol. 2 (1950), pp. 56-75.",
-        "id": "Kwei1954a"
-    },
-    {
         "reference": "JOHN MYHILL, On the interpretation of the sign \"Dn\", this JOURNAL, vol. 18 (1953), pp. 60-62.",
         "id": "Myhill1953c"
     },
@@ -1276,16 +1044,8 @@
         "id": "Crossley1966a"
     },
     {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "IVO THOMAS, Modal Systems in the neighbourhood of T. Notre Dame Journal of Formal Logic, forthcoming.",
         "id": "Thomas1968a"
-    },
-    {
-        "reference": "R. FEYS, Les systems formalise's des modalitds aristote'liciennes. Revue Philo- sophique de Louvain, XLVIII (1950), 478-509.",
-        "id": "Feys1924b"
     },
     {
         "reference": "J. Myhill, Report on some investigations concerning the consistency of the axiom of reduci- bility, this JOURNAL, vol. 16 (1951), pp. 35-42.",
@@ -1324,14 +1084,6 @@
         "id": "Godel1931a"
     },
     {
-        "reference": "G. KREISEL, Model theoretic invariants: applications to recursive and hyper- arithmetic operations, Theory of Models Symposium, Berkeley, forthcoming",
-        "id": "Kreisel1952a"
-    },
-    {
-        "reference": "A. MOSTOWSKI, Representability of sets in formal systems, Recursive Function Theory, Proceedings of Symposia in Pure Mathematics, 5 (1962), 29-48.",
-        "id": "Mostowski1951a"
-    },
-    {
         "reference": "E. L. POST, Recursively enuterable sets of positive integers and their decision problems, Bulletin of the American Mathematical Society, 50 (1944), 284-316.",
         "id": "MckinseyPost1945a"
     },
@@ -1368,20 +1120,12 @@
         "id": "Quine1945a"
     },
     {
-        "reference": "WV. V. QUINE, Mathematical logic, rev. ed., Harvard University Press, Cambridge, 1951, xii + 346 pp.",
-        "id": "Quine1933b"
-    },
-    {
         "reference": "J. B. ROSSER, The axiom of infinity in Quine's New Foundations, this JOURNAL, vol. 27 (1952), pp. 238-242.",
         "id": "Rosser1952a"
     },
     {
         "reference": "H. BEHMANN, Beitrdge zur Algebra der Logik, insbesondere zum Entscheidungs- problem, Mathematische Annalen, vol. 86 (1922), pp. 163-229.",
         "id": "Behmann1922a"
-    },
-    {
-        "reference": "A. JANICZAK, Undecidability of some simple formalized theories, Fundamenta mathematicae, vol. 40 (1953), pp. 131-139.",
-        "id": "Janiczak1950a"
     },
     {
         "reference": "J. MYHILL, Solution of a problem of Tarski, this JOURNAL, vol. 21 (1956), pp. 49-51.",
@@ -1428,10 +1172,6 @@
         "id": "Church1940a"
     },
     {
-        "reference": "In The consistency of the axiom of choice and of the generalised continuum-hypothesis, Proceedings of the National Academy of Sciences, vol. 24 (1938), pp. 556-557",
-        "id": "Godel1938a"
-    },
-    {
         "reference": "S. FEFERMAN, Systems of predicative analysis, this JOURNAL, vol. 29 (1964), pp. 1-30.",
         "id": "Feferman1964a"
     },
@@ -1448,20 +1188,12 @@
         "id": "Kreisel1958c"
     },
     {
-        "reference": "G. KREISEL, Model theoretic invariants: applications to recursive and hyperarithmetic operations, The Theory of Models, Proceedings of the 1963 International Symposium at Berkeley, North-Holland, Amsterdam, 1965, pp. 190-205.",
-        "id": "Kreisel1952a"
-    },
-    {
         "reference": "Y. N. MOSCHOVAKIS, Abstract first order computability. I, Transactions of the American Mathematical Society, vol. 138 (1969), pp. 427-464.",
         "id": "Moschovakis1969a"
     },
     {
         "reference": "Y. N. MOSCHOVAKIs, Abstract first order computability. II, Transactions of the American Mathematical Society, vol. 138 (19V9) pp. 465-504.",
         "id": "Moschovakis1969a"
-    },
-    {
-        "reference": "A. MOSTOWSKI, Representability of sets in formal systems, Recursive Function Theory, Proceedings of Symposia in Pure Mathematics, Providence, R.I., vol. 5 (1962), pp. 29-48.",
-        "id": "Mostowski1951a"
     },
     {
         "reference": "C. SPECTOR, Recursive well-orderings, this JOURNAL, vol. 20 (1955), pp. 151-163.",
@@ -1480,10 +1212,6 @@
         "id": "Godel1938a"
     },
     {
-        "reference": "C. KURATOWSKI, Sur l'e'tat actuel de l'axiomatique de la thiorie des ensembles, Annales de la Société Polonaise de Mathématique, vol. 3 (1924), pp. 146-147.",
-        "id": "KuratowskiPosament1934a"
-    },
-    {
         "reference": "J. BARKLEY ROSSER and HAO WANG, Non-standard models for formal logics, this JOURNAL, vol. 15 (1950), pp. 113-129.",
         "id": "RosserWang1950a"
     },
@@ -1500,16 +1228,8 @@
         "id": "Tarski1938a"
     },
     {
-        "reference": "Lewis and Langford's Symbolic logic, pp. 492-502.",
-        "id": "LangfordLewis1932a"
-    },
-    {
         "reference": "WILLARD VAN ORMAN QUINE, On natural deduction, this Journal, vol. 15 (1950), pp. 135-149.",
         "id": "Quine1950a"
-    },
-    {
-        "reference": "IRVING M. COPI, Symbolic logic, New York (Macmillan), 1954, xiii + 355 pp.",
-        "id": "CopiWilder1956a"
     },
     {
         "reference": "J. C. C. McKinsey, On the syntactical construction of systems of modal logic. Journal of Symbolic Logic, vol. 10 (1945), pp. 83-94.",
@@ -1564,10 +1284,6 @@
         "id": "Chwistek1939a"
     },
     {
-        "reference": "A. CHURCH, Introduction to mathematical logic, vol. 1, Princeton (Princeton Univ. Press), 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "W. CRAIG, On axiomatizability within a system, this JOURNAL, vol. 18 (1953), pp. 30-32.",
         "id": "Craig1953a"
     },
@@ -1592,20 +1308,8 @@
         "id": "Tarski1936a"
     },
     {
-        "reference": "A. TARSKI, Some notions and methods on the borderline of algebra and meta- mathematics, Proceedings of the International Congress of mathematicians, (Cambridge, Mass. USA, Aug. 30-Sept. 6, 1950), 1952, vol. 1, pp. 705-720.",
-        "id": "Tarski1929a"
-    },
-    {
-        "reference": "A. TARSKI, A general theorem concerning the reduction of primitive notions, this JOURNAL, vol. 19 (1954), p. 158.",
-        "id": "LindenbaumTarski1926b"
-    },
-    {
         "reference": "R. L. VAUGHT, Finite axiomatizability using additional predicates, I and II, Bulletin of the American Mathematical Society, vol. 62 (1956), pp. 412-413.",
         "id": "CraigVaught1958a"
-    },
-    {
-        "reference": "W. V. QUINE, Methods of logic, Henry Holt and Company, Tnc., New York, 1959.",
-        "id": "Quine1934c"
     },
     {
         "reference": "R. M. SMULLYAN, Uniform Gentzen systems, this JOURNAL this issue, pp. 549-559.",
@@ -1640,28 +1344,12 @@
         "id": "Carnap1935b"
     },
     {
-        "reference": "D. HILBERT and W. ACKERMANN, Grundzüge der theoretischen Logik, 3rd edition (Berlin, Gbttingen, and Heidelberg, 1949), pp. 18-19.",
-        "id": "AckermannHilbert1928a"
-    },
-    {
-        "reference": "J. ŁUKASIEWICZ, On the intuitionistic theory of deduction, Koninklijke Ne- derlandse Akademie van Wetenschappen, Proceedings of the Section of Sciences, series A, vol. 55 (1952), pp. 202-212.",
-        "id": "Lukasiewicz1925a"
-    },
-    {
         "reference": "GOTTLOB FREGE, Die Grundgesetze der Arithmetik vol. 2 (Jena, 1903), pp. 253-265.",
         "id": "Frege1903a"
     },
     {
-        "reference": "H. POINCARÉ, Science and method (New York, Dover Publications, 1952) p. 190",
-        "id": "Poincare1913a"
-    },
-    {
         "reference": "BERTRAND RUSSELL, Mathematical logic as based on the theory of types, American journal of mathematics, vol. 30 (1908) pp. 222-262",
         "id": "Russell1908a"
-    },
-    {
-        "reference": "A. N. WHITEHEAD and BERTRAND RUSSELL in Principia mathematica (3 vols., Cambridge, England, 1910-13",
-        "id": "RussellWhitehead1910a"
     },
     {
         "reference": "F. B. FITCH, The consistency of the ramified Principia, this JOURNAL, vol. 3 (1938), pp. 140-149.",
@@ -1752,14 +1440,6 @@
         "id": "Spector1955a"
     },
     {
-        "reference": "Alfred Tarski, The semantic conception of truth and the foundation of semantics, Philosophy and phenomenological research, vol. 4 (1944), pp. 341-376.",
-        "id": "Tarski1939a"
-    },
-    {
-        "reference": "Church's procedure in A formulation of the logic of sense and denotation (abstract), this JoURNAL, vol. 11 (1946), p. 31.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "S. C. Kleene, On the interpretation of intuitionistic number theory, this JOURNAL, vol. 10 (1945), pp. 109-124",
         "id": "Kleene1945a"
     },
@@ -1840,32 +1520,12 @@
         "id": "ChurchQuine1952a"
     },
     {
-        "reference": "Rudolf Carnap, Abriss der Logistik 20 b",
-        "id": "Carnap1929a"
-    },
-    {
         "reference": "Rudolf Carnap, Logische Syntax der Sprache",
         "id": "Carnap1934b"
     },
     {
         "reference": "Kurt Gödel, Jber formal unentscheidbare Satze der Principia Matheinatica und ver- wandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931).",
         "id": "Godel1931a"
-    },
-    {
-        "reference": "K. I. APPEL and T. G. MCLAUGHLIN, On properties of regressive sets, Transactions of the American Mathematical Society, vol. 115 (1965), pp. 83-92.",
-        "id": "Appel1967a"
-    },
-    {
-        "reference": "W. V. QUINE. On existence conditions for elements and classes, this JOURNAL, vol. 7 (1942), pp. 157-159.",
-        "id": "Quine1942a"
-    },
-    {
-        "reference": "HAO WANG. Existence of classes and value specification of variables, this JOURNAL. (To appear soon.)",
-        "id": "Wang1950b"
-    },
-    {
-        "reference": "A. N. WHITEHEAD and BERTRAND RUSSELL. Principia mathematica. Cambridge, Eng- land, 1910-1913.",
-        "id": "RussellWhitehead1910a"
     },
     {
         "reference": "H. J. KEISLER, Ultraproducts and saturated models, Indagationes Mathematicae, vol. 26 (1964), pp. 178-186.",
@@ -1892,10 +1552,6 @@
         "id": "Carnap1946a"
     },
     {
-        "reference": "ALONZO CHURCH, A formulation of the logic of sense and denotation, Structure, Method and Meaning; Essays in Honor of Henry M. Sheffer, Paul Henle, et al, eds., New York, 1951.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "ALONZO CHURCH, Introduction to Mathematical Logic, vol. 1, Princeton, 1956.",
         "id": "BerryChurch1945a"
     },
@@ -1905,10 +1561,6 @@
     },
     {
         "reference": "SAUL A. KRIPKE, A completeness theorem in modal logic, this JOURNAL, XXIV (1959), 1-14.",
-        "id": "Kripke1959a"
-    },
-    {
-        "reference": "SAUL A. KRIPKE, Semantical analysis of modal logic I, Zeitschrift für mathe- matische Logik und Grundlagen der Mathematik, IX (1963), 67-96.",
         "id": "Kripke1959a"
     },
     {
@@ -1922,10 +1574,6 @@
     {
         "reference": "ALONZO CHURCH, Introduction to mathematical logic, vol. I, 1956.",
         "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "R. HARROP, On the existence of finite models and decision procedures tor pro- positional calculi, Proceedings of the Cambridge Philosophical Society, vol. 54, 1958, pp. 1-13.",
-        "id": "Harrop1965a"
     },
     {
         "reference": "HENRY HIŻ, Extendible sentential calculus. Abstract 538-34, Notices of the Ameriçan Mathematical Society, vol. 5 (1958), p. 34.",
@@ -1964,10 +1612,6 @@
         "id": "Nelson1955b"
     },
     {
-        "reference": "W. V. QUINE, Mathematical Logic, Rev. Ed., Harvard University Press, Cambridge, Mass., 1961.",
-        "id": "Quine1933b"
-    },
-    {
         "reference": "J. BARWISE, Infinitary logic and admissible sets, this JOURNAL, vol. 34 (1969), pp. 226-252.",
         "id": "Barwise1969b"
     },
@@ -2000,10 +1644,6 @@
         "id": "Rabin1958a"
     },
     {
-        "reference": "H. ROGERS, Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "A. Heyting, Mathematische Grundlagenforschung, Institutionismus, Beweistheorie (Er- gebnisse der Mathematik und ihrer Grenzgebiete), Berlin 1934.",
         "id": "Heyting1934a"
     },
@@ -2024,10 +1664,6 @@
         "id": "Quine1934a"
     },
     {
-        "reference": "A. Fraenkel, Einleitung in die Mengenlehre, 2nd. edn., pp. 184-241.",
-        "id": "Fraenkel1923b"
-    },
-    {
         "reference": "K. Gödel, Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a"
     },
@@ -2040,10 +1676,6 @@
         "id": "Russell1925a"
     },
     {
-        "reference": "A. CHURCH, Introduction to mathematical logic, vol. 1, Princeton Univ. Press, Princeton, N.J., 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "D. HILBERT and P. BERNAYS, Grundlagen der Mathematik, Berlin (Springer), vol. 1, 1934",
         "id": "BernaysHilbert1934a"
     },
@@ -2054,10 +1686,6 @@
     {
         "reference": "W. V. QUINE, Quantification and the empty domain, this JOURNAL, vol. 19 (1954), pp. 177-179.",
         "id": "Quine1954b"
-    },
-    {
-        "reference": "W. V. QUINE, Mathematical logic, revised edition, Cambridge, Mass. (Har- vard University Press), 1951.",
-        "id": "Quine1933b"
     },
     {
         "reference": "HAO WANG, Existence of classes and value specification of variables, this JOURNAL, vol. 15 (1950), pp. 103-112.",
@@ -2088,10 +1716,6 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "Ober Grenzzaklen und Mengenbereche, Fundamenta mathematicae, vol. 16 (1930), pp. 2947",
-        "id": "Zermelo1930a"
-    },
-    {
         "reference": "A. Fraenkel, Uber die Gleichheitsbeziehung in der Mengenlehre, Journal für die reine und angewandte Mathematik, vol. 157 (1927), pp. 79-81.",
         "id": "Fraenkel1927a"
     },
@@ -2114,10 +1738,6 @@
     {
         "reference": "Norbert Wiener, A simplification of the logic of relations, Proceedings of the Cambridge Philosophical Society, vol. 17 (1914), pp. 387-390.",
         "id": "Wiener1914a"
-    },
-    {
-        "reference": "New foundations for mathematical logic, The American mathematical monthly, vol. 44 (1937), pp. 70-80",
-        "id": "Copeland1937a"
     },
     {
         "reference": "Nelson Goodman, Sequences, this JOURNAL, vol. 6 (1941), pp. 150-153",
@@ -2156,24 +1776,12 @@
         "id": "Richter1965a"
     },
     {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "C. SPECTOR, Recursive well-orderings, this JOURNAL, vol. 20 (1955), pp. 151-163.",
         "id": "Spector1955a"
     },
     {
         "reference": "EMIL L. POST, Recursively enumerable sets of positive integers and their decision problems. Bulletin of the American Mathematical Society, vol. 50, pp. 284-316 (1944).",
         "id": "MckinseyPost1945a"
-    },
-    {
-        "reference": "H. B. CURRY and R. FEYS, Combinatory logic, vol. I, North-Holland Co., Amsterdam, 1958.",
-        "id": "Curry1933a"
-    },
-    {
-        "reference": "H. B. CURRY, Combinatory logic, vol. II, in preparation.",
-        "id": "Curry1933a"
     },
     {
         "reference": "R. HINDLEY, Axioms for strong reduction in combinatory logic, this JOURNAL, vol. 32 (1967), pp. 224-236.",
@@ -2201,10 +1809,6 @@
     },
     {
         "reference": "L. P. BELLUCE and C. C. CHANG, A weak completeness theorem for infinite valued first order logic, this JOURNAL, vol. 28 (1963), pp. 43-50.",
-        "id": "BelluceChang1963a"
-    },
-    {
-        "reference": "C. C. CHANG, Theory of models of infinite valued logic. I, II, III. (abstracts), Notices of the American Mathematical Society, vol. 8 (1961), pp. 68-69.",
         "id": "BelluceChang1963a"
     },
     {
@@ -2236,24 +1840,12 @@
         "id": "Bull1964a"
     },
     {
-        "reference": "C. A. MEREDITH and A. N. PRIOR, Notes on the axiontatics o/ the propositional calculus, Notre Dame Journal of Formal Logic, Vol. 4, No. 3 (1963), pp. 171-187.",
-        "id": "Prior1958b"
-    },
-    {
         "reference": "J. C. C. McKinsey, The decision problem for some classes of sentences without quantifiers, this JOURNAL, vol. 8 (1943), pp. 61-76.",
         "id": "Mckinsey1943a"
     },
     {
         "reference": "D. Hilbert and P. Bernays, Grundlagen der Mathematik, Berlin 1934, vol. 1, p. 57.",
         "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "H. R. STRONG, JR., An algebraic approach through uniformly reflexive structures to generalized recursive function theory, Doctoral dissertation, University of Washington, 1967.",
-        "id": "Strong1970a"
-    },
-    {
-        "reference": "H. R. STRONG, JR., Algebraically generalized recursive function theory, IBM journal research and development, 12, 6, 465-475, November, 1968.",
-        "id": "Strong1970a"
     },
     {
         "reference": "S. C. Kleene, Proof by cases informal logic, Annals of mathe- matics, vol. 35 (1933), see p. 530.",
@@ -2266,10 +1858,6 @@
     {
         "reference": "M. POUR-EL, \"Recursive isomorphism\" and effectively extensible theories, Bulletin of the American Mathematical Society, vol. 71 (1965), pp. 551-555.",
         "id": "El1968a"
-    },
-    {
-        "reference": "H. WANG, Arithmetic translations of axiom systems, Transactions of the American Mathe- matical Society, vol. 71 (1951), pp. 283-293.",
-        "id": "Wang1943a"
     },
     {
         "reference": "Der Wahrheitsbegriff in den formalisierten Sprachen, Studia philosophica, vol. 1 (1936)",
@@ -2320,10 +1908,6 @@
         "id": "MckinseyPost1945a"
     },
     {
-        "reference": "C.I. Lewis's Survey of symbolic logic (Berkeley, 1918).",
-        "id": "Berkeley1942a"
-    },
-    {
         "reference": "Lewis, Survey of symbolic logic, pp. 373-379",
         "id": "Lewis1918a"
     },
@@ -2362,10 +1946,6 @@
     {
         "reference": "J. B. ROSSER, Extensions of some theorems of Godel and Church, this JOURNAL, vol. 1 (1936), pp. 87-91.",
         "id": "Rosser1936b"
-    },
-    {
-        "reference": "W. SZMIELEW and A. TARSKI, Mutual interpretability of some essentially un- decidable theories, abstract, Proceedings of the International Congress of Mathe- maticians, (Cambridge, Mass., 1950), 1952, vol. 1, p. 734.",
-        "id": "MckinseyTarski1948a"
     },
     {
         "reference": "WV. V. QUINE, Interpretations of sets of conditions, this JOURNAL, vol. 19 (1954), pp. 97-102.",
@@ -2424,16 +2004,8 @@
         "id": "Skolem1929a"
     },
     {
-        "reference": "A. Church, Introduction to mathematical logic, 1944, esp. p. 37.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "Tarski, On undecidable statements in enlarged systems of logic and the concept of truth, this JOURNAL, vol. 4 (1939), pp. 105-112, esp. p. 110.",
         "id": "Tarski1939a"
-    },
-    {
-        "reference": "A. CHURCH, Introduction to Mathematical logic, vol. 1, Princeton Univ. Press, Princeton, N.J., 1956.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "G. GENTZEN, Untersuchungen uber das logische Schliessen, Mathematische Zeitschrift, vol. 39 (1934), pp. 176-210 and 405-431.",
@@ -2476,20 +2048,8 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "Leonard and Goodman, A calculus of individuals, in this volume of the JOURNAL, pp. 63-64.",
-        "id": "GoodmanLeonard1940a"
-    },
-    {
         "reference": "Wiener, A simplification of the logic of relations, Proceedings of the Cambridge Philo- sophical Society, vol. 17 (1914), pp. 387-390",
         "id": "Wiener1914a"
-    },
-    {
-        "reference": "Kuratowski, Sur la notion de l'ordre dans la tkdoric des ensembles, Fundamenta mathematicae, vol. 2 (1920), p. 171",
-        "id": "KuratowskiPosament1934a"
-    },
-    {
-        "reference": "New foundations for mathe- matical logic, The American mathematical monthly, vol. 44 (1937), pp. 75-76.",
-        "id": "Copeland1937a"
     },
     {
         "reference": "Tarski, Einige Betrachtungen fiber die Begriffe der w-Widerspruchsfreieit und der w-VoU- standigkeit, Monatshefte für Mathematik und Physik, vol. 40 (1933), pp. 97-103",
@@ -2556,20 +2116,8 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "A. CHURCH, Review of K. LAMBERT: Existential import revisited, Notre Dame journal of formal logic, vol. 4 (1963), pp. 268-292",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "T. HAILPERIN, Quantification and the empty domain, this JOURNAL, vol. 18 (1953), pp. 197-200.",
         "id": "Hailperin1953a"
-    },
-    {
-        "reference": "D. KALISH and R. MONTAGUE, On Tarski's formalisation of predicate logic with identity, Archivifur matematische Logik und Grundlagenforshung, vol. 7 (1965), pp. 81-101.",
-        "id": "Montague1906a"
-    },
-    {
-        "reference": "S. KRIPKE, Semantical considerations on modal logic, Acta philosophica fennica, Fasc. XVI (1963), pp. 83-94.",
-        "id": "Kripke1959a"
     },
     {
         "reference": "R. MEYER and K. LAMBERT, Universallyfree logic, this JOURNAL, vol. 33 (1968), pp. 8-26.",
@@ -2592,14 +2140,6 @@
         "id": "Kleene1934a"
     },
     {
-        "reference": "H. B. CURRY and R. FEYS, Combinatory logic, Vol. I, North-Holland, Amsterdam, 1958.",
-        "id": "Curry1933a"
-    },
-    {
-        "reference": "H. B. CURRY, Combinatory logic, Vol. II, in preparation.",
-        "id": "Curry1933a"
-    },
-    {
         "reference": "ROGER HINDLEY, Axioms for strong reduction in combinatory logic, this JOURNAL, Vol. 32 (1967), pp. 224-236.",
         "id": "Hindley1967a"
     },
@@ -2612,24 +2152,8 @@
         "id": "Carnap1946a"
     },
     {
-        "reference": "A. CHURCH, Introduction to Mathematical Logic, Vol. I. Princeton: Princeton U. Press, 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "S. KRIPKE, A Completeness Theorem in Modal Logic, this JOURNAL, v. 24 (1959), pp. 1-14.",
         "id": "Kripke1959a"
-    },
-    {
-        "reference": "S. KRIPKE, Semantical Considerations on Modal Logic, Acta Philosophica Fennica, Fasc. 16 (1963), pp. 83-94.",
-        "id": "Kripke1959a"
-    },
-    {
-        "reference": "S. KRIPKE, Semantical Analysis of Modal Logic I, Normal Modal Propositional Calculi, Zeit. für math. Logik und Grundlagen der Math., Bd. 9 (1963), pp. 76-96.",
-        "id": "Kripke1959a"
-    },
-    {
-        "reference": "W. QUINE, Methods of Logic. New York: Holt, Rinehart & Winston, 1963.",
-        "id": "Quine1934c"
     },
     {
         "reference": "W. CRAIG, On axiomatizability within a system, this JOURNAL, Vol. 18 (1953), pp. 30-32.",
@@ -2648,16 +2172,8 @@
         "id": "Henkin1949b"
     },
     {
-        "reference": "G. KREISEL, Note on arithmetic models for consistent formulae of the predicate calculus II, Proceedings of the XIth Internatlonal Congress of Philosophy (Brussels, August 20-26, 1953), Amsterdam (North Holland) and Louvain (E. Nauwe- laerts) 1953, vol. XIV, pp. 39-49.",
-        "id": "Kreisel1958b"
-    },
-    {
         "reference": "J. HERBRAND, Recherches sur la Théorie de la démonstration, Warsaw 1930.",
         "id": "Herbrand1930a"
-    },
-    {
-        "reference": "W. V. QUINE, Methods of Logic, 1959, Henry Holt and Co., Inc., New York.",
-        "id": "Quine1934c"
     },
     {
         "reference": "A. M. TURING, Computability and A-definability, this JOURNAL, vol. 2 (1937), pp. 153-163.",
@@ -2690,10 +2206,6 @@
     {
         "reference": "RICHARD M. FRIEDBERG, The fine structure of degrees of unsolvability of recursively enumerable sets, Summaries of Cornell University Summer Institute for Sym- bolic Logic (1957), pp. 404-406.",
         "id": "Friedberg1957a"
-    },
-    {
-        "reference": "S. C. KLEENE and EMIL L. POST, The upper semi-lattice of degrees of recursive unsolvability, Annals of Mathematics, Vol. 59 (1954), pp. 379-407.",
-        "id": "MckinseyPost1945a"
     },
     {
         "reference": "C. E. M. YATES, A minimal pair of recursively enumerable sets, to appear.",
@@ -2730,14 +2242,6 @@
     {
         "reference": "J. B. ROSSER and A. R. TURQUETTE, Axiom schemes for m-valued propositional calculi, this JOURNAL, Vo1. 10 (1945), pp. 61-82",
         "id": "RosserTurquette1945a"
-    },
-    {
-        "reference": "MARTIN DAVIS, Pseudo-complements of recursively enumerable sets, (Preliminary report), Bulletin of the American Mathematical Society, vol. 60 (1954), pp. 169-170.",
-        "id": "Davis1953a"
-    },
-    {
-        "reference": "ROBERT A. DI PAOLA, Some properties of pseudo-complements of recursively enumerable sets. To appear.",
-        "id": "Paola1966a"
     },
     {
         "reference": "S. FEFERMAN, Trans/inite recursive progression of axiomatic theories, this JOURNAL, vol. 27 (1962), pp. 259-316.",
@@ -2824,16 +2328,12 @@
         "id": "Godel1931a"
     },
     {
-        "reference": "ALONZO CHURCH, Conditioned disjunction as a primitive connective for the propo- sitional calculus, Portugaliae Mathematica, vol. 7 (1948), pp. 87-90.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "ALAN ROSE, Conditioned disjunction as a primitive connective for the m-valued prop- ositional calculus, Mathematische Annalen, vol. 123 (1951), pp. 76-78.",
         "id": "Rose1951a"
     },
     {
-        "reference": "J. B. Rosser and A. R. Turquette in their paper Axiom schemes for m-valued propositional calculi, this JOURNAL, vol. 10 (1945), pp. 61- 82.",
-        "id": "RosserTurquette1945a"
+        "reference": "JAN ŁUKASIEWICZ and ALFRED TARSKI, Untersuchungen uiber den Aussagen- kalkiul, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 23 (1930), pp. 30-50",
+        "id": "LukasiewiczTarski1930a"
     },
     {
         "reference": "B. RUSSELL, The theory of implication, American Journal of Mathematics, vol. 28 (1906), pp. 159-202.",
@@ -2932,10 +2432,6 @@
         "id": "HelmerOppenheim1945a"
     },
     {
-        "reference": "C. G. Hempel and Paul Oppenheim. A definition of 'degree of confirmation', Philosophy of science, vol. 12 (1945), pp. 98-115.",
-        "id": "HelmerOppenheim1945a"
-    },
-    {
         "reference": "J. N. CROSSLEY, Constructive order types, Monograph to be published.",
         "id": "Crossley1966a"
     },
@@ -3028,16 +2524,8 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "SAUL A. KRIPKE, Semantical analysis of modal logic. II: non-normal modal propositional calkuli, Symposium on the theory of models, North-Holland, Amsterdam, 1965, pp. 206-220.",
-        "id": "Kripke1959a"
-    },
-    {
         "reference": "C. G. JOCKUSCH, JR., Uniformly introreducible sets, this JOURNAL vol. 33 (1968), pp.521-536.",
         "id": "Jockusch1968a"
-    },
-    {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
     },
     {
         "reference": "R. I. SOARE, Sets with no subset of higher degree, Notices of the American Mathematical Society, vol. 15 (1968), p. 513.",
@@ -3068,14 +2556,6 @@
         "id": "Parry1939a"
     },
     {
-        "reference": "MOH SHAW-KWEI, The deduction theorems and two new logical systems, Me- thodos, vol. 2 (1950), pp. 56-75.",
-        "id": "Kwei1954a"
-    },
-    {
-        "reference": "I. L. NOVAK. The relative consistency of von Neumann's and Zermelo's axioms for set theory. (Speech at meeting of the Association for Symbolic Logic, Columbus, Ohio, Decem- ber 1948.)",
-        "id": "Gl1957a"
-    },
-    {
         "reference": "G. J. MASSEY, The theory of truth tabular connectives, both truth functional and modal, this JOURNAL (forthcoming).",
         "id": "Massey1966a"
     },
@@ -3102,10 +2582,6 @@
     {
         "reference": "Julia Robinson, Definability and decision problems in arithmetic, this JOURNAL, vol. 14 (1949), pp. 98-114.",
         "id": "Robinson1949a"
-    },
-    {
-        "reference": "Alonzo Church, The calculi of lambda-conversion, Annals of Mathematics studies, no. 6, Princeton University Press, 1941.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "H. B. Curry, An analysis of logical substitution, American journal of mathematics, vol. 51 (1929), pp. 363-384.",
@@ -3136,10 +2612,6 @@
         "id": "Cannonito1966a"
     },
     {
-        "reference": "HARTLEY ROGERS, JR., Theory of recursive functions and effective computability, McGraw- Hill, New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "W. V. QUINE, On universals, this JOURNAL, vol. 12 (1947), pp. 74-84.",
         "id": "Quine1947a"
     },
@@ -3164,14 +2636,6 @@
         "id": "Bull1968a"
     },
     {
-        "reference": "M. LERMAN, Recursive functions modulo co-maximal sets, Dissertation, Cornell Univer- sity, Ithaca, N.Y., 1968.",
-        "id": "Lerman1970a"
-    },
-    {
-        "reference": "C. E. M. YATES, Recursively enumerable sets and retracing functions, Zeitschrift für Mathematische Logik und Grundlagen der Mathematik, vol. 8 (1962), pp. 331-345.",
-        "id": "Yates1966a"
-    },
-    {
         "reference": "Whitehead and Russell, Principia mathematical vol. 1, pp. 543-544.",
         "id": "RussellWhitehead1910a"
     },
@@ -3182,10 +2646,6 @@
     {
         "reference": "Gödel, Uberformal unentscheidbare Satze der Principia Mathematica und verwandler Systeme 1, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a"
-    },
-    {
-        "reference": "A. CHURCH, Introduction to mathematical logic, Princeton University Press, Princeton, N. J., 1956, X + 376 pp.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "R. HARROP, Concerning formulas of the types A B V C, A -- (Ex)B(x) in intuitionistic formal systems, this JOURNAL, vol. 25 (1960), pp. 27-32.",
@@ -3228,10 +2688,6 @@
         "id": "Myhill1950a"
     },
     {
-        "reference": "E. L. POST, Formal reductions of the general combinatorial decision problem, American journal of mathematics, vol. 65 (1943), pp. 197-215.",
-        "id": "MckinseyPost1945a"
-    },
-    {
         "reference": "WILHELM ACKERMANN, Begriindung einer strengen Implikation, this JOURNAL, vol. 21 (1956), pp. 113-128.",
         "id": "Ackermann1956a"
     },
@@ -3268,10 +2724,6 @@
         "id": "Skolem1919a"
     },
     {
-        "reference": "C. I. LEWIS and C. H. LANGFORD, Symbolic logic, 2nd ed., Dover, New York, 1959.",
-        "id": "LangfordLewis1932a"
-    },
-    {
         "reference": "E. J. LEMMON, New foundations for Lewis modal systems, this JOURNAL, vol. 21 (1957), pp. 176-186.",
         "id": "Lemmon1957a"
     },
@@ -3300,12 +2752,16 @@
         "id": "Leblanc1957a"
     },
     {
-        "reference": "D. HILBERT and P. BERNAYS, Grundlagen der Mathematik, vol. 2, Berlin (Springer), 1939, xii + 498 pp.",
-        "id": "BernaysHilbert1934a"
+        "reference": "A. HEYTING, Die formalen Regeln der intuitionistischen Logik, Sitzungs- berichte der Preussischen Akademie der Wissenschaften, Physikalisch- Mathematische Klasse (1930), pp. 42-56.",
+        "id": "Heyting1930a"
     },
     {
-        "reference": "G. KREISEL, Note on arithmetic models for consistent formulae of the predicate calculus II, Proceedings of Xlth International Congress of Philosophy, vol. 14 (1953), pp. 39-49.",
-        "id": "Kreisel1958b"
+        "reference": "A. HEYTING, Die formalen Regeln der intuitionistischen Matliematik, ibid., pp. 57-71, pp. 158-169.",
+        "id": "Heyting1930a"
+    },
+    {
+        "reference": "D. HILBERT and P. BERNAYS, Grundlagen der Mathematik, vol. 2, Berlin (Springer), 1939, xii + 498 pp.",
+        "id": "BernaysHilbert1934a"
     },
     {
         "reference": "G. KREISEL, Elementary completeness properties of intuitionistic logic with a note on negations of prenex formulae, this JOURNAL, vol. 23, pp. 317-330.",
@@ -3338,10 +2794,6 @@
     {
         "reference": "G. KREISEL, Some concepts concerning formal systems of number theory, Mathe- matische Zeitschrift, vol. 57 (1952), pp. 1-12.",
         "id": "Kreisel1952a"
-    },
-    {
-        "reference": "H. WANG, Arithmetic translations of axiom systems, Transactions of the American Mathematical Society, vol. 71 (1951), pp. 283-293.",
-        "id": "Wang1943a"
     },
     {
         "reference": "J. Lukasiewicz and A. Tarski, Untersuchungen tiber den Aussagenkalkul, Comptes rendus des séances de l'Académie des Sciences at des Letters de Varsovie, Classe III, vol. 23 (1930), pp. 30-50.",
@@ -3412,10 +2864,6 @@
         "id": "Mostowski1948a"
     },
     {
-        "reference": "E. C. SMITH and A. TARSKL, Higher degrees of distributivity and completeness in Boolean algebras, Transactions of the American Mathematical Society, vol. 84 (1957), pp. 230-257.",
-        "id": "Smith1932b"
-    },
-    {
         "reference": "ALONZO CHURCH, A formulation of the simple theory of types, this JOURNAL, vol. 5 (1940), pp. 56-68.",
         "id": "Church1940a"
     },
@@ -3472,10 +2920,6 @@
         "id": "Johnson1969a"
     },
     {
-        "reference": "J. D. MONK, On the representation theory for cylindric algebras, Pacific journal of mathe- matics, vol. 11 (1961), pp. 1447-1457.",
-        "id": "Monk1969a"
-    },
-    {
         "reference": "K. GÖDEL, UIber formal unentscheidbare Sdtze der Principia Mathematica und verwandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a"
     },
@@ -3504,20 +2948,8 @@
         "id": "Feferman1957a"
     },
     {
-        "reference": "A. JANICZAK, Undecidability of some simple formalized theories, Fundamenta mathematicae, vol. 40 (1953), pp. 131-139.",
-        "id": "Janiczak1950a"
-    },
-    {
-        "reference": "HARTLEY ROGERS, JR., Theory of recursive functions and effective computability, vol. 1, mimeographed, Cambridge, Mass., 1957.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "R. M. FRIEDBERG, Three theorems on recursive enumeration, this JOURNAL, vol. 23 (1958), pp. 309-316.",
         "id": "Friedberg1958a"
-    },
-    {
-        "reference": "J. R. GEISER, Nonstandard logic, doctoral thesis, M.I.T., Cambridge, Mass., 1966.",
-        "id": "Geiser1968a"
     },
     {
         "reference": "L. HENKIN, Completeness in the theory of types, this JOURNAL, VOL. 15 (1950), pp. 81-91.",
@@ -3532,20 +2964,12 @@
         "id": "Keisler1965a"
     },
     {
-        "reference": "A. ROBINSON, Non-standard analysis, North-Holland, Amsterdam, 1963.",
-        "id": "Robinson1969a"
-    },
-    {
         "reference": "K. Gödel, Ober formal unentscheidbare Satze der Principia Mathematica und verwandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a"
     },
     {
         "reference": "A. Tarski, Einige Betrachtungeniber die Begriffe derw-Widerspruchsfreiheit und derw-Vollstdndigkeit,Monats- hefte fur Mathematik und Physik, vol. 40 (1933), pp. 97-112",
         "id": "Tarski1933a"
-    },
-    {
-        "reference": "E. W. Beth, Une demonstration de la non-contradiction de la logique des types au point de vsue fini, Nieuw archief voor wiskunde, 2 s. vol. 19 nos. 1-2 (1936), pp. 59-62.",
-        "id": "Beth1935a"
     },
     {
         "reference": "J. W. ADDISON and S. C. KLEENE, A note on function quantification, Pro- ceedings of the American Mathematical Society, vol. 8 (1957), pp. 1002-1006.",
@@ -3564,10 +2988,6 @@
         "id": "Godel1938a"
     },
     {
-        "reference": "S. C. KLEENE and EMIL L. POST. The upper semi-lattice of degrees of recursive unsolvability, Annals of mathematics, vol. 59 (1954), pp. 379-407.",
-        "id": "MckinseyPost1945a"
-    },
-    {
         "reference": "CLIFFORD SPECTOR, Recursive well-orderings, this JOURNAL, vol. 20 (1955), pp. 151-163.",
         "id": "Spector1955a"
     },
@@ -3580,10 +3000,6 @@
         "id": "Kripke1959a"
     },
     {
-        "reference": "R. HARROP, On the existence of finite models and decision procedures for propositional calculi, Proceedings of the Cambridge Philosophical Society, vol. 54 (1958), pp. 1-13.",
-        "id": "Harrop1965a"
-    },
-    {
         "reference": "S. FEFERMAN, Degrees of-unsolvability associated with classes of formalized theories, this JOURNAL, vol. 22 (1957), pp. 161-175.",
         "id": "Feferman1957a"
     },
@@ -3594,10 +3010,6 @@
     {
         "reference": "J. ROBINSON, Definability and decision problems in arithmetic, this JOURNAL, vol. 14 (1949), PP. 98-114.",
         "id": "Robinson1949a"
-    },
-    {
-        "reference": "H. ROGERS, Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
     },
     {
         "reference": "J. R. SHOENFIELD, Degrees of formal systems, this JOURNAL, vol. 23 (1958), pp. 389-392.",
@@ -3636,10 +3048,6 @@
         "id": "Takeuti1965a"
     },
     {
-        "reference": "G. TAKEUTI and A. KINO, On hierarchies of predicates of ordinal numbers. Journal of the Mathematical Society of Japan, vol. 14 (1962), pp. 119-232.",
-        "id": "Takeuti1965a"
-    },
-    {
         "reference": "G. TAKEUTI, A formalization of the theory of ordinal numbers. To appear in this JOURNAL.",
         "id": "Takeuti1965a"
     },
@@ -3666,10 +3074,6 @@
     {
         "reference": "D. HILBERT and P. BERNAYS, Grundlagen der Mathematik, vol. II, p. 373.",
         "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "E. ELLENTUCK, The universal properties of Dedekind finite cardinals, Annals of Mathe- matics, vol. 82 (1965), pp. 225-248.",
-        "id": "Ellentuck1969a"
     },
     {
         "reference": "K. GÖDEL, Consistency proof for the generalized continuum hypothesis, Proceedings of the National Academy of Sciences of the U.S.A., vol. 25 (1939), pp. 220-224.",
@@ -3700,16 +3104,8 @@
         "id": "Shepherdson1952a"
     },
     {
-        "reference": "A. CHURCH, Introduction to mathematical logic, Princeton, 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "Emil L. Post, Finite combinatory processes-formulation 1, this JOURNAL, VOL. 1 (1936), pp. 103-105.",
         "id": "Post1936a"
-    },
-    {
-        "reference": "Emil L. Post, Formal reductions of the general combinatorial decision problem, Ameri- can journal of mathematics, vol. 65 (1943), pp. 197-215.",
-        "id": "MckinseyPost1945a"
     },
     {
         "reference": "Emil L. Post, Recursively enumerable sets of positive integers and their decision prob- lems, Bulletin of the American Mathematical Society, vol. 50 (1944), pp. 284-316.",
@@ -3746,10 +3142,6 @@
     {
         "reference": "RICHARD MONTAGUE and LEON HENKIN, On the definition of formal deduction'. This JOURNAL, vol. 21 (1956), pp. 129-136.",
         "id": "HenkinMontague1956a"
-    },
-    {
-        "reference": "MOH SHAW-KWEI, The deduction theorems and two new logical systems. Metho- dos, vol. 2 (1950), pp. 56-75.",
-        "id": "Kwei1954a"
     },
     {
         "reference": "RUTH C. BARCAN, The deduction theorem in a functional calculus based on strict implication. This JOURNAL, vol. 11 (1946), pp. 115-117.",
@@ -3794,10 +3186,6 @@
     {
         "reference": "G. TAKEUTI, A metamathematical theorem on the theory of ordinal numbers, Journal of the Mathematical Society of Japan, vol. 4 (1952), pp. 146-165.",
         "id": "Takeuti1965a"
-    },
-    {
-        "reference": "G. TAKEUTI and A. KINO, On predicates with constructive infinitely long ex- pressions, Journal of the Mathematical Society of Japan, vol. 15 (1963), pp. 176- 190.",
-        "id": "Kino1966a"
     },
     {
         "reference": "A. DAIGNEAULT and D. MONK, Representation theory for polyadic algebras, Fundamenta Mathematicae, vol. 52 (1963), pp. 151-176.",
@@ -3876,10 +3264,6 @@
         "id": "Spector1955a"
     },
     {
-        "reference": "W. ACKERMANN, Zur Widerspruchsfreiheit der Zahlentheorie, Mathematische Annalen, vol. 117 (1940), pp. 162-194.",
-        "id": "Ackermann1934b"
-    },
-    {
         "reference": "K. GÖDEL, Uber formal unentscheidbare Sdtze der Principia Mathematica und ver- warndter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a"
     },
@@ -3924,24 +3308,8 @@
         "id": "BerryChurch1945a"
     },
     {
-        "reference": "C. KARP, Languages with infinitely long expressions, North Holland Publishing Co., Amsterdam, 1964.",
-        "id": "Karp1962a"
-    },
-    {
         "reference": "S. C. KLEENE, On notation for ordinal numbers, this JOURNAL, vol. 3 (1938), pp. 150- 155.",
         "id": "Kleene1938a"
-    },
-    {
-        "reference": "A KINO and G. TAKEUTI, On predicates with infinitely long expressions, Journal of the Mathematical Society of Japan, vol. 15 (1963), pp. 176-190.",
-        "id": "Kino1966a"
-    },
-    {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill Publishing Co., New York, 1966.",
-        "id": "Rogers1958a"
-    },
-    {
-        "reference": "A. TARSKI, On the concept of truth in formalized languages, Logic, semantics and meta- mathematics, Oxford University Press, 1956.",
-        "id": "Tarski1939a"
     },
     {
         "reference": "PAUL BERNAYS, A system of axiomatic set theory, this JOURNAL, vol. 2 (1937), pp. 65-77. Continued in vols. 6-8, 13, 19.",
@@ -4008,14 +3376,6 @@
         "id": "Tarski1936a"
     },
     {
-        "reference": "W. S. Jevons, The principles of science (London and New York, second edition, re- print 1892). Voir p. 134-146.",
-        "id": "Jevons1874a"
-    },
-    {
-        "reference": "E. Schröder, Algebra der Logik, t. I, Anhang 6 (voir en particulier p. 659-683)",
-        "id": "Schroder1905a"
-    },
-    {
         "reference": "D. Hilbert et W. Ackermann, Grundzüge der theoretischen Logik (Berlin 1928).",
         "id": "AckermannHilbert1928a"
     },
@@ -4028,16 +3388,8 @@
         "id": "BerryChurch1945a"
     },
     {
-        "reference": "IRVING M. COPI, Symbolic logic, New York, 1954.",
-        "id": "CopiWilder1956a"
-    },
-    {
         "reference": "JAN ŁUKASIEWICZ und ALFRED TARSKI, Untersuchungen über den Aussagenkalkül, Comptes rendus des séances de la Société des Sciences et des Lettres de Var- sovie, vol. 23 (1930) classes II, pp. 30-50.",
         "id": "LukasiewiczTarski1930a"
-    },
-    {
-        "reference": "Lewis and Langford's Symbolic logic (New York and London, 1932).",
-        "id": "LangfordLewis1932a"
     },
     {
         "reference": "GERHARD GENTZEN, Untersuchungen über das logische Schliessen, Mathema- tische Zeitschrift, vol. 39 (1934-5), pp. 176-210, 405-431.",
@@ -4074,14 +3426,6 @@
     {
         "reference": "R. B. ANGELL, A propositional logic with subjunctive conditionals, this JOURNAL, vol. 27 (1962), pp. 327-343.",
         "id": "Angell1962a"
-    },
-    {
-        "reference": "ARISTOTLE, Analytica priora",
-        "id": "Aristotle-350e"
-    },
-    {
-        "reference": "A. CHURCH, Introduction to mathematical logic, vol. 1, Princeton University Press, Princeton, N.J., 1956.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "STORRS MCCALL, Connexive implication, this JOURNAL, vol. 31 (1966), pp. 415-433.",
@@ -4122,10 +3466,6 @@
     {
         "reference": "HILBERT–BERNAYS, Grundlagen der Mathematik II, Berlin 1939.",
         "id": "Bernays1928b"
-    },
-    {
-        "reference": "A. CHURCH, Introduction to Mathematical Logic, Princeton University Press, Princeton, New Jersey, vol. 1, 1956.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "J. DUGUNDJI, Note on a property of matrices for Lewis and Langford's calculi of propositions, this JOURNAL, vol. 5 (1940), pp. 150-151.",
@@ -4176,20 +3516,12 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "A. TARSKI, Some notions and methods on the borderline of algebra and meta- mathematics, Proceedings of the International Congress of Mathematicians, 1950, vol. 1, pp. 705-720.",
-        "id": "Tarski1929a"
-    },
-    {
         "reference": "R. L. GOODSTEIN, Recursive number theory, North-Holland, Amsterdam, 1964.",
         "id": "Goodstein1947a"
     },
     {
         "reference": "M. BENDA, Ultraproducts and non-standard logics, Bulletin de l'Academie Polonaise des Sciences, vol. XVI (1968), No. 6.",
         "id": "Benda1969a"
-    },
-    {
-        "reference": "C. R. KARP, Languages with expressions of infinite length, North-Holland, Amsterdam, 1964.",
-        "id": "Karp1962a"
     },
     {
         "reference": "H. J. KEISLER, Ultraproducts and saturated models, Indagationes Mathematicae, vol. 26 (1964), p. 178.",
@@ -4214,10 +3546,6 @@
     {
         "reference": "W. V. QUINE, Concatenation as a basis of arithmetic, this JOURNAL, vol. 11 (1946), pp. 105-114.",
         "id": "Quine1946a"
-    },
-    {
-        "reference": "J. W. THATCHER, Decision problems and definability for generalized arithmetic, Doctoral Dissertation, The University of Michigan, Ann Arbor, Michigan, 1964.",
-        "id": "Thatcher1966a"
     },
     {
         "reference": "S. C. KLEENE, Recursive functions and intuitionistic mathematics, Proceedings of the International Congress of Mathematicians (Cambridge, Mass., 1950), vol. 1, 1952, pp. 679-685.",
@@ -4256,24 +3584,12 @@
         "id": "Orey1955a"
     },
     {
-        "reference": "W. V. QUINE, Mathematical logic, revised edition, Cambridge, Mass. (Har- vard University Press), 1951.",
-        "id": "Quine1933b"
-    },
-    {
-        "reference": "A. CHURCH, Introduction to mathematical logic, vol. 1, Princeton (Prince- ton University Press), 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "L. HENKIN, Fragments of the propositional calculus. this JOURNAL, vol. 14 (1949), pp. 42-48.",
         "id": "Henkin1949a"
     },
     {
         "reference": "J. ŁUKASIEWICZ and A. TARSKI, Untersuchungen über den Aussagenkalkül, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 23 (1930), pp. 30-50.",
         "id": "LukasiewiczTarski1930a"
-    },
-    {
-        "reference": "M. DAVIS, Pseudo-complements of recursively enumerable sets, Preliminary Report, Bulletin of the American Mathematical Society, vol. 60 (1954), pp. 169-170.",
-        "id": "Davis1953a"
     },
     {
         "reference": "R. A. Di PAOLA, Some properties of pseudo-complements of recursively enumerable sets, Transactions of the American Mathematical Society, vol. 121 (1966), pp. 296-308.",
@@ -4290,18 +3606,6 @@
     {
         "reference": "S. FEFERMAN and C. SPECTOR, Incompleteness along paths in progressions of theories, this JOURNAL, vol. 27 (1962), pp. 383-390.",
         "id": "FefermanSpector1962a"
-    },
-    {
-        "reference": "A. TARSKI, A. MOSTOwsKI, and R. ROBINSON, Undecidable theories: Studies in logic and the foundations of mathematics, North Holland, Amsterdam, 1953.",
-        "id": "Tarski1939a"
-    },
-    {
-        "reference": "WILLARD VAN ORMAN QUINE, Mathematical logic, rev. ed., Harvard, Cambridge, Massa- chusetts, 1958.",
-        "id": "Quine1933b"
-    },
-    {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
     },
     {
         "reference": "R. I. SOARE, Sets with no subset of higher degree, this JOURNAL, vol. 34, (1969), pp. 53-56.",
@@ -4330,14 +3634,6 @@
     {
         "reference": "E. L. Post, Finite combinatory processes-formu- lation 1, this JouRNAL, vol. 1 (1936), pp. 103-105.",
         "id": "Post1936a"
-    },
-    {
-        "reference": "Alonzo Church and J. B. Rosser, Some properties of conversion, Transactions of the American Mathematical Society, vol. 39 (1936), pp. 472-482.",
-        "id": "Rosser1936b"
-    },
-    {
-        "reference": "W. Ackermann, Ein System der typenfreien Logik I, Forschungen zur Logik und zur Grundlegung der exakten Wissenschaften, Heft 7, 1941.",
-        "id": "Ackermann1950a"
     },
     {
         "reference": "Vgl. über diesen Begriff Hilbert-Bernays, Grundlagen der Mathematik, Bd. I, S. 155.",
@@ -4400,10 +3696,6 @@
         "id": "BerryChurch1945a"
     },
     {
-        "reference": "A. CHURCH, Introduction to Mathematical Logic, vol. I, Princeton (Prin- ceton University Press), 1st ed. 1944, revised ed. 1956 (Princeton Mathematical Series, No. 17).",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "D. HILBERT and W. ACKERMANN, Grundzüge der theoretischen Logik, Berlin (Springer), 1st ed. 1928",
         "id": "AckermannHilbert1928a"
     },
@@ -4444,16 +3736,8 @@
         "id": "Wajsberg1931a"
     },
     {
-        "reference": "H. B. CURRY and R. FEYS, Combinatory logic, North-Holland, Amsterdam, 1958.",
-        "id": "Curry1933a"
-    },
-    {
         "reference": "M. H. A. NEWMAN, On theories with a combinatorial definition of \"equivalence\", Annals of mathematics, vol. 43 (1942), pp. 223-243.",
         "id": "NewmanVaughan1942a"
-    },
-    {
-        "reference": "J. B. ROSSER, Review of \"A new proof of the Church-Rosser theorem,\" this JOURNAL, vol. 21 (1956), p. 377.",
-        "id": "Rosser1939a"
     },
     {
         "reference": "CRAIG, WILLIAM, A theorem about first order functional calculus with identity, and two applications, Ph.D. thesis, Harvard University, 1951.",
@@ -4466,10 +3750,6 @@
     {
         "reference": "C. I. Lewis, A survey of symbolic logic; Lewis and Langford, Symbolic logic (abbre- viated S. L.).",
         "id": "Lewis1918a"
-    },
-    {
-        "reference": "A. CHURCH, Introduction to mathematical logic, vol. 1, Princeton, (Prin- ceton University Press), 1956.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "Kurt Gödel, Die Vollstdndigkeit der Axiome des logischen Funktionenkalktils, Monats- hefte für Mathematik und Physik, vol. 37 (1930), pp. 349-360.",
@@ -4536,24 +3816,12 @@
         "id": "Kripke1959a"
     },
     {
-        "reference": "D. KALISH and R. MONTAGUE, Relations between interpretability and relative interpretability, in preparation.",
-        "id": "Montague1962a"
+        "reference": "HARTLEY ROGERS, JR., Certain logical reduction and decision problems, Annals of Mathe- matics, vol. 64 (1956), pp. 264-284.",
+        "id": "Rogers1908a"
     },
     {
         "reference": "R. MONTAGUE, Two theorems on relative interpretability. Summaries of talks presented at the Summer Institute for Symbolic Logic, Cornell University, 1957, second edition, Princeton (Institute for Defense Analysis), 1960, pp. 263-264.",
         "id": "Montague1962a"
-    },
-    {
-        "reference": "R. MONTAGUE, Incomparable theories, Notices of the American Mathema- tical Society, vol. 6 (1958), pp. 362-363.",
-        "id": "Montague1962a"
-    },
-    {
-        "reference": "R. MONTAGUE, The continuum of relative interpretability types, this JOURNAL, vol. 23 (1958), p. 460.",
-        "id": "Montague1962a"
-    },
-    {
-        "reference": "W. SIERPIŃSKI, Sur une décomposition d'ensembles, Monatshefte für Mathe- matik und Physik, vol. 35 (1928), pp. 239-242.",
-        "id": "Sierpinski1933a"
     },
     {
         "reference": "JAN KALICKI, A test for the equality of truth-tables, this JOURNAL, vol. 17 (1952), pp. 161-163.",
@@ -4576,10 +3844,6 @@
         "id": "Webb1935a"
     },
     {
-        "reference": "DONALD L. WEBB, Definition of Post's generalized negative and maximum in terms of one binary operator, Bulletin of the American Mathematical Society, vol. 58 (1936), pp. 193-194.",
-        "id": "Webb1935a"
-    },
-    {
         "reference": "R. A. PLATEK, Eliminating the continuum hypothesis, Notices of the American Mathematical Society, vol. 14 (1967), p. 366.",
         "id": "Platek1969a"
     },
@@ -4590,10 +3854,6 @@
     {
         "reference": "J. Dugundji, Note on a property of matrices for Lewis and Langford's calculi of proposi- tions, this JOURNAL, vol. 5 (1940) pp. 150-151.",
         "id": "Dugundji1940a"
-    },
-    {
-        "reference": "EMIL L. POST, The two-valued iterative systems of mathematical logic, Annals of Mathe- matics studies No. 5, Princeton University Press, Princeton, N.J., 1941.",
-        "id": "MckinseyPost1945a"
     },
     {
         "reference": "GÖDEL, KURT, Uber formal unentscheidbare Sdtze der Principia Mathematica und vetwandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
@@ -4652,10 +3912,6 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "W. Ackermann, Mathematische Annalen, vol. 115 (1937), D8.",
-        "id": "Ackermann1934b"
-    },
-    {
         "reference": "Th. Skolem, Über einige Grundlagenfragen der Mathematik, Skrifter utgitt av Det Norske Videnskaps-Akademi i Oslo, I. mat.-nat. kl., 1929, p. 3.",
         "id": "Skolem1929a"
     },
@@ -4672,10 +3928,6 @@
         "id": "Herbrand1931a"
     },
     {
-        "reference": "Th. Skolem, Ein Satz ?Mer Zdhlausdriicke, Acta scientiarum mathemati- carum, vol. 7 (1934-35), pp. 193-199.",
-        "id": "Skolem1934a"
-    },
-    {
         "reference": "Im Folgenden Abkürzung für: Hilbert-Bernays, Grundlagen der Mathematik I (1934).",
         "id": "BernaysHilbert1934a"
     },
@@ -4686,10 +3938,6 @@
     {
         "reference": "K. GÖDEL, The consistency of the axiom of choice and of the generalized continuum hypo- thesis, Proceedings of the National Academy of Sciences, vol. 24 (1938), pp. 556-557.",
         "id": "Godel1938a"
-    },
-    {
-        "reference": "C. KARP, Languages with expressions of infinite length, North-Holland, Amsterdam, 1964.",
-        "id": "Karp1962a"
     },
     {
         "reference": "C. KARP, Non-axiomatizability results for infinitary systems, this JOURNAL, vol. 32 (1967), pp. 367-384.",
@@ -4712,16 +3960,8 @@
         "id": "Escobar1967a"
     },
     {
-        "reference": "G. TAKEUTI and A. KINO, On predicates with infinitely long expressions, Journal of the Mathematical Society of Japan, vol. 15 (1963), pp. 176-190.",
-        "id": "Kino1966a"
-    },
-    {
         "reference": "C. MCKAY, Decidability of certain intermediate logics, this JOURNAL, vol. 33 (1968), pp. 258-265.",
         "id": "Mckay1968a"
-    },
-    {
-        "reference": "M. 0. RABIN, Decidability of second order theories and automata on trees, Transactions of the American Mathematical Society, vol. 121 (1969), pp. 1-35.",
-        "id": "ElgotRabin1966a"
     },
     {
         "reference": "C. I. Lewis and C. H. Langford, Symbolic logic, New York, 1932.",
@@ -4780,10 +4020,6 @@
         "id": "LangfordLewis1932a"
     },
     {
-        "reference": "J. B. ROSSER, Logic for mathematicians, McGraw-Hill, 1953.",
-        "id": "Rosser1935b"
-    },
-    {
         "reference": "A. N. PRIOR, Modality and quantification in S5, this JOURNAL, Vol. 21 (1956), pp. 60-62.",
         "id": "Prior1956a"
     },
@@ -4812,10 +4048,6 @@
         "id": "Henkin1950a"
     },
     {
-        "reference": "W. V. QUINE, Mathematical Logic, Cambridge (Harvard University Press), revised edition, 1951; especially' ? 18.",
-        "id": "Quine1933b"
-    },
-    {
         "reference": "L. HENKIN, Two concepts from the theory of models, this JOURNAL, Vol. 21 (1956), pp. 28-32.",
         "id": "Henkin1956a"
     },
@@ -4836,20 +4068,12 @@
         "id": "Takeuti1965a"
     },
     {
-        "reference": "G. TAKEUTI and A. KINO, On hierarchies of predicates of ordinal numbers, Journal of the Mathematical Society of Japan, 14 (1962), 199-232.",
-        "id": "Takeuti1965a"
-    },
-    {
         "reference": "G. TAKEUTI, On the theory of ordinal numbers, II, Journal of the Mathe- matical Society of Japan, 10 (1958), pp. 106-120.",
         "id": "Takeuti1965a"
     },
     {
         "reference": "C. I. Lewis and C. H. Langford, Symbolic logic, New York and London 1932.",
         "id": "LangfordLewis1932a"
-    },
-    {
-        "reference": "Julia Robinson. Definability and decision problems in arithmetic, this JOURNAL, vol. 14 (1949), pp. 98-114.",
-        "id": "Robinson1949a"
     },
     {
         "reference": "F. B. Fitch, The consistency of the ramified Principia, this JOURNAL vol. 3 (1938), pp. 140-149.",
@@ -4892,10 +4116,6 @@
         "id": "Fraenkel1922b"
     },
     {
-        "reference": "Russell (in his paper On some difficulties in the theory of transfinite numbers and order types, Pro- ceedings of the London Mathematical Society, ser. 2 vol. 4 (1906-7), see pp. 47-52)",
-        "id": "Russell1906a"
-    },
-    {
         "reference": "S. C. Kleene, A theory of positive integers in formal logic, American journal of mathematics, vol. 57 (1935), pp. 153- 173, 219-244, especially the passage from the theorem 15 IV to 15 V, pp. 220-221.",
         "id": "Kleene1935a"
     },
@@ -4908,12 +4128,8 @@
         "id": "Grelling1910a"
     },
     {
-        "reference": "A. CHURCH, Introduction to mathematical logic, vol. 1, Princeton University Press, Princeton, N. J., 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "R. HARROP, A relativization procedure for propositional calculi with an application to a generalized form of Post's theorem. Proceedings of the London Mathematical Society, vol. 14 (1964), pp. 595-617.",
-        "id": "Harrop1965a"
+        "reference": "S. LINIAL and E. L. POST, Recursive unsolvability of the deducibility, Tarski's completeness and independence of axioms problems of the propositional calculus, Bulletin of the American Mathematical Society, vol. 55 (1949), p. 50 (Abstract).",
+        "id": "Post1947a"
     },
     {
         "reference": "J. LUKASIEWICZ and A. TARSKI, Untersuchungen uber den Assagenkalkul, Comptes Rendus des Séances de la Sociéte des Sciences et des Lettres de Varsovie, Classe III, vol. 23 (1930), pp. 30-50.",
@@ -4926,10 +4142,6 @@
     {
         "reference": "This JOURNAL, Vol. 19 no. 3, Sept. 1954, A new symbolism for the propositional calculus, by William Tuthill Parry",
         "id": "Parry1954a"
-    },
-    {
-        "reference": "H. B. CURRY and R. FEYS, Combinatory logic, vol. I. North-Holland Publishing Company, Amsterdam, 1958.",
-        "id": "Curry1933a"
     },
     {
         "reference": "F. B. FITCH, Intuitionistic modal logic with quantifiers, Portugaliae mathematica, vol. 7 (1948), pp. 113-118.",
@@ -5060,14 +4272,6 @@
         "id": "Rice1956a"
     },
     {
-        "reference": "R. W. ROBINSON, Two theorems on hyperhypersimple sets, Transactions of the American Mathematical Society (to appear).",
-        "id": "Robinson1968a"
-    },
-    {
-        "reference": "C. E. M. YATES, Recursively enumerable sets and retracing functions, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 8 (1962), pp. 331-345.",
-        "id": "Yates1966a"
-    },
-    {
         "reference": "C. E. M. YATES, Three theorems on the degrees of recursively enumerable sets, Duke mathematical journal, vol. 32 (1965), pp. 461-468.",
         "id": "Yates1966a"
     },
@@ -5078,10 +4282,6 @@
     {
         "reference": "M. J. CRESSWELL, Note on a system of Aqvist, this JOURNAL, vol. 32 (1967), pp. 58-60.",
         "id": "Cresswell1967a"
-    },
-    {
-        "reference": "S. A. KRIPKE, Semantical analysis of modal logic II non-normal modal propositional calculi, The theory of models (ed. J. W. Addison, L. Henkin, A. Tarski), North-Holland, Amsterdam, 1965, pp. 206-220.",
-        "id": "Kripke1959a"
     },
     {
         "reference": "E. J. LEMMON, New foundations for Lewis modal systems, this JOURNAL, vol. 22 (1957), pp. 176-186.",
@@ -5121,10 +4321,6 @@
     },
     {
         "reference": "A. LÉVY, On Ackermann's set theory, this JOURNAL, vol. 24 (1959), pp. 154-166.",
-        "id": "Lvy1959a"
-    },
-    {
-        "reference": "A. LÉVY and R. L. VAUGHT, Principles ofpartial reflexion in the set theories of Zermelo and Ackermann, Pacific journal of mathematics, vol. 11 (1961), pp. 1045-1062.",
         "id": "Lvy1959a"
     },
     {
@@ -5168,24 +4364,8 @@
         "id": "Herbrand1931a"
     },
     {
-        "reference": "M. R. KROM, A property of sentences that define quasi-order, Notre Dame journal of formal logic, vol. 7 (1966), pp. 349-352.",
-        "id": "Krom1963a"
-    },
-    {
-        "reference": "M. R. KROM, Some interpolation theorems for first-order formulas in which all disjunctions are binary, Logique et analyse, vol. 43 (1968), pp. 403-412.",
-        "id": "Krom1970a"
-    },
-    {
         "reference": "M. R. KROM, The decision problem for a class of first-order formulas in which all disjunc- tions are binary, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 13 (1967), pp. 15-20.",
         "id": "Krom1970a"
-    },
-    {
-        "reference": "M. R. KROM, The decision problem for segregatedformulas in first-order logic, Mathematica scandinavica, vol. 21 (1967), pp. 233-240.",
-        "id": "Krom1963a"
-    },
-    {
-        "reference": "E. ELLENTUCK, The representation of cardinals in models of set theory, Zeitschrift für Mathematische Logik und Grundlagen der Mathematik, vol. 14 (1968), pp. 84-99.",
-        "id": "Ellentuck1969a"
     },
     {
         "reference": "E. ELLENTUCK, A choice free theory of Dedekind cardinals, this JOURNAL, vol. 34 (1969), pp. 70-84.",
@@ -5220,10 +4400,6 @@
         "id": "Bull1965a"
     },
     {
-        "reference": "A. CHURCH, Introduction to mathematical logic I, Princeton (Princeton University Press), 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "J. DUGUNDJI, Note on a property of matrices for Lewis and Langford's calculi of propositions, this JOURNAL, vol. 5 (1940), pp. 150-151.",
         "id": "Dugundji1940a"
     },
@@ -5240,15 +4416,7 @@
         "id": "Godel1932a"
     },
     {
-        "reference": "R. HARROP, The finite model property and subsystems of classical propositional calculus, Zeitschrift für mathematische Logik und Grundlagen der Mathe- matik, vol. 5 (1959), pp. 29-32.",
-        "id": "Harrop1965a"
-    },
-    {
         "reference": "R. HARROP, A relativization procedure for propositional calculi and some applications, this JOURNAL, vol. 28 (1963), p. 263 (Abstract).",
-        "id": "Harrop1965a"
-    },
-    {
-        "reference": "R. HARROP, A relativization procedure for propositional calculi with an appli- cation to a generalized from of Post's theorem, Proceedings of the London Mathe- matical Society3), vol. 14 (1964), pp. 595-617.",
         "id": "Harrop1965a"
     },
     {
@@ -5266,6 +4434,10 @@
     {
         "reference": "C. I. LEWIS and C. H. LANGFORD, Symbolic Logic, New York and London (Century), 1932.",
         "id": "LangfordLewis1932a"
+    },
+    {
+        "reference": "S. LINIAL and E. L. POST, Recursive unsolvability of the deducibility, Tarski's completeness and independence of axioms problems of the propositional calculus, Bulle- tin of the American Mathematical Society, vol. 55 (1949), p. 50 (Abstract).",
+        "id": "Post1947a"
     },
     {
         "reference": "J. ŁUKASIEWICZ, 0 logice tro/wartosciowej (On three-valued logic, Ruch filozoficzny (Lwow), vol. 5 (1920), pp. 169-171.",
@@ -5320,20 +4492,12 @@
         "id": "Behmann1931b"
     },
     {
-        "reference": "H. BEHMANN, Muβ die Logik paradox sein? Grundsätzliches und Kritisches zum Aufbau und zur Darstellung der formalen Logik, Actes du 2e Congrès inter- national de l'Union internationale de philosophie des sciences, Zurich 1954, Bd. II, S. 97-108.",
-        "id": "Behmann1922a"
-    },
-    {
         "reference": "R. CARNAP, Einführung in die symbolische Logik mit besonderer Berück- sichtigung ihrer Anwendungen, Wien 1954.",
         "id": "Carnap1929a"
     },
     {
         "reference": "H. B. CURRY, The inconsistency of certain formal logics, dieses JOURNAL, Bd. 7 (1942), S. 115-117.",
         "id": "Curry1942b"
-    },
-    {
-        "reference": "H. B. CURRY u. R. FEYS, Combinatory logic, Amsterdam 1958.",
-        "id": "BethFeys1955a"
     },
     {
         "reference": "G. FREGE, Grundgesetze der Arithmetik, begriffsschriftlich abgeleitet, Jena 1893 u. 1903.",
@@ -5368,16 +4532,8 @@
         "id": "Nishimura1960a"
     },
     {
-        "reference": "C. KARP, Languages with expressions of infinite length, North-Holland, Amsterdam, 1964, 183 pp.",
-        "id": "Karp1962a"
-    },
-    {
         "reference": "A. LÉVY, A hierarchy of formulas in set theory, Memoirs of the American Mathematical Society, No. 57 (1965), 76 pp.",
         "id": "Lvy1959a"
-    },
-    {
-        "reference": "E. C. SMITH, JR., A distributivity condition for Boolean algebras, Annals of mathematics, vol. 64 (1956), pp. 551-561.",
-        "id": "Smith1932b"
     },
     {
         "reference": "G. TAKEUTI, On the recursive functions of ordinal numbers. Journal of the Mathematical Society of Japan, vol. 12 (1960), pp. 119-128.",
@@ -5430,10 +4586,6 @@
     {
         "reference": "D. Hilbert and P. Bernays, Grundlagen der Mathematik, vol. II, Berlin 1939, pi). 360- 372.",
         "id": "BernaysHilbert1934a"
-    },
-    {
-        "reference": "W. Ackermann, Zur Widerspruchsfreiheit der Zahie-ntheorie, Mathematische Annalen, vol. 117 (1940), pp. 162-194.",
-        "id": "Ackermann1924a"
     },
     {
         "reference": "D. Hilbert and P. Bernays, Grundlagen der Mathematik, vol. I, Berlin 1934, p. 322.",
@@ -5680,10 +4832,6 @@
         "id": "Kleene1938a"
     },
     {
-        "reference": "S. C. KLEENE and EMIL L. POST, The tipper semi-lattice of degrees of recursive unsolvability, Annals of mathematics, vol. 59 (1954), pp. 379-407.",
-        "id": "MckinseyPost1945a"
-    },
-    {
         "reference": "EMIL L. POST, Recursively enumerable sets of positive integers and their decision problems, Bulletin of the American Mathematical Society, vol. 50 (1944), pp. 284- 316.",
         "id": "MckinseyPost1945a"
     },
@@ -5756,10 +4904,6 @@
         "id": "Smullyan1966b"
     },
     {
-        "reference": "D. F. CUDIA AND W. E. SINGLETARY (1965) Post's correspondence problem and degrees of unsolvability; Degrees of unsolvability in automata and grammars, this JOURNAL, vol. 30, pp. 267-268.",
-        "id": "CudiaSingletary1968a"
-    },
-    {
         "reference": "S. C. LIU, A note on many-one reducibility, to appear in this JOURNAL.",
         "id": "Liu1963a"
     },
@@ -5802,10 +4946,6 @@
     {
         "reference": "TARSKI, A., Der Wahrheitsbegriff in den formalisierten Sprachen, Studia philo- sophica, vol. 1 (1936), pp. 261-405.",
         "id": "Tarski1936a"
-    },
-    {
-        "reference": "WANG, HAO, Arithmetic translations of axiom systems, Transactions of the American Mathematical Society, vol. 71 (1951), pp. 283-293.",
-        "id": "Wang1943a"
     },
     {
         "reference": "WANG, HAO, A formal system of logic, this JOURNAL, vol. 15 (1950), pp. 25-32.",
@@ -5856,14 +4996,6 @@
         "id": "Kreisel1958c"
     },
     {
-        "reference": "G. KREISEL and W. W. TAIT, Completeness properties of formalisms for re- cursively enumerable relations and recursive functions, to appear.",
-        "id": "Kreisel1958b"
-    },
-    {
-        "reference": "H. ROGERS, Theory of recursive functions and effective computability, vol. I (mimeographed), Department of Mathematics, Massachusetts Institute of Technology 1956, xiii + 155 pp.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "J. B. ROSSER, Gadel theorems for non-constructive logics, this JOURNAL, vol. 2 (1937), pp. 129-137.",
         "id": "Rosser1937a"
     },
@@ -5882,18 +5014,6 @@
     {
         "reference": "C. C. ELGOT and M. 0. RABIN, Decidability and undecidability of extensions of second (first) order theories of (generalized) successor, this JOURNAL, vol. 31 (1966), pp. 169-181.",
         "id": "ElgotRabin1966a"
-    },
-    {
-        "reference": "R. M. ROBINSON, Restricted set theoretical definitions in arithmetic, Proceedings of the American Mathematical Society, vol. 9 (1958), pp. 238-242.",
-        "id": "Robinson1965a"
-    },
-    {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
-        "reference": "A formulation of the logic of sense and denotation by Alonzo Church in Structure, method and meaning. Essays in honor of Henry M. Sheffer, New York, 1951, pp. 3-24.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "A. MOSTOWSKI, On the rules of proof in the pure functional calculus of the first order, this JOURNAL, vol. 16 (1951), pp. 107-111 .",
@@ -5932,10 +5052,6 @@
         "id": "Wiener1914a"
     },
     {
-        "reference": "Kuratowski, Sur la notion de l'ordre dans la thdorie des ensembles, Fundamenta mathematicae, vol. 2 (1920), p. 171.",
-        "id": "KuratowskiPosament1934a"
-    },
-    {
         "reference": "A. ROBINSON, On predicates in algebraically closed fields, this JOURNAL, Vol. 19 (1954), Pp. 103-114.",
         "id": "Robinson1954a"
     },
@@ -5966,10 +5082,6 @@
     {
         "reference": "N. D. BELNAP, JR., First degree formulas, [abstract] this JOURNAL, vol. 25 (1960b), pp. 388-389.",
         "id": "Belnap1967a"
-    },
-    {
-        "reference": "MOH SHAW-KWEI, The deduction theorems and two new logical systems, Methodos, vol. 2 (1950), pp. 56-75.",
-        "id": "Kwei1954a"
     },
     {
         "reference": "G. Gentzen, Untersuchungen iber das logische Schliessen, Mathematische Zeitschrift, vol. 39 (1934), pp. 176-210, 405-431.",
@@ -6008,18 +5120,6 @@
         "id": "Glivenko1929a"
     },
     {
-        "reference": "A. ROBINSON, Non-standard analysis, Studies in logic and foundations of mathematics, North-Holland, Amsterdam, 1966.",
-        "id": "Robinson1969a"
-    },
-    {
-        "reference": "A. L. STONE, Nonstandard analysis in topological algebra, Applica- tions of model theory to algebra, analysis, and probability, Holt, Rinehart and Winston, New York, 1969, pp. 285-307.",
-        "id": "Stone1935a"
-    },
-    {
-        "reference": "SAUL KRIPKE, Semantical considerations on modal logic, Proceedings of a colloquium on modal and many-valued logics, Helsinki, August 1962, Acta philosophica Fennica No. 16, Helsinki (1963), pp. 83-94.",
-        "id": "Kripke1959a"
-    },
-    {
         "reference": "S. KRIPKE, Semantical analysis of modal logic. I, Zeitschrift für Mathematische Logik und Grundlagen der Mathematik, vol. 9 (1963). pp. 67-96.",
         "id": "Kripke1959a"
     },
@@ -6042,10 +5142,6 @@
     {
         "reference": "J. C. SHEPHERDSON, Inner models for set theory, Part I, this JOURNAL, vol. 16 (1951), pp. 161-190.",
         "id": "Shepherdson1951a"
-    },
-    {
-        "reference": "IRVING M. COPI, Symbolic logic, Macmillan, New York 1954. 3rd printing 1958.",
-        "id": "CopiWilder1956a"
     },
     {
         "reference": "IRVING M. Copi, Another variant of natural deduction, this JOURNAL, Vol. 21 (1956), pp. 52-55.",
@@ -6140,10 +5236,6 @@
         "id": "LangfordLewis1932a"
     },
     {
-        "reference": "A note concerning the paradoxes of strict implication and Lewis's system SI, this JOURNAL, Vol. 13 (1948).",
-        "id": "Lewis1933c"
-    },
-    {
         "reference": "McKinsey, A solution of the decision problem for the Lewis systems S2 and S4, with an application to topology, this JOURNAL, Vol. 6 (1941), p. 126 (theorem 7).",
         "id": "Mckinsey1941a"
     },
@@ -6154,10 +5246,6 @@
     {
         "reference": "McKinsey and Tarski, Some theorems about the sentential calculi of Lewis and Heyting, this JOURNAL, vol. 13 (1948), p. 12 (theorem 4.4).",
         "id": "MckinseyTarski1948a"
-    },
-    {
-        "reference": "P. BERNAYS, Zur Frage der Unendlichkeitsschemata in der Axiomatischen Mengenlehre, Essays on the foundations of mathematics, Jerusalem, 1961, pp. 3-49.",
-        "id": "Bernays1938a"
     },
     {
         "reference": "K. GÖDEL, The consistency of the continuum hypothesis, Annals of Mathematics Studies, no. 3, Princeton Univ. Press, Princeton, N.J., 1940.",
@@ -6172,20 +5260,8 @@
         "id": "Tharp1967a"
     },
     {
-        "reference": "J. MYHILL and J. C. E. DEKKER, Recursive functions, forthcoming.",
-        "id": "ApplebaumDekker1970a"
-    },
-    {
         "reference": "E. L. POST, Recursively enumerable sets of positive integers and their decision problems, Bulletin of the American Mathematical Society, vol. 50 (1944), pp. 284-316.",
         "id": "MckinseyPost1945a"
-    },
-    {
-        "reference": "W. V. QUINE, Mathematical logic, revised edition, Cambridge (Harvard), 1951, xii + 346 pp.",
-        "id": "Quine1933b"
-    },
-    {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective compu- tability, vol. I (mimeographed by Massachusetts Institute of Technology, 1956).",
-        "id": "Rogers1958a"
     },
     {
         "reference": "K. GÖDEL, Die Vollstdndigkeit der Axiome des logischen Funktionkalkils, Monatshefte für Mathematik und Physik, Vol. 37 (1930), pp. 349-360.",
@@ -6240,20 +5316,8 @@
         "id": "Gottschalk1953a"
     },
     {
-        "reference": "E. V. Huntington, Postulates for assertion, conjunction, negation, and equality, Proceed- ings of the American Academy of Arts and Sciences, vol. 72 (1937), pp. 1-44",
-        "id": "Huntington1934c"
-    },
-    {
         "reference": "H. B. Smith's (identical) \"induction formula,\" Abstract logic or the science of modal- ity, Philosophy of science, vol. 1 (1934), pp. 369-397.",
         "id": "Smith1934b"
-    },
-    {
-        "reference": "Lewis and Langford's Symbolic logic",
-        "id": "LangfordLewis1932a"
-    },
-    {
-        "reference": "Lewis and Langford's Symbolic logic",
-        "id": "LangfordLewis1932a"
     },
     {
         "reference": "F. B. Fitch, Recursive functions in basic logic, this JOURNAL, vol. 21 (1956), pp. 337-346.",
@@ -6262,10 +5326,6 @@
     {
         "reference": "Jan Łukasiewicz and Alfred Tarski, Untersuchungen uiber den Aussagenkalkil, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 23 (1930), pp. 30-50.",
         "id": "LukasiewiczTarski1930a"
-    },
-    {
-        "reference": "D. Hilbert and W. Ackermann, Grundzüge der theoretischen Logik, 2nd edition, Berlin 1938, see p. 23.",
-        "id": "AckermannHilbert1928a"
     },
     {
         "reference": "Arend Heyting, Mathematische Grundlagenforschung, Intuitionismus, Beweistheorie, Ergebnisse der Mlathematik, vol. 3 no. 4, Berlin 1934.",
@@ -6316,14 +5376,6 @@
         "id": "BouvereHintikkaLevi1970a"
     },
     {
-        "reference": "W. V. QUINE, Mathematical Logic, revised edition, Cambridge (Harvard University Press), 1951.",
-        "id": "Quine1933b"
-    },
-    {
-        "reference": "A. TARSKI, Some notions and methods on the borderline of algebra and meta- mathematics, Proceedings of the International Congress of Mathematicians (Cambridge, Mass. U.S.A., Aug. 30-Sept. 6, 1950), 1952, vol. 1, pp. 705-720.",
-        "id": "Tarski1929a"
-    },
-    {
         "reference": "LQ QUINE, W. V., On the logic of quantification, this JOURNAL, Vo1. 10 (1945), pp. 1-12.",
         "id": "Quine1945b"
     },
@@ -6332,16 +5384,8 @@
         "id": "HenselPutnam1965a"
     },
     {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "C. SPECTOR, Recursive well-orderings, this JOURNAL, vol. 20 (1955), pp. 151-163.",
         "id": "Spector1955a"
-    },
-    {
-        "reference": "IRVING COPI, Symbolic logic, Macmillan, New York, 1954.",
-        "id": "CopiWilder1956a"
     },
     {
         "reference": "IRVING Copi, Another variant of natural deduction, this JOURNAL, vol. 21 (1956), pp. 52- 55.",
@@ -6360,10 +5404,6 @@
         "id": "Parry1939a"
     },
     {
-        "reference": "A. CHURCH, Introduction to mathematical logic, vol. 1, Princeton, 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "A. COBHAM, Some results concerning theories with recursively enumerable comple- ments, to appear in this JOURNAL",
         "id": "Cobham1963a"
     },
@@ -6378,10 +5418,6 @@
     {
         "reference": "L. HENKIN, The completeness of the first-order functional calculus, this JOURNAL, vol. 14 (1949), pp. 159-166.",
         "id": "Henkin1949b"
-    },
-    {
-        "reference": "G. KREISEL, Note on arithmetic models for consistent formulae of the predicate calculus II, Proceedings of the XI-th International Congress of Philosophy Amsterdam (North Holland Publ. Co.) and Louvain (Ed. E. Nauwelaerts) 1953, vol. 14, pp. 39-49.",
-        "id": "Kreisel1958b"
     },
     {
         "reference": "H. PUTNAM, Decidability and essential undecidability, this JOURNAL, vol. 22 (1957), pp. 39-54.",
@@ -6432,10 +5468,6 @@
         "id": "Quine1934a"
     },
     {
-        "reference": "Whitehead and Russell's Principia mathematica, 2nd. ed., vol. 1",
-        "id": "RussellWhitehead1910a"
-    },
-    {
         "reference": "Quine, Ontological remarks on the propositional calculus, Mind, n.s. vol. 43 (1934), pp. 472- 476.",
         "id": "Quine1934b"
     },
@@ -6458,14 +5490,6 @@
     {
         "reference": "Alfred Tarski, Fundamentale Begriffe der Methodologie der deduktiven Wissenschaften, Monatshefte für Mathematik und Physik, vol. 37 (1930), pp. 361-404.",
         "id": "Tarski1930b"
-    },
-    {
-        "reference": "Alfred Tarski, On essential undecidability (Eleventh meeting of the Association for Symbolic Logic), this JOURNAL, Vo1. 14 (1949), p. 75.",
-        "id": "Tarski1939a"
-    },
-    {
-        "reference": "ALONZO CHURCH, review of A. Koyre's The liar, this JOURNAL, vol. 12 (1946), p. 131.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "L. JONATHAN COHEN, Can the logic of indirect discourse be formalized?, this JOURNAL, vol. 22 (1957), pp. 225-232.",
@@ -6492,16 +5516,8 @@
         "id": "Henkin1963a"
     },
     {
-        "reference": "C. R. KARP, LLanguages with expressions of infinite length, North-Holland, Amsterdam, 1964.",
-        "id": "Karp1962a"
-    },
-    {
         "reference": "H. J. KEISLER, Some applications of infinitely long formulas, this JOURNAL, vol. 30 (1965), pp. 339-349.",
         "id": "Keisler1965b"
-    },
-    {
-        "reference": "M. MAKKAI, On PCA-classes in the theory of models, A Magyar Tudományos Akademia Matematikai Kutató Intézetének Közleményei, vol. 9 (1964), pp. 159-194.",
-        "id": "Makkai1969a"
     },
     {
         "reference": "H. ENDERTON, Hierarchies in recursive function theory, Transactions of the American Mathematical Society, vol. 111 (1964), pp. 457-471.",
@@ -6536,16 +5552,8 @@
         "id": "Kemeny1948a"
     },
     {
-        "reference": "W. ACKERMANN, Mengentheoretische Begrundung der Logik, Mathematische Annalen, vol. 115 (1937), pp. 1-22.",
-        "id": "Ackermann1935a"
-    },
-    {
         "reference": "ALONZO CHURCH, A formulation of the simple theory of types, this JOURNAL, vol. 5 (1940), pp. 56-68.",
         "id": "Church1940a"
-    },
-    {
-        "reference": "ALONZO CHURCH, The calculi of lambda-conversion, Princeton University Press, 1941.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "J. B. ROSSER and A. R. TURQUETTE, Axiom schemes for m-valued functional calculi of first order, Part I, Definition of axiom schemes and proof of plausibility, this JOURNAL, vol. 13 (1948), pp. 177-192.",
@@ -6600,14 +5608,6 @@
         "id": "Hartogs1915a"
     },
     {
-        "reference": "A. CHURCH, Introduction to mathematical logic, vol. 1, Princeton, N.J., 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "N. COCCHIARELLA, A substitution free axiom set for second order logic, forthcoming in Notre Dame journal of formal logic",
-        "id": "Cocchiarella1969a"
-    },
-    {
         "reference": "N. COCCHIARELLA, Some remarks on second order logic with existence attributes, Nous, vol. 2 (1968), pp. 165-175.",
         "id": "Cocchiarella1969a"
     },
@@ -6644,10 +5644,6 @@
         "id": "MckinseyPost1945a"
     },
     {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1968.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "J. R. SHOENFIELD, A theorem on minimal degrees, this JOURNAL, vol. 31 (1966), pp. 539- 544.",
         "id": "Shoenfield1966a"
     },
@@ -6670,14 +5666,6 @@
     {
         "reference": "E. SPECKER, Nicht konstruktiv beweisbare Satze der Analysis, this JOURNAL, vol. 14, pp. 145-158.",
         "id": "Specker1949a"
-    },
-    {
-        "reference": "A. CHURCH, Introduction to mathematical logic, vol. I, Princeton University Press, Princeton, N.J., 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
-        "reference": "A. CHURCH, Review of 'Existential Import Revisited', this JOURNAL, vol. 30 (1965), pp. 103-104.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "T. HAILPERIN, Quantification theory and empty individual domains, this JOURNAL, vol. 18 (1953), pp. 197-200.",
@@ -6710,10 +5698,6 @@
     {
         "reference": "RICE, H. G., Classes of recursively enumerable sets and their decision problems, Transactions of the American Mathematical Society, vol. 74 (1953), pp. 358-366.",
         "id": "Rice1956a"
-    },
-    {
-        "reference": "R. C. Barcan (Marcus), A functional calculus of first order based on strict implication, this JOURNAL, vol. 11 (1946), pp. 1-16",
-        "id": "Marcus1953a"
     },
     {
         "reference": "F. B. Fitch, Intu- itionistic modal logic with quantifiers, Portugaliae mathematica, vol. 7 (1948), pp. 113- 118.",
@@ -6788,6 +5772,10 @@
         "id": "Kalicki1952a"
     },
     {
+        "reference": "S. LINIAL and E. L. POST, Recursive unsolvability of the deducibility, Tarski's completeness, and independence of axioms problems of propositional calculus, Bulletin of the American Mathematical Society, vol. 55 (1949), p. 50.",
+        "id": "Post1947a"
+    },
+    {
         "reference": "J. C. C. McKinsey, A solution of the decision problem for the Lewis systems S2 and S4, with an application to topology, this JOURNAL, vol. 6 (1941), pp. 117-134.",
         "id": "Mckinsey1941a"
     },
@@ -6824,20 +5812,8 @@
         "id": "Tarski1930b"
     },
     {
-        "reference": "A. H. LACHLAN and E. W. MADISON, Computable fields and arithmetically definably ordered fields, Proceedings of the American Mathematical Society (to appear).",
-        "id": "Madison1970a"
-    },
-    {
         "reference": "MICHAEL DUMMETT, A propositional calculus with denumerable matrix, this JOURNAL, vol. 24 (1959) pp. 96-107.",
         "id": "Dummett1959a"
-    },
-    {
-        "reference": "HAO WANG. A new theory of element and number, this JOURNAL, VOL. 13 (1948), pp. 129- 137.",
-        "id": "Wang1948a"
-    },
-    {
-        "reference": "A. N. WHITEHEAD and lBrwwn RussnL.. Principia mathematica vol. 3. Cam- bridge, England, 1913.",
-        "id": "RussellWhitehead1913a"
     },
     {
         "reference": "R. M. FRIEDBERG, Three theorems on recursive enumeration, this JOURNAL, vol. 23 (1958), pp. 309-316.",
@@ -6870,10 +5846,6 @@
     {
         "reference": "W. V. QUINE, Reduction to a dyadic predicate, this JOURNAL, vol. 19 (1954), pp. 180-182.",
         "id": "Quine1954c"
-    },
-    {
-        "reference": "New foundations for mathematical logic, The American mathematical monthly, vol. 44 (1937), pp. 70-80.",
-        "id": "Copeland1937a"
     },
     {
         "reference": "Wiener, A simplification of the logic of relations, Proceedings of the Cambridge Philo- sophical Society, vol. 17 (1914), pp. 387-390",
@@ -6968,10 +5940,6 @@
         "id": "Peano1891c"
     },
     {
-        "reference": "A. CHURCH, Introduction to mathematical logic, Princeton University Press, 1956.",
-        "id": "BerryChurch1945a"
-    },
-    {
         "reference": "A. ROSE, The degree of completeness o0 the K.-valued Lukasiewicz propositional calculus, Journal of the London Mathematical Society, vol. 28 (1953), pp. 176-184.",
         "id": "Rose1953b"
     },
@@ -6980,16 +5948,8 @@
         "id": "Rutledge1960a"
     },
     {
-        "reference": "B. SCARPELLINI, Die Nichtaxiomatisierbarkeit der unendlichwertigen Logik von Lukasiewicz-Tarski, forthcoming in this JOURNAL.",
-        "id": "Scarpellini1962a"
-    },
-    {
         "reference": "Dugundji, J., Note on a property of matrices for Lewis and Langford's calculi of proposi- tions, this JOURNAL, Vol. 5 (1940), pp. 150-151.",
         "id": "Dugundji1940a"
-    },
-    {
-        "reference": "Huntington, E. V., Postulates for assertion, conjunction, negation, and equality, Proceed- ings of the American Academy of Arts and Sciences, vol. 72 (1937), pp. 1-44.",
-        "id": "Huntington1934c"
     },
     {
         "reference": "Lewis, C. I., and Langford, C. H., Symbolic logic, New York 1932.",
@@ -7032,10 +5992,6 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "W. ACKERMANN, Zur Widerspruchsfreiheit der reinen Zahlentheorie, Mathematische Annalen, Vol. 117 (1940), pp. 162-194.",
-        "id": "Ackermann1934b"
-    },
-    {
         "reference": "W. ACKERMANN, Begrindung des \"tertium non datur\" mittels der Hilbertschen Theorie der Widerspruchsfreiheit, Mathematische Annalen, vol. 93 (1925), pp. 1-36.",
         "id": "Ackermann1924a"
     },
@@ -7056,10 +6012,6 @@
         "id": "Godel1933b"
     },
     {
-        "reference": "W. V. QUINE, Methods of logic, Holt, New York, 1964.",
-        "id": "Quine1934c"
-    },
-    {
         "reference": "R. M. FRIEDBERG, Two recursively enumerable sets of incomparable degrees of unsolvability, Proceedings of the National Academy of Sciences of the United States of America, vol. 43 (1957), pp. 236-238.",
         "id": "Friedberg1957a"
     },
@@ -7074,14 +6026,6 @@
     {
         "reference": "GARRETT BIRKHOFF, Lattice theory, American Mathematical Society Col- loquium Publications, vol. 25, revised edition, 1948, pp. 146-147.",
         "id": "Birkhoff1934b"
-    },
-    {
-        "reference": "W. V. QUINE, Mathematical logic, revised edition, Harvard, 1951.",
-        "id": "Quine1933b"
-    },
-    {
-        "reference": "Alonzo Church, The calculi of lambda-conversion, Annals of mathematics studies, 1941.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "Emil L. Post, Recursively enumerable sets of positive integers and their decision prob- lems, Bulletin of the American Mathematical Society, vol. 50 (1944), pp. 284-316.",
@@ -7112,10 +6056,6 @@
         "id": "BernaysHilbert1934a"
     },
     {
-        "reference": "A. Fraenkel, Einleitung in die Mengenlehre, third edition, 1946, ?18.",
-        "id": "Fraenkel1923b"
-    },
-    {
         "reference": "Rudolf Carnap, Bericht uber Untersuchungen zur allgemeinen Axiomatik, Erkentniss, vol. 1 (1930-1), pp. 303-307.",
         "id": "Carnap1930c"
     },
@@ -7130,10 +6070,6 @@
     {
         "reference": "John G. Kemeny, Equivalent logical systems, Senior thesis, Princeton University 1946.",
         "id": "Kemeny1948a"
-    },
-    {
-        "reference": "W. V. QUINE, Mathematical logic, revised ed. (Harvard University Press, Cambridge: 1951), pp. 291-305.",
-        "id": "Quine1933b"
     },
     {
         "reference": "K. GÖDEL, Die Vollständigkeit der Axiome des Logischen Funktionenkalküls, Monatshefte für Mathematik und Physik 37 (1930): pp. 349-360.",
@@ -7196,10 +6132,6 @@
         "id": "KreiselSacks1965a"
     },
     {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "R. FRIEDBERG, Three theorems on recursive enunmeration, this JOURNAL, 23 (1958), pp. 309-316.",
         "id": "Friedberg1958a"
     },
@@ -7212,10 +6144,6 @@
         "id": "MckinseyPost1945a"
     },
     {
-        "reference": "H. ROGERS, Jr., Recursive Functions and Effective Computability, McGraw-Hill, 1966.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "A. FRAENKEL, Über die Gleichheitsbeziehung in der Mengenlehre, Journal für Mathematik, vol. 157 (1927), pp. 79-81.",
         "id": "Fraenkel1927a"
     },
@@ -7224,20 +6152,12 @@
         "id": "Godel1938a"
     },
     {
-        "reference": "G. KREISEL, Note on arithmetic models for consistent formulae of the predicate calculus II, Proceedings of the XIth International Congress of Philosophy, Bruxelles, August 20-26, 1953, vol. 14, pp. 39-49.",
-        "id": "Kreisel1958b"
-    },
-    {
         "reference": "ALONZO CHURCH, Introduction to mathematical logic, Part I, Annals of Mathematics studies, no. 13, Princeton University Press, Princeton, N.J., 1944, 118 pp.",
         "id": "BerryChurch1945a"
     },
     {
         "reference": "KURT GÖDEL, The consistency of the continuum hypothesis, Annals of Mathematics studies, no. 3, Princeton University Press, Princeton, N.J., 1940, 74 pp.",
         "id": "Godel1938a"
-    },
-    {
-        "reference": "W. V. QUINE, Mathematical logic, revised third printing, Harvard University Press, Cambridge, Mass., 1951.",
-        "id": "Quine1933b"
     },
     {
         "reference": "J. B. ROSSER and HAO WANG, Non-standard models for formal logics, this JOURNAL, vol. 15 (1950), pp. 113-129.",
@@ -7328,16 +6248,8 @@
         "id": "Martin1963a"
     },
     {
-        "reference": "H. ROGERS, JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "J. R. SHOENFIELD, A theorem on minimal degrees, this JOURNAL, vol.31(1966), pp.539-544.",
         "id": "Shoenfield1966a"
-    },
-    {
-        "reference": "C. E. M. YATES, Recursively enumerable sets and retracing functions, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 8 (1962), pp. 331-345.",
-        "id": "Yates1966a"
     },
     {
         "reference": "G. GENTZEN, Untersuchungen uber das logische Schliessen, Mathematische Zeitschrift, vol. 39 (1934), pp. 176-210, 403-431.",
@@ -7352,16 +6264,8 @@
         "id": "Schtte1960a"
     },
     {
-        "reference": "H. B. ENDERTON, Hierarchies in recursive function theory, Transactions of the American Mathematical Society, vol. 111 (19(4), pp. 457-471.",
-        "id": "EndertonLuckham1964a"
-    },
-    {
         "reference": "S. C. KLEENE, Recursive functionals and quantifiers of finite types. I, Transactions of the American Mathematical Society, vol. 91 (1959), pp. 1-52.",
         "id": "Kleene1936a"
-    },
-    {
-        "reference": "H. PUTNAM, On hierarchies and systems of notations, Proceedings of the American Mathe- matical Society, vol. 15 (1964), pp. 44-50.",
-        "id": "HenselPutnam1965a"
     },
     {
         "reference": "W. RICHTER, Systems of notations for the \"constructively accessible\" ordinals, Ph.D. Thesis, Princeton University, 1963.",
@@ -7424,14 +6328,6 @@
         "id": "Kreisel1952a"
     },
     {
-        "reference": "G. KREISEL, Note on arithmetic models for consistent formulae of the predicate calculus II, Proceedings of XIth International Congress of Philosophy, vol. 14 (1953), pp. 39-49.",
-        "id": "Kreisel1958b"
-    },
-    {
-        "reference": "A. ROBINSON, On ordered fields and definite functions, Mathematische Annalen, vol. 130 (1955), pp. 257-271.",
-        "id": "LightstoneRobinson1957a"
-    },
-    {
         "reference": "J. B. ROSSER, Extensions of some theorems of Godel and Church, this JOURNAL vol. 1 (1936), pp. 87-91.",
         "id": "Rosser1936b"
     },
@@ -7444,10 +6340,6 @@
         "id": "BerryChurch1945a"
     },
     {
-        "reference": "Helmer and Oppenheim in Pyobability and degree of confirmation, this JOURNAL, vol. 10 (1945), p. 31.",
-        "id": "HelmerOppenheim1945a"
-    },
-    {
         "reference": "B. A. BERNSTEIN, A simplification of the Whitehead- Huntington set of postulates for Boolean algebras, Bulletin of the American Mathematical Society, vol. 22 (1916), pp. 458-459.",
         "id": "Bernstein1916b"
     },
@@ -7458,10 +6350,6 @@
     {
         "reference": "WILHELM ACKERMANN, Widerspruchs/reier Aufbau der Logik I, this JOURNAL, vol. 15 (1950), pp. 33-57.",
         "id": "Ackermann1950a"
-    },
-    {
-        "reference": "R. HARROP, An investigation of the propositional calculus used in a particular system of logic, Proceedings of the Cambridge Philosophical Society, vol. 50 (1954), pp. 495-512.",
-        "id": "Harrop1965a"
     },
     {
         "reference": "J. C. C. MCKINSEY, A solution of the decision problem for the Lewis systems S2 and S4, with an application to topology, this JOURNAL, vol. 6 (1941), pp. 117-134.",
@@ -7494,10 +6382,6 @@
     {
         "reference": "S. K. THOMASON, On initial segments of hyperdegrees (to appear).",
         "id": "Thomason1970b"
-    },
-    {
-        "reference": "A. CHURCH, Introduction to mathematical logic I, Princeton, 1956.",
-        "id": "BerryChurch1945a"
     },
     {
         "reference": "SAUL A. KRIPKE, Semantic analysis of modal logic (abstract), this JOURNAL, vol. 24 (1959), pp. 323-324.",
@@ -7540,16 +6424,8 @@
         "id": "RussellWhitehead1913a"
     },
     {
-        "reference": "J. R. BÜCHI and C. C. ELGOT, Decision problems of weak second order arithmetics and finite automata, Part I, (abstract), American Mathematical Society Notices, vol. 5 (1959), p. 834.",
-        "id": "ElgotRabin1966a"
-    },
-    {
         "reference": "QUINE, W. V., Concatenation as a basis of arithmetic, this JOURNAL, vol. 11 (1946) 105-114.",
         "id": "Quine1946a"
-    },
-    {
-        "reference": "R. M. ROBINSON, Restricted set - theoretical definitions in arithmetic, Proceed- ings of the American Mathematical Society, vol. 9 (1958), pp. 238-242.",
-        "id": "Robinson1965a"
     },
     {
         "reference": "J. Łukasiewicz and A. Tarski, Untersuchungen fiber den Aussagenkalkal, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, vol 23 (1930), def. 3, p. 33.",
@@ -7580,24 +6456,12 @@
         "id": "Nelson1930a"
     },
     {
-        "reference": "H. ROGERS, The theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
-        "id": "Rogers1958a"
-    },
-    {
         "reference": "BARKLEY ROSSER, On the consistency of Quine's new foundations for mathematical logic, this JOURNAL, vol. 4 (1939), pp. 15-24.",
         "id": "Rosser1939c"
     },
     {
-        "reference": "W. V. QUINE, Mathematical logic, revised third printing, Harvard University Press, Cambridge, Mass., 1951.",
-        "id": "Quine1933b"
-    },
-    {
         "reference": "HAO WANG, A formal system of logic' this JOURNAL, vol. 15 (1950), pp. 25-32.",
         "id": "Wang1950a"
-    },
-    {
-        "reference": "CASIMIR KURATOWSKI, Sur la notion de l'ordre dans la thgorie des ensembles, Funda- menta mathematicae, vol. 2 (1921), pp. 161-171.",
-        "id": "KuratowskiPosament1934a"
     },
     {
         "reference": "NELSON GOODMAN, Sequences, this JOURNAL, vol. 6 (1941), pp. 150-153.",
@@ -7622,10 +6486,6 @@
     {
         "reference": "T. HAILPERIN, A set of axioms for logic, this JOURNAL, vol. 9 (1944), pp. 1-19.",
         "id": "Hailperin1944a"
-    },
-    {
-        "reference": "W. ACKERMANN, Solvable cases of the decision problem, Studies in logic and the foundations of mathematics, Amsterdam (North Holland) 1954, viii + 144 pp.",
-        "id": "Ackermann1935a"
     },
     {
         "reference": "W. CRAIG, On axiomatizability within a system, this JOURNAL, vol. 18 (1953), pp. 30-32.",
@@ -7666,10 +6526,6 @@
     {
         "reference": "A. TARSKI, Fundamentale Begriffe der Methodologie der deduktiven Wissen- schaften I, Monatshefte für Mathematik und Physik, vol. 37 (1930), pp. 361-404.",
         "id": "Tarski1930b"
-    },
-    {
-        "reference": "A. TARSKI, A. MOSTOWSKi and R. M. ROBINSON, Undecidable theories, Studies in logic and the foundations of mathematics, Amsterdam (North Holland) 1953, XI + 98 pp.",
-        "id": "Tarski1939a"
     },
     {
         "reference": "J. DUGUNDJI, Note on a property of matrices for Lewis and Langford's calculi of propositions, this JOURNAL, vol. 5 (1940), pp. 150-151.",
