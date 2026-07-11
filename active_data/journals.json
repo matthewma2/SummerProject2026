@@ -1,0 +1,483 @@
+[
+  {
+    "journal": "The Journal of Symbolic Logic",
+    "aliases": [],
+    "total_count": 791
+  },
+  {
+    "journal": "Mind",
+    "aliases": [],
+    "total_count": 157
+  },
+  {
+    "journal": "The Monist",
+    "aliases": [
+      "The monist"
+    ],
+    "total_count": 80
+  },
+  {
+    "journal": "Przegląd Filozoficzny",
+    "aliases": [
+      "Przegl. fil",
+      "Przegląd filozoficzny",
+      "Przegl.fil",
+      "Przegląd filozoficzny (Warsaw)"
+    ],
+    "total_count": 75
+  },
+  {
+    "journal": "Bulletin of the American Mathematical Society",
+    "aliases": [
+      "Bull. Amer. Math. Soc"
+    ],
+    "total_count": 71
+  },
+  {
+    "journal": "Revue de Métaphysique et de Morale",
+    "aliases": [
+      "Rev. métaph. mor",
+      "Revue de métaphysique et de morale",
+      "Rev. metaph. mor",
+      "Rev. Métaph. Mor"
+    ],
+    "total_count": 68
+  },
+  {
+    "journal": "Mathematische Annalen",
+    "aliases": [
+      "Math. Annalen"
+    ],
+    "total_count": 60
+  },
+  {
+    "journal": "Jahresbericht der Deutschen Mathematiker-Vereinigung",
+    "aliases": [
+      "Jahresb. D. M.-V"
+    ],
+    "total_count": 54
+  },
+  {
+    "journal": "Erkenntnis",
+    "aliases": [],
+    "total_count": 52
+  },
+  {
+    "journal": "Journal of Philosophy",
+    "aliases": [
+      "Jour. philos",
+      "The Journal of Philosophy",
+      "Jour, philos",
+      "The journal of philosophy",
+      "Jour. Philos"
+    ],
+    "total_count": 46
+  },
+  {
+    "journal": "L'Enseignement Mathématique",
+    "aliases": [
+      "L'Ens. math",
+      "L'Enseignement mathématique"
+    ],
+    "total_count": 39
+  },
+  {
+    "journal": "Journal of Philosophy, Psychology and Scientific Methods",
+    "aliases": [
+      "Jour. philos. etc",
+      "The journal of philosophy, psychology, and scientific methods",
+      "The Journal of Philosophy, Psychology and Scientific Methods"
+    ],
+    "total_count": 33
+  },
+  {
+    "journal": "Fundamenta Mathematicae",
+    "aliases": [
+      "Fund. math",
+      "Fundamenta mathematicae",
+      "Fund, math",
+      "Fund. Math"
+    ],
+    "total_count": 32
+  },
+  {
+    "journal": "The Philosophical Review",
+    "aliases": [
+      "The philosophical review"
+    ],
+    "total_count": 31
+  },
+  {
+    "journal": "Rev. de math. (Riv. di mat)",
+    "aliases": [
+      "Rev. de math. (Riv. di mat.)",
+      "Rev. de math",
+      "Rev. de. math"
+    ],
+    "total_count": 30
+  },
+  {
+    "journal": "Jahrb. Fortschr. Math",
+    "aliases": [],
+    "total_count": 26
+  },
+  {
+    "journal": "American Journal of Mathematics",
+    "aliases": [
+      "Amer. jour. math",
+      "Amer. Jour. Math",
+      "American journal of mathematics"
+    ],
+    "total_count": 25
+  },
+  {
+    "journal": "Deutsche Literaturzeitung",
+    "aliases": [],
+    "total_count": 24
+  },
+  {
+    "journal": "Mathematische Zeitschrift",
+    "aliases": [
+      "Math. Z"
+    ],
+    "total_count": 24
+  },
+  {
+    "journal": "Annals of mathematics",
+    "aliases": [
+      "Annals of Mathematics"
+    ],
+    "total_count": 21
+  },
+  {
+    "journal": "Philosophy of Science",
+    "aliases": [
+      "Philosophy of science"
+    ],
+    "total_count": 21
+  },
+  {
+    "journal": "Proceedings of the London Mathematical Society",
+    "aliases": [
+      "Proc. London Math. Soc"
+    ],
+    "total_count": 21
+  },
+  {
+    "journal": "Monatshefte für Mathematik und Physik",
+    "aliases": [
+      "Monatsh. Math. Phys"
+    ],
+    "total_count": 20
+  },
+  {
+    "journal": "Riv. di mat",
+    "aliases": [
+      "Riv. di. mat"
+    ],
+    "total_count": 19
+  },
+  {
+    "journal": "Transactions of the American Mathematical Society",
+    "aliases": [
+      "Trans. Amer. Math. Soc"
+    ],
+    "total_count": 18
+  },
+  {
+    "journal": "\"Scientia\" (Rivista di scienza)",
+    "aliases": [
+      "\"Scientia,\"",
+      "Scientia",
+      "'Scientia,'"
+    ],
+    "total_count": 17
+  },
+  {
+    "journal": "Atti Accad. Torino",
+    "aliases": [
+      "Atti. Accad. Torino"
+    ],
+    "total_count": 15
+  },
+  {
+    "journal": "The American Mathematical Monthly",
+    "aliases": [
+      "The American mathematical monthly"
+    ],
+    "total_count": 15
+  },
+  {
+    "journal": "Che-hsieh p'ing-lun (The Philosophical Review)",
+    "aliases": [],
+    "total_count": 14
+  },
+  {
+    "journal": "Philosophisches Jahrbuch",
+    "aliases": [],
+    "total_count": 14
+  },
+  {
+    "journal": "Couturat's Opuscules",
+    "aliases": [],
+    "total_count": 13
+  },
+  {
+    "journal": "Ruch filozoficzny (Lwów)",
+    "aliases": [
+      "Ruch filozoficzny"
+    ],
+    "total_count": 13
+  },
+  {
+    "journal": "Analysis",
+    "aliases": [],
+    "total_count": 12
+  },
+  {
+    "journal": "Proceedings of the Aristotelian Society",
+    "aliases": [],
+    "total_count": 12
+  },
+  {
+    "journal": "Proceedings of the Cambridge Philosophical Society",
+    "aliases": [],
+    "total_count": 12
+  },
+  {
+    "journal": "Revue philosophique de la France et de l'Etranger",
+    "aliases": [
+      "Revue philosophique de la France et de l'Étranger",
+      "Revue philosophique de la France et de l'étranger",
+      "Revue philosophique de la France et de l'etranger",
+      "Revue Philosophique de la France et de l'Étranger"
+    ],
+    "total_count": 12
+  },
+  {
+    "journal": "Studia Gnesnensia",
+    "aliases": [],
+    "total_count": 12
+  },
+  {
+    "journal": "Scripta mathematica",
+    "aliases": [
+      "Scripta Mathematica"
+    ],
+    "total_count": 10
+  },
+  {
+    "journal": "Archiv für systematische Philosophie",
+    "aliases": [],
+    "total_count": 9
+  },
+  {
+    "journal": "Isis (Bruges)",
+    "aliases": [
+      "Isis"
+    ],
+    "total_count": 9
+  },
+  {
+    "journal": "Philosophischer Anzeiger",
+    "aliases": [],
+    "total_count": 9
+  },
+  {
+    "journal": "Recherches Philosophiques (Paris)",
+    "aliases": [
+      "Recherches philosophiques",
+      "Recherches Philosophiques"
+    ],
+    "total_count": 9
+  },
+  {
+    "journal": "Theoria",
+    "aliases": [],
+    "total_count": 9
+  },
+  {
+    "journal": "Travaux du IXe Congrès International de Philosophie",
+    "aliases": [],
+    "total_count": 9
+  },
+  {
+    "journal": "Annalen Phil. u. phil. Krit",
+    "aliases": [],
+    "total_count": 8
+  },
+  {
+    "journal": "Bull. sci. math",
+    "aliases": [],
+    "total_count": 8
+  },
+  {
+    "journal": "Comptes rendus de la Société des Sciences et des Lettres de Varsovie, Classe III",
+    "aliases": [
+      "C. r. Soc. Sci. Lett. Varsovie, Classe III"
+    ],
+    "total_count": 8
+  },
+  {
+    "journal": "Die Naturwissenschaften",
+    "aliases": [],
+    "total_count": 8
+  },
+  {
+    "journal": "El progreso matematico (Saragossa)",
+    "aliases": [
+      "El progreso matemático"
+    ],
+    "total_count": 8
+  },
+  {
+    "journal": "Harvard University, Graduate School of Arts and Sciences, Summaries of theses accepted in partial fulfilment of the requirements for the degree of Doctor of Philosophy",
+    "aliases": [],
+    "total_count": 8
+  },
+  {
+    "journal": "Nieuw archief voor wiskunde",
+    "aliases": [],
+    "total_count": 8
+  },
+  {
+    "journal": "Period. mat",
+    "aliases": [],
+    "total_count": 8
+  },
+  {
+    "journal": "Proceedings of the National Academy of Sciences",
+    "aliases": [
+      "Proc. Nat. Acad. Sci"
+    ],
+    "total_count": 8
+  },
+  {
+    "journal": "Vierteljahrsschrift für wissenschaftliche Philosophie",
+    "aliases": [],
+    "total_count": 8
+  },
+  {
+    "journal": "Math. questions",
+    "aliases": [],
+    "total_count": 7
+  },
+  {
+    "journal": "The mathematical gazette",
+    "aliases": [
+      "The Mathematical Gazette"
+    ],
+    "total_count": 7
+  },
+  {
+    "journal": "Transactions of the Cambridge Philosophical Society",
+    "aliases": [],
+    "total_count": 7
+  },
+  {
+    "journal": "Blätter für deutsche Philosophie",
+    "aliases": [
+      "Blatter fur deutsche Philosophie"
+    ],
+    "total_count": 6
+  },
+  {
+    "journal": "Boll. di mat",
+    "aliases": [],
+    "total_count": 6
+  },
+  {
+    "journal": "Jour. r. angew. Math",
+    "aliases": [],
+    "total_count": 6
+  },
+  {
+    "journal": "Philosophy",
+    "aliases": [],
+    "total_count": 6
+  },
+  {
+    "journal": "Acta litterarum ac scientiarum Regiae Universilatis Hungaricae Francisco-Josephinae, Sectio scientiarum mathematicarum",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Atti dei Lincei Rend. fisiche",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Deutsche Mathematik",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Erdmann's Opera",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Kant-Studien",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Nyt tidsskrift for matematik",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Rev. gén. sci",
+    "aliases": [
+      "Rev. gen. sci"
+    ],
+    "total_count": 5
+  },
+  {
+    "journal": "Revue générale des sciences pures et appliquées",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Rocznik Polskiego Towarzystwa Matematycznego (Annales de la Sociele Polonaise de Mathima-tique)",
+    "aliases": [
+      "Rocznik Polskiego Towarzystwa Matematycznego (Annales de la Société Polonaise de Mathématique)"
+    ],
+    "total_count": 5
+  },
+  {
+    "journal": "Science",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Studia philosophica (Lwów)",
+    "aliases": [
+      "Studia philosophica",
+      "Studia Philosophica"
+    ],
+    "total_count": 5
+  },
+  {
+    "journal": "The London, Edinburgh, and Dublin philosophical magazine and journal of science",
+    "aliases": [
+      "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science"
+    ],
+    "total_count": 5
+  },
+  {
+    "journal": "Unterrichtsblätter für Mathematik und Naturwissenschaften",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Viertelj. wiss. Phil",
+    "aliases": [],
+    "total_count": 5
+  },
+  {
+    "journal": "Zenlralblatt filr Mathematik und ihre Grenzgebiele",
+    "aliases": [],
+    "total_count": 5
+  }
+]
