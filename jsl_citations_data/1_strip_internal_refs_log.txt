@@ -1,7 +1,7 @@
 === strip_internal_refs removal log ===
 
-Input  : jsl_citations_data/jsl_citations.json
-Output : jsl_citations_data/jsl_citations_cleaned.json
+Input  : jsl_citations_data/0_jsl_citations_before_stripping.json
+Output : jsl_citations_data/1_jsl_citations_cleaned.json
 
 Total references   : 7502
 Removed            : 1786

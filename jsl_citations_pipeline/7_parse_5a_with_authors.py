@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Parse jsl_citations_data/4a_with_authors.json into structured JSON entries."""
+"""Parse jsl_citations_data/5a_with_authors.json into structured JSON entries."""
 
 import json
 import re
@@ -8,12 +8,12 @@ import unicodedata
 from pathlib import Path
 
 
-PARSER_PATH = Path("jsl_citations_pipeline/3_parsing_unresolved_works.py")
+PARSER_PATH = Path("jsl_citations_pipeline/4_parsing_unresolved_works.py")
 AUTHORS_PATH = Path("databases/authors.json")
-INPUT_PATH = Path("jsl_citations_data/4a_with_authors.json")
-OUTPUT_PATH = Path("jsl_citations_data/4a_parsed.json")
-IGNORED_PATH = Path("jsl_citations_data/4a_ignored.txt")
-ERRORS_PATH = Path("jsl_citations_data/4a_parse_errors.txt")
+INPUT_PATH = Path("jsl_citations_data/5a_with_authors.json")
+OUTPUT_PATH = Path("jsl_citations_data/5a_parsed.json")
+IGNORED_PATH = Path("jsl_citations_data/5a_ignored.txt")
+ERRORS_PATH = Path("jsl_citations_data/5a_parse_errors.txt")
 
 
 SPECIAL = str.maketrans({

@@ -10,10 +10,10 @@ from difflib import SequenceMatcher
 
 # --- CONFIGURATION ---
 WORKS_FILE = "databases/works.json"
-JSL_CITATIONS_FILE = "jsl_citations_data/jsl_citations.json"
+JSL_CITATIONS_FILE = "jsl_citations_data/1_jsl_citations_cleaned.json"
 OUTPUT_FILE = "jsl_citations_data/jsl_citations_resolved.json"
-RESOLVED_REFERENCES_FILE = "jsl_citations_data/1a_resolved.json"
-UNRESOLVED_REFERENCES_FILE = "jsl_citations_data/1b_unresolved.json"
+RESOLVED_REFERENCES_FILE = "jsl_citations_data/2a_resolved.json"
+UNRESOLVED_REFERENCES_FILE = "jsl_citations_data/2b_unresolved.json"
 
 # Multilingual stop words list to remove noise from titles/citations
 STOP_WORDS = {

@@ -1,11 +1,11 @@
 # ============================================================
-# stripping_internal_references/strip_internal_refs.py
+# jsl_citations_pipeline/1_strip_internal_refs.py
 # Remove internal back-references from citation data.
 # ============================================================
 """
-strip_internal_refs.py
+1_strip_internal_refs.py
 -----------------------
-Removes internal back-references from jsl_citations.json.
+Removes internal back-references from 0_jsl_citations_before_stripping.json.
 
 What counts as internal:
   [N] / Name [N] / [N, p. X]   — numbered bibliography back-refs
@@ -21,13 +21,13 @@ Kept ibid. cases:
 [N] kept when vol+year follows it    → bibliography-list entries (e.g. [1] Title, J., vol. 5 (1930))
 
 Usage:
-    python3 strip_internal_refs.py [input.json] [output.json]
+    python3 1_strip_internal_refs.py [input.json] [output.json]
 
 Defaults:
-    input  = jsl_citations.json
-    output = jsl_citations_cleaned.json
+    input  = jsl_citations_data/0_jsl_citations_before_stripping.json
+    output = jsl_citations_data/1_jsl_citations_cleaned.json
 
-A removal log is always written to  strip_internal_refs_log.txt
+A removal log is always written to  jsl_citations_data/1_strip_internal_refs_log.txt
 """
 
 import json
@@ -105,11 +105,9 @@ def classify(ref: str) -> str:
 # ── main ─────────────────────────────────────────────────────────────────────
 
 def main():
-    input_path  = Path(sys.argv[1]) if len(sys.argv) > 1 else Path('jsl_citations_data/jsl_citations.json')
-    output_path = Path(sys.argv[2]) if len(sys.argv) > 2 else input_path.with_name(
-        input_path.stem + '_cleaned.json'
-    )
-    log_path = Path('jsl_citations_data/strip_internal_refs_log.txt')
+    input_path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path('jsl_citations_data/0_jsl_citations_before_stripping.json')
+    output_path = Path(sys.argv[2]) if len(sys.argv) > 2 else Path('jsl_citations_data/1_jsl_citations_cleaned.json')
+    log_path = Path('jsl_citations_data/1_strip_internal_refs_log.txt')
 
     print(f'Reading  {input_path}')
     with open(input_path, encoding='utf-8') as f:

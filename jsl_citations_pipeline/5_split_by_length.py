@@ -2,10 +2,10 @@ import json
 from pathlib import Path
 
 
-src = Path("jsl_citations_data/2b_unresolved.json")
-less_than_25_path = Path("jsl_citations_data/3a_less_than_25.json")
-between_25_and_43_path = Path("jsl_citations_data/3b_between_25_and_43.json")
-more_than_43_path = Path("jsl_citations_data/3c_more_than_43.json")
+src = Path("jsl_citations_data/3b_unresolved.json")
+less_than_25_path = Path("jsl_citations_data/4a_less_than_25.json")
+between_25_and_43_path = Path("jsl_citations_data/4b_between_25_and_43.json")
+more_than_43_path = Path("jsl_citations_data/4c_more_than_43.json")
 
 
 items = json.loads(src.read_text(encoding="utf-8"))

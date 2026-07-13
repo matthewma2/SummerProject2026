@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Classify and parse jsl_citations_data/4b_no_authors.json.
+"""Classify and parse jsl_citations_data/5b_no_authors.json.
 
 This stage handles the references that did not have an obvious leading author
 in earlier passes. It first tries to recover missed author prefixes, then tries
@@ -14,17 +14,17 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 
-BASE_PARSER_PATH = Path("jsl_citations_pipeline/3_parsing_unresolved_works.py")
-AUTHOR_HELPERS_PATH = Path("jsl_citations_pipeline/6_parse_4a_with_authors.py")
-INPUT_PATH = Path("jsl_citations_data/4b_no_authors.json")
+BASE_PARSER_PATH = Path("jsl_citations_pipeline/4_parsing_unresolved_works.py")
+AUTHOR_HELPERS_PATH = Path("jsl_citations_pipeline/7_parse_5a_with_authors.py")
+INPUT_PATH = Path("jsl_citations_data/5b_no_authors.json")
 WORKS_PATH = Path("databases/works.json")
 
-PARSED_PATH = Path("jsl_citations_data/4b_parsed.json")
-CLASSIFIED_PATH = Path("jsl_citations_data/4b_classified.json")
-CONTEXTUAL_PATH = Path("jsl_citations_data/4b_contextual_references.json")
-FRAGMENTS_PATH = Path("jsl_citations_data/4b_fragments.json")
-UNRESOLVED_PATH = Path("jsl_citations_data/4b_unresolved_after_parse.json")
-ERRORS_PATH = Path("jsl_citations_data/4b_parse_errors.txt")
+PARSED_PATH = Path("jsl_citations_data/5b_parsed.json")
+CLASSIFIED_PATH = Path("jsl_citations_data/5b_classified.json")
+CONTEXTUAL_PATH = Path("jsl_citations_data/5b_contextual_references.json")
+FRAGMENTS_PATH = Path("jsl_citations_data/5b_fragments.json")
+UNRESOLVED_PATH = Path("jsl_citations_data/5b_unresolved_after_parse.json")
+ERRORS_PATH = Path("jsl_citations_data/5b_parse_errors.txt")
 
 
 def load_definitions(path, stop_marker=None):
