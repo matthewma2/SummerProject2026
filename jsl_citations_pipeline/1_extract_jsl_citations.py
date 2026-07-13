@@ -9,11 +9,11 @@ import unicodedata
 from difflib import SequenceMatcher
 
 # --- CONFIGURATION ---
-WORKS_FILE = "active_data/works.json"
-JSL_CITATIONS_FILE = "active_data/jsl_citations.json"
-OUTPUT_FILE = "active_data/jsl_citations_resolved.json"
-RESOLVED_REFERENCES_FILE = "active_data/1a_resolved.json"
-UNRESOLVED_REFERENCES_FILE = "active_data/1b_unresolved.json"
+WORKS_FILE = "databases/works.json"
+JSL_CITATIONS_FILE = "jsl_citations_data/jsl_citations.json"
+OUTPUT_FILE = "jsl_citations_data/jsl_citations_resolved.json"
+RESOLVED_REFERENCES_FILE = "jsl_citations_data/1a_resolved.json"
+UNRESOLVED_REFERENCES_FILE = "jsl_citations_data/1b_unresolved.json"
 
 # Multilingual stop words list to remove noise from titles/citations
 STOP_WORDS = {

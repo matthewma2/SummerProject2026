@@ -241,9 +241,9 @@ def extract_matches_from_text(pdf_path, authors_file_path, works_file_path, wind
 def parse_args():
     parser = argparse.ArgumentParser(description='Extract name and title matches from a PDF.')
     parser.add_argument('--pdf', default='/Users/matthewma/Downloads/Chadwick-LogicalConstants-1927.pdf', help='Path to the PDF file to scan.')
-    parser.add_argument('--authors', default='active_data/authors.json', help='Path to the authors JSON file.')
-    parser.add_argument('--works', default='active_data/works.json', help='Path to the works JSON file.')
-    parser.add_argument('--output', default='active_data/extracted_mind_citations.json', help='Path to write the JSON output.')
+    parser.add_argument('--authors', default='databases/authors.json', help='Path to the authors JSON file.')
+    parser.add_argument('--works', default='databases/works.json', help='Path to the works JSON file.')
+    parser.add_argument('--output', default='jsl_citations_data/extracted_mind_citations.json', help='Path to write the JSON output.')
     parser.add_argument('--window', type=int, default=80, help='Characters before and after each match.')
     return parser.parse_args()
 

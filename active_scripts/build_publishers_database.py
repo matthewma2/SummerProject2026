@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 
 
-OUTPUT_PATH = Path("active_data/publishers.json")
+OUTPUT_PATH = Path("databases/publishers.json")
 
 
 PUBLISHERS = [

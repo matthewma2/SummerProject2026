@@ -105,11 +105,11 @@ def classify(ref: str) -> str:
 # ── main ─────────────────────────────────────────────────────────────────────
 
 def main():
-    input_path  = Path(sys.argv[1]) if len(sys.argv) > 1 else Path('active_data/jsl_citations.json')
+    input_path  = Path(sys.argv[1]) if len(sys.argv) > 1 else Path('jsl_citations_data/jsl_citations.json')
     output_path = Path(sys.argv[2]) if len(sys.argv) > 2 else input_path.with_name(
         input_path.stem + '_cleaned.json'
     )
-    log_path = Path('active_data/strip_internal_refs_log.txt')
+    log_path = Path('jsl_citations_data/strip_internal_refs_log.txt')
 
     print(f'Reading  {input_path}')
     with open(input_path, encoding='utf-8') as f:

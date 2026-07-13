@@ -102,7 +102,7 @@ def process_bibliography(authors_file, works_file, output_file):
 
 if __name__ == "__main__":
     # File targets derived from project architecture
-    AUTHORS_DB_PATH = "active_data/authors.json"
+    AUTHORS_DB_PATH = "databases/authors.json"
     WORKS_SOURCE_PATH = "addendum_works.json"
     RESOLVED_OUTPUT_PATH = "resolved_addendum_works.json"
 

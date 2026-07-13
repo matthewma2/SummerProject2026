@@ -3,11 +3,11 @@ import re
 import unicodedata
 from pathlib import Path
 
-src = Path("active_data/3c_more_than_43.json")
-authors_path = Path("active_data/authors.json")
+src = Path("jsl_citations_data/3c_more_than_43.json")
+authors_path = Path("databases/authors.json")
 
-with_author_path = Path("active_data/4a_with_authors.json")
-without_author_path = Path("active_data/4b_no_authors.json")
+with_author_path = Path("jsl_citations_data/4a_with_authors.json")
+without_author_path = Path("jsl_citations_data/4b_no_authors.json")
 
 items = json.loads(src.read_text(encoding="utf-8"))
 authors = json.loads(authors_path.read_text(encoding="utf-8"))

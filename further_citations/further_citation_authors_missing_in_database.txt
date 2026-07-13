@@ -1,4 +1,4 @@
-# Unique author strings from active_data/further_citations.txt not found in active_data/authors.json
+# Unique author strings from jsl_citations_data/further_citations.txt not found in databases/authors.json
 # Total unique missing authors: 4067
 
 /R. B. BRAITHWAITE

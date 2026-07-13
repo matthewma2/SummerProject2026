@@ -1,194 +1,194 @@
 This is BibTeX, Version 0.99d (TeX Live 2023)
 The top-level auxiliary file: bibliography-of-works.aux
 The style file: plain.bst
-Database file #1: ../active_data/works.bib
+Database file #1: ../jsl_citations_data/works.bib
 Warning--entry type for "Peirce1901a" isn't style-file defined
---line 3973 of file ../active_data/works.bib
+--line 3973 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Peirce1902a" isn't style-file defined
---line 4199 of file ../active_data/works.bib
+--line 4199 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Peirce1902b" isn't style-file defined
---line 4207 of file ../active_data/works.bib
+--line 4207 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Peirce1902c" isn't style-file defined
---line 4214 of file ../active_data/works.bib
+--line 4214 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Brouwer1907a" isn't style-file defined
---line 5631 of file ../active_data/works.bib
+--line 5631 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Krienelke1909a" isn't style-file defined
---line 6236 of file ../active_data/works.bib
+--line 6236 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Grelling1910a" isn't style-file defined
---line 6453 of file ../active_data/works.bib
+--line 6453 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Rostow1910a" isn't style-file defined
---line 6581 of file ../active_data/works.bib
-I was expecting a `,' or a `}'---line 12567 of file ../active_data/works.bib
+--line 6581 of file ../jsl_citations_data/works.bib
+I was expecting a `,' or a `}'---line 12567 of file ../jsl_citations_data/works.bib
  : 
  : @article{Herbrand1929a,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 25322 of file ../active_data/works.bib
+Repeated entry---line 25322 of file ../jsl_citations_data/works.bib
  : @article{Dubislav1931a
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 25435 of file ../active_data/works.bib
+Repeated entry---line 25435 of file ../jsl_citations_data/works.bib
  : @book{Stebbing1933a
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 25452 of file ../active_data/works.bib
+Repeated entry---line 25452 of file ../jsl_citations_data/works.bib
  : @book{Lukasiewicz1913a
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 25520 of file ../active_data/works.bib
+Repeated entry---line 25520 of file ../jsl_citations_data/works.bib
  : @article{Carnap1931a
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 25565 of file ../active_data/works.bib
+Repeated entry---line 25565 of file ../jsl_citations_data/works.bib
  : @article{Gonseth1932a
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 25592 of file ../active_data/works.bib
+Repeated entry---line 25592 of file ../jsl_citations_data/works.bib
  : @article{Cassina1933a
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 25610 of file ../active_data/works.bib
+Repeated entry---line 25610 of file ../jsl_citations_data/works.bib
  : @article{Wajsberg1935a
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 25679 of file ../active_data/works.bib
+Repeated entry---line 25679 of file ../jsl_citations_data/works.bib
  : @article{Russell1903a
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 25750 of file ../active_data/works.bib
+Repeated entry---line 25750 of file ../jsl_citations_data/works.bib
  : @article{Gonseth1934a
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26008 of file ../active_data/works.bib
+Repeated entry---line 26008 of file ../jsl_citations_data/works.bib
  : @article{Ajdukiewicz1927a
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26115 of file ../active_data/works.bib
+Repeated entry---line 26115 of file ../jsl_citations_data/works.bib
  : @article{Ajdukiewicz1926a
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26133 of file ../active_data/works.bib
+Repeated entry---line 26133 of file ../jsl_citations_data/works.bib
  : @misc{Husserl1891a
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26235 of file ../active_data/works.bib
+Repeated entry---line 26235 of file ../jsl_citations_data/works.bib
  : @misc{Nagel1935a
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26318 of file ../active_data/works.bib
+Repeated entry---line 26318 of file ../jsl_citations_data/works.bib
  : @article{Czezowski1918a
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26353 of file ../active_data/works.bib
+Repeated entry---line 26353 of file ../jsl_citations_data/works.bib
  : @misc{Stebbing1931a
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26394 of file ../active_data/works.bib
+Repeated entry---line 26394 of file ../jsl_citations_data/works.bib
  : @article{Land1876a
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26470 of file ../active_data/works.bib
+Repeated entry---line 26470 of file ../jsl_citations_data/works.bib
  : @misc{Maccoll1900a
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26478 of file ../active_data/works.bib
+Repeated entry---line 26478 of file ../jsl_citations_data/works.bib
  : @misc{Peano1900a
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26494 of file ../active_data/works.bib
+Repeated entry---line 26494 of file ../jsl_citations_data/works.bib
  : @misc{Padoa1900a
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26502 of file ../active_data/works.bib
+Repeated entry---line 26502 of file ../jsl_citations_data/works.bib
  : @misc{Poretsky1900a
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26526 of file ../active_data/works.bib
+Repeated entry---line 26526 of file ../jsl_citations_data/works.bib
  : @article{Hilbert1919a
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26544 of file ../active_data/works.bib
+Repeated entry---line 26544 of file ../jsl_citations_data/works.bib
  : @article{Langford1926a
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26767 of file ../active_data/works.bib
+Repeated entry---line 26767 of file ../jsl_citations_data/works.bib
  : @article{Russell1928a
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26821 of file ../active_data/works.bib
+Repeated entry---line 26821 of file ../jsl_citations_data/works.bib
  : @misc{DeMorgan1860a
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26869 of file ../active_data/works.bib
+Repeated entry---line 26869 of file ../jsl_citations_data/works.bib
  : @article{Pieri1906a
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 26905 of file ../active_data/works.bib
+Repeated entry---line 26905 of file ../jsl_citations_data/works.bib
  : @misc{Jourdain1915a
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27005 of file ../active_data/works.bib
+Repeated entry---line 27005 of file ../jsl_citations_data/works.bib
  : @article{Peirce1903a
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27014 of file ../active_data/works.bib
+Repeated entry---line 27014 of file ../jsl_citations_data/works.bib
  : @article{Couturat1906a
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27113 of file ../active_data/works.bib
+Repeated entry---line 27113 of file ../jsl_citations_data/works.bib
  : @article{Couturat1914a
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27218 of file ../active_data/works.bib
+Repeated entry---line 27218 of file ../jsl_citations_data/works.bib
  : @book{Nicod1924a
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27266 of file ../active_data/works.bib
+Repeated entry---line 27266 of file ../jsl_citations_data/works.bib
  : @article{Smart1925a
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27490 of file ../active_data/works.bib
+Repeated entry---line 27490 of file ../jsl_citations_data/works.bib
  : @article{Russell1930a
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27542 of file ../active_data/works.bib
+Repeated entry---line 27542 of file ../jsl_citations_data/works.bib
  : @article{Weyl1931a
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27576 of file ../active_data/works.bib
+Repeated entry---line 27576 of file ../jsl_citations_data/works.bib
  : @article{Dassen1933a
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27603 of file ../active_data/works.bib
+Repeated entry---line 27603 of file ../jsl_citations_data/works.bib
  : @book{Bell1934a
  :                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27625 of file ../active_data/works.bib
+Repeated entry---line 27625 of file ../jsl_citations_data/works.bib
  : @incollection{Levi1934a
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27650 of file ../active_data/works.bib
+Repeated entry---line 27650 of file ../jsl_citations_data/works.bib
  : @article{Carnap1934a
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27668 of file ../active_data/works.bib
+Repeated entry---line 27668 of file ../jsl_citations_data/works.bib
  : @article{Carnap1934b
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27720 of file ../active_data/works.bib
+Repeated entry---line 27720 of file ../jsl_citations_data/works.bib
  : @article{Bell1935a
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27729 of file ../active_data/works.bib
+Repeated entry---line 27729 of file ../jsl_citations_data/works.bib
  : @article{Reiser1935a
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 27756 of file ../active_data/works.bib
+Repeated entry---line 27756 of file ../jsl_citations_data/works.bib
  : @article{McKinsey1935a
  :                       ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "MacNeille1937a" isn't style-file defined
---line 28449 of file ../active_data/works.bib
+--line 28449 of file ../jsl_citations_data/works.bib
 Warning--empty publisher in Ajdukiewicz1921a
 Warning--empty publisher in Ajdukiewicz1928b
 Warning--empty publisher in Amodeo1900a

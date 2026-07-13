@@ -3,7 +3,7 @@
 # active_scripts/works_to_bib.py
 # Convert works data into BibTeX entries for bibliography use.
 # ============================================================
-"""Convert active_data/works.json records to BibTeX using author mapping."""
+"""Convert databases/works.json records to BibTeX using author mapping."""
 
 from __future__ import annotations
 
@@ -203,32 +203,32 @@ def parse_args() -> argparse.Namespace:
         description="Convert works.json records to a BibTeX .bib file."
     )
     
-    # Safe multi-level traversal: active_scripts/works_to_bib.py -> parent -> parent -> active_data/
+    # Safe multi-level traversal: active_scripts/works_to_bib.py -> project root.
     project_root = Path(__file__).resolve().parent.parent
     
-    default_input = project_root / "active_data" / "works.json"
-    default_authors = project_root / "active_data" / "authors.json"
-    default_output = project_root / "active_data" / "works.bib"
+    default_input = project_root / "databases" / "works.json"
+    default_authors = project_root / "databases" / "authors.json"
+    default_output = project_root / "jsl_citations_data" / "works.bib"
     
     parser.add_argument(
         "input",
         nargs="?",
         type=Path,
         default=default_input,
-        help="Input JSON file. Defaults to active_data/works.json.",
+        help="Input JSON file. Defaults to databases/works.json.",
     )
     parser.add_argument(
         "--authors",
         type=Path,
         default=default_authors,
-        help="Authors map JSON file. Defaults to active_data/authors.json.",
+        help="Authors map JSON file. Defaults to databases/authors.json.",
     )
     parser.add_argument(
         "output",
         nargs="?",
         type=Path,
         default=default_output,
-        help="Output BibTeX file. Defaults to active_data/works.bib.",
+        help="Output BibTeX file. Defaults to jsl_citations_data/works.bib.",
     )
     return parser.parse_args()
 

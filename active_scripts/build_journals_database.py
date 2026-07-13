@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build active_data/journals.json from journal fields in works.json."""
+"""Build databases/journals.json from journal fields in works.json."""
 
 import json
 import re
@@ -8,8 +8,8 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 
-WORKS_PATH = Path("active_data/works.json")
-OUTPUT_PATH = Path("active_data/journals.json")
+WORKS_PATH = Path("databases/works.json")
+OUTPUT_PATH = Path("databases/journals.json")
 MIN_TOTAL_COUNT = 5
 
 

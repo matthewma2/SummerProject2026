@@ -2,9 +2,9 @@ import json
 import re
 from pathlib import Path
 
-src = Path("active_data/1b_unresolved.json")
-all_caps_path = Path("active_data/2a_all_caps_authors.json")
-rest_path = Path("active_data/2b_unresolved.json")
+src = Path("jsl_citations_data/1b_unresolved.json")
+all_caps_path = Path("jsl_citations_data/2a_all_caps_authors.json")
+rest_path = Path("jsl_citations_data/2b_unresolved.json")
 
 items = json.loads(src.read_text(encoding="utf-8"))
 

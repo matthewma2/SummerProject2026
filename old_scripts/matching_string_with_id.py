@@ -7,9 +7,9 @@ import json
 import re
 
 # --- CONFIGURATION ---
-WORKS_FILE = "active_data/works.json"
-JSL_CITATIONS_FILE = "active_data/jsl_citations_1936.json"
-OUTPUT_FILE = "active_data/jsl_citations_1936_resolved.json"
+WORKS_FILE = "databases/works.json"
+JSL_CITATIONS_FILE = "jsl_citations_data/jsl_citations_1936.json"
+OUTPUT_FILE = "jsl_citations_data/jsl_citations_1936_resolved.json"
 
 # Multilingual stop words list to remove noise from titles/citations
 STOP_WORDS = {

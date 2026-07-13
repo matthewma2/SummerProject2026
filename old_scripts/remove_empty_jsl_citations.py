@@ -12,9 +12,9 @@ from pathlib import Path
 
 
 def main() -> None:
-    root = Path(__file__).resolve().parent
-    file_path = root / "active_data" / "jsl_citations.json"
-    backup_path = root / "active_data" / "jsl_citations.json.bak"
+    root = Path(__file__).resolve().parent.parent
+    file_path = root / "jsl_citations_data" / "jsl_citations.json"
+    backup_path = root / "jsl_citations_data" / "jsl_citations.json.bak"
 
     with file_path.open("r", encoding="utf-8") as handle:
         entries = json.load(handle)

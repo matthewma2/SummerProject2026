@@ -2,7 +2,7 @@
 """Resolve short 3b "this JOURNAL" fragments through Google search.
 
 The script extracts references such as "this JOURNAL, vol. 15, p. 141" from
-active_data/3b_between_25_and_43.json, rewrites them as Journal of Symbolic
+jsl_citations_data/3b_between_25_and_43.json, rewrites them as Journal of Symbolic
 Logic searches, and queries Google Custom Search when GOOGLE_API_KEY and
 GOOGLE_CSE_ID are set.
 
@@ -21,11 +21,11 @@ import urllib.request
 from pathlib import Path
 
 
-INPUT_PATH = Path("active_data/3b_between_25_and_43.json")
-RESOLVED_PATH = Path("active_data/3b_google_resolved_this_journal.json")
-UNRESOLVED_PATH = Path("active_data/3b_google_unresolved_this_journal.json")
-AUDIT_PATH = Path("active_data/3b_google_this_journal_audit.json")
-QUERY_PATH = Path("active_data/3b_google_this_journal_queries.json")
+INPUT_PATH = Path("jsl_citations_data/3b_between_25_and_43.json")
+RESOLVED_PATH = Path("jsl_citations_data/3b_google_resolved_this_journal.json")
+UNRESOLVED_PATH = Path("jsl_citations_data/3b_google_unresolved_this_journal.json")
+AUDIT_PATH = Path("jsl_citations_data/3b_google_this_journal_audit.json")
+QUERY_PATH = Path("jsl_citations_data/3b_google_this_journal_queries.json")
 
 
 ROMAN = {

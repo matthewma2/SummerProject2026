@@ -208,8 +208,8 @@ def process_citations(batch_file_path, authors_file_path, works_file_path, outpu
 # Run the routine
 if __name__ == "__main__":
     process_citations(
-        batch_file_path="active_data/new_batch.json", 
-        authors_file_path="active_data/authors.json", 
-        works_file_path="active_data/works.json", 
-        output_file_path="active_data/processed_batch.json"
+        batch_file_path="jsl_citations_data/new_batch.json", 
+        authors_file_path="databases/authors.json", 
+        works_file_path="databases/works.json", 
+        output_file_path="jsl_citations_data/processed_batch.json"
     )

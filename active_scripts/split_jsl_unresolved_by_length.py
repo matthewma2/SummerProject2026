@@ -29,7 +29,7 @@ if __name__ == "__main__":
         "source",
         type=Path,
         nargs="?",
-        default=Path("active_data/jsl_unresolved_reference_strings_rest_with_author.json"),
+        default=Path("jsl_citations_data/jsl_unresolved_reference_strings_rest_with_author.json"),
         help="Path to the source JSON file containing a list of strings.",
     )
     parser.add_argument(
@@ -41,7 +41,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("active_data"),
+        default=Path("jsl_citations_data"),
         help="Directory to write the output files.",
     )
 

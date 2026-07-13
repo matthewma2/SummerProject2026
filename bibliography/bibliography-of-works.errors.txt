@@ -1,45 +1,45 @@
 This is BibTeX, Version 0.99d (TeX Live 2023)
 The top-level auxiliary file: bibliography-of-works.aux
 The style file: apalike.bst
-Database file #1: ../active_data/works.bib
+Database file #1: ../jsl_citations_data/works.bib
 Warning--entry type for "Peirce1901a" isn't style-file defined
---line 940 of file ../active_data/works.bib
+--line 940 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Peirce1902a" isn't style-file defined
---line 948 of file ../active_data/works.bib
+--line 948 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Peirce1902b" isn't style-file defined
---line 956 of file ../active_data/works.bib
+--line 956 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Peirce1902c" isn't style-file defined
---line 963 of file ../active_data/works.bib
+--line 963 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Brouwer1907a" isn't style-file defined
---line 7090 of file ../active_data/works.bib
+--line 7090 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Krienelke1909a" isn't style-file defined
---line 7888 of file ../active_data/works.bib
+--line 7888 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Grelling1910a" isn't style-file defined
---line 8240 of file ../active_data/works.bib
+--line 8240 of file ../jsl_citations_data/works.bib
 Warning--entry type for "Roestow1910a" isn't style-file defined
---line 8301 of file ../active_data/works.bib
-Repeated entry---line 9597 of file ../active_data/works.bib
+--line 8301 of file ../jsl_citations_data/works.bib
+Repeated entry---line 9597 of file ../jsl_citations_data/works.bib
  : @article{Konig1914a
  :                    ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 13537 of file ../active_data/works.bib
+I was expecting a `,' or a `}'---line 13537 of file ../jsl_citations_data/works.bib
  : 
  : @article{Harlen1930a,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 15430 of file ../active_data/works.bib
+Repeated entry---line 15430 of file ../jsl_citations_data/works.bib
  : @article{Lukasiewicz1930a
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16458 of file ../active_data/works.bib
+Repeated entry---line 16458 of file ../jsl_citations_data/works.bib
  : @book{Lewis1932a
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16719 of file ../active_data/works.bib
+Repeated entry---line 16719 of file ../jsl_citations_data/works.bib
  : @book{Scholz1933a
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 17673 of file ../active_data/works.bib
+Repeated entry---line 17673 of file ../jsl_citations_data/works.bib
  : @book{Scholz1935a
  :                  ,
 I'm skipping whatever remains of this entry

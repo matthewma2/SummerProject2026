@@ -14,8 +14,8 @@ from pathlib import Path
 
 def main() -> None:
     root = Path(__file__).resolve().parent.parent
-    input_path = root / "active_data" / "jsl_citations.json"
-    output_path = root / "active_data" / "jsl_citations_1936.json"
+    input_path = root / "jsl_citations_data" / "jsl_citations.json"
+    output_path = root / "jsl_citations_data" / "jsl_citations_1936.json"
 
     with input_path.open("r", encoding="utf-8") as handle:
         entries = json.load(handle)
