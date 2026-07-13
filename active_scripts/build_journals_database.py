@@ -70,6 +70,7 @@ ABBREVIATIONS = {
 MANUAL_CANONICAL = {
     "the journal of symbolic logic": "The Journal of Symbolic Logic",
     "journal of symbolic logic": "The Journal of Symbolic Logic",
+    "journal symbolic logic": "The Journal of Symbolic Logic",
     "mind": "Mind",
     "the monist": "The Monist",
     "monist": "The Monist",
@@ -85,6 +86,7 @@ MANUAL_CANONICAL = {
     "american journal of mathematics": "American Journal of Mathematics",
     "annals of mathematics": "Annals of Mathematics",
     "annals of math": "Annals of Mathematics",
+    "annals mathematics": "Annals of Mathematics",
     "fund math": "Fundamenta Mathematicae",
     "fundamenta mathematicae": "Fundamenta Mathematicae",
     "monatsh math phys": "Monatshefte für Mathematik und Physik",
@@ -106,6 +108,7 @@ MANUAL_CANONICAL = {
     "the philosophical review": "The Philosophical Review",
     "philosophical review": "The Philosophical Review",
     "philosophy of science": "Philosophy of Science",
+    "philosophy science": "Philosophy of Science",
     "proc london math soc": "Proceedings of the London Mathematical Society",
     "proceedings of the london mathematical society": "Proceedings of the London Mathematical Society",
     "proceedings of the cambridge philosophical society": "Proceedings of the Cambridge Philosophical Society",
@@ -217,10 +220,12 @@ def build_journals(works):
 
         canonical = display_name(data["raw_values"])
         raw_counts = Counter(data["raw_values"])
-        aliases = [
-            value for value, _ in raw_counts.most_common()
-            if value != canonical
-        ]
+        aliases = []
+        canonical_key = base_normalize(canonical)
+        for value, _ in raw_counts.most_common():
+            if base_normalize(value) == canonical_key:
+                continue
+            aliases.append(value)
         journals.append({
             "journal": canonical,
             "aliases": aliases,

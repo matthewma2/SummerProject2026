@@ -962,10 +962,10 @@ print(f"CrossRef API calls made: {crossref_calls}", file=sys.stderr)
 # 10. OUTPUT
 # ─────────────────────────────────────────────
 
-with open('active_data/section1_parsed.json', 'w', encoding='utf-8') as f:
+with open('active_data/2a_parsed.json', 'w', encoding='utf-8') as f:
     json.dump(parsed, f, ensure_ascii=False, indent=2)
 
-with open('active_data/section2_ignored.txt', 'w', encoding='utf-8') as f:
+with open('active_data/2a_ignored.txt', 'w', encoding='utf-8') as f:
     for raw, reason in ignored:
         f.write(f'- "{raw}" [{reason}]\n')
 

@@ -11,18 +11,14 @@
   },
   {
     "journal": "The Monist",
-    "aliases": [
-      "The monist"
-    ],
+    "aliases": [],
     "total_count": 80
   },
   {
     "journal": "Przegląd Filozoficzny",
     "aliases": [
       "Przegl. fil",
-      "Przegląd filozoficzny",
-      "Przegl.fil",
-      "Przegląd filozoficzny (Warsaw)"
+      "Przegl.fil"
     ],
     "total_count": 75
   },
@@ -37,7 +33,6 @@
     "journal": "Revue de Métaphysique et de Morale",
     "aliases": [
       "Rev. métaph. mor",
-      "Revue de métaphysique et de morale",
       "Rev. metaph. mor",
       "Rev. Métaph. Mor"
     ],
@@ -66,9 +61,7 @@
     "journal": "Journal of Philosophy",
     "aliases": [
       "Jour. philos",
-      "The Journal of Philosophy",
       "Jour, philos",
-      "The journal of philosophy",
       "Jour. Philos"
     ],
     "total_count": 46
@@ -76,17 +69,14 @@
   {
     "journal": "L'Enseignement Mathématique",
     "aliases": [
-      "L'Ens. math",
-      "L'Enseignement mathématique"
+      "L'Ens. math"
     ],
     "total_count": 39
   },
   {
     "journal": "Journal of Philosophy, Psychology and Scientific Methods",
     "aliases": [
-      "Jour. philos. etc",
-      "The journal of philosophy, psychology, and scientific methods",
-      "The Journal of Philosophy, Psychology and Scientific Methods"
+      "Jour. philos. etc"
     ],
     "total_count": 33
   },
@@ -94,7 +84,6 @@
     "journal": "Fundamenta Mathematicae",
     "aliases": [
       "Fund. math",
-      "Fundamenta mathematicae",
       "Fund, math",
       "Fund. Math"
     ],
@@ -102,18 +91,12 @@
   },
   {
     "journal": "The Philosophical Review",
-    "aliases": [
-      "The philosophical review"
-    ],
+    "aliases": [],
     "total_count": 31
   },
   {
     "journal": "Rev. de math. (Riv. di mat)",
-    "aliases": [
-      "Rev. de math. (Riv. di mat.)",
-      "Rev. de math",
-      "Rev. de. math"
-    ],
+    "aliases": [],
     "total_count": 30
   },
   {
@@ -125,8 +108,7 @@
     "journal": "American Journal of Mathematics",
     "aliases": [
       "Amer. jour. math",
-      "Amer. Jour. Math",
-      "American journal of mathematics"
+      "Amer. Jour. Math"
     ],
     "total_count": 25
   },
@@ -143,17 +125,13 @@
     "total_count": 24
   },
   {
-    "journal": "Annals of mathematics",
-    "aliases": [
-      "Annals of Mathematics"
-    ],
+    "journal": "Annals of Mathematics",
+    "aliases": [],
     "total_count": 21
   },
   {
     "journal": "Philosophy of Science",
-    "aliases": [
-      "Philosophy of science"
-    ],
+    "aliases": [],
     "total_count": 21
   },
   {
@@ -172,9 +150,7 @@
   },
   {
     "journal": "Riv. di mat",
-    "aliases": [
-      "Riv. di. mat"
-    ],
+    "aliases": [],
     "total_count": 19
   },
   {
@@ -186,25 +162,17 @@
   },
   {
     "journal": "\"Scientia\" (Rivista di scienza)",
-    "aliases": [
-      "\"Scientia,\"",
-      "Scientia",
-      "'Scientia,'"
-    ],
+    "aliases": [],
     "total_count": 17
   },
   {
     "journal": "Atti Accad. Torino",
-    "aliases": [
-      "Atti. Accad. Torino"
-    ],
+    "aliases": [],
     "total_count": 15
   },
   {
     "journal": "The American Mathematical Monthly",
-    "aliases": [
-      "The American mathematical monthly"
-    ],
+    "aliases": [],
     "total_count": 15
   },
   {
@@ -224,9 +192,7 @@
   },
   {
     "journal": "Ruch filozoficzny (Lwów)",
-    "aliases": [
-      "Ruch filozoficzny"
-    ],
+    "aliases": [],
     "total_count": 13
   },
   {
@@ -246,12 +212,7 @@
   },
   {
     "journal": "Revue philosophique de la France et de l'Etranger",
-    "aliases": [
-      "Revue philosophique de la France et de l'Étranger",
-      "Revue philosophique de la France et de l'étranger",
-      "Revue philosophique de la France et de l'etranger",
-      "Revue Philosophique de la France et de l'Étranger"
-    ],
+    "aliases": [],
     "total_count": 12
   },
   {
@@ -261,9 +222,7 @@
   },
   {
     "journal": "Scripta mathematica",
-    "aliases": [
-      "Scripta Mathematica"
-    ],
+    "aliases": [],
     "total_count": 10
   },
   {
@@ -273,9 +232,7 @@
   },
   {
     "journal": "Isis (Bruges)",
-    "aliases": [
-      "Isis"
-    ],
+    "aliases": [],
     "total_count": 9
   },
   {
@@ -285,10 +242,7 @@
   },
   {
     "journal": "Recherches Philosophiques (Paris)",
-    "aliases": [
-      "Recherches philosophiques",
-      "Recherches Philosophiques"
-    ],
+    "aliases": [],
     "total_count": 9
   },
   {
@@ -325,9 +279,7 @@
   },
   {
     "journal": "El progreso matematico (Saragossa)",
-    "aliases": [
-      "El progreso matemático"
-    ],
+    "aliases": [],
     "total_count": 8
   },
   {
@@ -364,9 +316,7 @@
   },
   {
     "journal": "The mathematical gazette",
-    "aliases": [
-      "The Mathematical Gazette"
-    ],
+    "aliases": [],
     "total_count": 7
   },
   {
@@ -376,9 +326,7 @@
   },
   {
     "journal": "Blätter für deutsche Philosophie",
-    "aliases": [
-      "Blatter fur deutsche Philosophie"
-    ],
+    "aliases": [],
     "total_count": 6
   },
   {
@@ -428,9 +376,7 @@
   },
   {
     "journal": "Rev. gén. sci",
-    "aliases": [
-      "Rev. gen. sci"
-    ],
+    "aliases": [],
     "total_count": 5
   },
   {
@@ -440,9 +386,7 @@
   },
   {
     "journal": "Rocznik Polskiego Towarzystwa Matematycznego (Annales de la Sociele Polonaise de Mathima-tique)",
-    "aliases": [
-      "Rocznik Polskiego Towarzystwa Matematycznego (Annales de la Société Polonaise de Mathématique)"
-    ],
+    "aliases": [],
     "total_count": 5
   },
   {
@@ -452,17 +396,12 @@
   },
   {
     "journal": "Studia philosophica (Lwów)",
-    "aliases": [
-      "Studia philosophica",
-      "Studia Philosophica"
-    ],
+    "aliases": [],
     "total_count": 5
   },
   {
     "journal": "The London, Edinburgh, and Dublin philosophical magazine and journal of science",
-    "aliases": [
-      "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science"
-    ],
+    "aliases": [],
     "total_count": 5
   },
   {

@@ -1,0 +1,146 @@
+[
+  {
+    "publisher": "B. G. Teubner",
+    "work_id": "Schroder1877a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "source_note",
+    "context": "Source: Teubner"
+  },
+  {
+    "publisher": "Carl Hinstorffs Verlag",
+    "work_id": "Fechner1927a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "known_publisher_in_notes",
+    "context": "Carl Hinstorffs Verlag, Rostock 1927."
+  },
+  {
+    "publisher": "Clarendon Press",
+    "work_id": "Stace1932a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "known_publisher_in_notes",
+    "context": "Clarendon Press, Oxford 1932. [Cf. XXIV 275(3).]"
+  },
+  {
+    "publisher": "Douglas",
+    "work_id": "Macfarlane1879a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "source_note",
+    "context": "Source: Douglas (Edinburgh)"
+  },
+  {
+    "publisher": "Dr. Benno Filser Verlag",
+    "work_id": "Geiger1924a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "known_publisher_in_notes",
+    "context": "Dr. Benno Filser Verlag, Augsburg 1924."
+  },
+  {
+    "publisher": "Edward Stanford",
+    "work_id": "Jevons1864a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "source_note",
+    "context": "Source: Edward Stanford"
+  },
+  {
+    "publisher": "Félix Alcan",
+    "work_id": "Nicod1924b",
+    "work_type": "book",
+    "field": "notes",
+    "source": "known_publisher_in_notes",
+    "context": "Félix Alcan, Paris 1924."
+  },
+  {
+    "publisher": "Harcourt, Brace & Company",
+    "work_id": "Ogden1923a",
+    "work_type": "book chapter",
+    "field": "notes",
+    "source": "known_publisher_in_notes",
+    "context": "Harcourt, Brace & Company, Inc., New York, and Kegan Paul, Trench, Trubner & Co., Ltd., London, 1923."
+  },
+  {
+    "publisher": "Librairie Armand Colin",
+    "work_id": "Padoa1901a",
+    "work_type": "book chapter",
+    "field": "notes",
+    "source": "known_publisher_in_notes",
+    "context": "Librairie Armand Colin, Paris 1901. Omitted from A bibliography of symbolic logic but historically important as"
+  },
+  {
+    "publisher": "Longmans, Green, Reader & Dyer",
+    "work_id": "Bain1870a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "source_note",
+    "context": "Source: Longmans, Green, Reader & Dyer"
+  },
+  {
+    "publisher": "Macmillan",
+    "work_id": "Jevons1869a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "source_note",
+    "context": "Source: Macmillan"
+  },
+  {
+    "publisher": "Macmillan",
+    "work_id": "Jevons1874a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "source_note",
+    "context": "Source: Macmillan"
+  },
+  {
+    "publisher": "Macmillan",
+    "work_id": "Lewis1930a",
+    "work_type": "book chapter",
+    "field": "notes",
+    "source": "known_publisher_in_notes",
+    "context": "Edited by George P. Adams and Wm. Pepperell Montague, The Macmillan Company, New York 1930."
+  },
+  {
+    "publisher": "Oxford University Press",
+    "work_id": "Conger1931a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "known_publisher_in_notes",
+    "context": "Princeton University Press, Princeton, and Oxford University Press, London, 1931."
+  },
+  {
+    "publisher": "Princeton University Press",
+    "work_id": "Conger1931a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "known_publisher_in_notes",
+    "context": "Princeton University Press, Princeton, and Oxford University Press, London, 1931."
+  },
+  {
+    "publisher": "R. Grassmann",
+    "work_id": "Grassmann1872a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "source_note",
+    "context": "Source: Stettin: R. Grassmann"
+  },
+  {
+    "publisher": "Taylor and Walton",
+    "work_id": "DeMorgan1847a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "source_note",
+    "context": "Source: Taylor and Walton"
+  },
+  {
+    "publisher": "Walton & Maberly",
+    "work_id": "Boole1854a",
+    "work_type": "book",
+    "field": "notes",
+    "source": "source_note",
+    "context": "Source: Walton & Maberly"
+  }
+]
