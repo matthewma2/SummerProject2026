@@ -6,10 +6,9 @@
 # ============================================================
 """
 Parse JSL unresolved bibliographic reference strings into structured JSON.
-Uses CrossRef API for author/metadata enrichment where needed.
 """
 
-import json, re, urllib.request, urllib.parse, urllib.error, time, sys, unicodedata
+import json, re, urllib.request, urllib.parse, time, sys, unicodedata
 
 # ─────────────────────────────────────────────
 # 1. OCR CLEANING
@@ -569,6 +568,17 @@ def extract_authors(text):
         rest = text[m.end():]
         return [normalise_author_string(raw)], rest
 
+    # Prefer the explicit multi-author pattern before the more permissive
+    # token scanner. The scanner treats a comma as the title boundary, while
+    # this pattern can distinguish commas between authors from the final comma
+    # before the title.
+    m = MULTI_CAPS_AUTH_PAT.match(text)
+    if m:
+        raw_block = m.group(1)
+        rest = text[m.end():]
+        if rest and (rest[0].isupper() or rest[0].islower()):
+            return split_author_block(raw_block), rest
+
     caps_block = extract_caps_author_block(text)
     if caps_block:
         raw_block, rest = caps_block
@@ -581,15 +591,6 @@ def extract_authors(text):
         rest = text[m.end():]
         authors = [a.strip() for a in re.split(r'\s+and\s+', raw_block)]
         return authors, rest
-
-    # Try caps+initials multi-author pattern
-    m = MULTI_CAPS_AUTH_PAT.match(text)
-    if m:
-        raw_block = m.group(1)
-        rest = text[m.end():]
-        # Validate: rest should look like a title (starts with capital + lowercase)
-        if rest and (rest[0].isupper() or rest[0].islower()):
-            return split_author_block(raw_block), rest
 
     # Try title-case pattern
     m = MULTI_TC_AUTH_PAT.match(text)
@@ -706,92 +707,8 @@ def extract_additional_info(text):
 
 
 # ─────────────────────────────────────────────
-# 7. CROSSREF API ENRICHMENT
+# 7. OPEN LIBRARY ENRICHMENT
 # ─────────────────────────────────────────────
-
-crossref_cache = {}
-crossref_calls = 0
-MAX_CROSSREF_CALLS = 350
-
-def query_crossref(title, year=None, journal=None):
-    global crossref_calls
-    if crossref_calls >= MAX_CROSSREF_CALLS:
-        return None
-
-    cache_key = f"{title}|{year}|{journal}"
-    if cache_key in crossref_cache:
-        return crossref_cache[cache_key]
-
-    query = title
-    if journal:
-        query += f" {journal}"
-
-    params = {
-        'query.title': title,
-        'rows': '1',
-        'select': 'author,title,published-print,volume,issue,page,container-title,type',
-    }
-    if year:
-        params['filter'] = f'from-pub-date:{year-1},until-pub-date:{year+1}'
-    if journal and 'symbolic logic' in journal.lower():
-        params['query.container-title'] = 'Journal of Symbolic Logic'
-
-    url = 'https://api.crossref.org/works?' + urllib.parse.urlencode(params)
-    headers = {
-        'User-Agent': 'JSLBibParser/1.0 (mailto:research@example.com)',
-    }
-    try:
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req, timeout=8) as resp:
-            data = json.loads(resp.read().decode())
-        crossref_calls += 1
-        time.sleep(0.15)  # polite crawl delay
-
-        items = data.get('message', {}).get('items', [])
-        if not items:
-            crossref_cache[cache_key] = None
-            return None
-
-        item = items[0]
-        score = item.get('score', 0)
-        if score < 40:  # low-confidence match
-            crossref_cache[cache_key] = None
-            return None
-
-        result = {}
-        # Authors
-        if 'author' in item:
-            authors = []
-            for a in item['author']:
-                given = a.get('given', '')
-                family = a.get('family', '')
-                if given or family:
-                    authors.append(f"{given} {family}".strip())
-            if authors:
-                result['authors'] = authors
-        # Year
-        dp = item.get('published-print', item.get('published-online', {}))
-        parts = dp.get('date-parts', [[]])[0]
-        if parts:
-            result['year'] = parts[0]
-        # Journal
-        ct = item.get('container-title', [])
-        if ct:
-            result['journal'] = ct[0]
-        # Volume/issue/pages
-        if item.get('volume'):
-            result['volume'] = item['volume']
-        if item.get('issue'):
-            result['number'] = item['issue']
-        if item.get('page'):
-            result['pages'] = item['page'].replace('--', '-')
-
-        crossref_cache[cache_key] = result
-        return result
-
-    except Exception:
-        crossref_cache[cache_key] = None
-        return None
 
 def query_open_library(title, author=None, year=None):
     """Query Open Library for book metadata."""
@@ -878,22 +795,6 @@ def parse_one(raw_text):
     pages   = extract_pages(text)
     additional = extract_additional_info(text)
 
-    # CrossRef enrichment: if article with no authors, query CrossRef
-    cr_result = None
-    if entry_type == "article" and not authors and title and year:
-        cr_result = query_crossref(title, year=year, journal=journal)
-        if cr_result:
-            if not authors and cr_result.get('authors'):
-                authors = cr_result['authors']
-            if not year and cr_result.get('year'):
-                year = cr_result['year']
-            if not volume and cr_result.get('volume'):
-                volume = cr_result['volume']
-            if not number and cr_result.get('number'):
-                number = cr_result['number']
-            if not pages and cr_result.get('pages'):
-                pages = cr_result['pages']
-
     # Open Library enrichment for books with missing authors
     if entry_type == "book" and not authors and title:
         ol_result = query_open_library(title, year=year)
@@ -930,48 +831,65 @@ def parse_one(raw_text):
 
 
 # ─────────────────────────────────────────────
-# 9. RUN ON ALL ENTRIES
+# 9. RUN ON ALL ENTRIES AND WRITE OUTPUT
 # ─────────────────────────────────────────────
 
-with open('jsl_citations_data/3a_all_caps_authors.json', 'r', encoding='utf-8') as f:
-    refs = json.load(f)
+def parse_file(input_path, parsed_path, ignored_path, errors_path):
+    """Parse every reference in input_path and write the parser's outputs."""
+    with open(input_path, 'r', encoding='utf-8') as f:
+        refs = json.load(f)
 
-parsed  = []
-ignored = []
-errors  = []
+    if not isinstance(refs, list):
+        raise ValueError(f"Expected a JSON list in {input_path}")
 
-print(f"Processing {len(refs)} reference strings...", file=sys.stderr)
+    parsed = []
+    ignored = []
+    errors = []
 
-for i, raw in enumerate(refs):
-    if i % 200 == 0:
-        print(f"  {i}/{len(refs)} (CrossRef calls so far: {crossref_calls})", file=sys.stderr)
-    try:
-        result, reason = parse_one(raw)
-        if result is None:
-            ignored.append((raw, reason))
-        else:
-            parsed.append(result)
-    except Exception as e:
-        errors.append((raw, str(e)))
-        ignored.append((raw, "ParseError"))
+    print(f"Processing {len(refs)} reference strings...", file=sys.stderr)
 
-print(f"\nDone. Parsed: {len(parsed)}, Ignored: {len(ignored)}, Errors: {len(errors)}", file=sys.stderr)
-print(f"CrossRef API calls made: {crossref_calls}", file=sys.stderr)
+    for i, raw in enumerate(refs):
+        if i % 200 == 0:
+            print(f"  {i}/{len(refs)}", file=sys.stderr)
+        try:
+            result, reason = parse_one(raw)
+            if result is None:
+                ignored.append((raw, reason))
+            else:
+                parsed.append(result)
+        except Exception as e:
+            errors.append((raw, str(e)))
+            ignored.append((raw, "ParseError"))
 
-# ─────────────────────────────────────────────
-# 10. OUTPUT
-# ─────────────────────────────────────────────
+    print(
+        f"\nDone. Parsed: {len(parsed)}, Ignored: {len(ignored)}, "
+        f"Errors: {len(errors)}",
+        file=sys.stderr,
+    )
+    with open(parsed_path, 'w', encoding='utf-8') as f:
+        json.dump(parsed, f, ensure_ascii=False, indent=2)
+        f.write('\n')
 
-with open('jsl_citations_data/3a_parsed.json', 'w', encoding='utf-8') as f:
-    json.dump(parsed, f, ensure_ascii=False, indent=2)
+    with open(ignored_path, 'w', encoding='utf-8') as f:
+        for raw, reason in ignored:
+            f.write(f'- "{raw}" [{reason}]\n')
 
-with open('jsl_citations_data/3a_ignored.txt', 'w', encoding='utf-8') as f:
-    for raw, reason in ignored:
-        f.write(f'- "{raw}" [{reason}]\n')
+    if errors:
+        with open(errors_path, 'w', encoding='utf-8') as f:
+            for raw, err in errors:
+                f.write(f'ERROR: {err}\n  RAW: {raw}\n\n')
 
-if errors:
-    with open('jsl_citations_data/parse_errors.txt', 'w', encoding='utf-8') as f:
-        for raw, err in errors:
-            f.write(f'ERROR: {err}\n  RAW: {raw}\n\n')
+    print("Output written.", file=sys.stderr)
 
-print("Output written.", file=sys.stderr)
+
+def main():
+    parse_file(
+        'jsl_citations_data/3a_all_caps_authors.json',
+        'jsl_citations_data/3a_parsed.json',
+        'jsl_citations_data/3a_ignored.txt',
+        'jsl_citations_data/parse_errors.txt',
+    )
+
+
+if __name__ == '__main__':
+    main()

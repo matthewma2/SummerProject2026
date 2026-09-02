@@ -1,0 +1,1804 @@
+=== strip_internal_refs removal log ===
+
+Input  : jsl_citations_data_2/2_references_compiled.json
+Output : jsl_citations_data_2/3_references_cleaned.json
+
+Total references   : 7502
+Removed            : 1786
+Kept               : 5716
+Skipped non-strings: 0
+
+Breakdown by category:
+   1518  bracket_ref
+     60  ibid_bare
+      3  ibid_wrapped
+    106  loc_cit
+     98  op_cit
+      1  qv_ref
+
+[bracket_ref] [4] (Princeton 1959)
+[bracket_ref] [3]
+[bracket_ref] [4]
+[bracket_ref] [11]
+[bracket_ref] [5]
+[bracket_ref] [7]
+[bracket_ref] [7]
+[bracket_ref] [7]
+[bracket_ref] [2], p. 261
+[bracket_ref] Harrop [3]
+[bracket_ref] Church [1]
+[bracket_ref] [1], pp. 125-128
+[bracket_ref] [1]
+[bracket_ref] Meredith [3]
+[bracket_ref] Chang[5]
+[bracket_ref] [4]
+[bracket_ref] [3]
+[bracket_ref] [1], ch. 9
+[bracket_ref] [2], p. 394, Theorem 35
+[bracket_ref] [4]
+[bracket_ref] [1], pp. 43-45
+[bracket_ref] Parry, ([5], p. 144, fn. 11)
+[bracket_ref] Wajsberg ([7], pp. 118f.)
+[bracket_ref] Parry ([41, p. 143, fn. 9)
+[bracket_ref] Hilbert and Ackermann ([2], p. 40)
+[bracket_ref] Hilbert and Ackermann ((2], p. 41)
+[bracket_ref] pp. 57, 58, 100, of [1]
+[bracket_ref] p. 63 of [1]
+[bracket_ref] p. 64 of [1]
+[bracket_ref] Church in [1]
+[bracket_ref] [2]
+[bracket_ref] [3], page 344
+[bracket_ref] [3]
+[bracket_ref] [3]
+[bracket_ref] Compare [1], p. 58
+[loc_cit] Fitch, loc. cit., p. 102
+[bracket_ref] TFD [37]
+[bracket_ref] Frederic Fitch's [4]
+[bracket_ref] László Kalmár in [7]
+[bracket_ref] Leon Henkin's [5]
+[loc_cit] Rosser (loc. cit.)
+[op_cit] Cf. Schröder, op. cit., p. 52 ff
+[op_cit] Schröder, op. cit., p. 153
+[ibid_bare] Correc- tion, ibid., pp. 101-102
+[bracket_ref] [31]
+[bracket_ref] [31]
+[bracket_ref] [31]
+[bracket_ref] [31, p. 156, 3.242]
+[bracket_ref] [31]
+[bracket_ref] [31]
+[bracket_ref] [36]
+[bracket_ref] [32]
+[bracket_ref] [31, p. 155, 3.233]
+[bracket_ref] [12]
+[bracket_ref] [12]
+[bracket_ref] [12]
+[bracket_ref] [12]
+[bracket_ref] [20]
+[bracket_ref] Shepherdson's [55]
+[bracket_ref] [4]
+[bracket_ref] Feferman, in [6]
+[bracket_ref] [6]
+[bracket_ref] [23]
+[bracket_ref] [27]
+[bracket_ref] [50, bottom of p. 246]
+[bracket_ref] [12]
+[bracket_ref] [43]
+[bracket_ref] [43]
+[bracket_ref] [43]
+[bracket_ref] [28, pp. 136-137]
+[bracket_ref] [49]
+[bracket_ref] [39]
+[bracket_ref] [30]
+[bracket_ref] [39]
+[bracket_ref] Mostowski [47]
+[bracket_ref] [30]
+[bracket_ref] [30]
+[bracket_ref] [33, p. 157, paragraph 2]
+[bracket_ref] [69]
+[bracket_ref] [5]
+[bracket_ref] [73]
+[bracket_ref] [58]
+[bracket_ref] [58]
+[bracket_ref] [58]
+[bracket_ref] [24]
+[bracket_ref] [21]
+[bracket_ref] [31, p. 139]
+[bracket_ref] [99]
+[bracket_ref] [17, p. 329]
+[bracket_ref] [31]
+[bracket_ref] [31, p. 110]
+[bracket_ref] [28]
+[bracket_ref] [31, p. 165, 3.3322]
+[bracket_ref] [12]
+[bracket_ref] [12]
+[bracket_ref] [12]
+[bracket_ref] [98]
+[bracket_ref] [12]
+[bracket_ref] [98]
+[bracket_ref] Friedman [74]
+[op_cit] Wajsberg, op. cit., pp. 132, 157-159.
+[loc_cit] Rosser, loc. cit., pp. 133-134.
+[op_cit] Church, op. cit.
+[op_cit] Hilbert and Ackermann, op. cit., Chapter 3, §12
+[op_cit] Löwenheim, op. cit.
+[op_cit] Skolem, op. cit.
+[op_cit] Behmann, op. cit.
+[bracket_ref] Skolem [2]
+[bracket_ref] [3] p. 14
+[bracket_ref] Kripke's E5, [2, p. 209
+[bracket_ref] [2]
+[bracket_ref] [2, pp. 210-211]
+[bracket_ref] [3, p. 68]
+[bracket_ref] [3, p. 68]
+[bracket_ref] [4]
+[bracket_ref] [2]
+[bracket_ref] [6]
+[bracket_ref] [6]
+[bracket_ref] Henkin's definition in [3]
+[bracket_ref] [14]
+[bracket_ref] [15]
+[bracket_ref] [16]
+[bracket_ref] [14]
+[bracket_ref] Nelson's [16]
+[bracket_ref] [9] p. 32
+[bracket_ref] [1]
+[bracket_ref] [6]
+[bracket_ref] [17]
+[bracket_ref] [18]
+[bracket_ref] [14]
+[bracket_ref] [15]
+[bracket_ref] [11]
+[bracket_ref] [14]
+[bracket_ref] [15]
+[bracket_ref] [12]
+[bracket_ref] [14]
+[bracket_ref] [15]
+[bracket_ref] [13]
+[bracket_ref] [4]
+[bracket_ref] [6]
+[bracket_ref] [11]
+[bracket_ref] [12].
+[bracket_ref] [11]
+[bracket_ref] [14]
+[bracket_ref] [15]
+[bracket_ref] [16]
+[bracket_ref] [14]
+[bracket_ref] [14]
+[bracket_ref] [7] p. 52 and p. 56
+[bracket_ref] [8] p. 18
+[bracket_ref] [14]
+[bracket_ref] [15]
+[bracket_ref] [16]
+[bracket_ref] [16]
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] [10] pp. 360 ff
+[bracket_ref] [10] p. 334 and p. 368
+[bracket_ref] [4]
+[bracket_ref] [14]
+[bracket_ref] [16]
+[bracket_ref] [5]
+[bracket_ref] HEYTING, AREND. [7] Die formalen Regeln der intuitionistischen Logik, Sitzungs- berichte der Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse, 1930, pp. 42-56.
+[bracket_ref] NELSON, DAVID. [16] Recursive functions and intuitionistic number theory, forthcom- ing.
+[bracket_ref] Tarski [10]
+[bracket_ref] Hilbert-Bernays [6], vol. I, pp. 234-264
+[bracket_ref] B. A. Bernstein [1]
+[bracket_ref] Hilbert-Bernays [6], vol. I, p. 343
+[bracket_ref] [4]
+[bracket_ref] [3]
+[bracket_ref] Gentzen's system LK in [3]
+[bracket_ref] [10]
+[bracket_ref] Beth [1]
+[bracket_ref] [2]
+[bracket_ref] Hintikka [7]
+[bracket_ref] [8]
+[bracket_ref] Kanger [9]
+[bracket_ref] [10]
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] [7]
+[bracket_ref] [8]
+[bracket_ref] [9]
+[bracket_ref] Takeuti [12]
+[bracket_ref] [11]
+[bracket_ref] [1, p. 302]
+[bracket_ref] [7]
+[bracket_ref] [2]
+[bracket_ref] Kreisel in [4]
+[loc_cit] Loc. cit., vol. 1, Berlin, 1934, p. 371
+[loc_cit] Loc. cit., vol. 2, p. 337
+[loc_cit] Loc. cit., vol. 2, p. 338
+[loc_cit] Loc. cit., vol. 2, p. 333
+[bracket_ref] Heyting [7] p. 102
+[bracket_ref] Heyting's remarks in [4] p. 43
+[bracket_ref] Gödel's interpretation [3]
+[bracket_ref] Heyting's remark of [6] p. 81
+[bracket_ref] [3]
+[bracket_ref] [11]
+[bracket_ref] [12]
+[bracket_ref] p. 250 of [12]
+[bracket_ref] Robinson [9]
+[bracket_ref] [13]
+[bracket_ref] [14]
+[bracket_ref] [10]
+[bracket_ref] [10]
+[bracket_ref] [11]
+[bracket_ref] [12]
+[bracket_ref] [10]
+[bracket_ref] [12]
+[bracket_ref] [1]
+[bracket_ref] [13]
+[bracket_ref] [14]
+[bracket_ref] [12]
+[bracket_ref] [12]
+[bracket_ref] [5]
+[bracket_ref] [5]
+[bracket_ref] [9]
+[bracket_ref] [13]
+[bracket_ref] [14]
+[bracket_ref] [8] p. 494
+[bracket_ref] [4] p. 284
+[bracket_ref] [12]
+[ibid_bare] Ibid., pp. 328-340.
+[op_cit] HILBERT–BERNAYS, op. cit., p. 368
+[ibid_bare] Ibid., p. 369 and pp. 338-339.
+[op_cit] pp. 334-337 of Hilbert–Bernays, op. cit.
+[op_cit] HILBERT–BERNAYS, op. cit., pp. 254-258
+[op_cit] Hilbert and Ackermann, op.cit.
+[op_cit] Lewis and Langford (op. cit.)
+[op_cit] Parry, op. cit., pp. 152 ff
+[op_cit] Parry, op. cit., p. 144
+[op_cit] Quine, op. cit., p. 88, *100, 102, 103, 104
+[op_cit] Quine, op. cit.
+[op_cit] Hilbert and Bernays, op. cit., pp. 179 ff
+[op_cit] LEWIS and LANGFORD, op. cit.
+[op_cit] LEWIS and LANGFORD, op. cit., the Group III matrix on p. 493
+[bracket_ref] [15], p. 45
+[bracket_ref] [18], pp. 203-206
+[bracket_ref] [20], pp. 95-96
+[bracket_ref] [8], p. 3
+[bracket_ref] [20], p. 118ff
+[bracket_ref] [19], pp. 145-146
+[bracket_ref] [18], pp. 205-206
+[bracket_ref] [18], p. 202
+[bracket_ref] [19], pp. 1-9
+[bracket_ref] [26], Convention T (pp. 187-188)
+[bracket_ref] [8], p. 27
+[bracket_ref] [10], p. 62
+[bracket_ref] [20], pp. 112-113, p. 176
+[bracket_ref] [23], p. 329
+[bracket_ref] [9], p. 32
+[bracket_ref] [5]
+[bracket_ref] [19], p. 9 and p. 21
+[bracket_ref] [19], p. 32
+[bracket_ref] [19], p. 165
+[bracket_ref] [20], p. 176
+[bracket_ref] [14], p. 57
+[bracket_ref] [15], p. 57
+[bracket_ref] [1], pp. 45-46
+[bracket_ref] [2], p. 3ff
+[bracket_ref] [3], p. 58ff
+[bracket_ref] [6], XX (p. 25ff.)
+[bracket_ref] [2], 24-1 (p. 98) and p. 100
+[bracket_ref] [6], XV C(pp. 16-17)
+[bracket_ref] [16], pp. 26-27
+[bracket_ref] [17], pp. 264-265
+[bracket_ref] [5], T13-1(d) (p. 51)
+[bracket_ref] [5], T13-1(1)(p. 52)
+[bracket_ref] [8], p. 27
+[bracket_ref] [18], p. 220
+[bracket_ref] [26], p. 273
+[bracket_ref] [3], p. 61
+[bracket_ref] [6], XIII B (p. 35)
+[bracket_ref] [21], pp. 178-179
+[bracket_ref] [22], p. 85.
+[bracket_ref] Martin ([16], p. 17)
+[bracket_ref] [13]
+[bracket_ref] [14]
+[bracket_ref] [4]
+[bracket_ref] [11]
+[bracket_ref] [6]
+[bracket_ref] [12]
+[bracket_ref] [2], 11-3(c) (p. 48)
+[bracket_ref] [2], pp. 6-7
+[bracket_ref] [6], VIII B (p. 6)
+[bracket_ref] [2], pp. 74-75
+[bracket_ref] [5], p. 161
+[bracket_ref] [18], p. 218
+[bracket_ref] [19], pp. 7-8
+[bracket_ref] [20], pp. 178-179
+[bracket_ref] [6], XIII A (1) (p. 13)
+[bracket_ref] [17], p. 262
+[bracket_ref] [2], 34-8 (p. 154)
+[bracket_ref] [2], 3-5(a) (p. 14)
+[bracket_ref] [2], 39-1 (p. 174)
+[bracket_ref] [19], p. 143
+[bracket_ref] [6], XIII A (2) (p. 13)
+[bracket_ref] [17], p. 267
+[bracket_ref] [2], 34-9 (p. 154)
+[bracket_ref] [2], 3-5(b) (p. 14)
+[bracket_ref] [8], pp. 173-174
+[bracket_ref] [17], RS (p. 264)
+[bracket_ref] [2]
+[bracket_ref] [17]
+[bracket_ref] [2], 12-1(a) (p. 51)
+[bracket_ref] [17], RI (p. 263)
+[bracket_ref] [2], 12-2(a) (p. 52)
+[bracket_ref] [7], p. 12
+[bracket_ref] [2], p. 3
+[bracket_ref] [20], p. 237
+[bracket_ref] [2], 41-5(a) (p. 186)
+[bracket_ref] [3], pp. 3-7,
+[bracket_ref] [19], p. 25
+[bracket_ref] [6], XI A (p. 10)
+[bracket_ref] [1], D12-B (pp. 53-54)
+[bracket_ref] [26]
+[bracket_ref] [1], D7-B (p. 27)
+[bracket_ref] [6], XVI B (p. 18)
+[bracket_ref] [6] sects. XXI-XXIV (pp. 29-44)
+[bracket_ref] [12]
+[bracket_ref] [5], sects. 5, 6, 11 (pp. 15-23; 42-45)
+[bracket_ref] [2], p. 83ff
+[bracket_ref] [6]
+[bracket_ref] [4], sects. 2, 3 (pp. 66-71)
+[bracket_ref] [2], 2nd ed., pp. 223-228
+[bracket_ref] [6], XXIII D (p. 36)
+[bracket_ref] Wilson ([28], p. 75
+[bracket_ref] Quine ([20], p. 182
+[bracket_ref] [27], p. 31
+[bracket_ref] [19], p. 130
+[bracket_ref] [5], sect. 18 b (pp. 73-74)
+[bracket_ref] [27]
+[bracket_ref] [18], pp. 218-224
+[bracket_ref] [19], pp. 5-8
+[bracket_ref] [20], pp. 188-189
+[bracket_ref] [27], pp. 185-186
+[bracket_ref] [6], XXIV E (p. 40)
+[bracket_ref] [12]
+[bracket_ref] [4], pp. 69-70
+[bracket_ref] [2], 2nd ed., p. 226
+[bracket_ref] [6], XXVI B (p. 44)
+[bracket_ref] [12], Def. 8 (p. 16)
+[bracket_ref] [14], pp. 51-52
+[bracket_ref] [1]
+[bracket_ref] [5], T6-1(a) (p. 20)
+[bracket_ref] [26], p. 164
+[bracket_ref] [27], p. 66ff
+[bracket_ref] [24], p. 175
+[bracket_ref] [25], p. 237)
+[bracket_ref] [4]
+[bracket_ref] [1]
+[bracket_ref] McKinsey and Tarski [8, p. 151]
+[bracket_ref] M. H. A. Newman [1]
+[bracket_ref] A. Church [1]
+[bracket_ref] M. H. A. Newman [1]. Stratified systems of logic. Forthcoming
+[bracket_ref] Janiczak [1]
+[op_cit] Bernays, op. cit., p. 65
+[op_cit] Bernays, op. cit., p. 72
+[op_cit] Parry, op.cit.
+[bracket_ref] Kleene [9], p. 337, theorem xx
+[bracket_ref] [9], p. 230
+[bracket_ref] Kleene in [9], p. 291
+[bracket_ref] Davis [4]
+[bracket_ref] [14], p. 382
+[loc_cit] J. Myhill, loc. cit.
+[loc_cit] J. Myhill, loc. cit.
+[loc_cit] Lewis and Langford, loc. cit., p. 492
+[bracket_ref] [9]
+[bracket_ref] p. 56 of [9]
+[bracket_ref] [9], p. 95
+[bracket_ref] [11]
+[bracket_ref] [8] p. 19
+[bracket_ref] [6] p. 384
+[bracket_ref] Behmann [1]
+[bracket_ref] Kreisel in [6]
+[op_cit] Church, op. cit., p. 62
+[bracket_ref] Kreisel [17]
+[bracket_ref] [22]
+[bracket_ref] [23]
+[bracket_ref] Gödel [3]
+[bracket_ref] Tarski [12]
+[bracket_ref] [4]
+[bracket_ref] Kuratowski [5]
+[bracket_ref] Rosser [8]
+[bracket_ref] [4]
+[bracket_ref] [4] p. 30
+[bracket_ref] [11] p. 226
+[bracket_ref] [5]
+[bracket_ref] A. R. Anderson [6]
+[bracket_ref] [6]
+[bracket_ref] page 43f of [1]
+[bracket_ref] [1]
+[bracket_ref] page 39 of [1]
+[bracket_ref] page 42 of [1]
+[bracket_ref] [1]
+[bracket_ref] [3]
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] [5]
+[bracket_ref] [2]
+[bracket_ref] [5]
+[loc_cit] Church, loc. cit., p. 350
+[loc_cit] Church, loc. cit., pp. 346, 356-358
+[bracket_ref] [4]
+[bracket_ref] [20]
+[bracket_ref] [20]
+[bracket_ref] [13]
+[bracket_ref] Kleene [9]
+[bracket_ref] [2]
+[bracket_ref] [8]
+[bracket_ref] Henkin [7]
+[bracket_ref] [7]
+[bracket_ref] [10]
+[bracket_ref] [19]
+[bracket_ref] [10]
+[bracket_ref] [19]
+[bracket_ref] [19]
+[bracket_ref] [18], p. 14
+[bracket_ref] Kleene ([9], pp. 32-43
+[bracket_ref] Church ([2], p. 176, Footnote 314)
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] (3]
+[bracket_ref] [1]
+[bracket_ref] Gödel [1]
+[bracket_ref] [4]
+[bracket_ref] Maehara [6]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] Birkhoff [7] chap. XII
+[bracket_ref] J. C. C. McKinsey [8]
+[bracket_ref] Hilbert and Ackermann [9] chap. 1 § 2
+[op_cit] op. cit., p. 169
+[op_cit] op. cit., p. 169
+[bracket_ref] [5]
+[op_cit] R. Carnap, op. cit., p. 431.
+[op_cit] Op. cit., p. 285.
+[op_cit] R. Carnap, op. cit., section 51
+[op_cit] R. Carnap, op. cit., pp. 83-84.
+[op_cit] K. Gödel, op. cit., pp. 150-52
+[op_cit] F. B. Fitch, op. cit., pp. 77-78.
+[op_cit] B. O. Koopman, op. cit., pp. 290-91
+[op_cit] J. M. Keynes, op. cit., pp. 41-64.
+[bracket_ref] [8], p. 227
+[bracket_ref] [7], pp. 128 f
+[bracket_ref] [4], pp. 157 f
+[bracket_ref] Bernays and Schönfinkel [1]
+[bracket_ref] Gödel's completeness argument [3]
+[bracket_ref] Dreben [2]
+[bracket_ref] [5]
+[bracket_ref] [9]
+[op_cit] L. Chwistek, op. cit., pp. 182, 188
+[op_cit] L. Chwistek, op. cit., p. 167 and pp. 94-5 respectively
+[op_cit] L. Chwistek, op. cit., pp. 171, 183
+[op_cit] F. B. Fitch, op. cit., pp. 104-6
+[op_cit] L. Chwistek, op. cit., p. 133
+[bracket_ref] [10]
+[bracket_ref] [11]
+[bracket_ref] [3]
+[bracket_ref] [5]
+[bracket_ref] [5]
+[bracket_ref] [1]
+[bracket_ref] [10]
+[bracket_ref] [11]
+[bracket_ref] [14]
+[bracket_ref] [8]
+[bracket_ref] [2]
+[loc_cit] Birkhoff, loc. cit. p. 128
+[loc_cit] McKinsey and Tarski, loc. cit.
+[bracket_ref] Smullyan [2]
+[bracket_ref] Smullyan [1], Chapter II, #C, § 9
+[bracket_ref] Smullyan [1], Chapter I, #A, § 1
+[bracket_ref] Smullyan [1], Chapter IV, #B, § 10
+[bracket_ref] Smullyan [2]
+[bracket_ref] [1, p. 184]
+[bracket_ref] [1, p. 185]
+[bracket_ref] [1, p. 141]
+[bracket_ref] [2, p. 211]
+[bracket_ref] [3, p. 27]
+[bracket_ref] [1, p. 184]
+[bracket_ref] [1, p. 146f]
+[bracket_ref] Prior [2, p. 211]
+[bracket_ref] [4], p. 573 f
+[bracket_ref] [1], p. 576 f
+[bracket_ref] [2], p. 17
+[bracket_ref] [5], p. 587
+[bracket_ref] [3]
+[bracket_ref] [1], p. 836
+[bracket_ref] p. 20 of [2]
+[bracket_ref] [1], p. 837
+[bracket_ref] [4], p. 66
+[bracket_ref] [6], p. 587
+[bracket_ref] [1], p. 841
+[bracket_ref] R. C. LYNDON, review of [2], this JOURNAL, Vo1. 16 (1951), pp. 216-217.
+[ibid_bare] Ibid., pp. 190-192.
+[ibid_bare] Ibid., pp. 78-80.
+[ibid_bare] ibid., footnote 37, p. 188.
+[op_cit] Alonzo Church, op. cit., pp. 45-46
+[op_cit] Alonzo Church's F1, op. cit., p. 40
+[ibid_bare] Ibid., p. 185.
+[ibid_bare] Ibid., p. 182.
+[op_cit] Hilbert and Acker- mann, op. cit., pp. 76-81
+[op_cit] Alonzo Church, op. cit., pp. 73-82
+[op_cit] Church's condition 3(3), op. cit., p. 80
+[op_cit] "Motivation," part I of the present paper, op. cit., pp. 182-184
+[ibid_bare] Ibid., pp. 182-186.
+[op_cit] Alonzo Church, op. cit., p. 81
+[op_cit] Alonzo Church, op. cit., pp. 59-61
+[op_cit] Alonzo Church, op. cit.
+[loc_cit] Tarski, loc. cit.
+[bracket_ref] [5]
+[bracket_ref] [2], pp. 2-13
+[bracket_ref] Church [4], p. 172
+[bracket_ref] [1]
+[bracket_ref] [2] chapter 5
+[bracket_ref] Kripke [7]
+[bracket_ref] [7] (section 3.3)
+[bracket_ref] [7]
+[bracket_ref] [7]
+[bracket_ref] Church [4], p. 172
+[bracket_ref] [2], pp. 2-13
+[bracket_ref] [1] pp. 108-110
+[bracket_ref] [2] p. 51
+[bracket_ref] [4]
+[bracket_ref] Łoś in [5]
+[op_cit] Shepherdson, op. cit.
+[op_cit] Wang, op. cit.
+[bracket_ref] Kunen [8]
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] Shoenfield [10, p. 187]
+[bracket_ref] [5]
+[bracket_ref] [5]
+[bracket_ref] Church [2, p. 146]
+[bracket_ref] [3], pp. 442-443
+[op_cit] Goodman, op. cit.
+[op_cit] Goodman, op. cit., p. 151
+[bracket_ref] [3]
+[bracket_ref] GÖDEL, KURT. [1] Zur intuitionistischen Arithmetik und Zahlentheorie, Ergebnisse eines mathematischen Kolloquiums, vol. 4 (for 1931-1932, published 1933), pp. 34-38.
+[bracket_ref] [2] On undecidable propositions of formal mathematical systems, mimeographed lecture notes, Institute for Advanced Study, 1934.
+[bracket_ref] HEYTING, AREND. [3] Die formalen Regeln der intuitionistischen Logik, Sitzungsbe- richte der Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse, 1930, pp. 42-56.
+[bracket_ref] Shoenfield [11, pp. 188-189]
+[bracket_ref] Rogers [10, pp. 426- 429]
+[bracket_ref] Addison-Kleene [2, (1)]
+[bracket_ref] [2], p. 313
+[bracket_ref] [2]
+[bracket_ref] [7]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] [6]
+[bracket_ref] M. A. Taitslin in a review of [6]
+[bracket_ref] [3]
+[bracket_ref] [1]
+[bracket_ref] [2]
+[loc_cit] McKinsey, loc. cit., p. 65
+[bracket_ref] Undecidable theories [13]
+[bracket_ref] [10]
+[bracket_ref] [10]
+[bracket_ref] [1]
+[bracket_ref] Kleene [11] p. 230
+[ibid_bare] ibid., pp. 101-102.
+[bracket_ref] Boyd, Hensel, and Putnam [1]
+[bracket_ref] G. S. BOOLOS [1] The hierarchy of constructible sets of integers, Ph.D. thesis, M.I.T. Humanities Depart- ment, Cambridge, Mass., 1966.
+[bracket_ref] R. BOYD, G. HENSEL, and H. PUTNAM [1] On an intrinsic characterization of the ramified analytic hierarchy (to appear).
+[bracket_ref] M. DAVIS [11 Computability and unsolvability, McGraw-Hill, New York, 1958.
+[bracket_ref] S. C. KLEENE [1] Introduction to metamathematics, Van Nostrand, Princeton, N.J., 1952.
+[bracket_ref] L. THARP [1] Constructibility in impredicative set theory, Ph.D. Thesis, M.I.T. Mathematics Department, Cambridge, Mass., 1965.
+[bracket_ref] H. WANG [1] A survey of mathematical logic, North Holland, Amsterdam, 1963.
+[ibid_bare] ibid., pp. 261-264
+[ibid_bare] Ibid., p. 356
+[ibid_bare] Ibid., and cf. p. 353
+[bracket_ref] [6]
+[bracket_ref] [5], pp. 627-629
+[bracket_ref] [1]
+[bracket_ref] [5], p. 627
+[bracket_ref] [3], p. 531
+[bracket_ref] [4]
+[bracket_ref] Fried- berg [6]
+[bracket_ref] Mučnik [9]
+[bracket_ref] [5]
+[bracket_ref] [11]
+[bracket_ref] [4]
+[bracket_ref] [10]
+[bracket_ref] (cf. [12] p. 91)
+[bracket_ref] [8] (p. 309 Theorem XV)
+[bracket_ref] Uspénskij in [15]
+[bracket_ref] [15]
+[loc_cit] Tarski, loc. cit., esp. pp. 284-303
+[loc_cit] Church, loc. cit., p. 37
+[loc_cit] Tarski, loc. cit., p. 289
+[loc_cit] Tarski, loc. cit., pp. 285-286
+[loc_cit] Tarski, loc. cit., p. 287
+[loc_cit] Tarski, loc. cit., pp. 311-313
+[loc_cit] Quine, loc. cit., p. 296
+[loc_cit] Tarski, loc. cit., pp. 305-306
+[loc_cit] Tarski, loc. cit., pp. 365- 366
+[loc_cit] Hilbert–Ackermann, loc. cit., p. 83
+[loc_cit] A. Church, loc. cit., pp. 59-61
+[loc_cit] Tarski, loc. cit., pp. 327-363
+[loc_cit] Tarski, loc. cit., pp. 363-369
+[bracket_ref] Gödel [5]
+[ibid_bare] Correction, ibid., pp. 101-102
+[loc_cit] Alonzo Church, An unsolvable problem etc. (loc. cit.), pp. 350-351
+[loc_cit] Church (An unsolvable problem etc., loc. cit., pp. 356-358)
+[loc_cit] footnote 8 of my paper Zurückführung etc., loc. cit., p. 138
+[loc_cit] Skolem, loc. cit., and Ackermann, loc. cit., especially pp. 421-422
+[loc_cit] Hilbert-Bernays, loc. cit., especially p. 141
+[bracket_ref] [7]
+[bracket_ref] Sierpinski [5], Section 7, pp. 141 ff.
+[bracket_ref] Birkhoff [1], pp. 31-32
+[bracket_ref] [4], Section 2, p. 181
+[bracket_ref] Hailperin in [3]
+[bracket_ref] Suppes and Winet [6]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] Gödel in [1]
+[bracket_ref] [1]
+[bracket_ref] [21]
+[bracket_ref] [10]
+[bracket_ref] [14]
+[bracket_ref] [4]
+[bracket_ref] [17]
+[bracket_ref] [10]
+[bracket_ref] [15]
+[bracket_ref] [14]
+[bracket_ref] [9]
+[bracket_ref] p. 89 of [9]
+[bracket_ref] [5]
+[bracket_ref] Kripke [3], p. 2
+[ibid_bare] Ibid.
+[bracket_ref] [6]
+[bracket_ref] Kripke [4], p. 84
+[bracket_ref] [5], pp. 68-70
+[bracket_ref] Carnap [0]
+[bracket_ref] Church [1], p. 130
+[bracket_ref] Quine [7], p. 59
+[bracket_ref] Feys [2], p. 118
+[bracket_ref] Kripke [3], p. 11
+[bracket_ref] Feys [2], pp. 117-118
+[bracket_ref] Craig's theorem [1]
+[bracket_ref] [5]
+[bracket_ref] [6]
+[bracket_ref] [1, pp. 179-184]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[ibid_bare] T. Viola, ibid., S. 75-101
+[ibid_bare] Zusatz, ibid., S. 392 f
+[bracket_ref] S. Feferman's review of [5]
+[bracket_ref] [5]
+[bracket_ref] Henkin in [2]
+[bracket_ref] Kreisel's review of [3]
+[bracket_ref] [7]
+[bracket_ref] [1]
+[bracket_ref] Anderson in [3]
+[bracket_ref] [5]
+[bracket_ref] [6]
+[bracket_ref] [6]
+[bracket_ref] [14]
+[bracket_ref] Belnap [7]
+[bracket_ref] [15]
+[bracket_ref] Belnap in [7]
+[bracket_ref] [9]
+[bracket_ref] Belnap and Dunn in [10]
+[bracket_ref] Anderson in [3]
+[bracket_ref] Dunn [9]
+[bracket_ref] [17]
+[bracket_ref] Belnap [6]
+[bracket_ref] A. Tarski [2] paper I
+[bracket_ref] R. L. Goodstein [3]
+[bracket_ref] Prior [1] p. 131
+[bracket_ref] FC v. [5] p. 215
+[bracket_ref] v. [10] pp. 153, 154
+[bracket_ref] [6] pp. 182-208
+[bracket_ref] Philosophical Studies [7]
+[bracket_ref] [6]
+[bracket_ref] p. 70 of [9]
+[bracket_ref] [10]
+[bracket_ref] [14]
+[bracket_ref] [15]
+[bracket_ref] [16] p. 163
+[bracket_ref] [10] p. 311
+[bracket_ref] [10] Chapter IV § 48, p. 280
+[bracket_ref] v. [18]
+[bracket_ref] v. [19]
+[bracket_ref] Chapter XII of [20]
+[bracket_ref] [17] p. 405
+[bracket_ref] [2]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [3]
+[bracket_ref] [3], pp. 149-152
+[bracket_ref] [4], vol. 1, pp. 460-462
+[bracket_ref] [3]
+[bracket_ref] [3], p. 75
+[bracket_ref] [3]
+[bracket_ref] [3]
+[bracket_ref] [3]
+[bracket_ref] [3], p. 89
+[bracket_ref] [3]
+[bracket_ref] [3]
+[bracket_ref] [3]
+[bracket_ref] [3]
+[bracket_ref] [6], pp. 59-61, pp. 68-72, pp. 45-46, pp. 42-44
+[bracket_ref] [7]
+[bracket_ref] [6], pp. 73-79
+[op_cit] Łukasiewicz (op. cit.)
+[bracket_ref] [5]
+[bracket_ref] [5]
+[bracket_ref] [5]
+[op_cit] Emil Post (op. cit., p.177)
+[op_cit] Post's definition of consistency, op. cit., p. 177
+[bracket_ref] Kleene and Post [2]
+[bracket_ref] [1]
+[bracket_ref] H. Gonshor [5]
+[bracket_ref] [2] pp. 492-502
+[bracket_ref] [5]
+[bracket_ref] [2] pp. 125-126
+[bracket_ref] [2] p. 493
+[ibid_bare] Ibid., Chapter X, § 6
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] [9]
+[bracket_ref] [1]
+[bracket_ref] [10]
+[bracket_ref] [6]
+[bracket_ref] [1]
+[bracket_ref] [7]
+[bracket_ref] [8]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] [5]
+[bracket_ref] [4]
+[bracket_ref] [1]
+[bracket_ref] [8]
+[loc_cit] Hilbert and Ackermann, loc. cit.
+[loc_cit] J. H. Woodger, loc. cit., p. 163
+[bracket_ref] Jockusch [2]
+[bracket_ref] [10]
+[bracket_ref] Lemmon in [3]
+[bracket_ref] [4]
+[bracket_ref] [7]
+[bracket_ref] [4]
+[bracket_ref] Salmon, [4], pp. 245-264.
+[bracket_ref] Carnap, [2], pp. 44-47.
+[bracket_ref] Carnap, [2], pp. 30-32.
+[bracket_ref] Carnap, [1], pp. 122-130
+[bracket_ref] [2], pp. 10-11
+[bracket_ref] Carnap, [3]
+[bracket_ref] Kemeny, [5]
+[bracket_ref] Salmon, [4], pp. 247-249.
+[ibid_bare] Ibid.
+[bracket_ref] Salmon, [4], pp. 248-249.
+[bracket_ref] Carnap, [1], p. 75
+[bracket_ref] Carnap, [1], p. 126.
+[bracket_ref] [3]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] [6]
+[bracket_ref] [4]
+[bracket_ref] [4]
+[bracket_ref] [16]
+[bracket_ref] [6]
+[bracket_ref] [14], pp. 33-37
+[bracket_ref] Martin in RR8(1)-(3) of [10]
+[bracket_ref] [10], p. 2
+[bracket_ref] [3]
+[bracket_ref] [1], pp. 83-100
+[bracket_ref] [4]
+[bracket_ref] [12]
+[bracket_ref] [13]
+[bracket_ref] [6]
+[bracket_ref] [17]
+[bracket_ref] [18]
+[bracket_ref] [9]
+[bracket_ref] [4]
+[bracket_ref] [1]
+[bracket_ref] [1], p. 167
+[bracket_ref] [1], p. 171
+[bracket_ref] Hetper and Quine ([8]
+[bracket_ref] [15]
+[bracket_ref] [1], pp. 96-7
+[bracket_ref] [8]
+[bracket_ref] [1] pp. 97-8
+[bracket_ref] [8]
+[bracket_ref] [14], p. 296
+[bracket_ref] [4]
+[bracket_ref] Chwistek ([1], p. 172)
+[bracket_ref] [4]
+[bracket_ref] [6]
+[bracket_ref] [4]
+[bracket_ref] [4]
+[bracket_ref] [18], p. 27
+[bracket_ref] [6]
+[bracket_ref] [4]
+[bracket_ref] [4]
+[bracket_ref] [3], pp. 502-503
+[bracket_ref] [4]
+[bracket_ref] [3], § 65, p. 340
+[bracket_ref] [5]
+[bracket_ref] [3], p. 201, (A), and Pp
+[bracket_ref] [3], pp. 340-344
+[bracket_ref] [3], p. 34
+[bracket_ref] [3], § 65, p. 340
+[bracket_ref] [1], pp. 170-171
+[bracket_ref] [3], §§ 50-52
+[bracket_ref] [3], p. 230 # 19, p. 279, p. 329
+[bracket_ref] [3], p. 330, Theorem XVIII
+[bracket_ref] [3], p. 337, Theorem XX
+[bracket_ref] [3], pp. 340-341
+[bracket_ref] [3], p. 195
+[bracket_ref] [3], p. 153
+[bracket_ref] [1], p. 192, *350
+[bracket_ref] [3], p. 283, Theorem V (Part I)
+[bracket_ref] Siehe [9]
+[bracket_ref] Siehe [1]
+[bracket_ref] siehe noch [6]
+[bracket_ref] [8]
+[bracket_ref] Siehe [7], S. 494
+[bracket_ref] Siehe [7]
+[bracket_ref] siehe [2]
+[bracket_ref] Siehe z. B. [4]
+[bracket_ref] Siehe z. B. [5], S. 615-619
+[bracket_ref] Siehe [3]
+[bracket_ref] Siehe [7], S. 519
+[bracket_ref] Siehe [7], S. 518
+[bracket_ref] [1] p. 36
+[bracket_ref] [1]
+[loc_cit] Hilbert and Ackermann, loc. cit., p. 95
+[loc_cit] Hilbert and Ackermann, loc. cit., p. 92
+[loc_cit] Leblanc, loc. cit., p. 345
+[loc_cit] Popper, loc. cit., pp. 332-333
+[loc_cit] Popper's proof of formula (70), loc. cit., page 353
+[bracket_ref] p. 238 of [17]
+[bracket_ref] [14]
+[bracket_ref] Mostowski [13]
+[bracket_ref] myself [10]
+[bracket_ref] [9], p. 275
+[bracket_ref] [9]
+[bracket_ref] [10]
+[bracket_ref] Putnam [15]
+[bracket_ref] [3]
+[bracket_ref] Hilbert and Bernays [2] (to be referred to as HB), II, pp. 234-253
+[bracket_ref] Wang [6]
+[bracket_ref] Kreisel [3]
+[bracket_ref] Wang [5]
+[bracket_ref] Bernays [1]
+[bracket_ref] Kreisel [3]
+[bracket_ref] Bernays [1]
+[bracket_ref] Kreisel [3], I, p. 283
+[bracket_ref] [1]
+[bracket_ref] footnote 34, p. 375 of [4]
+[loc_cit] Carnap, loc. cit., pp. 1 ff., pp. 120 ff
+[loc_cit] Carnap, loc. cit., pp. 123-4
+[bracket_ref] Smith-Tarski [18]
+[bracket_ref] Rasiowa-Sikorski [15]
+[bracket_ref] Krasner, [12]
+[bracket_ref] Jordan [6]
+[bracket_ref] Erdös-Tarski [1]
+[bracket_ref] Scott- Tarski [17]
+[bracket_ref] [7]
+[bracket_ref] [8]
+[bracket_ref] [5], pp. 92-95
+[bracket_ref] Ginsburg [2]
+[bracket_ref] [6]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] (6]
+[bracket_ref] [2]
+[bracket_ref] [1]
+[bracket_ref] p. 67 of [5]
+[bracket_ref] A. Robinson [10]
+[bracket_ref] [5, p. 179]
+[bracket_ref] [10]
+[bracket_ref] A. Robinson [10]
+[bracket_ref] Halmos [6]
+[bracket_ref] Kleene [7]
+[bracket_ref] [6] p. 83
+[bracket_ref] [3, p. 63]
+[loc_cit] Hilbert and Bernays, loc. cit., p. 155,
+[loc_cit] Carnap, loc. cit. (see footnote 6), p. 142, T 28-11
+[loc_cit] Hilbert and Bernays, loc. cit., p. 121
+[loc_cit] Hilbert and Bernays, loc. cit., pp. 185-186
+[loc_cit] Hilbert and Bernays, loc. cit., p. 155
+[loc_cit] Hilbert and Bernays, loc. cit., p. 106
+[loc_cit] Hilbert and Bernays, loc. cit., p. 106
+[loc_cit] Hilbert and Bernays, loc. cit., p. 121
+[ibid_bare] Ibid, § 57.
+[bracket_ref] [5]
+[bracket_ref] [5]
+[bracket_ref] [5]
+[bracket_ref] [7, p. 240]
+[bracket_ref] [2]
+[bracket_ref] [5, footnote 2]
+[bracket_ref] [7]
+[bracket_ref] [7, p. 235]
+[bracket_ref] [7, p. 236]
+[bracket_ref] [2]
+[bracket_ref] [5]
+[bracket_ref] [4]
+[bracket_ref] [4]
+[bracket_ref] [3]
+[bracket_ref] Church [1]
+[bracket_ref] [8]
+[bracket_ref] [3] p. 438
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] [1]
+[bracket_ref] Mostowski [5] p. 16
+[bracket_ref] [2] Theorem 3.8 p. 113
+[bracket_ref] [4]
+[bracket_ref] [3]
+[bracket_ref] [5]
+[bracket_ref] [7] p. 117
+[bracket_ref] [8] p. 125
+[bracket_ref] [9]
+[bracket_ref] [7]
+[bracket_ref] [9] p. 7
+[bracket_ref] [10]
+[bracket_ref] [11]
+[bracket_ref] [10]
+[bracket_ref] Prior, [14] p. 189
+[bracket_ref] [15]
+[bracket_ref] Prior, [16] p. 141
+[bracket_ref] [1]
+[bracket_ref] note 9 above and [1] p. 55
+[bracket_ref] [17]
+[bracket_ref] [18]
+[op_cit] O. Becker, op. cit.
+[op_cit] Becker, op. cit., I, §2
+[op_cit] Churchman (op. cit., pp. 78-81)
+[op_cit] M. Wajsberg, op. cit.
+[loc_cit] W. T. Parry, Zum Lewisschen Aussagenkalkül, loc. cit.
+[op_cit] Becker, op. cit., Bemerkung zu §2 516f.)
+[op_cit] Churchman, op. cit., pp. 78, 81n
+[ibid_bare] Ibid., p. 3
+[op_cit] Gödel, op. cit., Chapters 1-2
+[bracket_ref] [1])
+[bracket_ref] [2]
+[bracket_ref] [1]
+[bracket_ref] p. 101 of [2]
+[bracket_ref] [3]
+[bracket_ref] [2]
+[bracket_ref] MATHIAS [12]
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] Hailperin's axioms [5]
+[bracket_ref] [7]
+[bracket_ref] Specker [10]
+[bracket_ref] [9]
+[bracket_ref] [8]
+[bracket_ref] [10]
+[bracket_ref] [9]
+[bracket_ref] Harrop's [4]
+[bracket_ref] Introduction to metamathematics [7]
+[bracket_ref] [3]
+[bracket_ref] [1]
+[bracket_ref] [5] p. 18
+[bracket_ref] [6] p. 115
+[bracket_ref] [10]
+[bracket_ref] [11]
+[bracket_ref] Kreisel [8]
+[bracket_ref] [4]
+[bracket_ref] [4]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] [4]
+[bracket_ref] R. L. VAUGHT, Review of [1]
+[ibid_bare] Ibid. pp. 74 ff., pp. 77 ff., and pp. 86-7.
+[ibid_bare] Ibid. p. 74.
+[op_cit] Peirce, op. cit. pp. 27-98.
+[ibid_bare] Ibid. p. 86.
+[ibid_bare] Ibid. p. 140 and pp. 180-181.
+[ibid_bare] ibid. p. 140
+[ibid_bare] ibid. p. 180.
+[ibid_bare] Ibid. p. 141 and p. 184.
+[ibid_bare] Ibid. pp. 34, 140, 144, 195, 377.
+[ibid_bare] Ibid. p. 28
+[ibid_bare] Ibid. p. 200
+[op_cit] Schröder, op. cit. pp. 33-34.
+[ibid_bare] Ibid. p. 11, p. 44, and pp. 64-66.
+[ibid_bare] Ibid., p. 5
+[ibid_bare] ibid., pp. 4-5
+[bracket_ref] [2, p. 342]
+[bracket_ref] [6, p. 415]
+[bracket_ref] [6, pp. 415-416]
+[bracket_ref] Angell [2, p. 329]
+[bracket_ref] McCall ([6, p. 418])
+[bracket_ref] McCall in [7]
+[bracket_ref] [10]
+[bracket_ref] [7]
+[bracket_ref] [1]-[4]
+[bracket_ref] [1]-[4]
+[bracket_ref] [5]
+[bracket_ref] [6]
+[bracket_ref] [1]
+[bracket_ref] Vgl. [5]
+[bracket_ref] [7]
+[bracket_ref] [4]
+[bracket_ref] [6]
+[bracket_ref] [2]
+[bracket_ref] [1]
+[bracket_ref] Vgl. hierzu [4] S. 9, 18
+[bracket_ref] Vgl. hierzu [4]
+[bracket_ref] Benutzung von [4] § 4
+[bracket_ref] Vgl. [3] pp. 319, 320
+[bracket_ref] [3] p. 465
+[loc_cit] The caksdus of logial implication, loc. cit.
+[bracket_ref] A. Robinson [11]
+[bracket_ref] [3]
+[bracket_ref] [1]
+[bracket_ref] [11]
+[bracket_ref] [11]
+[op_cit] Op. cit., pp. 56-57
+[op_cit] Op. cit., pp. 74-81.
+[ibid_bare] Ibid. p. 95.
+[bracket_ref] Asser [1]
+[bracket_ref] Hilbert and Bernays [4], pp. 413-415
+[bracket_ref] [2]
+[loc_cit] Surányi's theorem (loc. cit.)
+[loc_cit] Surányi (loc. cit.)
+[loc_cit] Pepis (loc. cit.)
+[loc_cit] Surányi (loc. cit.)
+[bracket_ref] [4]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [4]
+[bracket_ref] Rabin [5]
+[bracket_ref] Craig [2]
+[op_cit] Lewis and Langford's (op. cit.) 16.15
+[op_cit] Lewis and Langford, op. cit., p. 501
+[loc_cit] F. B. FITCH, loc. cit., 3.13 (p. 212)
+[bracket_ref] Reviews of [2]
+[op_cit] Op. cit., p. 69
+[op_cit] J. B. ROSSER and A. R. TURQUETTE, op. cit., pp. 73-74
+[bracket_ref] [3]
+[bracket_ref] [1]
+[bracket_ref] [3]
+[bracket_ref] [2]
+[bracket_ref] Bachmann [1]
+[bracket_ref] [7]
+[bracket_ref] [2]
+[bracket_ref] [8]
+[bracket_ref] [10]
+[ibid_bare] Ibid., p. 8
+[bracket_ref] [8]
+[bracket_ref] [1]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] [9]
+[bracket_ref] [6]
+[bracket_ref] [12]
+[bracket_ref] [8]
+[bracket_ref] Piccard, is contained in [6] p. 55
+[bracket_ref] [11]
+[bracket_ref] Łoś [3]
+[bracket_ref] [10]
+[bracket_ref] Kalicki [2]
+[bracket_ref] [10]
+[bracket_ref] Swift [12], pp. 619-620
+[bracket_ref] Götlind [1]
+[ibid_bare] Errata, ibid., p. iv.
+[bracket_ref] ALAN ROSE, Review of [4]
+[loc_cit] Lewis and Langford, loc. cit., p. 492
+[loc_cit] Vide Lewis and Langford, loc. cit., pp. 492-493
+[bracket_ref] [2]
+[bracket_ref] [1]
+[bracket_ref] [3], pp. 191-193
+[bracket_ref] [5]
+[bracket_ref] [7], pp. 48, 49
+[bracket_ref] [8], pp. 96, 97
+[bracket_ref] [10], p. 704 and p. 707
+[bracket_ref] [2]
+[bracket_ref] [11]
+[bracket_ref] [7]
+[bracket_ref] [9]
+[bracket_ref] [1]
+[bracket_ref] [4]
+[bracket_ref] [4]
+[bracket_ref] [2]
+[bracket_ref] [1]
+[loc_cit] H. Vieler, loc. cit., pp. 9-11
+[loc_cit] H. Vieler, loc. cit.
+[loc_cit] László Kalmár, Zur Reduktion des Entscheidungsproblems, loc. cit. in footnote 5
+[bracket_ref] [1]
+[bracket_ref] Takeuti-Kino [21]
+[bracket_ref] Lopez-Escobar in [15]
+[bracket_ref] [2]
+[bracket_ref] [4]
+[bracket_ref] [6]
+[bracket_ref] [5]
+[bracket_ref] Prior [6]
+[bracket_ref] Curry [8]
+[bracket_ref] [3]
+[bracket_ref] [3]
+[ibid_bare] Ibid., n. 1, p. 108.
+[ibid_bare] Ibid., p. 108.
+[bracket_ref] Church [1], p. 37
+[bracket_ref] Tarski [8], §5
+[bracket_ref] Tarski [7]
+[bracket_ref] Tarski [10]
+[bracket_ref] Skolem [5], §4
+[bracket_ref] Hausdorff [2]
+[bracket_ref] Szmielew [6]
+[bracket_ref] Skolem [4]
+[bracket_ref] Skolem [5]
+[bracket_ref] Tarski [8]
+[bracket_ref] Skolem [4]
+[bracket_ref] Tarski [7], §3
+[bracket_ref] Skolem [4], p. 36
+[bracket_ref] Tarski [9], p. 50, note 11
+[bracket_ref] J. Robinson [3], p. 101
+[loc_cit] Loc. cit. (footnote 20)
+[bracket_ref] [6]
+[bracket_ref] [4]
+[bracket_ref] [1]
+[bracket_ref] [4]
+[bracket_ref] [1]
+[bracket_ref] [9], p. 305
+[bracket_ref] [2]
+[bracket_ref] [9], p. 306-307
+[bracket_ref] [11]
+[bracket_ref] Lewis's group I, [5], p. 493
+[bracket_ref] [2]
+[bracket_ref] [10]
+[bracket_ref] [4]
+[bracket_ref] [7]
+[bracket_ref] [26]
+[bracket_ref] Åqvist [1]
+[bracket_ref] [6]
+[bracket_ref] Hughes and Cresswell [4]
+[bracket_ref] V. Hughes and Cresswell [4, pp. 50-56]
+[bracket_ref] Cresswell [2]
+[bracket_ref] [3, p. 204]
+[bracket_ref] Cresswell [2]
+[bracket_ref] Kripke [5]
+[bracket_ref] Lemmon [6]
+[bracket_ref] Kemeny in [3], pp. 265-6
+[bracket_ref] [2], pp. 295-6
+[bracket_ref] [1], p. 12
+[bracket_ref] Shimony's axiom (4) in [4], p. 3
+[bracket_ref] [5], pp. 93-4
+[bracket_ref] [6]
+[bracket_ref] [2] p. 52
+[bracket_ref] Prior [4] p. 130
+[bracket_ref] Tarski, [5] paper I
+[bracket_ref] [2]
+[bracket_ref] Zermelo-Fraenkel (see [6])
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] [7], § 29
+[bracket_ref] [10]
+[bracket_ref] [7]
+[bracket_ref] [24]
+[bracket_ref] [32], p. 86
+[bracket_ref] Kuznekov [35]
+[bracket_ref] [35]
+[bracket_ref] Łukasiewicz and Tarski [40]
+[bracket_ref] Rasiowa [46]
+[bracket_ref] [1]
+[bracket_ref] [5], S. 112 f
+[bracket_ref] [5], S. 115
+[bracket_ref] [8], Bd. I, S. 54 f
+[bracket_ref] [12], insbes. S. 307 f
+[bracket_ref] [5], S. 71
+[bracket_ref] [10], S. 141
+[bracket_ref] [12], S. 315
+[bracket_ref] [7], S. 184
+[bracket_ref] [7], S. 260
+[bracket_ref] [6]
+[bracket_ref] [7], S. 258 f
+[bracket_ref] vgl. [7], S. 4
+[bracket_ref] Behmann [vgl. [1], S. 40 ff
+[bracket_ref] [1], S. 41
+[bracket_ref] [1]
+[bracket_ref] [7]
+[bracket_ref] [1]
+[bracket_ref] [3]
+[bracket_ref] [11], insbes. S. 91
+[bracket_ref] [7], S. 80 ff
+[bracket_ref] [13], Bd. I, S. 323
+[bracket_ref] [3]
+[bracket_ref] Freges ([8], S. 9)
+[bracket_ref] [4]
+[bracket_ref] [14], S. 173-179
+[bracket_ref] [3], S. 100 ff
+[bracket_ref] [3], S. 101
+[bracket_ref] [3], S. 101 f
+[bracket_ref] [9], S. 57
+[bracket_ref] [1], S. 44
+[bracket_ref] [13], Bd. III, S. 42-63
+[bracket_ref] [2]
+[bracket_ref] [2]
+[bracket_ref] [1], S. 47 f
+[op_cit] Rosser and Turquette, op. cit., p. 78
+[op_cit] Rosser and Turquette, op. cit., p. 68
+[op_cit] Rosser and Turquette, op. cit., pp. 61-82
+[ibid_bare] Ibid.
+[op_cit] Alonzo Church, op. cit.
+[op_cit] Roser and Turquette, op. cit., sec. 2
+[op_cit] Rosser and Turquette, op. cit., p. 68
+[op_cit] Rosser and Turquette, op. cit., p. 70
+[op_cit] Alonzo Church and Hilbert and Ackermann, op. cit.
+[op_cit] Rosser and Turquette, op. cit., p. 68
+[op_cit] Alonzo Church, op. cit., p. 44
+[bracket_ref] Dummett and Lemmon [1] 1959
+[bracket_ref] Nishimura [2] 1960
+[bracket_ref] Prior [3] 1957, p. 23
+[bracket_ref] Prior [4] 1958
+[bracket_ref] [1]
+[bracket_ref] von Wright [11]
+[bracket_ref] [11]
+[bracket_ref] [11]
+[bracket_ref] Anderson [3]
+[bracket_ref] Lewis and Langford [5], p. 501, p. 493, and pp. 125-126
+[bracket_ref] von Wright [11], p. 85
+[bracket_ref] Lewis's system S2 ([5], p. 500)
+[bracket_ref] McKinsey [6]
+[bracket_ref] von Wright [11]
+[bracket_ref] von Wright [11]
+[bracket_ref] McKinsey [6]
+[bracket_ref] McKinsey and Tarski [7]
+[bracket_ref] McKinsey and Tarski [7], pp. 1-2
+[bracket_ref] McKinsey and Tarski [7]
+[bracket_ref] [5], p. 125
+[bracket_ref] Parry [8], p. 144
+[bracket_ref] Anderson [1]
+[bracket_ref] Quine [9], Chapter I
+[bracket_ref] Lewis and Langford [5], p. 126
+[bracket_ref] McKinsey and Tarski [7]
+[bracket_ref] Simons [10]
+[bracket_ref] Von Wright [11], pp. 84-85
+[bracket_ref] Anderson [2]
+[bracket_ref] Lewis and Langford [5], p. 501
+[bracket_ref] Carnap [4]
+[bracket_ref] McKinsey and Tarski [7], pp. 13-14
+[bracket_ref] McKinsey [6], p. 132
+[bracket_ref] Von Wright ([11], p. 63)
+[bracket_ref] [11], p. 64
+[bracket_ref] McKinsey ([6], p. 128)
+[bracket_ref] A. R. ANDERSON, Review of von Wright [11]
+[ibid_bare] ibid.
+[bracket_ref] [3]
+[bracket_ref] [3]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] [8]
+[bracket_ref] Shepherdson [11], pp. 164-165
+[bracket_ref] Bernays [1], pp. 83-84
+[bracket_ref] [1]
+[bracket_ref] [11]
+[bracket_ref] [11]
+[bracket_ref] [1]
+[bracket_ref] [5, vol. 2, p. 257]
+[bracket_ref] [2]
+[bracket_ref] [4, p. 66]
+[bracket_ref] [6] p. 22
+[bracket_ref] Gentzen [1]
+[bracket_ref] Mostowski [4]
+[bracket_ref] Umezawa [5]
+[bracket_ref] [6]
+[bracket_ref] [6]
+[bracket_ref] [6] p. 22
+[bracket_ref] [4] p. 204
+[bracket_ref] [6] p. 23
+[bracket_ref] [6] p. 23
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] [8]
+[bracket_ref] [10]
+[bracket_ref] Ackermann [1]
+[bracket_ref] Mostowski [14]
+[bracket_ref] [8]
+[bracket_ref] Kleene [5]
+[bracket_ref] Mostow- ski [13]
+[bracket_ref] Markwald [12]
+[bracket_ref] Kleene [9]
+[bracket_ref] [12]
+[bracket_ref] [8]
+[bracket_ref] [9]
+[bracket_ref] [12]
+[bracket_ref] [7] bottom page 538
+[bracket_ref] [9]
+[bracket_ref] [9]
+[bracket_ref] [8]
+[bracket_ref] [8]
+[bracket_ref] [6]
+[bracket_ref] [7] p. 527
+[bracket_ref] [9]
+[bracket_ref] John Myhill [3]
+[bracket_ref] Carnap in [1]
+[bracket_ref] [5], pp. 165-166
+[loc_cit] J. v. Neumann, loc. cit., Kap. VIII
+[bracket_ref] [1]
+[bracket_ref] [1]
+[loc_cit] Tarski, loc. cit.
+[loc_cit] Goodman and Quine, loc. cit.
+[loc_cit] Goodman and Quine, loc. cit., esp. p. 112.
+[bracket_ref] [7]
+[bracket_ref] [13]
+[bracket_ref] [11]
+[bracket_ref] [12]
+[bracket_ref] [15]
+[bracket_ref] [14]
+[bracket_ref] [14]
+[bracket_ref] p. 162 of [7]
+[bracket_ref] [10]
+[bracket_ref] [10]
+[bracket_ref] [10]
+[bracket_ref] pp. 448, 449 of [12]
+[bracket_ref] p. 448 of [12]
+[bracket_ref] [8]
+[bracket_ref] [9]
+[bracket_ref] [6], pp. 88, 89
+[bracket_ref] [16]
+[bracket_ref] [4]
+[bracket_ref] page 128 of [17]
+[bracket_ref] pp. 450-452 of [12]
+[op_cit] Op. cit., p. 151 and footnote 6
+[op_cit] Op. cit., p. 152
+[op_cit] Op. cit., p. 151 and footnote 6
+[loc_cit] Davis, loc. cit., Theorems 3.3 and 3.4
+[loc_cit] Davis, loc. cit., Theorem 3.5
+[bracket_ref] [26] p. 209
+[ibid_bare] ibid. p. 168.
+[bracket_ref] [26] pp. 217 ff
+[ibid_wrapped] (ibid. pp. 197-198)
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] [4]
+[bracket_ref] [17]
+[bracket_ref] [2]
+[bracket_ref] Kreider in [13]
+[bracket_ref] [14]
+[bracket_ref] [5]
+[bracket_ref] Rogers in [19] pp. 134-135
+[bracket_ref] [14]
+[bracket_ref] [21] pp. 168-169
+[bracket_ref] [22]
+[bracket_ref] [10] pp. 414-415
+[bracket_ref] Kreisel in [15]
+[op_cit] Łukasiewicz and Tarski, op. cit., p. 42
+[op_cit] Tarski, op. cit., p. 97
+[loc_cit] JULIA ROBINSON, loc. cit.
+[loc_cit] Lewis and Langford, loc. cit.
+[bracket_ref] Belnap [11]
+[bracket_ref] Belnap and Spencer [13]
+[bracket_ref] Anderson and Belnap [8]
+[bracket_ref] Belnap [10]
+[bracket_ref] Anderson and Belnap [5]
+[bracket_ref] [6]
+[bracket_ref] [8]
+[bracket_ref] [9]
+[bracket_ref] [11]
+[bracket_ref] Hajnal [3] p. 135
+[bracket_ref] Hajnal [3] p. 135
+[bracket_ref] Hajnal [3]
+[bracket_ref] [8]
+[ibid_bare] ibid. (1950) 160f
+[ibid_wrapped] [ibid. (1959) 165]
+[ibid_wrapped] (ibid. 164)
+[ibid_bare] p. 163 (ibid.)
+[loc_cit] F. B. Fitch, loc. cit., p. 109
+[loc_cit] W. V. Quine's, loc. cit., p. 152
+[loc_cit] W. V. Quine, loc. cit., p. 74 and pp. 177-8
+[loc_cit] W. V. Quine, loc. cit., pp. 142-3
+[loc_cit] W. V. Quine, loc. cit., †182 (p. 137)
+[loc_cit] W. V. Quine, loc. cit., *100 (p. 88)
+[ibid_bare] W. V. Quine, ibid.
+[loc_cit] W. V. Quine, loc. cit., *232 (p. 172)
+[loc_cit] W. V. Quine, loc. cit., *235 (p. 174) and footnote 16 below
+[loc_cit] W. V. Quine, loc. cit., †514 (p. 217)
+[loc_cit] W. V. Quine, loc. cit., †517 (p. 217)
+[loc_cit] W. V. Quine, loc. cit., pp. 201-2
+[loc_cit] L. Chwistek, loc. cit., p. 94
+[loc_cit] W. V. Quine, loc. cit., pp. 11, 12-13, 119-20 and 130-32
+[loc_cit] D. Hilbert and P. Bernays, loc. cit., vol. 2, pp. 9-18
+[loc_cit] W. V. Quine, loc. cit., pp. 215-16, 220-21
+[loc_cit] W. V. Quine, loc. cit., pp. 253-54
+[loc_cit] W. V. Quine, loc. cit., p. 202, D25
+[loc_cit] W. V. Quine, loc. cit., pp. 197-8
+[loc_cit] W. V. Quine, loc. cit., p. 200, D24
+[loc_cit] W. V. Quine, loc. cit., p. 241, D40
+[loc_cit] W. V. Quine, loc. cit., p. 48, D6
+[loc_cit] F. B. Fitch, loc. cit., p. 59
+[loc_cit] S. C. Kleene, loc. cit., p. 63
+[loc_cit] Peano (cf. Quine, loc. cit., p. 259
+[loc_cit] D. Hilbert and P. Bernays, loc. cit., vol. 1, p. 371
+[loc_cit] S. C. Kleene, loc. cit., p. 63, Theorem VIII
+[loc_cit] W. V. Quine, loc. cit., p. 178, *254
+[loc_cit] W. V. Quine, loc. cit., pp. 235-6
+[bracket_ref] [8]
+[bracket_ref] [6]
+[bracket_ref] [8]
+[bracket_ref] Henkin [5]
+[bracket_ref] Tarski [14]
+[bracket_ref] Lyndon [11]
+[bracket_ref] Lyndon [11]
+[bracket_ref] Tarski [14]
+[bracket_ref] Tarski and Vaught [15]
+[bracket_ref] Frayne and Scott in [2]
+[ibid_bare] Ibid., Theorem 87.
+[bracket_ref] [4]
+[bracket_ref] [4]
+[bracket_ref] [21]
+[bracket_ref] [17] p. 162
+[bracket_ref] [7]
+[bracket_ref] Kleene's result in [13]
+[bracket_ref] Vaught's result 2.1 in [7]
+[bracket_ref] [7]
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] [19]
+[bracket_ref] [7]
+[bracket_ref] [4]
+[bracket_ref] [6]
+[bracket_ref] [5]
+[bracket_ref] [5]
+[bracket_ref] [5] p. 264.
+[bracket_ref] Herbrand [10] p. 117
+[bracket_ref] [5]
+[bracket_ref] [10] pp. 85-97
+[bracket_ref] [5]
+[bracket_ref] [10] pp. 85-97
+[bracket_ref] [6]
+[bracket_ref] [10] pp. 97-108
+[bracket_ref] Tarski [18]
+[bracket_ref] Rosser [6, p. 130]
+[bracket_ref] Prawitz [5]
+[loc_cit] Simons' Theorems 1, 28, and 29, loc. cit.
+[op_cit] Lewis and Langford, op. cit.
+[op_cit] Lewis and Langford, op. cit., p. 498, item (8)
+[bracket_ref] [19]
+[bracket_ref] [20]
+[bracket_ref] [12]
+[bracket_ref] [12]
+[bracket_ref] Szmielew and Tarski in [14]
+[bracket_ref] Tarski, and by Cobham [2]
+[bracket_ref] Kalmár [7]
+[bracket_ref] [16]
+[bracket_ref] [17]
+[bracket_ref] [16]
+[bracket_ref] [16]
+[bracket_ref] [16]
+[bracket_ref] [17]
+[bracket_ref] [17]
+[bracket_ref] [17]
+[bracket_ref] W. Szmielew and A. Tarski (cf. [15] p. 34)
+[bracket_ref] [17]
+[bracket_ref] [17]
+[bracket_ref] Trahténbrot [17]
+[bracket_ref] [8]
+[bracket_ref] pp. 137-139 of [11]
+[bracket_ref] [17]
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] [6]
+[bracket_ref] [5] pp. 42-43
+[bracket_ref] [4]
+[bracket_ref] [13]
+[qv_ref] Logistic (q.v., pp. 10-16).
+[bracket_ref] Tarski [6]
+[bracket_ref] Tarski [5]
+[bracket_ref] Church [1]
+[bracket_ref] Rosser [4]
+[bracket_ref] Mostowski [2], theorem 2.17, p. 91
+[bracket_ref] Mostowski [2], theorem 5.31, p. 103
+[bracket_ref] Post [3] p. 290
+[bracket_ref] Mostowski [2], theorem 5.51, p. 106
+[bracket_ref] Rosser [4]
+[bracket_ref] Tarski [6], theorem II
+[bracket_ref] [3]
+[bracket_ref] [1], pp. 249-253
+[bracket_ref] Henkin [6]
+[bracket_ref] Lyndon [11]
+[bracket_ref] [7]
+[bracket_ref] [5]
+[op_cit] op. cit., p. 162
+[bracket_ref] [9, p. 161f]
+[bracket_ref] [6]
+[op_cit] Anderson and Belnap (op. cit., p. 302)
+[bracket_ref] Hailperin [1953]
+[bracket_ref] Quine [1954]
+[bracket_ref] van Fraassen [1966]
+[bracket_ref] Mostowski [1951]
+[bracket_ref] Hailperin [1953]
+[bracket_ref] Leblanc and Thomason [1966]
+[bracket_ref] van Fraassen [1966]
+[bracket_ref] Leblanc and Thomason [1966]
+[bracket_ref] Quine [1951]
+[bracket_ref] van Fraassen [1966]
+[bracket_ref] Bar-Hillel [2]
+[bracket_ref] Leonard [1964]
+[bracket_ref] [2] p. 7, D19
+[bracket_ref] [1]
+[bracket_ref] [4]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1], pp. 12-13
+[bracket_ref] J. C. C. McKinsey [4]
+[bracket_ref] Kleene [3], p. 283
+[bracket_ref] Wajsberg [6]
+[bracket_ref] Quine [5]
+[bracket_ref] Bergmann [1]
+[bracket_ref] McKinsey, [2], Theorem 3)
+[ibid_bare] Ibid., p. 89.
+[ibid_bare] Ibid., pp. 27-37.
+[ibid_bare] Ibid., p. 34.
+[ibid_bare] Ibid., pp. 79-80.
+[ibid_bare] Ibid., p. 88.
+[ibid_bare] Ibid., p. 80.
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] [2]
+[bracket_ref] [6]
+[bracket_ref] [7]
+[bracket_ref] [3]
+[bracket_ref] Cf. [4], p. 115, footnote 5
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] [7] p. 501
+[bracket_ref] [4] p. 34, footnote 10
+[bracket_ref] [4] p. 37, footnote 11
+[bracket_ref] [4]
+[bracket_ref] [3]
+[bracket_ref] [4] p. 120
+[bracket_ref] [1]
+[bracket_ref] [3]
+[bracket_ref] [4]
+[bracket_ref] [1]
+[bracket_ref] C. I. LEWIS AND C. H. LANGFORD [7]. Symbolic logic. New York (The Century Co.), 1932, xi + 506 pp.
+[bracket_ref] Kalicki [3]
+[bracket_ref] Linial and Post [6]
+[bracket_ref] McKinsey [7], in particular Theorem 4 and Footnote 7, p. 122
+[bracket_ref] Kalicki [3]
+[bracket_ref] Post [9]
+[bracket_ref] Church [2], p. 10
+[bracket_ref] Church [1]
+[bracket_ref] Post [9], p. 291
+[bracket_ref] Kleene [5]
+[bracket_ref] Mostowski [8]
+[bracket_ref] Kalicki [4]
+[bracket_ref] [1]
+[bracket_ref] [3]
+[bracket_ref] [4]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [1]
+[bracket_ref] [4]
+[bracket_ref] pp. 213-235 of [3]
+[bracket_ref] p. 64 of [4]
+[bracket_ref] p. 140 of [5]
+[bracket_ref] [6]
+[bracket_ref] [7]
+[bracket_ref] [1]
+[bracket_ref] [2]
+[bracket_ref] [6]
+[bracket_ref] [8]
+[bracket_ref] [1]
+[bracket_ref] [3]
+[bracket_ref] [4]
+[bracket_ref] [6]
+[bracket_ref] [9]
+[bracket_ref] [6]
+[bracket_ref] Kreisel in [5]
+[ibid_bare] Ibid., pp. 78-79.
+[ibid_bare] Ibid., pp. 77-78.
+[ibid_bare] Ibid., p. 78.
+[ibid_bare] Ibid., p. 70.
+[ibid_bare] Ibid., pp. 61-62.
+[ibid_bare] Ibid., pp. 78-81.
+[ibid_bare] Ibid., pp. 79-81.
+[loc_cit] Gödel, loc. cit.
+[bracket_ref] Unlike [2]
+[bracket_ref] [1]
+[loc_cit] Cf. Hilbert and Ackermann, loc. cit.
+[bracket_ref] Church [3], pp. 169-170.
+[bracket_ref] [5]
+[bracket_ref] [6]
+[bracket_ref] [1]
+[bracket_ref] Dugundji [2]
+[bracket_ref] Lewis and Langford [4], pp. 122-178, and pp. 492-502
+[bracket_ref] McKinsey and Tarski [7], p. 7
+[bracket_ref] Lewis and Langford [4], pp. 125-126
+[bracket_ref] Tarski [9], pp. 103-109
+[bracket_ref] McKinsey [5], p. 118
+[bracket_ref] Huntington [3], p. 292
+[bracket_ref] McKinsey [5], p. 118
+[bracket_ref] McKinsey [5], p. 122
+[bracket_ref] McKinsey [5],p. 123
+[bracket_ref] McKinsey and Tarski [7], p. 9, Theorem 3.9.
+[bracket_ref] Parry [8], p. 144, footnote 11.
+[bracket_ref] McKinsey [5], p. 119
+[bracket_ref] McKinsey [5], p. 127
+[bracket_ref] McKinsey [5], p. 119
+[bracket_ref] McKinsey [5], p. 120
+[bracket_ref] McKinsey [5], p. 119
+[bracket_ref] Lewis and Langford [4], Appendix II, p. 492, footnote 1
+[bracket_ref] Bergmann [1]
+[bracket_ref] McKinsey and Tarski [7], p. 5
+[bracket_ref] Dugundji [2]
+[bracket_ref] McKinsey [6]
+[bracket_ref] [10]
+[bracket_ref] [2]
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] [3]
+[bracket_ref] [3]
+[bracket_ref] Quine [4, pp. 101-107 and 192-194]
+[bracket_ref] Feys [1]
+[bracket_ref] Prior [3]
+[op_cit] Gödel (op. cit. p. 19)
+[op_cit] Gödel, op. cit., p. 32
+[bracket_ref] [4], p. 162
+[bracket_ref] [9]
+[op_cit] TARSKI, op. cit., pp. 173-174
+[bracket_ref] Rosser and Turquette [3]
+[bracket_ref] [1, p. 70]
+[bracket_ref] Vgl. [9]
+[bracket_ref] und [2]
+[bracket_ref] Vgl. [11]
+[bracket_ref] Vgl. [7]
+[bracket_ref] Vgl. hierzu [8], p. 160, letzter Absatz
+[bracket_ref] Ein Hauptresultat von [4]
+[bracket_ref] vgl. [1]
+[bracket_ref] Martin in [4]
+[bracket_ref] [4]
+[bracket_ref] [15]
+[loc_cit] von Neumann's "Bereich II" (loc. cit. p. 237)
+[bracket_ref] McKinsey and Tarski [10]
+[bracket_ref] McKinsey and Tarski [11]
+[bracket_ref] Lewis and Langford [5], expecially Chapter VI and Appendix II
+[bracket_ref] Heyting [4]
+[bracket_ref] Tarski [13], p. 106
+[bracket_ref] McKinsey and Tarski [10]
+[bracket_ref] McKinsey and Tarski [10], Definition 1.1
+[bracket_ref] McKinsey [8]
+[bracket_ref] McKinsey and Tarski [10]
+[bracket_ref] McKinsey and Tarski [10]
+[bracket_ref] Lewis and Langford [5]
+[bracket_ref] McKinsey and Tarski [11]
+[bracket_ref] McKinsey and Tarski [11]
+[bracket_ref] Gödel [2]
+[bracket_ref] McKinsey [7]
+[bracket_ref] Wajsberg [14]
+[bracket_ref] Gödel in [2]
+[bracket_ref] Robinson in [7]
+[bracket_ref] Gentzen in [2]
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] [2]
+[bracket_ref] [2]
+[bracket_ref] [3]
+[bracket_ref] [2]
+[bracket_ref] Bernays in [1]
+[bracket_ref] [1]
+[bracket_ref] [4]
+[bracket_ref] [4]
+[bracket_ref] [5]
+[bracket_ref] [6]
+[bracket_ref] p. 20 of [6]
+[bracket_ref] [5]
+[bracket_ref] [12]
+[bracket_ref] [10]
+[bracket_ref] [4, p. 22]
+[bracket_ref] Shoenfield [14]
+[bracket_ref] Shoenfield [15]
+[bracket_ref] [4])
+[bracket_ref] Anderson and Belnap [2]
+[bracket_ref] Kripke [8]
+[bracket_ref] Ackermann [1]
+[bracket_ref] Kripke [7]
+[bracket_ref] [11]
+[bracket_ref] [32] p. 125
+[bracket_ref] [32] p. 126
+[bracket_ref] [6]
+[bracket_ref] Rosser [24]
+[bracket_ref] Kleene [8]
+[bracket_ref] [30], p. 91
+[op_cit] Wittgenstein (op. Cit., 5.15)
+[op_cit] Carnap (op. cit., chapter V)
+[op_cit] Hempel and Oppenheim (op. cit., p. 169)
+[op_cit] Carnap (op. cit., section 73)
+[loc_cit] Degree of factual support (loc. cit.)
+[loc_cit] Carnap does (loc. cit.)
+[op_cit] Helmer and Oppenheim's development (op. cit., pp. 30-32)
+[ibid_bare] Ibid.
+[bracket_ref] Ackermann's [2]
+[bracket_ref] Harrop, [3]
+[bracket_ref] matrix in [4]
+[bracket_ref] [1]
+[bracket_ref] [4] p. 122
+[bracket_ref] Suszko's "logic without axioms" ([8] reviewed in this Journal at vol. 15, p. 66)
+[bracket_ref] Church [1]
+[bracket_ref] [7]
+[bracket_ref] McKinsey [11]
+[bracket_ref] Thomas [16]
+[bracket_ref] Dummett-Lemmon [2]
+[bracket_ref] Kripke [6], p. 70
+[bracket_ref] Prior [14]
+[bracket_ref] [4]
+[bracket_ref] Quine [5]
+[bracket_ref] Quine [11], pp. 145-147
+[bracket_ref] [11]
+[bracket_ref] Whitehead and Russell [16], Vol. I, pp. 37-65
+[bracket_ref] Wiener [17]
+[bracket_ref] Kuratowski [6]
+[bracket_ref] Gödel [5], p. 176
+[bracket_ref] Tarski [15], pp. 363-364
+[bracket_ref] Quine [10], pp. 123-124
+[bracket_ref] Chwistek [3]
+[bracket_ref] Ramsey [12], pp. 20-29
+[bracket_ref] Church [2], p. 169
+[bracket_ref] Quine [8]
+[bracket_ref] Tarski [14], pp. 97-103
+[bracket_ref] Tarski [14]
+[bracket_ref] Quine [11]
+[bracket_ref] Whitehead and Russell [16]
+[bracket_ref] Quine [7], pp. 30-31
+[bracket_ref] Quine [11]
+[bracket_ref] Whitehead and Russell [16], Vol. II, p. 203
+[bracket_ref] Whitehead and Russell [16], Vol. I, pp. 415-417
+[bracket_ref] Quine [9], pp. 79-80
+[bracket_ref] [9]
+[bracket_ref] [9]
+[bracket_ref] [9]
+[bracket_ref] [9]
+[bracket_ref] [9]
+[bracket_ref] [9]
+[bracket_ref] [9]
+[bracket_ref] Bernays [1]
+[bracket_ref] [9]
+[bracket_ref] Quine [10]
+[bracket_ref] Rosser [13]
+[bracket_ref] Bernays [1]
+[bracket_ref] Curry [4]
+[bracket_ref] Tarski [14], p. 103
+[bracket_ref] Quine [11], p. 146
+[bracket_ref] Quine [11], p. 152 (M27)
+[op_cit] J. Łukasiewicz and A. Tarski, op. cit.
+[bracket_ref] Nelson in [10]
+[bracket_ref] [2]
+[bracket_ref] Kneale in [6], p. 129
+[bracket_ref] [10], pp. 440-1
+[bracket_ref] [11]
+[bracket_ref] [11], p. 26
+[bracket_ref] [3]
+[bracket_ref] [7]
+[bracket_ref] Angell in [2]
+[bracket_ref] [15]
+[bracket_ref] Orey [16]
+[bracket_ref] Ackermann [1] p. 98
+[bracket_ref] Leśniewski [13] p. 123
+[bracket_ref] [9] (cf. pp. 284-285)
+[bracket_ref] [12]
+[bracket_ref] Henkin [8] p. 85
+[bracket_ref] Gödel's completeness theorem in [5]
+[bracket_ref] Davis [4]
+[bracket_ref] Craig [3]
+[bracket_ref] Simons [15]
+[bracket_ref] [8]
+[bracket_ref] [7]
+[bracket_ref] [7]
+[bracket_ref] Łukasiewicz [10]
+[bracket_ref] Smiley [16]
+[bracket_ref] Halldén [3]
+[bracket_ref] [1], p. 126
+[bracket_ref] [2]
+[bracket_ref] [2]
+[bracket_ref] von Wright's M ([6])
+[bracket_ref] Robinson's review [5]
+[bracket_ref] Acker- mann's [1]
