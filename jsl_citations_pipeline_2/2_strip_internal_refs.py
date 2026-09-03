@@ -9,7 +9,7 @@ from pathlib import Path
 
 INPUT_PATH = Path("jsl_citations_data_2/2_references_compiled.json")
 OUTPUT_PATH = Path("jsl_citations_data_2/3_references_cleaned.json")
-LOG_PATH = Path("jsl_citations_data_2/2_strip_internal_refs_log.txt")
+LOG_PATH = Path("jsl_citations_pipeline_logs/3_stripped_internal_refs_log.txt")
 
 
 def has_vol_year(ref: str) -> bool:

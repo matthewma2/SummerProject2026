@@ -1,0 +1,2098 @@
+[
+  {
+    "matched_work_id": "Godel1933b",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "K. GÖDEL, Zur intuitionistischen Arithmetik und Zahlentheorie, Ergebnisse eines math. Koll., Heft. 4 fur 1931-32 (1933), pp. 34-38.",
+    "parsed_title": "Zur intuitionistischen Arithmetik und Zahlentheorie",
+    "parsed_year": 1933
+  },
+  {
+    "matched_work_id": "Qvist1964a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "LENNART ÅQVIST, Results concerning some modal systems that contain S2, this JOURNAL vol. 29 (1964), pp. 79-87.",
+    "parsed_title": "Results concerning some modal systems that contain S2",
+    "parsed_year": 1964
+  },
+  {
+    "matched_work_id": "Church1936a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "CHURCH, ALONZO, A note on the Entscheidungsproblem, this JOURNAL, vol. 1(1936), pp. 40-41, 101-102.",
+    "parsed_title": "A note on the Entscheidungsproblem",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Lowenheim1915b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "L. LÖWENHEIM, Uber Moglichkeiten im Relativkalkid, Mathematische Annalen, vol. 76 (1915), pp. 447-470.",
+    "parsed_title": "Uber Moglichkeiten im Relativkalkid",
+    "parsed_year": 1915
+  },
+  {
+    "matched_work_id": "Kemeny1956a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "JOHN G. KEMENY, A new approach to semantics, Part I, this JOURNAL, vol. 21 (1956), pp. 1-27.",
+    "parsed_title": "A new approach to semantics, Part I",
+    "parsed_year": 1956
+  },
+  {
+    "matched_work_id": "Schonfinkel1924a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "M. SCHÖNFINKEL, Uber die Bausteine der mathematischen Logik, Mathemati- sche Annalen, vol. 92 (1924), pp. 305-316.",
+    "parsed_title": "Uber die Bausteine der mathematischen Logik",
+    "parsed_year": 1924
+  },
+  {
+    "matched_work_id": "Rosser1942b",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "J. B. ROSSER, The Burali-Forti paradox, this JOURNAL, vol. 7 (1942), pp. 1-17.",
+    "parsed_title": "The Burali-Forti paradox",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Barcan1946a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "R. C. BARCAN, A functional calculus of first order based on strict implication, this JOURNAL, Vol. 11 (1946), pp. 1-16.",
+    "parsed_title": "A functional calculus of first order based on strict implication",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Lowenheim1915b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "LEOPOLD LöWENHEIM, CUber Moglichkeiten im Relativkalkil, Mathematische Annalen, vol. 76 (1915), pp. 447-470",
+    "parsed_title": "CUber Moglichkeiten im Relativkalkil",
+    "parsed_year": 1915
+  },
+  {
+    "matched_work_id": "Russell1908a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "BERTRAND RUSSELL. Mathematical logic based on the theory of types, American journal of mathematics, vol. 30 (1908), pp. 222-262.",
+    "parsed_title": "Mathematical logic based on the theory of types",
+    "parsed_year": 1908
+  },
+  {
+    "matched_work_id": "Zermelo1908b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "ERNST ZERMELO. Untersuchungen fiber die Grundlagen der Mengenlehre l, Mathematische Annalen, Vol. 65 (1908), pp. 261-281.",
+    "parsed_title": "Untersuchungen fiber die Grundlagen der Mengenlehre l",
+    "parsed_year": 1908
+  },
+  {
+    "matched_work_id": "Rosser1939c",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "BARKLEY ROSSER. On the consistency of Quine's \"New foundations for mathematical logic,\" this JOURNAL, vol. 4 (1939), pp. 15-24.",
+    "parsed_title": "On the consistency of Quine's \"New foundations for mathematical logic,\"",
+    "parsed_year": 1939
+  },
+  {
+    "matched_work_id": "Bernays1937a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "PAUL BERNAYS. A system of axiomatic set theory, Part J, this JOURNAL, Vol. 2 (1937), pp. 65-77",
+    "parsed_title": "A system of axiomatic set theory, Part J",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Rosser1942b",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "BARKLEY ROSSER. The Burali-Forti paradox, this JOURNAL, Vol. 7 (1942), pp. 1-17.",
+    "parsed_title": "The Burali-Forti paradox",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Wang1948a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "HAO WANG. A new theory of element and number, ibid., vol. 13 (1948), pp. 129-137.",
+    "parsed_title": "A new theory of element and number, ibid",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Quine1942a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE. On existence conditions for elements and classes, this JOURNAL, vol. 7 (1942), pp. 157-159.",
+    "parsed_title": "On existence conditions for elements and classes",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Wang1950b",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "HAO WANG. Existence of classes and value specification of variables, this JOURNAL. (To appear soon.)",
+    "parsed_title": "Existence of classes and value specification of variables",
+    "parsed_year": null
+  },
+  {
+    "matched_work_id": "RussellWhitehead1913a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "A. N. WHITEHEAD and BERTRAND RUSSELL. Principia mathematica. Cambridge, Eng- land, 1910-1913.",
+    "parsed_title": "Principia mathematica",
+    "parsed_year": 1913
+  },
+  {
+    "matched_work_id": "Godel1930b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "KURT GÖDEL. Die Vollstdndigkeit der Axiome des logischen FunktionenkaltwIs, Monats- hefte für Mathematik und Physik, vol. 37 (1930), pp. 349-360.",
+    "parsed_title": "Die Vollständigkeit der Axiome des logischen FunktionenkaltwIs",
+    "parsed_year": 1930
+  },
+  {
+    "matched_work_id": "Nelson1955a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "R. J. NELSON, Simplest normal truth functions, this JOURNAL, vol. 20 (1955), pp. 105-108.",
+    "parsed_title": "Simplest normal truth functions",
+    "parsed_year": 1955
+  },
+  {
+    "matched_work_id": "Nelson1955a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "RAYMOND J. NELSON, Simplest normal truth functions, this JOURNAL, vol. 20 (1955), pp. 105-108.",
+    "parsed_title": "Simplest normal truth functions",
+    "parsed_year": 1955
+  },
+  {
+    "matched_work_id": "Qvist1964a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "LENNART ÅQVIST, Results concerning some modal systems that contain S2, this JOURNAL, vol. 29 (1964), pp. 79-87.",
+    "parsed_title": "Results concerning some modal systems that contain S2",
+    "parsed_year": 1964
+  },
+  {
+    "matched_work_id": "Jaskowski1934a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "S. JASKOWSKI, On the rules of supposition in formal logic, Studia logica, vol. 1 (1934), pp. 5-32.",
+    "parsed_title": "On the rules of supposition in formal logic",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Schonfinkel1924a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "M. SCHÖNFINKEL, Ober die Bausteine der mathematischen Logik, Mathematische Annalen, vol. 92 (1924), pp. 305-316",
+    "parsed_title": "Ober die Bausteine der mathematischen Logik",
+    "parsed_year": 1924
+  },
+  {
+    "matched_work_id": "Neumann1929a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "J. V. NEUMANN. Uber eine Widerspruchsfreiheitsfrage in der axiomatischen Mengen- lehre. Journal für die reine und angewandte Mathematik, vol. 160 (1929), pp. 227-241.",
+    "parsed_title": "Uber eine Widerspruchsfreiheitsfrage in der axiomatischen Mengenlehre",
+    "parsed_year": 1929
+  },
+  {
+    "matched_work_id": "Halldn1951a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "HALLDÉN, SOREN, On the semantic non-completeness of certain Lewis calculi, this JOURNAL, vol. 16 (1951), pp. 127-129.",
+    "parsed_title": "SOREN, On the semantic non-completeness of certain Lewis calculi",
+    "parsed_year": 1951
+  },
+  {
+    "matched_work_id": "Neumann1928b",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "J. v. NEUMANN. Die Axiomatisierung der Mengenlehre. Mathematische Zeitschrift, vol. 27 (1928), pp. 669-752.",
+    "parsed_title": "Die Axiomatisierung der Mengenlehre",
+    "parsed_year": 1928
+  },
+  {
+    "matched_work_id": "Neumann1925a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "J. v. NEUMANN. Eine Axiomatisierung der Mengenlehre. Journal für die reine und angewandte Mathematik, vol. 154 (1925), pp. 219-240.",
+    "parsed_title": "Eine Axiomatisierung der Mengenlehre",
+    "parsed_year": 1925
+  },
+  {
+    "matched_work_id": "Neumann1929a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "J. v. NEUMANN. Über eine Widerspruchsfreiheitsfrage in der axiomatischen Mengen- lehre. Ibid, vol. 160 (1929), pp. 227-241.",
+    "parsed_title": "Über eine Widerspruchsfreiheitsfrage in der axiomatischen Mengenlehre",
+    "parsed_year": 1929
+  },
+  {
+    "matched_work_id": "Bernays1937a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "P. BERNAYS. A system of axiomatic set theory-part I. This JOURNAL, vol. 2 (1937), pp. 65-77.",
+    "parsed_title": "A system of axiomatic set theory-part I",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Bernays1941a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "P. BERNAYS. A system of axiomatic set theory-part II. This JOURNAL, vol. 6 (1941), pp. 1-17.",
+    "parsed_title": "A system of axiomatic set theory-part II",
+    "parsed_year": 1941
+  },
+  {
+    "matched_work_id": "Tarski1938a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "A. TARSKI. Unerreichbare Kardinalzahlen. Fundamenta mathematicae, vol. 30 (1938), pp. 66-89.",
+    "parsed_title": "Unerreichbare Kardinalzahlen",
+    "parsed_year": 1938
+  },
+  {
+    "matched_work_id": "Halldn1951a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "S. HALLDÉN, On the semantic non-completeness of certain Lewis calculi, this JOURNAL, VOl. 16 (1951), pp. 127-129.",
+    "parsed_title": "On the semantic non-completeness of certain Lewis calculi",
+    "parsed_year": 1951
+  },
+  {
+    "matched_work_id": "Fitch1942a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "F. B. FITCH. A basic logic, this JOURNAL, vol. 7 (1942), pp. 105-114.",
+    "parsed_title": "A basic logic",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Fitch1944b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "F. B. FITCH. Representations of calculi, ibid., vol. 9 (1944), pp. 57-62.",
+    "parsed_title": "Representations of calculi, ibid",
+    "parsed_year": 1944
+  },
+  {
+    "matched_work_id": "Fitch1948a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "F. B. FITCH. An extension of basic logic, ibid., vol. 13 (1948), pp. 95-106.",
+    "parsed_title": "An extension of basic logic, ibid",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Fitch1949b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "F. B. FITCH. The Heine-Borel theorem in extended basic logic, ibid., vol. 14 (1949), pp. 9-15.",
+    "parsed_title": "The Heine-Borel theorem in extended basic logic, ibid",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Fitch1950a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "F. B. FITCH. A demonstrably consistent mathematics—part I, ibid., vol. 15 (1950), pp. 17-24.",
+    "parsed_title": "A demonstrably consistent mathematics—part I, ibid",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Martin1943a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "R. M. MARTIN. A homogeneous system for formal logic, this JOURNAL, vol. 8 (1943), pp. 1-23.",
+    "parsed_title": "A homogeneous system for formal logic",
+    "parsed_year": 1943
+  },
+  {
+    "matched_work_id": "Myhill1949a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "J. R. MYHILL. Note on an idea of Fitch, this JOURNAL, vol. 14 (1949), pp. 175-6.",
+    "parsed_title": "Note on an idea of Fitch",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Quine1946a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE. Concatenation as a basis for arithmetic, this JOURNAL, vol. 11 (1946), pp. 105-114.",
+    "parsed_title": "Concatenation as a basis for arithmetic",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Tarski1936a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "A. TARSKI. Der Wahreitsbegriff in den formalisierten Sprachen. Studia philosophica vol. 1 (1936), pp. 261-405.",
+    "parsed_title": "Der Wahreitsbegriff in den formalisierten Sprachen",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Wang1950a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "H. WANG. A formal system of logic, this JOURNAL, vol. 15 (1950), pp. 25-32.",
+    "parsed_title": "A formal system of logic",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Ackermann1928a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. ACKERMANN. Zum Hilbertachen Aufbau der reellen Zahlen, Mathematische Annalen, Bd. 99 (1928) S. 118-133.",
+    "parsed_title": "Zum Hilbertachen Aufbau der reellen Zahlen",
+    "parsed_year": 1928
+  },
+  {
+    "matched_work_id": "Godel1931a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "K. GÖDEL. Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I, Monatshefte für Mathematik und Physik, Bd. 38 (1931) S. 173-198.",
+    "parsed_title": "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I",
+    "parsed_year": 1931
+  },
+  {
+    "matched_work_id": "Peter1934a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "R PÉTER (POLITZER). über den Zusammenhang der verschiedenen Begriffe der rekur- siven Funktion, Mathematische Annalen, Bd. 110 (1934) S. 612-632.",
+    "parsed_title": "über den Zusammenhang der verschiedenen Begriffe der rekursiven Funktion",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Peter1935a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "R. PÉTER. Konstruktion nichtrekursiver Funktionen, Mathematische Annalen, Bd. 111 (1935) S. 489-527.",
+    "parsed_title": "Konstruktion nichtrekursiver Funktionen",
+    "parsed_year": 1935
+  },
+  {
+    "matched_work_id": "Goodman1952a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "N. GOOD- MAN, New notes on simplicity, this JOURNAL, vol. 17 (1952), pp. 189-191",
+    "parsed_title": "New notes on simplicity",
+    "parsed_year": 1952
+  },
+  {
+    "matched_work_id": "Lowenheim1915b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "L. LÖWENHEIM, ber Maglichkeiten im Relahivkalkiil, Mathematische Annalen, vol. 76 (1915), pp. 447-470.",
+    "parsed_title": "ber Maglichkeiten im Relahivkalkiil",
+    "parsed_year": 1915
+  },
+  {
+    "matched_work_id": "Lemmon1966a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "E. J. LEMMON, Algebraic semantics for modal logics I, this JOURNAL, vol. 31 (1966), pp. 46-65.",
+    "parsed_title": "Algebraic semantics for modal logics I",
+    "parsed_year": 1966
+  },
+  {
+    "matched_work_id": "Barcan1946a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "RUTH C. BARCAN, A functional calculus of first order based on strict implication. This JOURNAL, vol. 11 (1946), pp. 1-16.",
+    "parsed_title": "A functional calculus of first order based on strict implication",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Nelson1955a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "R. J. NELSON, Simplest normal truth functions, this JOURNAL, vol. 20 (1955), pp. 105-108",
+    "parsed_title": "Simplest normal truth functions",
+    "parsed_year": 1955
+  },
+  {
+    "matched_work_id": "Aristotle-350e",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "ARISTOTLE, Analytica priora",
+    "parsed_title": "Analytica priora",
+    "parsed_year": null
+  },
+  {
+    "matched_work_id": "Halldn1948a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "SOREN HALLDÉN, A note concerning the paradoxes of strict implication and Lewis's system Si, this JOURNAL, vol. 13 (1948), pp. 138-139.",
+    "parsed_title": "A note concerning the paradoxes of strict implication and Lewis's system Si",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Halldn1950a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "S. HALLDÉN, Results concerning the decision problem of Lewis's calculi S3 and S6, this JOURNAL, Vol. 14 (1950), pp. 230-236.",
+    "parsed_title": "Results concerning the decision problem of Lewis's calculi S3 and S6",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Schonfinkel1924a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "M. SCHÖNFINKEL, Über die Bausteine der mathematischen Logik, Mathe- matische Annalen, Bd. 92 (1924), S. 305-316.",
+    "parsed_title": "Über die Bausteine der mathematischen Logik",
+    "parsed_year": 1924
+  },
+  {
+    "matched_work_id": "DunnMeyer1969a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "R. K. MEYER and J. M. DUNN, E, R, and y, this JOURNAL, vol. 34 (1969), pp. 460-474.",
+    "parsed_title": "E, R, and y",
+    "parsed_year": 1969
+  },
+  {
+    "matched_work_id": "Orey1956b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "S. OREY, On co-consistency and relatedproperties, this JOURNAL, vol. 21 (1956), pp. 246-252.",
+    "parsed_title": "On co-consistency and relatedproperties",
+    "parsed_year": 1956
+  },
+  {
+    "matched_work_id": "DunnMeyer1969a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "R. K. MEYER AND J. M. DUNN, E, R, andy, this JOURNAL, vol. 34 (1969), pp. 460-474.",
+    "parsed_title": "E, R, andy",
+    "parsed_year": 1969
+  },
+  {
+    "matched_work_id": "Wang1948a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "HAO WANG. A new theory of element and number, this JOURNAL, VOL. 13 (1948), pp. 129- 137.",
+    "parsed_title": "A new theory of element and number",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Halldn1950a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "SÖREN HALLDÉN, Results concerning the decision problem of Lewis's calculi S3 and S6, this JOURNAL, vol. 14 (1950), pp. 230-236.",
+    "parsed_title": "Results concerning the decision problem of Lewis's calculi S3 and S6",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Ackermann1934a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Wilhelm Ackermann: Untersuchungen über das Eliminationsproblem der mathema- tischen Logik, Mathematische Annalen, Bd. 110 (1934), S. 390-413.",
+    "parsed_title": "Untersuchungen über das Eliminationsproblem der mathematischen Logik",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Bell1931b",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "E. T. Bell. The queen of the sciences. Williams & Wilkins Company, Baltimore 1931.",
+    "parsed_title": "The queen of the sciences",
+    "parsed_year": 1931
+  },
+  {
+    "matched_work_id": "RussellWhitehead1910a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Alfred North Whitehead and Bertrand Russell. Principia mathematica. Cambridge University Press, Cambridge, England, 1910-13; second edition, 1925-27.",
+    "parsed_title": "Principia mathematica",
+    "parsed_year": 1910
+  },
+  {
+    "matched_work_id": "Jaskowski1934a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Stanislaw Jaśkowski, On the rules of suppositions in formal logic, Studia logica, no. 1 (Warsaw, 1934; 32 pp.).",
+    "parsed_title": "On the rules of suppositions in formal logic",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Post1921a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "E. L. Post. Introduction to a general theory of elementary propositions. American journal of mathematics, vol. 43 (1921), pp. 163-185.",
+    "parsed_title": "Introduction to a general theory of elementary propositions",
+    "parsed_year": 1921
+  },
+  {
+    "matched_work_id": "LangfordLewis1932a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "C. I. Lewis and C. H. Langford. Symbolic logic. New York 1932.",
+    "parsed_title": "Symbolic logic",
+    "parsed_year": 1932
+  },
+  {
+    "matched_work_id": "Abraham1933a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Leo Abraham. Implication, modality and intension in symbolic logic. The monist, vol. 43 (1933), pp. 119-153.",
+    "parsed_title": "Implication, modality and intension in symbolic logic",
+    "parsed_year": 1933
+  },
+  {
+    "matched_work_id": "Fitch1933a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "F. B. Fitch. Note on Leo Abraham's \"transformations\" of strict implication. Ibid., pp. 297-298.",
+    "parsed_title": "Note on Leo Abraham's \"transformations\" of strict implication",
+    "parsed_year": null
+  },
+  {
+    "matched_work_id": "Wajsberg1933b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "M. Wajsberg. Ein erweiterter KlassenkalkiW. Monatshefte für Mathematik und Physik, vol. 40 (1933), pp. 113-126.",
+    "parsed_title": "Ein erweiterter Klassenkalkül",
+    "parsed_year": 1933
+  },
+  {
+    "matched_work_id": "BronsteinTarter1934a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "D. J. Bronstein and Harry Tarter. Review of Lewis and Langford's Symbolic logic. The philosophical review, vol. 43 (1934), pp. 305-309.",
+    "parsed_title": "Review of Lewis and Langford's Symbolic logic",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "McKinsey1934b",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "J. C. C. McKinsey. A note on Bronstein's and Tarter's definition of strict implication. Ibid., vol. 43 (1934), pp. 518-520.",
+    "parsed_title": "A note on Bronstein's and Tarter's definition of strict implication",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Huntington1904a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "E. V. Huntington; see his paper Sets of independent postulates for the algebra of logic, Transactions of the American Mathe- matical Society, vol. 5 (1904), p. 292 f",
+    "parsed_title": "see his paper Sets of independent postulates for the algebra of logic",
+    "parsed_year": 1904
+  },
+  {
+    "matched_work_id": "Lowenheim1915b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "L. Löwenheim, Ober Moglichkeiten im RelativkalkWl, Mathematische Annalen, vol. 76 (1915), pp. 447-470.",
+    "parsed_title": "Ober Moglichkeiten im RelativkalkWl",
+    "parsed_year": 1915
+  },
+  {
+    "matched_work_id": "Schonfinkel1924a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Moses Schönfinkel, Über die Bausteine der mathematiechen Logik, Mathematische Annalen, vol. 92 (1924), pp. 305-316.",
+    "parsed_title": "Über die Bausteine der mathematiechen Logik",
+    "parsed_year": 1924
+  },
+  {
+    "matched_work_id": "Church1936a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Alonzo Church, A note on the Entscheidungsproblem, this JOURNAL, Vo1. 1 (1936), pp. 40-41, 101-102.",
+    "parsed_title": "A note on the Entscheidungsproblem",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Lowenheim1915b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Leopold Löwenheim, Uber Moglichkeoten im Relativkalkil, Mathematische Annalen, vol. 76 (1915), pp. 447-470.",
+    "parsed_title": "Uber Moglichkeoten im Relativkalkil",
+    "parsed_year": 1915
+  },
+  {
+    "matched_work_id": "Bull1965a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "R. A. BULL An algebraic study of Diodorean modal systems, this JOURNAL, vol. 30 (1965), pp. 58-64.",
+    "parsed_title": "An algebraic study of Diodorean modal systems",
+    "parsed_year": 1965
+  },
+  {
+    "matched_work_id": "Mckinsey1941a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "J. C. C. Mc'Kinsey, A solution of the decision problem for the Lewis systems S2 and S4 with an application to topology, this JOURNAL, vol. 6 (1941), pp. 117-134'",
+    "parsed_title": "A solution of the decision problem for the Lewis systems S2 and S4 with an application to topology",
+    "parsed_year": 1941
+  },
+  {
+    "matched_work_id": "Mckinsey1943a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "J. C. C. Mc'Kinsey, The decision problem for some classes of sentences without quantifiers, this JOURNAL, vol. 8 (1943), pp. 61-66.",
+    "parsed_title": "The decision problem for some classes of sentences without quantifiers",
+    "parsed_year": 1943
+  },
+  {
+    "matched_work_id": "Carnap1946a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "R. CARNAP in Modalities and quantification, this JOURNAL, vol. 11 (1946), p. 56.",
+    "parsed_title": "Modalities and quantification",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Bernays1937a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "PaulBernays, A system of axiomatic set theory-Part 1, this JOURNAL, vol. 2 (1937), pp. 65-77.",
+    "parsed_title": "A system of axiomatic set theory-Part 1",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "NewmanTuring1942a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "M. H. A. Newman and A. M. Turing in A formal theorem in Church's theory of types, this JOURNAL, vol. 7 (1942), pp. 28-33.",
+    "parsed_title": "A formal theorem in Church's theory of types",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Schonfinkel1924a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "M. Schönfinkel, Uber die Bausteine der nathematischen Logik, Mathematische Annalen, vol. 92 (1924), pp. 305-316.",
+    "parsed_title": "Uber die Bausteine der nathematischen Logik",
+    "parsed_year": 1924
+  },
+  {
+    "matched_work_id": "Barcan1946a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Ruth C. Barcan, A functional calculus of first order based on strict implication, this JOURNAL, Vol. 11 (1946), pp. 1-16.",
+    "parsed_title": "A functional calculus of first order based on strict implication",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Hailperin1944a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Theodore Hailperin's A set of axioms for logic, this JOURNAL, vol. 9 (1944), pp. 1-19",
+    "parsed_title": "A set of axioms for logic",
+    "parsed_year": 1944
+  },
+  {
+    "matched_work_id": "Rosser1937a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "B. Rosser in his paper Godel theorems for non-constructive logics, this JOURNAL, vol. 2 (1937), pp. 129-137",
+    "parsed_title": "his paper Godel theorems for non-constructive logics",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Church1936a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Alonzo Church, A note on the Entscheidungsproblem, this JOURNAL, VOL. 1 (1936), pp. 40-41",
+    "parsed_title": "A note on the Entscheidungsproblem",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Church1932a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Church in A set of postulatesfor thefoundation of logic, Annals of mathematics, vol. 33 (1932)",
+    "parsed_title": "A set of postulatesfor thefoundation of logic",
+    "parsed_year": 1932
+  },
+  {
+    "matched_work_id": "RosserTurquette1945a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "J. B. Rosser and A. R. Turquette in their paper Axiom schemes for m-valued propositional calculi, this JOURNAL, vol. 10 (1945), pp. 61- 82.",
+    "parsed_title": "their paper Axiom schemes for m-valued propositional calculi",
+    "parsed_year": 1945
+  },
+  {
+    "matched_work_id": "Barcan1946a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "R. C. Barcan, A functional calculus of first order based on strict implication, this JOUR- NAL, vol. 11 (1946), pp. 1-16",
+    "parsed_title": "A functional calculus of first order based on strict implication",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Curry1942b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "H. B. Curry in his paper, The inconsistency of certain formal logics, this JOURNAL, Vol. 7 (1942), pp. 115-117.",
+    "parsed_title": "his paper, The inconsistency of certain formal logics",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Barcan1946a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Ruth C. Barcan, A functional calculus of first order based on strict implication, this JOURNAL, vol. 11 (1946), pp. 1-16",
+    "parsed_title": "A functional calculus of first order based on strict implication",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Lowenheim1915b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "L. Löwenheim, Uber M6glichkeiten im Relativkalkil, Mathematische Annalen, vol. 76 (1915), pp. 447-470.",
+    "parsed_title": "Uber M6glichkeiten im Relativkalkil",
+    "parsed_year": 1915
+  },
+  {
+    "matched_work_id": "Church1936a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "A. Church, A note on the Entscheidungsproblem, this JOURNAL, vol. 1 (1936), pp. 40-41, 101-102.",
+    "parsed_title": "A note on the Entscheidungsproblem",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Ward1935a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Morgan Ward's paper, A determination of all possible systems of strict implication, American journal of mathematics, vol. 57 (1935), pp. 261-266",
+    "parsed_title": "paper, A determination of all possible systems of strict implication",
+    "parsed_year": 1935
+  },
+  {
+    "matched_work_id": "Robinson1949a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Julia Robinson. Definability and decision problems in arithmetic, this JOURNAL, vol. 14 (1949), pp. 98-114.",
+    "parsed_title": "Definability and decision problems in arithmetic",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Qvist1964a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "L. AQvIsT, Results concerning some modal systems that contain S2, this JOURNAL, vol. 29 (1964), pp. 79-87.",
+    "parsed_title": "Results concerning some modal systems that contain S2",
+    "parsed_year": 1964
+  },
+  {
+    "matched_work_id": "Jaskowski1934a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Stanislaw Jaśkowski, On the rules of suppositions in formal logic, Studia logica, Number 1, Warszawa 1934, ?5.",
+    "parsed_title": "On the rules of suppositions in formal logic",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Quine1947a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Quine's On universals, this JOURNAL, vol. 12 (1947), pp. 74-84,",
+    "parsed_title": "On universals",
+    "parsed_year": 1947
+  },
+  {
+    "matched_work_id": "Parry1939a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Parry's Modalities in the \"Survey\" system of strict implication, this JOURNAL, vol. 4 (1939), p. 141 (theorem 32.1), and p. 148.",
+    "parsed_title": "Modalities in the \"Survey\" system of strict implication",
+    "parsed_year": 1939
+  },
+  {
+    "matched_work_id": "Barcan1946a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Ruth C. Barcan, A functional calculus of first order based on strict implication, this JOURNAL, vol. 11 (1946), p. 2, Proposition 11.",
+    "parsed_title": "A functional calculus of first order based on strict implication",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Barcan1946a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "R. C. Barcan (Marcus), A functional calculus of first order based on strict implication, this JOURNAL, vol. 11 (1946), pp. 1-16",
+    "parsed_title": "A functional calculus of first order based on strict implication",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Fitch1938a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Fitch's The consistency of the ramified Principia (this JOURNAL, vol. 3(1938), see p. 145, 4.10 and Footnote 3).",
+    "parsed_title": "The consistency of the ramified Principia (",
+    "parsed_year": 1938
+  },
+  {
+    "matched_work_id": "Quine1941a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W, V. QUINE. Element and number, this JOURNAL, vol. 6(1941), pp. 135-149.",
+    "parsed_title": "Element and number",
+    "parsed_year": 1941
+  },
+  {
+    "matched_work_id": "Schonfinkel1924a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "M. Schönfinkel, Über die Bausteine der mathematischen Logik, Mathematische Annalen, vol. 92 (1924), pp. 305-316.",
+    "parsed_title": "Über die Bausteine der mathematischen Logik",
+    "parsed_year": 1924
+  },
+  {
+    "matched_work_id": "Wittgenstein1922a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Wittgenstein's Trac- tatus Logico-Philosophicus, 1922.",
+    "parsed_title": "Tractatus Logico-Philosophicus, 1922",
+    "parsed_year": 1922
+  },
+  {
+    "matched_work_id": "Myhill1952b",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "John R. Myhill in his paper, A finitary metalanguage for extended basic logic, ibid., vol. 17 (1952), pp. 164-178.",
+    "parsed_title": "his paper, A finitary metalanguage for extended basic logic, ibid",
+    "parsed_year": 1952
+  },
+  {
+    "matched_work_id": "Chwistek1921a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Leon Chwistek. Antynomje logiki formalnej. Przegląd filozoficzny, vol. 24 (1921), pp. 164-171.",
+    "parsed_title": "Antynomje logiki formalnej",
+    "parsed_year": 1921
+  },
+  {
+    "matched_work_id": "Godel1931a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Kurt Gödel. Ueber formal unentscheidbare Satze der Principia Mathematica und ver- wandter Systeme 1. Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
+    "parsed_title": "Über formal unentscheidbare Satze der Principia Mathematica und verwandter Systeme 1",
+    "parsed_year": 1931
+  },
+  {
+    "matched_work_id": "Quine1934a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine. A system of logistic. Cambridge, Mass., 1934.",
+    "parsed_title": "A system of logistic",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Tarski1933a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "with_authors",
+    "raw_reference": "Alfred Tarski. Einige Betrachtungen tfber die Begriffe der w-Widerspruchsfreiheit und der w-Vollstdndigkeit. Monatshefte für Mathematik und Physik, vol. 40 (1933), pp. 97-112.",
+    "parsed_title": "Einige Betrachtungen tfber die Begriffe der w-Widerspruchsfreiheit und der w-Vollständigkeit",
+    "parsed_year": 1933
+  },
+  {
+    "matched_work_id": "Barcan1946a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A functional calculus of first order based orn strict implication, this JOURNAL, vol. 11 (1946), pp. 1-16.",
+    "parsed_title": "A functional calculus of first order based on strict implication",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Lowenheim1915b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Über Möglichkeiten im Relativkalkul, Mathematische Annalen, Bd. 76 (1915), S. 447-470 (siehe §4).",
+    "parsed_title": "Über Möglichkeiten im Relativkalkul",
+    "parsed_year": 1915
+  },
+  {
+    "matched_work_id": "BronsteinTarter1935a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Possibility and implication; a reply. Ibid., vol. 44 (1935), pp. 69-71.",
+    "parsed_title": "Possibility and implication; a reply",
+    "parsed_year": 1935
+  },
+  {
+    "matched_work_id": "Curry1930a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Grundlagen der kombinatorischen Logik, Ameri- can journal of mathematics, vol. 52 (1930), pp. 509-536, 789-834.",
+    "parsed_title": "Grundlagen der kombinatorischen Logik",
+    "parsed_year": 1930
+  },
+  {
+    "matched_work_id": "Rosser1935b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A mathematical logic without variables, Annals of mathematics, vol. 36 (1935), pp. 127-150,",
+    "parsed_title": "A mathematical logic without variables",
+    "parsed_year": 1935
+  },
+  {
+    "matched_work_id": "Church1934a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The Richard paradox, The American mathematical monthly, vol. 41 (1934), pp. 356-361.",
+    "parsed_title": "The Richard paradox, The",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Curry1931a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The universal quantifier in combinatory logic, Annals of mathematics, vol. 32 (1931), pp. 154-180",
+    "parsed_title": "The universal quantifier in combinatory logic",
+    "parsed_year": 1931
+  },
+  {
+    "matched_work_id": "Godel1930b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Die Vollstandigkeit der Axiome des logischen Funktionenkalkils, Monatshefte für Mathe- matik und Physik, vol. 37 (1930), pp. 349-360.",
+    "parsed_title": "Die Vollständigkeit der Axiome des logischen Funktionenkalkils",
+    "parsed_year": 1930
+  },
+  {
+    "matched_work_id": "Mckinsey1940b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Postulates for the calculus of binary relations, this JOURNAL, Vol. 5 (1940), pp. 85-97; see in particular p. 94.",
+    "parsed_title": "Postulates for the calculus of binary relations",
+    "parsed_year": 1940
+  },
+  {
+    "matched_work_id": "Church1936a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A note on the Entscheidungsproblem, this JOURNAL, Vol. 1 (1936), pp. 40-41",
+    "parsed_title": "A note on the Entscheidungsproblem",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Quine1934a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "System of logistic (Cambridge, Mass., 1934), pp. 68, 72-74",
+    "parsed_title": "System of logistic (Cambridge, Mass., 1934), pp. 68, 72-74",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Quine1937a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Logic based on inclusion and abstraction, this JOURNAL, vol. 2 (1937), pp. 145-152.",
+    "parsed_title": "Logic based on inclusion and abstraction",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Quine1945b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On the logic of quantification, this JOURNAL, vol. 10 (1945), pp. 1-12",
+    "parsed_title": "On the logic of quantification",
+    "parsed_year": 1945
+  },
+  {
+    "matched_work_id": "Godel1933b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Zur intuitionistischen Arithmetik und Zahlentheorie, Ergebnisse eines mathematischen Kolloquiums, Colloquium 52, June 28, 1932.",
+    "parsed_title": "Zur intuitionistischen Arithmetik und Zahlentheorie",
+    "parsed_year": 1932
+  },
+  {
+    "matched_work_id": "Godel1934a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On undecidable propositions of formal mathematical systems, mimeographed lecture notes, Institute for Advanced Study, 1934.",
+    "parsed_title": "On undecidable propositions of formal mathematical systems, mimeographed lecture notes, Institute for Advanced Study, 1934",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Heyting1934a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Mathematische Grundlagenforschung. Intuitionismus. Be- weistheorie. Ergebnisse der Mathematik und ihrer Grenzgebiete, vol. 3 no. 4 (1934), Berlin (Springer).",
+    "parsed_title": "Mathematische Grundlagenforschung",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Kleene1938a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On notation for ordinal numbers, this JOURNAL, vol. 3 (1938), pp. 150-155.",
+    "parsed_title": "On notation for ordinal numbers",
+    "parsed_year": 1938
+  },
+  {
+    "matched_work_id": "Kalmar1930b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Aus der Arbeit: L. Kalmär, Ein Beitrag zum Entscheidungsproblem, Acta scientiarum mathematicarum (Szeged), Bd. 5 (1932), S. 222 236.",
+    "parsed_title": "Ein Beitrag zum Entscheidungsproblem",
+    "parsed_year": 1930
+  },
+  {
+    "matched_work_id": "BernaysSchonfinkel1928a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Beiträge zum Entscheidungsproblem der mathematischen Logik, Mathematische Annalen, Bd. 112 (1936), S. 419-432",
+    "parsed_title": "Beiträge zum Entscheidungsproblem der mathematischen Logik",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Barcan1946b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The deduction theorem in a functional calculus of first order based on strict implication, this JOURNAL, vol. 11 (1946), pp. 115-118.",
+    "parsed_title": "The deduction theorem in a functional calculus of first order based on strict implication",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Fitch1936a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A system of formal logic without an analogue to the Curry W-operator, this JOURNAL, vol. 1 (1936), pp. 92-100.",
+    "parsed_title": "A system of formal logic without an analogue to the Curry W-operator",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Hailperin1953a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Quantification theory and empty individual domains, this JOURNAL, VOl. 18 (1953), pp. 197-200).",
+    "parsed_title": "Quantification theory and empty individual domains",
+    "parsed_year": 1953
+  },
+  {
+    "matched_work_id": "Church1940a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A formulation of the simple theory of types, this JOURNAL, Vol. 5 (1940), pp. 56-68.",
+    "parsed_title": "A formulation of the simple theory of types",
+    "parsed_year": 1940
+  },
+  {
+    "matched_work_id": "Fitch1938a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The consistency of the ramified Principia, this JOURNAL, vol. 3 (1938), pp. 140-149.",
+    "parsed_title": "The consistency of the ramified Principia",
+    "parsed_year": 1938
+  },
+  {
+    "matched_work_id": "Rosser1942b",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Barkley Rosser, The Burali-Forti paradox, this JOURNAL, vol. 7 (1942), pp. 1-17.",
+    "parsed_title": "The Burali-Forti paradox",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Fitch1956a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Recursive functions in basic logic, ibid., vol. 21 (1956), pp. 337-346.",
+    "parsed_title": "Recursive functions in basic logic, ibid",
+    "parsed_year": 1956
+  },
+  {
+    "matched_work_id": "Hilbert1929a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "In Probleme der Grundlegung der Mathematik, Mathematische Annalen, vol. 102 (1929), pp. 1-9.",
+    "parsed_title": "In Probleme der Grundlegung der Mathematik",
+    "parsed_year": 1929
+  },
+  {
+    "matched_work_id": "Godel1938a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "In The consistency of the axiom of choice and of the generalised continuum-hypothesis, Proceedings of the National Academy of Sciences, vol. 24 (1938), pp. 556-557",
+    "parsed_title": "In The consistency of the axiom of choice and of the generalised continuum-hypothesis",
+    "parsed_year": 1938
+  },
+  {
+    "matched_work_id": "Curry1932a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Some additions to the theory of combinators, ibid., vol. 54 (1932), pp. 551-558",
+    "parsed_title": "Some additions to the theory of combinators, ibid",
+    "parsed_year": 1932
+  },
+  {
+    "matched_work_id": "Curry1933a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Apparent variables from the standpoint of ccmbinatory logic, Annals of mathematics, vol. 34 (1933), pp. 381-401.",
+    "parsed_title": "Apparent variables from the standpoint of ccmbinatory logic",
+    "parsed_year": 1933
+  },
+  {
+    "matched_work_id": "Mazurkiewicz1933a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Zur Axiomatik der Wahrscheinlichkeitsrechnung, Comptes rendus de la Société des Sciences de Varsovie, Cl. III, xxv (1932), pp. 1-4.",
+    "parsed_title": "Zur Axiomatik der Wahrscheinlichkeitsrechnung",
+    "parsed_year": 1932
+  },
+  {
+    "matched_work_id": "Fitch1949b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The Heine-Borel theorem in extended basic logic, this JOURNAL, vol. 14 (1949), pp. 9-15",
+    "parsed_title": "The Heine-Borel theorem in extended basic logic",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Fitch1954a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A definition of negation in extended basic logic, ibid., vol. 19 (1954), pp. 29-36",
+    "parsed_title": "A definition of negation in extended basic logic, ibid",
+    "parsed_year": 1954
+  },
+  {
+    "matched_work_id": "Fitch1942a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A basic logic, this JOURNAL, vol. 7 (1942), pp. 105-114",
+    "parsed_title": "A basic logic",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Fitch1944b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Representations of calculi, ibid., vol. 9 (1944), pp. 57-62",
+    "parsed_title": "Representations of calculi, ibid",
+    "parsed_year": 1944
+  },
+  {
+    "matched_work_id": "Fitch1948a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "An extension of basic logic, ibid., vol. 13 (1948), pp. 95-106.",
+    "parsed_title": "An extension of basic logic, ibid",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Neumann1929a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Jber eine Widerspruchsfreikeilsfrage in der axiornalischen Mengenlehre, Journal r. angew. Math., vol. 160 (1929), pp. 227-241.",
+    "parsed_title": "Jber eine Widerspruchsfreikeilsfrage in der axiornalischen Mengenlehre, Journal r. angew",
+    "parsed_year": 1929
+  },
+  {
+    "matched_work_id": "Fraenkel1925d",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Untersuchungen fiber die Grundlagen der Mlengenlehre, Mathematische Zeitschrift, vol. 22 (1925), pp. 250-273",
+    "parsed_title": "Untersuchungen fiber die Grundlagen der Mlengenlehre",
+    "parsed_year": 1925
+  },
+  {
+    "matched_work_id": "Fraenkel1927a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Zehn Vorlesungen über die Grundlegung der Mengenlehre, Leipzig and Berlin 1927",
+    "parsed_title": "Zehn Vorlesungen über die Grundlegung der Mengenlehre, Leipzig and Berlin 1927",
+    "parsed_year": 1927
+  },
+  {
+    "matched_work_id": "Quine1938b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On the theory of types, this JOURNAL, vol. 3 (1938), esp. pp. 133 ff",
+    "parsed_title": "On the theory of types",
+    "parsed_year": 1938
+  },
+  {
+    "matched_work_id": "Rosser1942b",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Barkley Rosser, The Burali-Forti paradox, this JOURNAL, vol. 7 (1942), pp. 1-17",
+    "parsed_title": "The Burali-Forti paradox",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Quine1941a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Element and number, this JOURNAL, vol. 6 (1941), pp. 135-149).",
+    "parsed_title": "Element and number",
+    "parsed_year": 1941
+  },
+  {
+    "matched_work_id": "Kleene1938a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "[5] On notation for ordinal numbers, this JOURNAL, vol. 3 (1938), pp. 150-155.",
+    "parsed_title": "On Notation for Ordinal Numbers",
+    "parsed_year": 1938
+  },
+  {
+    "matched_work_id": "Kleene1945a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "171 On the interpretation of intuitionistic number theory, this JOURNAL, Vol. 10 (1945), pp. 109-124.",
+    "parsed_title": "171 On the interpretation of intuitionistic number theory",
+    "parsed_year": 1945
+  },
+  {
+    "matched_work_id": "Quine1941a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Element and number, this JOURNAL, VOL. 6 (1941), pp. 135-149.",
+    "parsed_title": "Element and number",
+    "parsed_year": 1941
+  },
+  {
+    "matched_work_id": "Curry1932a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Some additions to the theory of combinators, American journal of mathematics, vol. 54 (1932), pp. 551-558.",
+    "parsed_title": "Some additions to the theory of combinators",
+    "parsed_year": 1932
+  },
+  {
+    "matched_work_id": "Rosser1935b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A mathematical logic without variables, Annals of mathematics, vol. 36 (1935), pp. 127-150",
+    "parsed_title": "A mathematical logic without variables",
+    "parsed_year": 1935
+  },
+  {
+    "matched_work_id": "Curry1941a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A revision of the fundamental rules of combinatory logic, this JOURNAL, vol. 6 (1941), pp. 41-53.",
+    "parsed_title": "A revision of the fundamental rules of combinatory logic",
+    "parsed_year": 1941
+  },
+  {
+    "matched_work_id": "Curry1933a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Apparent variables from the standpoint of combinatory logic, Annals of mathematics, vol. 34 (1934), pp. 381-404.",
+    "parsed_title": "Apparent variables from the standpoint of combinatory logic",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Curry1931a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The universal quantifier in combinatory logic ?3 Theorem 8 (Annals of mathematics vol. 32 (1931), p. 165)",
+    "parsed_title": "The universal quantifier in combinatory logic ?3 Theorem 8 (",
+    "parsed_year": 1931
+  },
+  {
+    "matched_work_id": "Tarski1933a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Einige Betrachtungen tZber die Begriffe der w-Wider- spruchsfreiheit und der o-Vollstdndigkeit, Monatshefte für Mathematik und Physik, vol. 40 (1933), see p. 111",
+    "parsed_title": "Einige Betrachtungen tZber die Begriffe der w-Widerspruchsfreiheit und der o-Vollständigkeit",
+    "parsed_year": 1933
+  },
+  {
+    "matched_work_id": "Tarski1933b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Pojęcie prawdy w językach nauk dedukcyjnych, Travaux de la Société des Sciences et des Lettres de Varsovie, Classe III, no. 34, Warsaw 1933, see p. 103",
+    "parsed_title": "Pojęcie prawdy w językach nauk dedukcyjnych, Travaux de la Société des Sciences et des Lettres de Varsovie, Classe III",
+    "parsed_year": 1933
+  },
+  {
+    "matched_work_id": "Leibniz1840b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Non inelegans specimen demonstrandi in abstractis (Phil. Schr. (Gerhardt), vol. 7, pp. 228 ff.",
+    "parsed_title": "Non inelegans specimen demonstrandi in abstractis (Phil",
+    "parsed_year": 1840
+  },
+  {
+    "matched_work_id": "Goodman1949a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The logical simplicity of predicates, this JOURNAL, vol. 14 (1949), pp. 32-41",
+    "parsed_title": "The logical simplicity of predicates",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Goodman1950a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "An improvement in the theory of simplicity, ibid., pp. 228-229.",
+    "parsed_title": "An improvement in the theory of simplicity, ibid., pp. 228-229",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Martin1943a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A homogeneous system for formal logic, this JOURNAL, vol. 8 (1943), pp. 1-23.",
+    "parsed_title": "A homogeneous system for formal logic",
+    "parsed_year": 1943
+  },
+  {
+    "matched_work_id": "RosserTurquette1950a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A note on the deductive completeness of m-valued propositional calculi, this JOURNAL, Vol. 14 (1949), pp. 219-225.",
+    "parsed_title": "A note on the deductive completeness of m-valued propositional calculi",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Fitch1948a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "An extension of basic logic, this Journal, vol. 13 (1948), pp. 95-106",
+    "parsed_title": "An extension of basic logic",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Fitch1954a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A definition of negation in extended basic logic, ibid., vol. 19 (1954), pp. 29-36.",
+    "parsed_title": "A definition of negation in extended basic logic, ibid",
+    "parsed_year": 1954
+  },
+  {
+    "matched_work_id": "Fitch1951a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A demonstrably consistent mathematics, ibid., vol. 15 (1950), pp. 17-24",
+    "parsed_title": "A demonstrably consistent mathematics, ibid",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Shepherdson1951a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Inner models for set theory-Part 1, in this JOURNAL, vol. 16 (1951), pp. 161-190.",
+    "parsed_title": "Inner models for set theory-Part 1, in",
+    "parsed_year": 1951
+  },
+  {
+    "matched_work_id": "Yasuhara1966b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Syntactical and semantical properties of generalized quantifiers, this volume, pp. 617-632.",
+    "parsed_title": "Syntactical and semantical properties of generalized quantifiers, this volume, pp. 617-632",
+    "parsed_year": 1966
+  },
+  {
+    "matched_work_id": "Neumann1928b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "J)ie AxIomatisierung der Mengenlehre, Mathematische Zeitschrift, vol. 27 (1928), pp. 669-752",
+    "parsed_title": "J)ie AxIomatisierung der Mengenlehre",
+    "parsed_year": 1928
+  },
+  {
+    "matched_work_id": "Peano1895c",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Formulaire de mathématiques, 5 vols., Turin, 1895-1908.",
+    "parsed_title": "Formulaire de mathématiques, 5 vols., Turin, 1895-1908",
+    "parsed_year": 1908
+  },
+  {
+    "matched_work_id": "Fitch1950b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A further consistent extension of basic logic, ibid., vol. 14 (1949), pp. 209-218.",
+    "parsed_title": "A further consistent extension of basic logic, ibid",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Myhill1950b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "a reduction in the number of primitive ideas of arithmetic, this JOURNAL, vol. 15 (1950), p. 130",
+    "parsed_title": "a reduction in the number of primitive ideas of arithmetic",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Henkin1949b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The completeness of the first-order functional calculus, this JOURNAL, vol. 14 (1949), pp. 159-166.",
+    "parsed_title": "The completeness of the first-order functional calculus",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Mckinsey1941a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A solution of the decision problem for the Lewis systems S2 and S4, with an applica- tion to topology, this JOURNAL, vol. 6 (1941), pp. 117-134.",
+    "parsed_title": "A solution of the decision problem for the Lewis systems S2 and S4, with an application to topology",
+    "parsed_year": 1941
+  },
+  {
+    "matched_work_id": "Yasuhara1966a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "An axiomatic system for the first order languages with an equi- cardinality quantifier, (this JOURNAL, Vol. 31 (1966), pp. 633-640.)",
+    "parsed_title": "An axiomatic system for the first order languages with an equicardinality quantifier, (",
+    "parsed_year": 1966
+  },
+  {
+    "matched_work_id": "Quine1934a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A system of logistic, Cambridge, Mass., 1934",
+    "parsed_title": "A system of logistic, Cambridge, Mass., 1934",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Quine1936a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Set-theoretic foundations for logic, this JOURNAL, Vol. 1 (1936), pp. 45-57",
+    "parsed_title": "Set-theoretic foundations for logic",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Quine1937a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Logic based on inclusion and abstraction, ibid., vol. 2 (1937), pp. 145-152",
+    "parsed_title": "Logic based on inclusion and abstraction, ibid",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Becker1930a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Zur Logik der Modalitf.en, Jahrbuch für Philosophie und phänomenologische For- schung, vol. 11 (1930), pp. 497-548.",
+    "parsed_title": "Zur Logik der Modalitf.en, Jahrbuch für Philosophie und phänomenologische Forschung",
+    "parsed_year": 1930
+  },
+  {
+    "matched_work_id": "Parry1934a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The postulates for \"strict implication\", Mind, vol. 43 (1934), pp. 78-80, introduced to distinguish S2 from S3, with different designation of the elements.",
+    "parsed_title": "The postulates for \"strict implication\", Mind",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Nelson1955b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Weak simplest normal truth functions, ibid., pp. 232-234.",
+    "parsed_title": "Weak simplest normal truth functions, ibid., pp. 232-234",
+    "parsed_year": 1955
+  },
+  {
+    "matched_work_id": "Fitch1948a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "An extension of basic logic, this JOURNAL vol. 13 (1948), pp. 95-106",
+    "parsed_title": "An extension of basic logic",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Fitch1949b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The Heine- Borel theorem in extended basic logic, ibid., vol. 14 (1949), pp. 9-15",
+    "parsed_title": "The HeineBorel theorem in extended basic logic, ibid",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Fitch1942a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "this writer: A basic logic, ibid., vol. 7 (1942), pp. 105-114",
+    "parsed_title": "this writer: A basic logic, ibid",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Fitch1944a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A minimum calculus for logic, ibid., pp. 89-94",
+    "parsed_title": "A minimum calculus for logic, ibid., pp. 89-94",
+    "parsed_year": 1944
+  },
+  {
+    "matched_work_id": "Fitch1949a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On natural numbers, integers, and rationals, this JOURNAL, vol. 14 (1949), pp. 81-84.",
+    "parsed_title": "On natural numbers, integers, and rationals",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Heyting1946a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On weakened quantification, this JOURNAL, vol. 11 (1946), pp. 119-121.",
+    "parsed_title": "On weakened quantification",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Barcan1946b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The deduction theorem in a functional calculus of first order based on strict implication, ibid., pp. 115-118",
+    "parsed_title": "The deduction theorem in a functional calculus of first order based on strict implication, ibid., pp. 115-118",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Barcan1947a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The identity of individuals in a strict functional calculus of second order, ibid., vol. 12 (1947), pp. 12-15.",
+    "parsed_title": "The identity of individuals in a strict functional calculus of second order, ibid",
+    "parsed_year": 1947
+  },
+  {
+    "matched_work_id": "Peirce1870a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Description of a notation for the logic of relatives, resulting from an amplification of the conceptions of Boole's calculus of logic [first published in the Memoirs of the American Acad- emy of Arts and Sciences, n.s. vol. 9, part 2, (1873), pp. 317-378.1",
+    "parsed_title": "Description of a notation for the logic of relatives, resulting from an amplification of the conceptions of Boole's calculus of logic [first published in the Memoirs of the American Academy of Arts and Sciences, n.s. vol. 9, part 2",
+    "parsed_year": 1873
+  },
+  {
+    "matched_work_id": "Peirce1903b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Nomenclature and divisions of dyadic relations [privately printed, circa 1903,",
+    "parsed_title": "Nomenclature and divisions of dyadic relations [privately printed, circa 1903",
+    "parsed_year": 1903
+  },
+  {
+    "matched_work_id": "Emch1936b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Implication and deducibility, this JOURNAL, vol. 1 no. 1 (1936), pp. 27-35.",
+    "parsed_title": "Implication and deducibility",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Quine1934b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Ontological remarks on the propositional calculus, Mind, n.s. vol. 43 (1934), pp. 472-476.",
+    "parsed_title": "Ontological remarks on the propositional calculus, Mind, n.s. vol. 43",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Kalmr1939a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Ldozl6 Kalmár, On the reduction of the decision problem, first paper, Ackermann prefix, a single binary predicate, this JOURNAL, vol. 4 (1939), pp. 1-9",
+    "parsed_title": "On the reduction of the decision problem, first paper, Ackermann prefix, a single binary predicate",
+    "parsed_year": 1939
+  },
+  {
+    "matched_work_id": "Craig1953a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On axiomatizability within a system, this JOURNAL, vol. 18 (1953) pp. 30-32)",
+    "parsed_title": "On axiomatizability within a system",
+    "parsed_year": 1953
+  },
+  {
+    "matched_work_id": "Behmann1922a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Beiträge zur Algebra der Logik, insbesondere zum Entscheidungsproblem, Mathe- matische Annalen, vol. 9, pp. 1-36.",
+    "parsed_title": "Beiträge zur Algebra der Logik, insbesondere zum Entscheidungsproblem",
+    "parsed_year": 1922
+  },
+  {
+    "matched_work_id": "Lesniewski1927a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "O podstawach matematyki (in Polish), Przeglqd filozoficzny, vols. 30-34 (1927-31).",
+    "parsed_title": "O podstawach matematyki (in Polish), Przeglqd filozoficzny, vols. 30-34 (1927-31)",
+    "parsed_year": 1927
+  },
+  {
+    "matched_work_id": "Mckinsey1941a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A solution of the decision problem for the Lewis systems SS and S4, with an application to topology, this JOURNAL, vol. 6 (1941), pp. 117-134.",
+    "parsed_title": "A solution of the decision problem for the Lewis systems SS and S4, with an application to topology",
+    "parsed_year": 1941
+  },
+  {
+    "matched_work_id": "Goodman1943a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On the simplicity of ideas, this JOURNAL, VOL. 8 (1943), pp. 107-121.",
+    "parsed_title": "On the simplicity of ideas",
+    "parsed_year": 1943
+  },
+  {
+    "matched_work_id": "Henkin1949b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The completeness of the first order functional calculus, this JOURNAL, vol. 14 (1949), pp. 159-166.",
+    "parsed_title": "The completeness of the first order functional calculus",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Skolem1934b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Uber die Nicht-charakterisierbarkeit der Zahlenreihe mittels endlich oder abzahlbar unendlich viewer Aussagen mit ausschliesslich Zahlenvariablen, Fundamenta mathematicae, vol. 23 (1934), pp. 150-161.",
+    "parsed_title": "Uber die Nicht-charakterisierbarkeit der Zahlenreihe mittels endlich oder abzahlbar unendlich viewer Aussagen mit ausschliesslich Zahlenvariablen",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Tarski1935a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Zur Grundlegung der Booleschen Algebra I, Fundamenta mathematicae, vol. 24(1935), pp. 177-198.",
+    "parsed_title": "Zur Grundlegung der Booleschen Algebra I",
+    "parsed_year": 1935
+  },
+  {
+    "matched_work_id": "Kalicki1950b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Note on truth-tables, in this number of this JOURNAL",
+    "parsed_title": "Note on truth-tables, in this number of",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Kalmr1939a",
+    "match_method": "structured_exact_title",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "L6szl6 Kalmár, On the reduction of the decision problem, first paper, Ackermann prefix, a single binary predicate, this JOURNAL, vol. 4 (1939), pp. 1-9.",
+    "parsed_title": "On the reduction of the decision problem, first paper, Ackermann prefix, a single binary predicate",
+    "parsed_year": 1939
+  },
+  {
+    "matched_work_id": "Quine1934a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A system of logistic, Cambridge, Mass., 1934 p. 11.",
+    "parsed_title": "A system of logistic, Cambridge, Mass., 1934 p. 11",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Church1932a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A set of postulats for the foundation of logic, Annals of mathematics, 2 s. vol. 23 (1932), p. 354.",
+    "parsed_title": "A set of postulats for the foundation of logic",
+    "parsed_year": 1932
+  },
+  {
+    "matched_work_id": "Tarski1935b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "— Grundzuge des Systemenkalkals, zweiter Teil, Fundamenta mathematicae, vol. 26 (1936), pp. 283-301.",
+    "parsed_title": "Grundzuge des Systemenkalkals, zweiter Teil",
+    "parsed_year": 1936
+  },
+  {
+    "matched_work_id": "Chwistek1926a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Über die Hypothesen der Mengen- lehre, Mathematische Zeitschrift, vol. 25 (1926), pp. 439-473",
+    "parsed_title": "Über die Hypothesen der Mengenlehre",
+    "parsed_year": 1926
+  },
+  {
+    "matched_work_id": "GoodmanQuine1940a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Elimination of extra-logical postulates, this JOURNAL, vol. 5 (1940), pp. 104-109",
+    "parsed_title": "Elimination of extra-logical postulates",
+    "parsed_year": 1940
+  },
+  {
+    "matched_work_id": "Fraenkel1927a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Zehn Vorlesungen über die Grundlegung der Mengenlehre, Leipzig and Berlin 1927, see p. 115 and pp. 104-110.",
+    "parsed_title": "Zehn Vorlesungen über die Grundlegung der Mengenlehre, Leipzig and Berlin 1927, see p. 115 and pp. 104-110",
+    "parsed_year": 1927
+  },
+  {
+    "matched_work_id": "Zermelo1908a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Neuer Beweis fur die Moglich- keit einer Wohlordnung, Mathematische Annalen, vol. 65 (1908), see p. 110",
+    "parsed_title": "Neuer Beweis fur die Moglichkeit einer Wohlordnung",
+    "parsed_year": 1908
+  },
+  {
+    "matched_work_id": "Fraenkel1922b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Zu den Grundlagen der Cantor-Zermeloschen Mengenlehre, Mathematische Annalen, vol. 86 (1922), pp. 230-237, see p. 233.",
+    "parsed_title": "der Cantor-Zermeloschen Mengenlehre",
+    "parsed_year": 1922
+  },
+  {
+    "matched_work_id": "Neumann1929a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Uber eine Widerspruchsfreiheitsfrage in der axiomatischen Mengenlehre (Journal für die reine und angewandte Mathematik, vol. 160 (1929), see p. 231).",
+    "parsed_title": "Uber eine Widerspruchsfreiheitsfrage in der axiomatischen Mengenlehre (Journal für die reine und angewandte Mathematik",
+    "parsed_year": 1929
+  },
+  {
+    "matched_work_id": "Robinson1937a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The theory of classes, a modification of von Neumann's system, this JOURNAL, vol. 2 (1937), pp. 29-36.",
+    "parsed_title": "The theory of classes, a modification of von Neumann's system",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Korselt1905a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Ueber die Grundlagen der Arithmetik, Atti del IV Congresso Internazionale dei Matematici (Roma, 6-11 aprile 1908), vol. 2 (1909), pp. 8-11.",
+    "parsed_title": "Über die Grundlagen der Arithmetik, Atti del IV Congresso Internazionale dei Matematici (Roma, 6-11 aprile 1908)",
+    "parsed_year": 1909
+  },
+  {
+    "matched_work_id": "Standley1954a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Ideographic computation in the propositional calculus, by the present author",
+    "parsed_title": "Ideographic computation in the propositional calculus, by the present author",
+    "parsed_year": 1954
+  },
+  {
+    "matched_work_id": "RosserTurquette1945a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Axiom schemes for m-valued propositional calculus, this JOURNAL, VOL. 10 (1945), pp. 61-82.",
+    "parsed_title": "Axiom schemes for m-valued propositional calculus",
+    "parsed_year": 1945
+  },
+  {
+    "matched_work_id": "Godel1931a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Arbeit Gödels: Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I, Monatshefte für Mathematik und Physik, Bd. 38 (1931), S. 173 ff.",
+    "parsed_title": "Arbeit Gödels: Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I",
+    "parsed_year": 1931
+  },
+  {
+    "matched_work_id": "Fitch1939b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The hypothesis that infinite classes are similar, ebd., Bd. 4 (1939), S. 159-162.",
+    "parsed_title": "The hypothesis that infinite classes are similar, ebd., Bd. 4",
+    "parsed_year": 1939
+  },
+  {
+    "matched_work_id": "Fitch1942a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A basic logic, this JOURNAL, vol. 7 (1942), pp. 105-114.",
+    "parsed_title": "A basic logic",
+    "parsed_year": 1942
+  },
+  {
+    "matched_work_id": "Fitch1944a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A minimum calculus for logic, ibid., vol. 9 (1944), pp. 89-94",
+    "parsed_title": "A minimum calculus for logic, ibid",
+    "parsed_year": 1944
+  },
+  {
+    "matched_work_id": "Post1921a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Introduction to a general theory of elementary propositions, American journal of mathe- matics, vol. 43 (1921), pp. 163-185.",
+    "parsed_title": "Introduction to a general theory of elementary propositions",
+    "parsed_year": 1921
+  },
+  {
+    "matched_work_id": "Dugundji1940a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Note on a property of matrices for Lewis and Langford's calculi of propositions, this JOURNAL, Vol. 5 (1940), PP. 150-151.",
+    "parsed_title": "Note on a property of matrices for Lewis and Langford's calculi of propositions",
+    "parsed_year": 1940
+  },
+  {
+    "matched_work_id": "Martin1949a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A note on nominalism and recursive functions, this JOUR- NAL, vol. 14 (1949), pp. 27-32 (henceforth Martin2)",
+    "parsed_title": "A note on nominalism and recursive functions",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Martin1950b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On virtual classes and real numbers, this JOURNAL, vol. 15 (1950), pp. 131-4.",
+    "parsed_title": "On virtual classes and real numbers",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Post1947a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "(1947) Recursive unsolvability of a problem of Thue, this JOURNAL, vol. 12, pp. 1-11.",
+    "parsed_title": "(1947) Recursive unsolvability of a problem of Thue, this JOURNAL, vol. 12, pp. 1-11",
+    "parsed_year": 1947
+  },
+  {
+    "matched_work_id": "Martin1949a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A note on nominalism and recursive functions, ibid., vol. 14 (1949), pp. 27-31.",
+    "parsed_title": "A note on nominalism and recursive functions, ibid",
+    "parsed_year": 1949
+  },
+  {
+    "matched_work_id": "Skolem1919a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Untersuchungen über die Axiome des Klassenkalkuls und über Produktations- und Summationsprobleme, welche gewisse Klassen von Aussagen betreffen, Skrifter utgit av Videnskapsselskapet i Kristiania, I. Matematisk-naturvidenskabelig klasse 1919, no. 3.",
+    "parsed_title": "Untersuchungen über die Axiome des Klassenkalkuls und über Produktationsund Summationsprobleme, welche gewisse Klassen von Aussagen betreffen, Skrifter utgit av Videnskapsselskapet i Kristiania, I",
+    "parsed_year": 1919
+  },
+  {
+    "matched_work_id": "Padoa1901a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Essai d'une theorie aigebrique des nombres entiers, preche& d'une introduction logique d une theorie deductive quelconque, Bibliothéque du Congrés International de Philosophie, vol. 3 (1901), pp. 309-365",
+    "parsed_title": "Essai d'une theorie aigebrique des nombres entiers, preche& d'une introduction logique d une theorie deductive quelconque, Bibliothéque du Congrés International de Philosophie",
+    "parsed_year": 1901
+  },
+  {
+    "matched_work_id": "Fitch1948a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "idem, An extension of basic logic, this JOURNAL, vol. 13 (1948), p. 96",
+    "parsed_title": "idem, An extension of basic logic",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Halldn1948a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A note concerning the paradoxes of strict implication and Lewis's system SI, this JOURNAL, Vol. 13 (1948).",
+    "parsed_title": "A note concerning the paradoxes of strict implication and Lewis's system SI",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Simons1953a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "New axiomatizations of S3 and S4, this JOURNAL, Vol. 18 (1953), pp. 309-316.",
+    "parsed_title": "New axiomatizations of S3 and S4",
+    "parsed_year": 1953
+  },
+  {
+    "matched_work_id": "Anderson1955a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Correction to a paper on modal logic, ibid., vol. 20 (1955), p. 150.",
+    "parsed_title": "Correction to a paper on modal logic, ibid",
+    "parsed_year": 1955
+  },
+  {
+    "matched_work_id": "Church1932a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A set of postulates for tiefoundation of logic, Annals of mathematics, 2 s. vol. 33 (1932), pp. 351-354.",
+    "parsed_title": "A set of postulates for tiefoundation of logic",
+    "parsed_year": 1932
+  },
+  {
+    "matched_work_id": "Myhill1950a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A complete theory of natural, rational and real numbers, this JOURNAL, vol. 15 (1950), pp. 185-198.",
+    "parsed_title": "A complete theory of natural, rational and real numbers",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Neumann1929a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Ober eine Wider- spruclisfreikeitsfrage in der axiomaiischen Mengenlckre, Journal für die reine und angewandte Mathematik, vol. 160 (1929), pp. 227-241.",
+    "parsed_title": "Ober eine Widerspruclisfreikeitsfrage in der axiomaiischen Mengenlckre, Journal für die reine und angewandte Mathematik",
+    "parsed_year": 1929
+  },
+  {
+    "matched_work_id": "Quine1945a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On ordered pairs, this JOURNAL, VOL. 10 (1945), pp. 95-96.",
+    "parsed_title": "On ordered pairs",
+    "parsed_year": 1945
+  },
+  {
+    "matched_work_id": "Fitch1963b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A system of combinatory logic, Technical Report No. 9, ibid., 1960",
+    "parsed_title": "A system of combinatory logic, Technical Report No. 9, ibid., 1960",
+    "parsed_year": 1960
+  },
+  {
+    "matched_work_id": "Fitch1963b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The system CΔ of combinatory logic, Technical Report No. 13, ibid., 1962 (also forthcoming in this JOURNAL).",
+    "parsed_title": "The system CΔ of combinatory logic, Technical Report No. 13, ibid., 1962 (also forthcoming in",
+    "parsed_year": 1962
+  },
+  {
+    "matched_work_id": "Mckinsey1945a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On the syntactical construction of systems of modal logic, this JOURNAL, VOl. 10 (1945), pp. 83-94.",
+    "parsed_title": "On the syntactical construction of systems of modal logic",
+    "parsed_year": 1945
+  },
+  {
+    "matched_work_id": "Carnap1946a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Modalities and quantification, this JOURNAL, VOl. 11 (1946), pp. 33-64.",
+    "parsed_title": "Modalities and quantification",
+    "parsed_year": 1946
+  },
+  {
+    "matched_work_id": "Curry1952a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On the definition of negation by a fixed proposition in inferential calculus, this JOUR- NAL, vol. 17, pp. 98-104.",
+    "parsed_title": "On the definition of negation by a fixed proposition in inferential calculus",
+    "parsed_year": 1952
+  },
+  {
+    "matched_work_id": "Curry1952d",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The system LD, this JOURNAL, vol. 17, pp. 35-42.",
+    "parsed_title": "The system LD",
+    "parsed_year": 1952
+  },
+  {
+    "matched_work_id": "Curry1952c",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The permutability of rules in the classical inferential calculus, this JOURNAL, vol. 17, pp. 245-248.",
+    "parsed_title": "The permutability of rules in the classical inferential calculus",
+    "parsed_year": 1952
+  },
+  {
+    "matched_work_id": "Carnap1934d",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Die Antinomien und die Unvollstdndigkeit der Mathematik, Monatshefte für Mathematik und Physik, vol. 41 (1934), pp. 263-284.",
+    "parsed_title": "Die Antinomien und die Unvollstdndigkeit der Mathematik",
+    "parsed_year": 1934
+  },
+  {
+    "matched_work_id": "Fitch1937a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "'Modal functions in two-valued logic, this JOURNAL, vol. 2 (1937), pp. 125-128.",
+    "parsed_title": "'Modal functions in two-valued logic",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Anderson1954a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "improved decision procedures for Lewis's calculus S4 and von Wright's calculus M, this JOURNAL, vol. 19 (1954), pp. 201-214.",
+    "parsed_title": "improved decision procedures for Lewis's calculus S4 and von Wright's calculus M",
+    "parsed_year": 1954
+  },
+  {
+    "matched_work_id": "Godel1938a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "The consistency of the continuum hypothesis and of the generalized continuum-hypothesis with the axioms of set theory, Princeton (Princeton University Press), 1940, 66 pp. Second printing 1951, 74 pp.",
+    "parsed_title": "The consistency of the continuum hypothesis and of the generalized continuum-hypothesis with the axioms of set theory, Princeton (Princeton",
+    "parsed_year": 1940
+  },
+  {
+    "matched_work_id": "Bernays1937a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A system of axiomatic set theory, this JOURNAL, part I, vol. 2 (1937), pp. 65-77,",
+    "parsed_title": "A system of axiomatic set theory",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Kemeny1948a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Models of logical systems, this JOURNAL, vol. 13 (1948), pp. 16-30.",
+    "parsed_title": "Models of logical systems",
+    "parsed_year": 1948
+  },
+  {
+    "matched_work_id": "Quine1938b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "On the theory of types, this JOURNAL, vol. 3 (1938), pp. 125-139.",
+    "parsed_title": "On the theory of types",
+    "parsed_year": 1938
+  },
+  {
+    "matched_work_id": "Quine1937b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "—n Cantor's theorem. This JOURNAL, vol. 2 (1937), pp. 120-124.",
+    "parsed_title": "On Cantor's theorem",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Quine1937a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Logic based on inclusion and abstraction. Ibid., pp. 145-152.",
+    "parsed_title": "Logic based on inclusion and abstraction",
+    "parsed_year": 1937
+  },
+  {
+    "matched_work_id": "Tarski1936a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "—er Wahrheitsbegriff in den formalisierten Sprachen. Studia philosophica, vol. 1 (1935), pp. 261-405.",
+    "parsed_title": "Der Wahrheitsbegriff in den formalisierten Sprachen",
+    "parsed_year": 1935
+  },
+  {
+    "matched_work_id": "Kalicki1950a",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "A test for the existence of tautologies according to many-valued truth- tables, in this number of this JOURNAL.",
+    "parsed_title": "A test for the existence of tautologies according to many-valued truthtables, in this number of",
+    "parsed_year": 1950
+  },
+  {
+    "matched_work_id": "Fitch1944b",
+    "match_method": "parser_title_match",
+    "pipeline_branch": "recovered_or_title_first",
+    "raw_reference": "Representations of calculi, ibid., vol. 9 (1944), pp. 57-62.",
+    "parsed_title": "Representations of calculi, ibid",
+    "parsed_year": 1944
+  }
+]

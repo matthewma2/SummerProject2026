@@ -28,7 +28,13 @@ def load_parser():
 
 def main() -> None:
     parser = load_parser()
-    parser.parse_file(INPUT_PATH, PARSED_PATH, IGNORED_PATH, ERRORS_PATH)
+    parser.parse_file(
+        INPUT_PATH,
+        PARSED_PATH,
+        IGNORED_PATH,
+        ERRORS_PATH,
+        include_raw_reference=True,
+    )
 
 
 if __name__ == "__main__":

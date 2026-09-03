@@ -834,7 +834,13 @@ def parse_one(raw_text):
 # 9. RUN ON ALL ENTRIES AND WRITE OUTPUT
 # ─────────────────────────────────────────────
 
-def parse_file(input_path, parsed_path, ignored_path, errors_path):
+def parse_file(
+    input_path,
+    parsed_path,
+    ignored_path,
+    errors_path,
+    include_raw_reference=False,
+):
     """Parse every reference in input_path and write the parser's outputs."""
     with open(input_path, 'r', encoding='utf-8') as f:
         refs = json.load(f)
@@ -856,6 +862,8 @@ def parse_file(input_path, parsed_path, ignored_path, errors_path):
             if result is None:
                 ignored.append((raw, reason))
             else:
+                if include_raw_reference:
+                    result["raw_reference"] = raw
                 parsed.append(result)
         except Exception as e:
             errors.append((raw, str(e)))

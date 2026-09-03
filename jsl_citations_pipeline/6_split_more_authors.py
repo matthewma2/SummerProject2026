@@ -9,7 +9,6 @@ authors_path = Path("databases/authors.json")
 with_author_path = Path("jsl_citations_data/5a_with_authors.json")
 without_author_path = Path("jsl_citations_data/5b_no_authors.json")
 
-items = json.loads(src.read_text(encoding="utf-8"))
 authors = json.loads(authors_path.read_text(encoding="utf-8"))
 
 SPECIAL = str.maketrans({
@@ -221,29 +220,35 @@ def starts_with_author(s):
     return False
 
 
-with_author = []
-without_author = []
+def main():
+    items = json.loads(src.read_text(encoding="utf-8"))
+    with_author = []
+    without_author = []
 
-for item in items:
-    if starts_with_author(item):
-        with_author.append(item)
-    else:
-        without_author.append(item)
+    for item in items:
+        if starts_with_author(item):
+            with_author.append(item)
+        else:
+            without_author.append(item)
 
-with_author_path.write_text(
-    json.dumps(with_author, indent=4, ensure_ascii=False) + "\n",
-    encoding="utf-8",
-)
+    with_author_path.write_text(
+        json.dumps(with_author, indent=4, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
 
-without_author_path.write_text(
-    json.dumps(without_author, indent=4, ensure_ascii=False) + "\n",
-    encoding="utf-8",
-)
+    without_author_path.write_text(
+        json.dumps(without_author, indent=4, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
 
-print(
-    f"total={len(items)} "
-    f"with_author={len(with_author)} "
-    f"no_author={len(without_author)}"
-)
-print(with_author_path)
-print(without_author_path)
+    print(
+        f"total={len(items)} "
+        f"with_author={len(with_author)} "
+        f"no_author={len(without_author)}"
+    )
+    print(with_author_path)
+    print(without_author_path)
+
+
+if __name__ == "__main__":
+    main()

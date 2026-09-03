@@ -10,7 +10,7 @@ MATCHER_PATH = Path("jsl_citations_pipeline/2_extract_jsl_citations.py")
 WORKS_PATH = Path("databases/works.json")
 INPUT_PATH = Path("jsl_citations_data_2/4_references_deduplicated.json")
 UNRESOLVED_PATH = Path("jsl_citations_data_2/5_unresolved_references.json")
-RESOLVED_LOG_PATH = Path("jsl_citations_data_2/5a_resolved_references_log.json")
+RESOLVED_LOG_PATH = Path("jsl_citations_pipeline_logs/5_resolved_references_log.json")
 
 
 def load_matcher():
