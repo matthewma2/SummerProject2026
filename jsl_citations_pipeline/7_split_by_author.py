@@ -7,8 +7,8 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-CLASSIFIER_PATH = PROJECT_ROOT / "jsl_citations_pipeline" / "6_split_more_authors.py"
-DATA_DIR = PROJECT_ROOT / "jsl_citations_data_2"
+CLASSIFIER_PATH = Path(__file__).resolve().parent / "_helpers" / "author_prefix_classifier.py"
+DATA_DIR = PROJECT_ROOT / "jsl_citations_data"
 
 INPUT_PATH = DATA_DIR / "7_long_valid_refs.json"
 WITH_AUTHORS_PATH = DATA_DIR / "8a_with_authors.json"

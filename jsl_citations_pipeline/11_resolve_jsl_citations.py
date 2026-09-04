@@ -6,8 +6,8 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-MATCHER_PATH = PROJECT_ROOT / "jsl_citations_pipeline" / "2_extract_jsl_citations.py"
-DATA_DIR = PROJECT_ROOT / "jsl_citations_data_2"
+MATCHER_PATH = Path(__file__).resolve().parent / "_helpers" / "reference_matcher.py"
+DATA_DIR = PROJECT_ROOT / "jsl_citations_data"
 LOG_DIR = PROJECT_ROOT / "jsl_citations_pipeline_logs"
 
 WORKS_PATH = DATA_DIR / "11_merged_database.json"

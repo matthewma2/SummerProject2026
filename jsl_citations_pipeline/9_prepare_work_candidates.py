@@ -10,7 +10,7 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = PROJECT_ROOT / "jsl_citations_data_2"
+DATA_DIR = PROJECT_ROOT / "jsl_citations_data"
 LOG_DIR = PROJECT_ROOT / "jsl_citations_pipeline_logs"
 AUTHORS_PATH = PROJECT_ROOT / "databases" / "authors.json"
 WORKS_PATH = PROJECT_ROOT / "databases" / "works.json"

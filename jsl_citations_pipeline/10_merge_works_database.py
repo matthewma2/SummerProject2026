@@ -11,8 +11,8 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 WORKS_PATH = PROJECT_ROOT / "databases" / "works.json"
-CANDIDATES_PATH = PROJECT_ROOT / "jsl_citations_data_2" / "10a_works_ready_to_add.json"
-OUTPUT_PATH = PROJECT_ROOT / "jsl_citations_data_2" / "11_merged_database.json"
+CANDIDATES_PATH = PROJECT_ROOT / "jsl_citations_data" / "10a_works_ready_to_add.json"
+OUTPUT_PATH = PROJECT_ROOT / "jsl_citations_data" / "11_merged_database.json"
 LOG_PATH = PROJECT_ROOT / "jsl_citations_pipeline_logs" / "10_merge_works_database_log.json"
 
 SPECIAL = str.maketrans({

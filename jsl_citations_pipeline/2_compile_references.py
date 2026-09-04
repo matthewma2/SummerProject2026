@@ -5,8 +5,8 @@ import json
 from pathlib import Path
 
 
-INPUT_PATH = Path("jsl_citations_data_2/2_jsl_citations_cleaned.json")
-OUTPUT_PATH = Path("jsl_citations_data_2/3_references_cleaned.json")
+INPUT_PATH = Path("jsl_citations_data/2_jsl_citations_cleaned.json")
+OUTPUT_PATH = Path("jsl_citations_data/3_references_cleaned.json")
 
 
 def main() -> None:

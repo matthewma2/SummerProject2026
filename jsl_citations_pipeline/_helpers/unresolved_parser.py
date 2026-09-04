@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # ============================================================
-# jsl_citations_data/parsing_unresolved_works.py
+# Shared unresolved-reference parser used by the JSL citation pipeline.
 # Parse unresolved JSL reference strings into structured JSON
 # and enrich them with metadata where possible.
 # ============================================================
@@ -892,10 +892,10 @@ def parse_file(
 
 def main():
     parse_file(
-        'jsl_citations_data/3a_all_caps_authors.json',
-        'jsl_citations_data/3a_parsed.json',
-        'jsl_citations_data/3a_ignored.txt',
-        'jsl_citations_data/parse_errors.txt',
+        'jsl_citations_data/6a_all_caps_author_references.json',
+        'jsl_citations_data/parsed_all_caps_author_references.json',
+        'jsl_citations_pipeline_logs/6a_ignored_all_caps.txt',
+        'jsl_citations_pipeline_logs/6a_parse_errors.txt',
     )
 
 

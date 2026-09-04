@@ -6,8 +6,8 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-PARSER_PATH = PROJECT_ROOT / "jsl_citations_pipeline" / "8_parse_5b_no_authors.py"
-DATA_DIR = PROJECT_ROOT / "jsl_citations_data_2"
+PARSER_PATH = Path(__file__).resolve().parent / "_helpers" / "no_author_parser.py"
+DATA_DIR = PROJECT_ROOT / "jsl_citations_data"
 LOG_DIR = PROJECT_ROOT / "jsl_citations_pipeline_logs"
 
 INPUT_PATH = DATA_DIR / "8b_no_authors.json"

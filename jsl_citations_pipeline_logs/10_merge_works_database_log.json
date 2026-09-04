@@ -1,7 +1,7 @@
 {
   "works_input": "/Users/matthewma/Projects/Summer Research Project 2026/databases/works.json",
-  "candidates_input": "/Users/matthewma/Projects/Summer Research Project 2026/jsl_citations_data_2/10a_works_ready_to_add.json",
-  "merged_output": "/Users/matthewma/Projects/Summer Research Project 2026/jsl_citations_data_2/11_merged_database.json",
+  "candidates_input": "/Users/matthewma/Projects/Summer Research Project 2026/jsl_citations_data/10a_works_ready_to_add.json",
+  "merged_output": "/Users/matthewma/Projects/Summer Research Project 2026/jsl_citations_data/11_merged_database.json",
   "existing_works": 3404,
   "input_candidates": 1445,
   "candidates_added": 1253,

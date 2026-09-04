@@ -59,103 +59,87 @@ When in doubt, start from `databases/`, then follow the numbered files in `jsl_c
 
 ## JSL Citation Pipeline
 
-The JSL citation pipeline is numbered. The numbering is important because the data files in `jsl_citations_data/` use matching numbers.
+The JSL citation pipeline is numbered. Data outputs are stored in `jsl_citations_data/`, while audit and exclusion logs are stored in `jsl_citations_pipeline_logs/`.
 
 Run scripts from the repo root.
 
 ```bash
 python3 jsl_citations_pipeline/1_strip_internal_refs.py
-python3 jsl_citations_pipeline/2_extract_jsl_citations.py
-python3 jsl_citations_pipeline/3_split_all_caps.py
-python3 jsl_citations_pipeline/4_parsing_unresolved_works.py
-python3 jsl_citations_pipeline/5_split_by_length.py
-python3 jsl_citations_pipeline/6_split_more_authors.py
-python3 jsl_citations_pipeline/7_parse_5a_with_authors.py
-python3 jsl_citations_pipeline/8_parse_5b_no_authors.py
-python3 jsl_citations_pipeline/9_google_resolve_4b_this_journal.py
+python3 jsl_citations_pipeline/2_compile_references.py
+python3 jsl_citations_pipeline/3_remove_duplicates.py
+python3 jsl_citations_pipeline/4_match_references_to_works.py
+python3 jsl_citations_pipeline/5_split_all_caps.py
+python3 jsl_citations_pipeline/6a_parse_all_caps.py
+python3 jsl_citations_pipeline/6b_split_by_length.py
+python3 jsl_citations_pipeline/7_split_by_author.py
+python3 jsl_citations_pipeline/8a_parse_with_authors.py
+python3 jsl_citations_pipeline/8b_parse_no_authors.py
+python3 jsl_citations_pipeline/9_prepare_work_candidates.py
+python3 jsl_citations_pipeline/10_merge_works_database.py
+python3 jsl_citations_pipeline/11_resolve_jsl_citations.py
 ```
-
-Step 9 only performs Google Custom Search lookups when `GOOGLE_API_KEY` and `GOOGLE_CSE_ID` are set. Without those variables, it still writes query/audit files.
 
 ### Pipeline Files
 
 `1_strip_internal_refs.py`
 
-- Input: `jsl_citations_data/0_jsl_citations_before_stripping.json`
-- Output: `jsl_citations_data/1_jsl_citations_cleaned.json`
-- Log: `jsl_citations_data/1_strip_internal_refs_log.txt`
+- Input: `jsl_citations_data/1_jsl_citations_original.json`
+- Output: `jsl_citations_data/2_jsl_citations_cleaned.json`
+- Log: `jsl_citations_pipeline_logs/2_stripped_internal_refs_log.txt`
 - Removes internal back-references such as bracketed bibliography pointers, `op. cit.`, `loc. cit.`, bare `ibid.`, and `q.v.`.
 
-`2_extract_jsl_citations.py`
+`2_compile_references.py`
 
-- Inputs: `databases/works.json`, `jsl_citations_data/1_jsl_citations_cleaned.json`
-- Outputs: `jsl_citations_data/jsl_citations_resolved.json`, `jsl_citations_data/2a_resolved.json`, `jsl_citations_data/2b_unresolved.json`
-- Attempts to match citation strings to known work IDs using token and fuzzy matching.
+- Flattens the nested cleaned citations into `jsl_citations_data/3_references_cleaned.json`.
 
-`3_split_all_caps.py`
+`3_remove_duplicates.py`
 
-- Input: `jsl_citations_data/2b_unresolved.json`
-- Outputs: `jsl_citations_data/3a_all_caps_authors.json`, `jsl_citations_data/3b_unresolved.json`
-- Splits unresolved references that appear to begin with all-caps author names.
+- Deduplicates cleaned strings into `jsl_citations_data/4_references_deduplicated.json`.
+- Writes detailed removals to `jsl_citations_pipeline_logs/4_removed_duplicates_log.json`.
 
-`4_parsing_unresolved_works.py`
+`4_match_references_to_works.py`
 
-- Input: `jsl_citations_data/3a_all_caps_authors.json`
-- Outputs: `jsl_citations_data/3a_parsed.json`, `jsl_citations_data/3a_ignored.txt`
-- Parses all-caps-author citation strings into structured work-like records.
-- Can use CrossRef enrichment internally; be mindful of network access and rate limits.
+- Matches deduplicated strings against `databases/works.json` and writes unresolved strings to `jsl_citations_data/5_unresolved_references.json`.
 
-`5_split_by_length.py`
+`5_split_all_caps.py`
 
-- Input: `jsl_citations_data/3b_unresolved.json`
-- Outputs: `jsl_citations_data/4a_less_than_25.json`, `jsl_citations_data/4b_between_25_and_43.json`, `jsl_citations_data/4c_more_than_43.json`
-- Separates remaining unresolved strings by character length.
+- Splits unresolved strings into `6a_all_caps_author_references.json` and `6b_other_references.json`.
 
-`6_split_more_authors.py`
+`6a_parse_all_caps.py` and `6b_split_by_length.py`
 
-- Inputs: `jsl_citations_data/4c_more_than_43.json`, `databases/authors.json`
-- Outputs: `jsl_citations_data/5a_with_authors.json`, `jsl_citations_data/5b_no_authors.json`
-- Uses the author authority file to find references that likely contain author names.
+- Parses the all-caps branch and splits the other branch into further-internal, deferred journal, and long-reference groups.
 
-`7_parse_5a_with_authors.py`
+`7_split_by_author.py`
 
-- Inputs: `jsl_citations_data/5a_with_authors.json`, `databases/authors.json`
-- Outputs: `jsl_citations_data/5a_parsed.json`, `jsl_citations_data/5a_ignored.txt`
-- Parses longer unresolved references where author names were detected.
+- Splits `7_long_valid_refs.json` into `8a_with_authors.json` and `8b_no_authors.json`.
 
-`8_parse_5b_no_authors.py`
+`8a_parse_with_authors.py` and `8b_parse_no_authors.py`
 
-- Inputs: `jsl_citations_data/5b_no_authors.json`, `databases/works.json`
-- Outputs: `jsl_citations_data/5b_parsed.json`, `jsl_citations_data/5b_classified.json`, `jsl_citations_data/5b_contextual_references.json`, `jsl_citations_data/5b_fragments.json`, `jsl_citations_data/5b_unresolved_after_parse.json`
-- Handles references without obvious author prefixes.
-- Tries title-first matching, recovers missed author prefixes, and separates contextual fragments from still-unresolved strings.
+- Parses both long-reference branches into `9a_parsed_with_authors.json` and `9b_parsed_no_authors.json`.
 
-`9_google_resolve_4b_this_journal.py`
+`9_prepare_work_candidates.py`
 
-- Input: `jsl_citations_data/4b_between_25_and_43.json`
-- Outputs: `jsl_citations_data/4b_google_resolved_this_journal.json`, `jsl_citations_data/4b_google_unresolved_this_journal.json`, `jsl_citations_data/4b_google_this_journal_audit.json`, `jsl_citations_data/4b_google_this_journal_queries.json`
-- Targets short references like `this JOURNAL, vol. 15, p. 141`.
-- Uses Google Custom Search only if credentials are present.
+- Resolves author IDs, rematches existing works, validates parsed records, and writes `10a_works_ready_to_add.json` and `10b_works_needing_review.json`.
+
+`10_merge_works_database.py`
+
+- Safely merges reviewed candidates with `databases/works.json` into `11_merged_database.json`, adjusting colliding IDs and excluding probable duplicate works.
+
+`11_resolve_jsl_citations.py`
+
+- Resolves the nested cleaned citations against the merged database and writes `12_jsl_citations_resolved.json`.
+
+Shared parsing and matching implementations used by these stages live in `jsl_citations_pipeline/_helpers/`.
 
 ### Current JSL Data Snapshot
 
 These counts are from the current files:
 
-- `0_jsl_citations_before_stripping.json`: 682 source entries, 7,502 references before stripping.
-- `1_jsl_citations_cleaned.json`: 682 source entries, 5,716 references after stripping.
-- `2a_resolved.json`: 1,650 matched reference strings.
-- `2b_unresolved.json`: 4,066 unresolved reference strings.
-- `3a_all_caps_authors.json`: 2,366 strings.
-- `3a_parsed.json`: 2,139 parsed records.
-- `3b_unresolved.json`: 1,700 strings.
-- `4a_less_than_25.json`: 234 strings.
-- `4b_between_25_and_43.json`: 313 strings.
-- `4c_more_than_43.json`: 1,153 strings.
-- `5a_with_authors.json`: 550 strings.
-- `5a_parsed.json`: 542 parsed records.
-- `5b_no_authors.json`: 603 strings.
-- `5b_parsed.json`: 240 parsed/matched records.
-- `5b_unresolved_after_parse.json`: 247 remaining unresolved records.
+- `1_jsl_citations_original.json`: 682 source entries and 7,502 references.
+- `2_jsl_citations_cleaned.json`: 682 source entries and 5,716 references.
+- `10a_works_ready_to_add.json`: 1,445 candidate works before final merge-time duplicate checks.
+- `11_merged_database.json`: 4,657 works with unique IDs.
+- `12_jsl_citations_resolved.json`: 3,276 resolved and 2,440 unresolved reference occurrences.
 
 ## Active Utility Scripts
 
@@ -189,7 +173,7 @@ These counts are from the current files:
 `active_scripts/split_jsl_unresolved_by_length.py`
 
 - Generic split-by-length helper.
-- The numbered JSL pipeline now has its own specific splitter at `jsl_citations_pipeline/5_split_by_length.py`.
+- The numbered JSL pipeline now has its own specific splitter at `jsl_citations_pipeline/6b_split_by_length.py`.
 
 ## Church Bibliography And Additions
 
@@ -303,13 +287,13 @@ Important libraries used by scripts include:
 
    The likely core is `databases/works.json`, `databases/authors.json`, and the resolved/parsed JSL outputs. Write that decision down once it is firm.
 
-2. Merge parsed JSL citation-derived records back into `databases/works.json`, if that is the intended next phase.
+2. Review the prepared JSL work candidates before promoting the merged database.
 
-   Current parsed files include `3a_parsed.json`, `5a_parsed.json`, and `5b_parsed.json`. These are structured enough to review and integrate, but they should be deduplicated against existing works first.
+   Start with `jsl_citations_data/10b_works_needing_review.json`. The provisional merged result is `jsl_citations_data/11_merged_database.json`; the canonical `databases/works.json` is not modified automatically.
 
 3. Work down the unresolved queue.
 
-   Start with `jsl_citations_data/5b_unresolved_after_parse.json`, then inspect `4a_less_than_25.json`, `4b_between_25_and_43.json`, and `4b_google_unresolved_this_journal.json`.
+   Start with `jsl_citations_pipeline_logs/12_unresolved_references.json`, then revisit `jsl_citations_pipeline_logs/6b_journal_refs.json`.
 
 4. Clean up authority data.
 
@@ -325,8 +309,7 @@ Important libraries used by scripts include:
 
 ## Open Questions For The Next Maintainer
 
-- Which parsed JSL files have already been manually reviewed?
-- Should `jsl_citations_data/jsl_citations.json` remain as a duplicate of the cleaned JSL citations, or should the numbered `0_` and `1_` files become the only trusted inputs?
+- Which entries in `jsl_citations_data/10b_works_needing_review.json` have been manually reviewed?
 - What is the intended final schema for citation edges: source work ID, cited work ID, raw reference string, confidence, and provenance?
 - Are Church bibliography additions meant to become new `works.json` records, corrections to existing records, or both?
 - Should `archive/` CrossRef hydration results be merged into canonical works, or were they superseded?
@@ -338,7 +321,7 @@ Do not try to understand every file at once. Start with:
 1. `databases/works.json`
 2. `databases/authors.json`
 3. `jsl_citations_pipeline/`
-4. `jsl_citations_data/5b_unresolved_after_parse.json`
+4. `jsl_citations_data/10b_works_needing_review.json`
 5. This handoff document
 
 When adding new data, preserve provenance. Keep the raw reference string, the script/manual process that produced the parsed record, and any confidence or match notes. That will save a future maintainer from having to guess whether a record is source data, a heuristic match, or a human-reviewed correction.

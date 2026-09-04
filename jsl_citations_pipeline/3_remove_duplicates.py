@@ -7,8 +7,8 @@ import unicodedata
 from pathlib import Path
 
 
-INPUT_PATH = Path("jsl_citations_data_2/3_references_cleaned.json")
-OUTPUT_PATH = Path("jsl_citations_data_2/4_references_deduplicated.json")
+INPUT_PATH = Path("jsl_citations_data/3_references_cleaned.json")
+OUTPUT_PATH = Path("jsl_citations_data/4_references_deduplicated.json")
 LOG_PATH = Path("jsl_citations_pipeline_logs/4_removed_duplicates_log.json")
 
 

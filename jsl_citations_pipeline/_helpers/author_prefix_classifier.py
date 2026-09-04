@@ -3,11 +3,12 @@ import re
 import unicodedata
 from pathlib import Path
 
-src = Path("jsl_citations_data/4c_more_than_43.json")
-authors_path = Path("databases/authors.json")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+src = PROJECT_ROOT / "jsl_citations_data" / "7_long_valid_refs.json"
+authors_path = PROJECT_ROOT / "databases" / "authors.json"
 
-with_author_path = Path("jsl_citations_data/5a_with_authors.json")
-without_author_path = Path("jsl_citations_data/5b_no_authors.json")
+with_author_path = PROJECT_ROOT / "jsl_citations_data" / "8a_with_authors.json"
+without_author_path = PROJECT_ROOT / "jsl_citations_data" / "8b_no_authors.json"
 
 authors = json.loads(authors_path.read_text(encoding="utf-8"))
 

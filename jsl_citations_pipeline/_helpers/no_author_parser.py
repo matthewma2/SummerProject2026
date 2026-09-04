@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Classify and parse jsl_citations_data/5b_no_authors.json.
+"""Classify and parse references without obvious leading authors.
 
 This stage handles the references that did not have an obvious leading author
 in earlier passes. It first tries to recover missed author prefixes, then tries
@@ -14,24 +14,28 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 
-BASE_PARSER_PATH = Path("jsl_citations_pipeline/4_parsing_unresolved_works.py")
-AUTHOR_HELPERS_PATH = Path("jsl_citations_pipeline/7_parse_5a_with_authors.py")
-INPUT_PATH = Path("jsl_citations_data/5b_no_authors.json")
-WORKS_PATH = Path("databases/works.json")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+BASE_PARSER_PATH = Path(__file__).resolve().parent / "unresolved_parser.py"
+AUTHOR_HELPERS_PATH = Path(__file__).resolve().parent / "with_author_parser.py"
+INPUT_PATH = PROJECT_ROOT / "jsl_citations_data" / "8b_no_authors.json"
+WORKS_PATH = PROJECT_ROOT / "databases" / "works.json"
 
-PARSED_PATH = Path("jsl_citations_data/5b_parsed.json")
-CLASSIFIED_PATH = Path("jsl_citations_data/5b_classified.json")
-CONTEXTUAL_PATH = Path("jsl_citations_data/5b_contextual_references.json")
-FRAGMENTS_PATH = Path("jsl_citations_data/5b_fragments.json")
-UNRESOLVED_PATH = Path("jsl_citations_data/5b_unresolved_after_parse.json")
-ERRORS_PATH = Path("jsl_citations_data/5b_parse_errors.txt")
+PARSED_PATH = PROJECT_ROOT / "jsl_citations_data" / "9b_parsed_no_authors.json"
+CLASSIFIED_PATH = PROJECT_ROOT / "jsl_citations_pipeline_logs" / "8b_classified.json"
+CONTEXTUAL_PATH = PROJECT_ROOT / "jsl_citations_pipeline_logs" / "8b_contextual_references.json"
+FRAGMENTS_PATH = PROJECT_ROOT / "jsl_citations_pipeline_logs" / "8b_fragments.json"
+UNRESOLVED_PATH = PROJECT_ROOT / "jsl_citations_pipeline_logs" / "8b_unresolved_after_parse.json"
+ERRORS_PATH = PROJECT_ROOT / "jsl_citations_pipeline_logs" / "8b_parse_errors.txt"
 
 
 def load_definitions(path, stop_marker=None):
     source = path.read_text(encoding="utf-8")
     if stop_marker:
         source = source.split(stop_marker, 1)[0]
-    namespace = {"__name__": f"loaded_{path.stem}"}
+    namespace = {
+        "__name__": f"loaded_{path.stem}",
+        "__file__": str(path),
+    }
     exec(compile(source, str(path), "exec"), namespace)
     return namespace
 

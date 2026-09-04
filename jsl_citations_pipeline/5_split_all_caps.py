@@ -6,9 +6,9 @@ import re
 from pathlib import Path
 
 
-INPUT_PATH = Path("jsl_citations_data_2/5_unresolved_references.json")
-ALL_CAPS_PATH = Path("jsl_citations_data_2/6a_all_caps_author_references.json")
-OTHER_PATH = Path("jsl_citations_data_2/6b_other_references.json")
+INPUT_PATH = Path("jsl_citations_data/5_unresolved_references.json")
+ALL_CAPS_PATH = Path("jsl_citations_data/6a_all_caps_author_references.json")
+OTHER_PATH = Path("jsl_citations_data/6b_other_references.json")
 
 
 connectors = {"and", "et", "und", "y", "e", "with"}

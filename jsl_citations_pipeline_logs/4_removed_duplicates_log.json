@@ -1,6 +1,6 @@
 {
-  "input_path": "jsl_citations_data_2/3_references_cleaned.json",
-  "output_path": "jsl_citations_data_2/4_references_deduplicated.json",
+  "input_path": "jsl_citations_data/3_references_cleaned.json",
+  "output_path": "jsl_citations_data/4_references_deduplicated.json",
   "input_references": 5716,
   "unique_references": 5167,
   "duplicates_removed": 549,

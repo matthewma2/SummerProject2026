@@ -6,10 +6,10 @@ import json
 from pathlib import Path
 
 
-MATCHER_PATH = Path("jsl_citations_pipeline/2_extract_jsl_citations.py")
+MATCHER_PATH = Path(__file__).resolve().parent / "_helpers" / "reference_matcher.py"
 WORKS_PATH = Path("databases/works.json")
-INPUT_PATH = Path("jsl_citations_data_2/4_references_deduplicated.json")
-UNRESOLVED_PATH = Path("jsl_citations_data_2/5_unresolved_references.json")
+INPUT_PATH = Path("jsl_citations_data/4_references_deduplicated.json")
+UNRESOLVED_PATH = Path("jsl_citations_data/5_unresolved_references.json")
 RESOLVED_LOG_PATH = Path("jsl_citations_pipeline_logs/5_resolved_references_log.json")
 
 

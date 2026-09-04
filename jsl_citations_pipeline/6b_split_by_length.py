@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 
 
-DATA_DIR = Path(__file__).resolve().parent.parent / "jsl_citations_data_2"
+DATA_DIR = Path(__file__).resolve().parent.parent / "jsl_citations_data"
 LOG_DIR = Path(__file__).resolve().parent.parent / "jsl_citations_pipeline_logs"
 
 INPUT_PATH = DATA_DIR / "6b_other_references.json"

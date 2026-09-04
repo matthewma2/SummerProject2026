@@ -1,8 +1,0 @@
-- "JOHN ROBISON See Rescher and Robison (1966)." [Informal]
-- "M. I. T. Lincoln Laboratory group report 54-5, April 1959." [Informal]
-- "Tarski's paper mentioned before under footnote 11 and his more technical paper Der Wahrheitsbegrif/ in den formalisierten Sprachen, Studia philosophica, vol. 1 (1935), pp. 261-405." [Informal]
-- "Church's monograph (cited in footnote 3) pp. 40 ff" [Informal]
-- "Quine's definition of implication in 4585 p. 45" [Informal]
-- "Enderton's work has now appeared: Hierarchies in recursive function theory, Transactions of the American Mathematical Society, Vol. 111 (1964), pp. 457-471." [Informal]
-- "Church's definition in The Dictionary of Philosophy, edited by D. Runes (New York, n.d.)." [Informal]
-- "Gandy's paper Proof of Mostowski's conjecture, Bulletin de l'Académie Polonaise des Sciences vol. 8 (1960), pp 571-575." [Informal]
