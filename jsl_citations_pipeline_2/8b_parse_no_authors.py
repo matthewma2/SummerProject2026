@@ -11,7 +11,7 @@ DATA_DIR = PROJECT_ROOT / "jsl_citations_data_2"
 LOG_DIR = PROJECT_ROOT / "jsl_citations_pipeline_logs"
 
 INPUT_PATH = DATA_DIR / "8b_no_authors.json"
-PARSED_PATH = DATA_DIR / "parsed_no_authors.json"
+PARSED_PATH = DATA_DIR / "9b_parsed_no_authors.json"
 CLASSIFIED_PATH = LOG_DIR / "8b_classified.json"
 CONTEXTUAL_PATH = LOG_DIR / "8b_contextual_references.json"
 FRAGMENTS_PATH = LOG_DIR / "8b_fragments.json"

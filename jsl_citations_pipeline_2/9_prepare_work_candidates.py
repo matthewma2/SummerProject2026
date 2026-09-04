@@ -18,12 +18,12 @@ ORIGINAL_PATH = DATA_DIR / "1_jsl_citations_original.json"
 
 PARSED_INPUTS = (
     ("all_caps", DATA_DIR / "parsed_all_caps_author_references.json"),
-    ("with_authors", DATA_DIR / "parsed_with_authors.json"),
-    ("recovered_or_title_first", DATA_DIR / "parsed_no_authors.json"),
+    ("with_authors", DATA_DIR / "9a_parsed_with_authors.json"),
+    ("recovered_or_title_first", DATA_DIR / "9b_parsed_no_authors.json"),
 )
 
-READY_PATH = DATA_DIR / "works_ready_to_add.json"
-REVIEW_PATH = DATA_DIR / "works_needing_review.json"
+READY_PATH = DATA_DIR / "10a_works_ready_to_add.json"
+REVIEW_PATH = DATA_DIR / "10b_works_needing_review.json"
 EXISTING_PATH = LOG_DIR / "9_existing_works_matched.json"
 DUPLICATES_PATH = LOG_DIR / "9_parsed_duplicates.json"
 AUDIT_PATH = LOG_DIR / "9_works_ready_to_add_audit.json"

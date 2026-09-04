@@ -11,7 +11,7 @@ DATA_DIR = PROJECT_ROOT / "jsl_citations_data_2"
 LOG_DIR = PROJECT_ROOT / "jsl_citations_pipeline_logs"
 
 INPUT_PATH = DATA_DIR / "8a_with_authors.json"
-OUTPUT_PATH = DATA_DIR / "parsed_with_authors.json"
+OUTPUT_PATH = DATA_DIR / "9a_parsed_with_authors.json"
 IGNORED_PATH = LOG_DIR / "8a_ignored_with_authors.txt"
 ERRORS_PATH = LOG_DIR / "8a_parse_errors.txt"
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Strip internal references from the compiled JSL reference-string list."""
+"""Strip internal references from the original nested JSL citation data."""
 
 import json
 import re
@@ -7,9 +7,9 @@ from collections import defaultdict
 from pathlib import Path
 
 
-INPUT_PATH = Path("jsl_citations_data_2/2_references_compiled.json")
-OUTPUT_PATH = Path("jsl_citations_data_2/3_references_cleaned.json")
-LOG_PATH = Path("jsl_citations_pipeline_logs/3_stripped_internal_refs_log.txt")
+INPUT_PATH = Path("jsl_citations_data_2/1_jsl_citations_original.json")
+OUTPUT_PATH = Path("jsl_citations_data_2/2_jsl_citations_cleaned.json")
+LOG_PATH = Path("jsl_citations_pipeline_logs/2_stripped_internal_refs_log.txt")
 
 
 def has_vol_year(ref: str) -> bool:
@@ -65,29 +65,49 @@ def classify(ref: str) -> str:
 
 
 def main() -> None:
-    references = json.loads(INPUT_PATH.read_text(encoding="utf-8"))
-    if not isinstance(references, list):
+    entries = json.loads(INPUT_PATH.read_text(encoding="utf-8"))
+    if not isinstance(entries, list):
         raise ValueError(f"Expected a JSON list in {INPUT_PATH}")
 
-    cleaned = []
+    cleaned_entries = []
     removals_by_cat = defaultdict(int)
     removed_refs = []
     skipped = 0
+    total_references = 0
+    kept_references = 0
 
-    for ref in references:
-        if not isinstance(ref, str):
+    for entry in entries:
+        if not isinstance(entry, dict):
             skipped += 1
             continue
 
-        cat = classify(ref)
-        if cat == "KEEP":
-            cleaned.append(ref)
-        else:
-            removals_by_cat[cat] += 1
-            removed_refs.append((cat, ref))
+        cleaned_entry = dict(entry)
+        cleaned_references = []
+
+        for ref_obj in entry.get("references", []):
+            total_references += 1
+            if not isinstance(ref_obj, dict):
+                skipped += 1
+                continue
+
+            ref = ref_obj.get("reference")
+            if not isinstance(ref, str) or not ref.strip():
+                skipped += 1
+                continue
+
+            cat = classify(ref)
+            if cat == "KEEP":
+                cleaned_references.append(ref_obj)
+                kept_references += 1
+            else:
+                removals_by_cat[cat] += 1
+                removed_refs.append((cat, ref))
+
+        cleaned_entry["references"] = cleaned_references
+        cleaned_entries.append(cleaned_entry)
 
     OUTPUT_PATH.write_text(
-        json.dumps(cleaned, ensure_ascii=False, indent=2) + "\n",
+        json.dumps(cleaned_entries, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
@@ -95,9 +115,9 @@ def main() -> None:
         handle.write("=== strip_internal_refs removal log ===\n\n")
         handle.write(f"Input  : {INPUT_PATH}\n")
         handle.write(f"Output : {OUTPUT_PATH}\n\n")
-        handle.write(f"Total references   : {len(references)}\n")
+        handle.write(f"Total references   : {total_references}\n")
         handle.write(f"Removed            : {len(removed_refs)}\n")
-        handle.write(f"Kept               : {len(cleaned)}\n")
+        handle.write(f"Kept               : {kept_references}\n")
         handle.write(f"Skipped non-strings: {skipped}\n\n")
         handle.write("Breakdown by category:\n")
         for cat, count in sorted(removals_by_cat.items()):
@@ -106,8 +126,8 @@ def main() -> None:
         for cat, ref in removed_refs:
             handle.write(f"[{cat}] {ref}\n")
 
-    print(f"Read {len(references)} references from {INPUT_PATH}")
-    print(f"Wrote {len(cleaned)} cleaned references to {OUTPUT_PATH}")
+    print(f"Read {len(entries)} source entries and {total_references} references from {INPUT_PATH}")
+    print(f"Wrote {kept_references} cleaned references in {len(cleaned_entries)} source entries to {OUTPUT_PATH}")
     print(f"Removed {len(removed_refs)} internal references")
     if skipped:
         print(f"Skipped {skipped} non-string entries")
