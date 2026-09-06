@@ -303,6 +303,39 @@
   },
   {
     "record": {
+      "title": "Mathematical logic, New York, 1940",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1940a"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, New York, 1940",
+    "source_articles": [
+      "Berry1941a",
+      "Myhill1952b",
+      "Parry1954a",
+      "Quine1954b",
+      "Quine1955a",
+      "Rosser1942b",
+      "Wang1950a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Logic, semantics, metamathematics,translated by J",
       "authors": [
         "alfred-tarski"
@@ -736,6 +769,33 @@
   },
   {
     "record": {
+      "title": "Methods of logic, (Henry Holt), New York, 1950",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1950,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1950b"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "WV. V. QUINE, Methods of logic, (Henry Holt), New York, 1950.",
+    "source_articles": [
+      "Hailperin1954a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Algebras and their subalgebras",
       "authors": [
         "a-h-diamond",
@@ -1149,6 +1209,33 @@
         "input": "GEORGE GOE",
         "author_id": "george-goe",
         "method": "exact_name",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, revised edition, Harvard",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1951,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1951a"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, revised edition, Harvard University Press, Cambridge, Mass., 1951.",
+    "source_articles": [
+      "Goe1968a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
         "candidates": []
       }
     ],
@@ -6297,6 +6384,65 @@
   },
   {
     "record": {
+      "title": "Methods of logic, New York, 1950",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1950,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1950c"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Methods of logic, New York, 1950.",
+    "source_articles": [
+      "AndersonCleaver1965a",
+      "Nelson1955a",
+      "Parry1954a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "The problem of simplifying truth functions",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1952,
+      "type": "article",
+      "journal": "American Mathematical Monthly",
+      "volume": "59",
+      "pages": "521-531",
+      "id": "Quine1952a"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, The problem of simplifying truth functions, American mathe- matical monthly, vol. 59 (1952), pp. 521-531.",
+    "source_articles": [
+      "Bing1956a",
+      "Nelson1955a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Elements of symbolic logic, New York, 1948",
       "authors": [
         "hans-reichenbach"
@@ -6762,6 +6908,60 @@
         "input": "GORDON MATHESON",
         "author_id": "gordon-matheson",
         "method": "exact_name",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "From a logical point of view, Cambridge, Mass., 1953",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1953,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1953b"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, From a logical point of view, Cambridge, Mass., 1953.",
+    "source_articles": [
+      "Matheson1962a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Word and object, New York and London, 1960",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1960,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1960a"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Word and object, New York and London, 1960.",
+    "source_articles": [
+      "Matheson1962a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
         "candidates": []
       }
     ],
@@ -9627,6 +9827,90 @@
   },
   {
     "record": {
+      "title": "New foundations for mathematical logic",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1937,
+      "type": "article",
+      "journal": "American Mathematical Monthly",
+      "volume": "44",
+      "pages": "70-80",
+      "id": "Quine1937d"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "WV. V. QUINE, New foundations for mathematical logic, American mathe- matical monthly, vol. 44 (1937), pp. 70-80.",
+    "source_articles": [
+      "Hintikka1956a",
+      "Orey1955a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, first printing, W",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1940b"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, first printing, WV. WV. Norton and Co., New York, 1940, xiii + 348 pp.",
+    "source_articles": [
+      "Orey1955a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, rev. ed., Harvard",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1951,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1951b"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "WV. V. QUINE, Mathematical logic, rev. ed., Harvard University Press, Cambridge, 1951, xii + 346 pp.",
+    "source_articles": [
+      "Orey1955a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Leçons sur les nombres transfinis, Gautiers-Villars et Cie., Paris",
       "authors": [
         "waclaw-sierpinski"
@@ -10481,7 +10765,7 @@
       "year": 1950,
       "type": "book",
       "location": "New York",
-      "id": "Quine1950b"
+      "id": "Quine1950d"
     },
     "pipeline_branch": "all_caps",
     "raw_reference": "WILLARD VAN ORMAN QUINE, Methods of logic, New York (Holt), 1950, xx + 264 pp.",
@@ -10851,6 +11135,33 @@
   },
   {
     "record": {
+      "title": "Methods of logic, Henry Holt and Company, Tnc., New York, 1959",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1959,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1959a"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Methods of logic, Henry Holt and Company, Tnc., New York, 1959.",
+    "source_articles": [
+      "Smullyan1968a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Über die Zwischensysteme der Aussagenlogik, Nagoya mathematical journal",
       "authors": [
         "toshio-umezawa"
@@ -11115,6 +11426,34 @@
   },
   {
     "record": {
+      "title": "Mathematical logic (New York, 1940) p. 166",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "pages": "166",
+      "location": "New York",
+      "id": "Quine1940c"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic (New York, 1940) p. 166",
+    "source_articles": [
+      "Hintikka1956a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Russell's mathematical logic (in The philosophy of Bertrand Russell, edited by P",
       "authors": [
         "kurt-godel"
@@ -11134,6 +11473,35 @@
         "input": "KURT GöDEL",
         "author_id": "kurt-godel",
         "method": "exact_name",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "On Frege's way out, Mind N.S. vol. 64",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1955,
+      "type": "article",
+      "journal": "Mind",
+      "volume": "64",
+      "pages": "145-159",
+      "id": "Quine1955b"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, On Frege's way out, Mind N.S. vol. 64 (1955) pp. 145-159.",
+    "source_articles": [
+      "Hintikka1956a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
         "candidates": []
       }
     ],
@@ -11357,6 +11725,33 @@
   },
   {
     "record": {
+      "title": "From a logical point of view, Cambridge, 1953",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1953,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1953c"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, From a logical point of view, Cambridge, 1953.",
+    "source_articles": [
+      "Cohen1960a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Is there only one correct system of modal logic?, Proceedings of the Aristotelian Society, supplementary vol. 33",
       "authors": [
         "e-j-lemmon"
@@ -11487,6 +11882,33 @@
       {
         "input": "S. C. KLEENE",
         "author_id": "s-c-kleene",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Methods of logic, New York (Holt), 1950",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1950,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1950e"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Methods of logic, New York (Holt), 1950.",
+    "source_articles": [
+      "Quine1955a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -11817,6 +12239,39 @@
       {
         "input": "J. C. E. DEKKER",
         "author_id": "j-c-e-dekker",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1940d"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE. Mathematical logic. New York, 1940.",
+    "source_articles": [
+      "Berry1941a",
+      "Myhill1952b",
+      "Parry1954a",
+      "Quine1954b",
+      "Quine1955a",
+      "Rosser1942b",
+      "Wang1950a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -12396,6 +12851,62 @@
   },
   {
     "record": {
+      "title": "On cores and prime implicants of truth functions",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1959,
+      "type": "article",
+      "journal": "American Mathematical Monthly",
+      "volume": "66",
+      "pages": "755-760",
+      "id": "Quine1959b"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, On cores and prime implicants of truth functions, American mathematical monthly, vol. 66 (1959), pp. 755-760.",
+    "source_articles": [
+      "HouseRado1965a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical Logic, Rev",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1961,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1961a"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical Logic, Rev. Ed., Harvard University Press, Cambridge, Mass., 1961.",
+    "source_articles": [
+      "Hatcher1966a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Implicit definability and compactness in infinitary languages, The syntax and semantics of infinitary languages, Lecture notes in mathematics",
       "authors": [
         "jon-barwise"
@@ -12626,6 +13137,34 @@
       {
         "input": "A. MOSTOWSKI",
         "author_id": "andrzej-mostowski",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, revised edition, Cambridge, Mass. (Harvard",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1951,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1951c"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, revised edition, Cambridge, Mass. (Har- vard University Press), 1951.",
+    "source_articles": [
+      "Hailperin1957a",
+      "Orey1956a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -13573,6 +14112,63 @@
       {
         "input": "J. MYHILL",
         "author_id": "john-r-myhill",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Two theorems about truth functions, Boletin de la Sociedad Matemática Mexicana",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1953,
+      "type": "article",
+      "volume": "10",
+      "pages": "64-70",
+      "id": "Quine1953d"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Two theorems about truth functions, Boletin de la Sociedad Matemática Mexicana, vol. 10 (1953), pp. 64-70.",
+    "source_articles": [
+      "Bing1956a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "A way to simplify truth functions",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1955,
+      "type": "article",
+      "journal": "American Mathematical Monthly",
+      "volume": "62",
+      "pages": "627-631",
+      "id": "Quine1955c"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, A way to simplify truth functions, American mathematical monthly, vol. 62 (1955), pp. 627-631.",
+    "source_articles": [
+      "Bing1956a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -15068,6 +15664,33 @@
       {
         "input": "D. KÖNIG",
         "author_id": "denes-konig",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Methods of Logic",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1959,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1959c"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Methods of Logic, 1959, Henry Holt and Co., Inc., New York.",
+    "source_articles": [
+      "Smullyan1965a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -17102,6 +17725,36 @@
         "input": "GOODMAN",
         "author_id": "nelson-goodman",
         "method": "exact_name",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Notes on existence and necessity",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1943,
+      "type": "article",
+      "journal": "Journal of Philosophy",
+      "volume": "40",
+      "pages": "113-127",
+      "id": "Quine1943a"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Notes on existence and necessity. The journal of philosophy, vol. 40 (1943), pp. 113-127.",
+    "source_articles": [
+      "Carnap1946a",
+      "Smullyan1948a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
         "candidates": []
       }
     ],
@@ -19273,6 +19926,35 @@
   },
   {
     "record": {
+      "title": "On a so-called paradox",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1953,
+      "type": "article",
+      "journal": "Mind",
+      "volume": "62",
+      "pages": "65-67",
+      "id": "Quine1953e"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, On a so-called paradox. Mind, vol. 62 (1953), pp. 65-67.",
+    "source_articles": [
+      "Smiley1963a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Some recent work of Ehrenfeucht and Fraïssé, Summaries of talks presented at the Summer Institute for Symbolic Logic, Cornell University",
       "authors": [
         "solomon-feferman"
@@ -19986,6 +20668,35 @@
   },
   {
     "record": {
+      "title": "The problem of simplifying truth functions, The",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1952,
+      "type": "article",
+      "journal": "American Mathematical Monthly",
+      "volume": "59",
+      "pages": "521-531",
+      "id": "Quine1952b"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, The problem of simplifying truth functions, The American mathe- matical monthly, vol. 59 (1952), pp. 521-531",
+    "source_articles": [
+      "DunhamFridshal1959a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Primitive recursive functions",
       "authors": [
         "raphael-m-robinson"
@@ -20455,25 +21166,25 @@
   },
   {
     "record": {
-      "title": "From a logical point of view (Cambridge, Mass., 1953)",
+      "title": "Mathematical logic, revised edition",
       "authors": [
         "w-v-quine"
       ],
-      "year": 1953,
+      "year": 1951,
       "type": "book",
       "location": "Cambridge",
-      "id": "Quine1953b"
+      "id": "Quine1951d"
     },
     "pipeline_branch": "all_caps",
-    "raw_reference": "QUINE, From a logical point of view (Cambridge, Mass., 1953).",
+    "raw_reference": "W. V. QUINE, Mathematical logic, revised edition. Cambridge, Mass., 1951.",
     "source_articles": [
       "Quine1956b"
     ],
     "author_resolution": [
       {
-        "input": "QUINE",
+        "input": "W. V. QUINE",
         "author_id": "w-v-quine",
-        "method": "exact_name",
+        "method": "initials_and_surname",
         "candidates": []
       }
     ],
@@ -22223,6 +22934,35 @@
   },
   {
     "record": {
+      "title": "this JOURNAL, vol. 3 (1938), pp. 83-84",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1938,
+      "type": "article",
+      "journal": "The Journal of Symbolic Logic",
+      "volume": "3",
+      "pages": "83-84",
+      "id": "Quine1938d"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, this JOURNAL, vol. 3 (1938), pp. 83-84.",
+    "source_articles": [
+      "Pager1962a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Bulletin of the American Mathematical Society, vol. 59 (1953), pp. 263-7",
       "authors": [
         "haskell-b-curry"
@@ -22272,6 +23012,33 @@
       {
         "input": "A. CHURCH",
         "author_id": "alonzo-church",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical Logic, Cambridge, Mass. (Harvard",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1955,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1955d"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical Logic, Cambridge, Mass. (Harvard University Press), 1955.",
+    "source_articles": [
+      "Pager1962a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -23799,6 +24566,33 @@
   },
   {
     "record": {
+      "title": "Three grades of modal involvement, Proceedings of the XIth International Congress of Philosophy",
+      "authors": [
+        "w-v-quine"
+      ],
+      "type": "article",
+      "volume": "XIV",
+      "pages": "65-81",
+      "id": "QuineUndateda"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Three grades of modal involvement, Proceedings of the XIth International Congress of Philosophy, Vol. XIV, pp. 65-81.",
+    "source_articles": [
+      "Kripke1959a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "A theory of formal deducibility, Notre Dame Mathematical Lectures",
       "authors": [
         "haskell-b-curry"
@@ -23817,6 +24611,33 @@
       {
         "input": "H. B. CURRY",
         "author_id": "haskell-b-curry",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical Logic, Cambridge (Harvard",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1951,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1951e"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical Logic, Cambridge (Harvard University Press), revised edition, 1951; especially' ? 18.",
+    "source_articles": [
+      "Henkin1957a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -25983,6 +26804,60 @@
   },
   {
     "record": {
+      "title": "Methods of logic, London 1952",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1952,
+      "type": "book",
+      "location": "London",
+      "id": "Quine1952c"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Methods of logic, London 1952.",
+    "source_articles": [
+      "Behmann1959a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "New foundations for mathematical logic, abgedruckt in From a logical point of view, Cambridge, Mass., 1953",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1953,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1953f"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, New foundations for mathematical logic, abgedruckt in From a logical point of view, Cambridge, Mass., 1953.",
+    "source_articles": [
+      "Behmann1959a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Diodorus and modal logic: a correction, Philosophical quarterly",
       "authors": [
         "a-n-prior"
@@ -26119,6 +26994,33 @@
       {
         "input": "A. R. ANDERSON",
         "author_id": "alan-ross-anderson",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, Cambridge, Mass., 1947",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1947,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1947c"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, Cambridge, Mass., 1947.",
+    "source_articles": [
+      "Anderson1954a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -27713,6 +28615,33 @@
   },
   {
     "record": {
+      "title": "Mathematical logic, First edition, New York, 1940",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1940e"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, First edition, New York, 1940.",
+    "source_articles": [
+      "Hailperin1953a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Distributive initial segments of the degrees of unsolvability",
       "authors": [
         "a-h-lachlan"
@@ -28433,6 +29362,68 @@
   },
   {
     "record": {
+      "title": "On ordinals",
+      "authors": [
+        "w-v-quine",
+        "hao-wang"
+      ],
+      "year": 1964,
+      "type": "article",
+      "journal": "Bulletin of the American Mathematical Society",
+      "volume": "70",
+      "id": "Quine1964a"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE and HAO WANG, On ordinals, Bulletin of the American Mathe- matical Society, Vol. 70 (1964), pp. 297f.",
+    "source_articles": [
+      "BrownWang1966a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      },
+      {
+        "input": "HAO WANG",
+        "author_id": "hao-wang",
+        "method": "exact_name",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Set theory and its logic, Cambridge, Mass., Harvard",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1963,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1963b"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Set theory and its logic, Cambridge, Mass., Harvard University Press (1963).",
+    "source_articles": [
+      "BrownWang1966a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Zur Frage der Unendlichkeitsschemata in der Axiomatischen Mengenlehre, Essays on the foundations of mathematics, Jerusalem",
       "authors": [
         "paul-bernays"
@@ -28572,6 +29563,33 @@
       {
         "input": "J. C. E. DEKKER",
         "author_id": "j-c-e-dekker",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, revised edition, Cambridge (Harvard)",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1951,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1951f"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, revised edition, Cambridge (Harvard), 1951, xii + 346 pp.",
+    "source_articles": [
+      "Ullian1960a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -30531,6 +31549,33 @@
   },
   {
     "record": {
+      "title": "Methods of logic, New York (Holt) 1950, xx + 264 pp",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1950,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1950f"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Methods of logic, New York (Holt) 1950, xx + 264 pp.",
+    "source_articles": [
+      "Bergmann1956a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "The number of linear, directed, rooted, and connected graphs",
       "authors": [
         "frank-harary"
@@ -31347,6 +32392,33 @@
   },
   {
     "record": {
+      "title": "Methods of logic, Holt, New York, 1964",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1964,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1964b"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Methods of logic, Holt, New York, 1964.",
+    "source_articles": [
+      "Burgess1969a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Plurality quantification",
       "authors": [
         "nicholas-rescher"
@@ -31458,6 +32530,32 @@
   },
   {
     "record": {
+      "title": "Mathematical logic, revised edition, Harvard, 1951",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1951,
+      "type": "article",
+      "id": "Quine1951g"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, revised edition, Harvard, 1951.",
+    "source_articles": [
+      "Collins1954a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Treatise on set topology, Part I",
       "authors": [
         "r-vaidyanathaswamy"
@@ -31531,6 +32629,34 @@
       {
         "input": "A. TARSKI",
         "author_id": "alfred-tarski",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, revised ed. (Harvard",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1951,
+      "type": "book",
+      "pages": "291-305",
+      "location": "Cambridge",
+      "id": "Quine1951h"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, revised ed. (Harvard University Press, Cambridge: 1951), pp. 291-305.",
+    "source_articles": [
+      "Martin1958a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -32116,6 +33242,61 @@
       {
         "input": "P. BERNAYS",
         "author_id": "paul-bernays",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, revised third printing, Harvard",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1951,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1951i"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, revised third printing, Harvard University Press, Cambridge, Mass., 1951.",
+    "source_articles": [
+      "Rosser1952a",
+      "Shoenfield1954a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, second printing, Harvard",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1947,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1947d"
+    },
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE, Mathematical logic, second printing, Harvard University Press, Cambridge, Mass., 1947.",
+    "source_articles": [
+      "Kwei1954a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -34082,33 +35263,6 @@
   },
   {
     "record": {
-      "title": "Mathematical logic",
-      "authors": [
-        "w-v-quine"
-      ],
-      "year": 1940,
-      "type": "book",
-      "location": "New York",
-      "id": "Quine1940a"
-    },
-    "pipeline_branch": "with_authors",
-    "raw_reference": "Willard Van Orman Quine. Mathematical logic. W. W. Norton & Company, New York 1940.",
-    "source_articles": [
-      "Berkeley1942a"
-    ],
-    "author_resolution": [
-      {
-        "input": "Willard Van Orman Quine",
-        "author_id": "w-v-quine",
-        "method": "exact_name",
-        "candidates": []
-      }
-    ],
-    "parse_strategy": null,
-    "parse_confidence": null
-  },
-  {
-    "record": {
       "title": "The axiomatic method in biology",
       "authors": [
         "j-h-woodger"
@@ -34304,6 +35458,127 @@
         "input": "Wajsberg",
         "author_id": "mordechaj-wajsberg",
         "method": "exact_name",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "New foundations for mathematical logic, The",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1937,
+      "type": "article",
+      "journal": "American Mathematical Monthly",
+      "volume": "44",
+      "pages": "70-80",
+      "id": "Quine1937e"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, New foundations for mathematical logic, The American mathematical monthly, vol. 44 (1937), pp. 70-80.",
+    "source_articles": [
+      "Quine1941a",
+      "Rosser1939b",
+      "Rosser1939c",
+      "Rosser1942b",
+      "Rosser1952a",
+      "RosserWang1950a",
+      "Shoenfield1954a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "A theory of classes presupposing no canons of type",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1936,
+      "type": "article",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "22",
+      "pages": "320-326",
+      "id": "Quine1936c"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, A theory of classes presupposing no canons of type, Proceedings of the National Academy of Sciences, vol. 22 (1936), pp. 320-326",
+    "source_articles": [
+      "Rosser1939c"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, New York",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "pages": "121",
+      "location": "New York",
+      "id": "Quine1940f"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Mathematical logic, New York, 1940, p. 121.",
+    "source_articles": [
+      "Martin1949a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Designation and existence, The",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1939,
+      "type": "article",
+      "journal": "Journal of Philosophy",
+      "volume": "36",
+      "pages": "701-709",
+      "id": "Quine1939a"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Designation and existence, The journal of philosophy, vol. 36 (1939), pp. 701-709.",
+    "source_articles": [
+      "Martin1949a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
         "candidates": []
       }
     ],
@@ -34898,6 +36173,34 @@
   },
   {
     "record": {
+      "title": "Mathematical logic, W",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "pages": "79-80",
+      "location": "New York",
+      "id": "Quine1940g"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Mathematical logic, W. W. Norton & Co., New York, 1940, pp. 79-80.",
+    "source_articles": [
+      "Fitch1941a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Symbolic logic, pp. 493, 498",
       "authors": [
         "c-i-lewis",
@@ -35029,6 +36332,34 @@
       {
         "input": "A. Tarski",
         "author_id": "alfred-tarski",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, New York 1940, p. 88",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "pages": "88",
+      "location": "New York",
+      "id": "Quine1940h"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Mathematical logic, New York 1940, p. 88.",
+    "source_articles": [
+      "Myhill1951b"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -35270,6 +36601,32 @@
       {
         "input": "H. SCHOLZ",
         "author_id": "heinrich-scholz",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "From the logical point of view (cf. reference21), pp. 123-127",
+      "authors": [
+        "w-v-quine"
+      ],
+      "type": "article",
+      "pages": "123-127",
+      "id": "QuineUndatedb"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. QUINE in From the logical point of view (cf. reference21), pp. 123-127",
+    "source_articles": [
+      "Hintikka1956a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. QUINE",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -35978,6 +37335,35 @@
   },
   {
     "record": {
+      "title": "Notes on existence and necessity, The",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1943,
+      "type": "article",
+      "journal": "Journal of Philosophy",
+      "volume": "40",
+      "pages": "113-127",
+      "id": "Quine1943b"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine in Notes on existence and necessity, The journal of philosophy, vol. 40 (1943), pp. 113-127",
+    "source_articles": [
+      "GoodmanQuine1947a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "A study of qualities (1941, typescript, Harvard University Library)",
       "authors": [
         "nelson-goodman"
@@ -35996,6 +37382,32 @@
         "input": "Nelson Goodman",
         "author_id": "nelson-goodman",
         "method": "exact_name",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, pp. 128-130",
+      "authors": [
+        "w-v-quine"
+      ],
+      "type": "article",
+      "pages": "128-130",
+      "id": "QuineUndatedc"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Mathematical logic, pp. 128-130",
+    "source_articles": [
+      "GoodmanQuine1947a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
         "candidates": []
       }
     ],
@@ -36664,6 +38076,33 @@
   },
   {
     "record": {
+      "title": "Mathematical logic, 2nd printing, Cambridge 1947",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1947,
+      "type": "book",
+      "location": "Cambridge",
+      "id": "Quine1947e"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Mathematical logic, 2nd printing, Cambridge 1947.",
+    "source_articles": [
+      "Wang1952a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "0 logice tr6jwarto~ciowej, Ruch filozoficzny",
       "authors": [
         "jan-lukasiewicz"
@@ -37056,6 +38495,32 @@
       {
         "input": "A. Church",
         "author_id": "alonzo-church",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Mathematical logic, pp. 146-149",
+      "authors": [
+        "w-v-quine"
+      ],
+      "type": "article",
+      "pages": "146-149",
+      "id": "QuineUndatedd"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Mathematical logic, pp. 146-149",
+    "source_articles": [
+      "Martin1943a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
         "method": "initials_and_surname",
         "candidates": []
       }
@@ -37971,33 +39436,6 @@
   },
   {
     "record": {
-      "title": "Mathematical logic (W",
-      "authors": [
-        "w-v-quine"
-      ],
-      "year": 1940,
-      "type": "book",
-      "pages": "128-132",
-      "id": "Quine1940b"
-    },
-    "pipeline_branch": "with_authors",
-    "raw_reference": "Quine, Mathematical logic (W. W. Norton & Co., 1940), pp. 128-132, 155-160, 162-166.",
-    "source_articles": [
-      "GoodmanQuine1940a"
-    ],
-    "author_resolution": [
-      {
-        "input": "Quine",
-        "author_id": "w-v-quine",
-        "method": "exact_name",
-        "candidates": []
-      }
-    ],
-    "parse_strategy": null,
-    "parse_confidence": null
-  },
-  {
-    "record": {
       "title": "Über die Beschränktheit der Ausdrucksmittel deduktiver Theorien",
       "authors": [
         "adolf-lindenbaum",
@@ -38090,6 +39528,33 @@
         "input": "Janos Surányi",
         "author_id": "jnos-surnyi",
         "method": "exact_name",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Relations and reason, Technology review",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1939,
+      "type": "article",
+      "volume": "41",
+      "id": "Quine1939b"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine in Relations and reason, Technology review, vol. 41 (1939), pp. 325, 327n.",
+    "source_articles": [
+      "GoodmanLeonard1940a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
         "candidates": []
       }
     ],
@@ -38554,6 +40019,35 @@
   },
   {
     "record": {
+      "title": "Methods of logic, New York",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1950,
+      "type": "book",
+      "location": "New York",
+      "id": "Quine1950g"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Methods of logic, New York, (1950)",
+    "source_articles": [
+      "AndersonCleaver1965a",
+      "Nelson1955a",
+      "Parry1954a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Mathematical reviews",
       "authors": [
         "g-kreisel"
@@ -38971,6 +40465,34 @@
   },
   {
     "record": {
+      "title": "Mathematical logic (New York 1940), pp. 37-42",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "pages": "37-42",
+      "location": "New York",
+      "id": "Quine1940i"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Mathematical logic (New York 1940), pp. 37-42.",
+    "source_articles": [
+      "Turing1942a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Zur Widerspruchsfreiheit der Zahie-ntheorie",
       "authors": [
         "wilhelm-ackermann"
@@ -39037,7 +40559,7 @@
       "type": "book",
       "pages": "74",
       "location": "Cambridge",
-      "id": "Quine1947c"
+      "id": "Quine1947f"
     },
     "pipeline_branch": "with_authors",
     "raw_reference": "Willard Van Orman Quine, Mathematical logic, Cambridge 1947, p. 74.",
@@ -39449,6 +40971,35 @@
   },
   {
     "record": {
+      "title": "Designation and existence",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1939,
+      "type": "article",
+      "journal": "Journal of Philosophy",
+      "volume": "36",
+      "pages": "701-709",
+      "id": "Quine1939c"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Designation and existence, Journal of philosophy, vol. 36 (1939), pp. 701-709,",
+    "source_articles": [
+      "MartinWoodger1951a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Introduction to semantics, esp. pp. 49-55",
       "authors": [
         "rudolf-carnap"
@@ -39669,6 +41220,34 @@
   },
   {
     "record": {
+      "title": "Mathematical logic (New York 1940), p. 202, small type",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1940,
+      "type": "book",
+      "pages": "202",
+      "location": "New York",
+      "id": "Quine1940j"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Mathematical logic (New York 1940), p. 202, small type.",
+    "source_articles": [
+      "Goodman1943a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
       "title": "Arithmetical definitions in the ring of integers",
       "authors": [
         "raphael-m-robinson"
@@ -39734,7 +41313,7 @@
       "type": "book",
       "pages": "107-112",
       "location": "New York",
-      "id": "Quine1936c"
+      "id": "Quine1936d"
     },
     "pipeline_branch": "with_authors",
     "raw_reference": "Quine, Truth by convention, Philosophical essays for A. N. Whitehead (0. H. Lee, edi- tor; New York, 1936), pp. 107-112, esp. note 18.",
@@ -40739,7 +42318,7 @@
       "type": "book",
       "pages": "30",
       "location": "New York",
-      "id": "Quine1950c"
+      "id": "Quine1950h"
     },
     "pipeline_branch": "with_authors",
     "raw_reference": "Willard Van Orman Quine, Methods of logic, (New York, 1950), p. 30.",
@@ -41126,6 +42705,35 @@
         "input": "Hans Hermes",
         "author_id": "hans-hermes",
         "method": "exact_name",
+        "candidates": []
+      }
+    ],
+    "parse_strategy": null,
+    "parse_confidence": null
+  },
+  {
+    "record": {
+      "title": "Definition of substitution",
+      "authors": [
+        "w-v-quine"
+      ],
+      "year": 1936,
+      "type": "article",
+      "journal": "Bulletin of the American Mathematical Society",
+      "volume": "42",
+      "pages": "561-569",
+      "id": "Quine1936e"
+    },
+    "pipeline_branch": "with_authors",
+    "raw_reference": "W. V. Quine, Definition of substitution, Bulletin of the American Mathematical Society, vol. 42 (1936), pp. 561-569",
+    "source_articles": [
+      "Quine1946a"
+    ],
+    "author_resolution": [
+      {
+        "input": "W. V. Quine",
+        "author_id": "w-v-quine",
+        "method": "initials_and_surname",
         "candidates": []
       }
     ],

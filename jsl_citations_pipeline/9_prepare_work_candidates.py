@@ -4,7 +4,7 @@
 import json
 import re
 import unicodedata
-from collections import defaultdict
+from collections import Counter, defaultdict
 from difflib import SequenceMatcher
 from pathlib import Path
 
@@ -27,7 +27,8 @@ REVIEW_PATH = DATA_DIR / "10b_works_needing_review.json"
 EXISTING_PATH = LOG_DIR / "9_existing_works_matched.json"
 DUPLICATES_PATH = LOG_DIR / "9_parsed_duplicates.json"
 AUDIT_PATH = LOG_DIR / "9_works_ready_to_add_audit.json"
-INVALID_CONTEXTUAL_PATH = DATA_DIR / "invalid_or_contextual_references.json"
+INVALID_CONTEXTUAL_PATH = LOG_DIR / "9_invalid_or_contextual_references.json"
+UNRESOLVED_AUTHORS_PATH = LOG_DIR / "9_unresolved_authors.json"
 
 ALL_CAPS_INPUT_PATH = DATA_DIR / "6a_all_caps_author_references.json"
 WITH_AUTHORS_INPUT_PATH = DATA_DIR / "8a_with_authors.json"
@@ -104,8 +105,9 @@ def author_parts(raw_name):
 
 def given_names_compatible(raw_given, full_name):
     candidate = normalized_text(full_name).split()[:-1]
-    raw_given = [token for token in raw_given if token not in AUTHOR_PARTICLES]
-    candidate = [token for token in candidate if token not in AUTHOR_PARTICLES]
+    # Do not discard particles here: an initial can legitimately stand for one
+    # (for example, the V. in W. V. Quine corresponds to "Van"). Matching still
+    # proceeds in order, so retaining particles does not permit arbitrary initials.
     if not raw_given:
         return True
     candidate_index = 0
@@ -327,7 +329,14 @@ def main():
     authors_by_id, aliases, surnames = build_author_indexes(authors)
     works_by_id = {work["id"]: work for work in works}
     title_index = build_work_title_index(works)
-    source_index = build_source_index(load_json(ORIGINAL_PATH))
+    original_entries = load_json(ORIGINAL_PATH)
+    source_index = build_source_index(original_entries)
+    reference_occurrences = Counter(
+        normalized_text(reference.get("reference") or "")
+        for entry in original_entries
+        for reference in entry.get("references") or []
+        if isinstance(reference, dict) and reference.get("reference")
+    )
 
     parsed_records = []
     for branch, path in PARSED_INPUTS:
@@ -473,6 +482,52 @@ def main():
             )
             invalid_or_contextual.append(item)
 
+    unresolved_author_groups = defaultdict(lambda: {
+        "spellings": set(),
+        "methods": set(),
+        "candidate_author_ids": set(),
+        "raw_references": set(),
+        "source_articles": set(),
+        "reference_occurrences": 0,
+    })
+    counted_author_reference_pairs = set()
+    for record in parsed_records:
+        raw_reference = record.get("raw_reference") or ""
+        raw_key = normalized_text(raw_reference)
+        for resolution in record.get("author_resolution") or []:
+            if resolution.get("author_id"):
+                continue
+            input_name = resolution.get("input") or ""
+            name_key = normalized_text(input_name)
+            if not name_key:
+                continue
+            group = unresolved_author_groups[name_key]
+            group["spellings"].add(input_name)
+            group["methods"].add(resolution.get("method"))
+            group["candidate_author_ids"].update(resolution.get("candidates") or [])
+            group["raw_references"].add(raw_reference)
+            group["source_articles"].update(source_index.get(raw_key, set()))
+            pair = (name_key, raw_key)
+            if pair not in counted_author_reference_pairs:
+                group["reference_occurrences"] += reference_occurrences.get(raw_key, 0)
+                counted_author_reference_pairs.add(pair)
+
+    unresolved_author_report = []
+    for normalized_name, group in unresolved_author_groups.items():
+        unresolved_author_report.append({
+            "normalized_name": normalized_name,
+            "spellings": sorted(group["spellings"]),
+            "methods": sorted(method for method in group["methods"] if method),
+            "candidate_author_ids": sorted(group["candidate_author_ids"]),
+            "distinct_references": len(group["raw_references"]),
+            "reference_occurrences": group["reference_occurrences"],
+            "raw_references": sorted(group["raw_references"]),
+            "source_articles": sorted(group["source_articles"]),
+        })
+    unresolved_author_report.sort(
+        key=lambda item: (-item["reference_occurrences"], item["normalized_name"])
+    )
+
     assign_ids(ready_records, works_by_id, authors_by_id)
     for audit, record in zip(ready_audit, ready_records):
         audit["record"] = record
@@ -484,6 +539,7 @@ def main():
         (DUPLICATES_PATH, duplicate_records),
         (AUDIT_PATH, ready_audit),
         (INVALID_CONTEXTUAL_PATH, invalid_or_contextual),
+        (UNRESOLVED_AUTHORS_PATH, unresolved_author_report),
     )
     for path, value in outputs:
         path.write_text(json.dumps(value, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")

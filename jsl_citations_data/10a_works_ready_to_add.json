@@ -108,6 +108,16 @@
     "id": "Church1951a"
   },
   {
+    "title": "Mathematical logic, New York, 1940",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1940a"
+  },
+  {
     "title": "Logic, semantics, metamathematics,translated by J",
     "authors": [
       "alfred-tarski"
@@ -271,6 +281,16 @@
     "id": "Rosser1953a"
   },
   {
+    "title": "Methods of logic, (Henry Holt), New York, 1950",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1950,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1950b"
+  },
+  {
     "title": "Algebras and their subalgebras",
     "authors": [
       "a-h-diamond",
@@ -431,6 +451,16 @@
     "volume": "7",
     "pages": "129-157",
     "id": "Goe1966a"
+  },
+  {
+    "title": "Mathematical logic, revised edition, Harvard",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1951,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1951a"
   },
   {
     "title": "Über Definitionsbereiche von Funktionen",
@@ -2430,6 +2460,28 @@
     "id": "Lukasiewicz1951b"
   },
   {
+    "title": "Methods of logic, New York, 1950",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1950,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1950c"
+  },
+  {
+    "title": "The problem of simplifying truth functions",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1952,
+    "type": "article",
+    "journal": "American Mathematical Monthly",
+    "volume": "59",
+    "pages": "521-531",
+    "id": "Quine1952a"
+  },
+  {
     "title": "Elements of symbolic logic, New York, 1948",
     "authors": [
       "hans-reichenbach"
@@ -2603,6 +2655,26 @@
     "volume": "26",
     "pages": "260-269",
     "id": "Matheson1959a"
+  },
+  {
+    "title": "From a logical point of view, Cambridge, Mass., 1953",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1953,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1953b"
+  },
+  {
+    "title": "Word and object, New York and London, 1960",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1960,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1960a"
   },
   {
     "title": "My philosophical development, New York, 1959",
@@ -3655,6 +3727,38 @@
     "id": "Kamke1928a"
   },
   {
+    "title": "New foundations for mathematical logic",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "American Mathematical Monthly",
+    "volume": "44",
+    "pages": "70-80",
+    "id": "Quine1937d"
+  },
+  {
+    "title": "Mathematical logic, first printing, W",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1940b"
+  },
+  {
+    "title": "Mathematical logic, rev. ed., Harvard",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1951,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1951b"
+  },
+  {
     "title": "Leçons sur les nombres transfinis, Gautiers-Villars et Cie., Paris",
     "authors": [
       "waclaw-sierpinski"
@@ -3991,7 +4095,7 @@
     "year": 1950,
     "type": "book",
     "location": "New York",
-    "id": "Quine1950b"
+    "id": "Quine1950d"
   },
   {
     "title": "The finite representations of S5",
@@ -4130,6 +4234,16 @@
     "id": "Kleene1950b"
   },
   {
+    "title": "Methods of logic, Henry Holt and Company, Tnc., New York, 1959",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1959,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1959a"
+  },
+  {
     "title": "Über die Zwischensysteme der Aussagenlogik, Nagoya mathematical journal",
     "authors": [
       "toshio-umezawa"
@@ -4228,6 +4342,17 @@
     "id": "Wang1953c"
   },
   {
+    "title": "Mathematical logic (New York, 1940) p. 166",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "pages": "166",
+    "location": "New York",
+    "id": "Quine1940c"
+  },
+  {
     "title": "Russell's mathematical logic (in The philosophy of Bertrand Russell, edited by P",
     "authors": [
       "kurt-godel"
@@ -4236,6 +4361,18 @@
     "type": "article",
     "pages": "123-153",
     "id": "Godel1944a"
+  },
+  {
+    "title": "On Frege's way out, Mind N.S. vol. 64",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "Mind",
+    "volume": "64",
+    "pages": "145-159",
+    "id": "Quine1955b"
   },
   {
     "title": "Russell's mathematical logic (cf. reference22), p. 150",
@@ -4317,6 +4454,16 @@
     "id": "Smullyan1961c"
   },
   {
+    "title": "From a logical point of view, Cambridge, 1953",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1953,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1953c"
+  },
+  {
     "title": "Is there only one correct system of modal logic?, Proceedings of the Aristotelian Society, supplementary vol. 33",
     "authors": [
       "e-j-lemmon"
@@ -4368,6 +4515,16 @@
     "type": "book",
     "location": "New York",
     "id": "Kleene9393a"
+  },
+  {
+    "title": "Methods of logic, New York (Holt), 1950",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1950,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1950e"
   },
   {
     "title": "Productive sets",
@@ -4492,6 +4649,16 @@
     "volume": "5",
     "pages": "77-96",
     "id": "Dekker1962b"
+  },
+  {
+    "title": "Mathematical logic",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1940d"
   },
   {
     "title": "Definition by induction in Quine's \"New foundations for mathematical logic,\" ibid., pp. 80-81",
@@ -4715,6 +4882,28 @@
     "id": "House1963a"
   },
   {
+    "title": "On cores and prime implicants of truth functions",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1959,
+    "type": "article",
+    "journal": "American Mathematical Monthly",
+    "volume": "66",
+    "pages": "755-760",
+    "id": "Quine1959b"
+  },
+  {
+    "title": "Mathematical Logic, Rev",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1961,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1961a"
+  },
+  {
     "title": "Implicit definability and compactness in infinitary languages, The syntax and semantics of infinitary languages, Lecture notes in mathematics",
     "authors": [
       "jon-barwise"
@@ -4797,6 +4986,16 @@
     "volume": "44",
     "pages": "12-36",
     "id": "Mostowski1957c"
+  },
+  {
+    "title": "Mathematical logic, revised edition, Cambridge, Mass. (Harvard",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1951,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1951c"
   },
   {
     "title": "(Iber deduktiven Theorien mit mehreren Sorten von Grunddingen, Mathematischen Annalen",
@@ -5163,6 +5362,29 @@
     "volume": "1",
     "pages": "97-108",
     "id": "Myhill1955d"
+  },
+  {
+    "title": "Two theorems about truth functions, Boletin de la Sociedad Matemática Mexicana",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1953,
+    "type": "article",
+    "volume": "10",
+    "pages": "64-70",
+    "id": "Quine1953d"
+  },
+  {
+    "title": "A way to simplify truth functions",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "American Mathematical Monthly",
+    "volume": "62",
+    "pages": "627-631",
+    "id": "Quine1955c"
   },
   {
     "title": "On the ordinals in models of set theory, preprint",
@@ -5738,6 +5960,16 @@
     "year": 1932,
     "type": "article",
     "id": "Konig1932a"
+  },
+  {
+    "title": "Methods of Logic",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1959,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1959c"
   },
   {
     "title": "Degrees of Unsolvability, Princeton",
@@ -6510,6 +6742,18 @@
     "type": "book",
     "location": "Cambridge",
     "id": "Goodman1951a"
+  },
+  {
+    "title": "Notes on existence and necessity",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1943,
+    "type": "article",
+    "journal": "Journal of Philosophy",
+    "volume": "40",
+    "pages": "113-127",
+    "id": "Quine1943a"
   },
   {
     "title": "Logical foundations of probability, Chicago",
@@ -7345,6 +7589,18 @@
     "id": "Prior1956b"
   },
   {
+    "title": "On a so-called paradox",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1953,
+    "type": "article",
+    "journal": "Mind",
+    "volume": "62",
+    "pages": "65-67",
+    "id": "Quine1953e"
+  },
+  {
     "title": "Some recent work of Ehrenfeucht and Fraïssé, Summaries of talks presented at the Summer Institute for Symbolic Logic, Cornell University",
     "authors": [
       "solomon-feferman"
@@ -7619,6 +7875,18 @@
     "id": "Spector1957a"
   },
   {
+    "title": "The problem of simplifying truth functions, The",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1952,
+    "type": "article",
+    "journal": "American Mathematical Monthly",
+    "volume": "59",
+    "pages": "521-531",
+    "id": "Quine1952b"
+  },
+  {
     "title": "Primitive recursive functions",
     "authors": [
       "raphael-m-robinson"
@@ -7796,14 +8064,14 @@
     "id": "Tarski1956e"
   },
   {
-    "title": "From a logical point of view (Cambridge, Mass., 1953)",
+    "title": "Mathematical logic, revised edition",
     "authors": [
       "w-v-quine"
     ],
-    "year": 1953,
+    "year": 1951,
     "type": "book",
     "location": "Cambridge",
-    "id": "Quine1953b"
+    "id": "Quine1951d"
   },
   {
     "title": "Logic for mathematicians, New York, 1953",
@@ -8472,6 +8740,18 @@
     "id": "Rosser1938a"
   },
   {
+    "title": "this JOURNAL, vol. 3 (1938), pp. 83-84",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1938,
+    "type": "article",
+    "journal": "The Journal of Symbolic Logic",
+    "volume": "3",
+    "pages": "83-84",
+    "id": "Quine1938d"
+  },
+  {
     "title": "Bulletin of the American Mathematical Society, vol. 59 (1953), pp. 263-7",
     "authors": [
       "haskell-b-curry"
@@ -8494,6 +8774,16 @@
     "volume": "15",
     "pages": "59",
     "id": "Church1950a"
+  },
+  {
+    "title": "Mathematical Logic, Cambridge, Mass. (Harvard",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1955,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1955d"
   },
   {
     "title": "A new proof of the Church-Rosser Theorem",
@@ -9077,6 +9367,16 @@
     "id": "Carnap1942a"
   },
   {
+    "title": "Three grades of modal involvement, Proceedings of the XIth International Congress of Philosophy",
+    "authors": [
+      "w-v-quine"
+    ],
+    "type": "article",
+    "volume": "XIV",
+    "pages": "65-81",
+    "id": "QuineUndateda"
+  },
+  {
     "title": "A theory of formal deducibility, Notre Dame Mathematical Lectures",
     "authors": [
       "haskell-b-curry"
@@ -9085,6 +9385,16 @@
     "type": "article",
     "number": "6",
     "id": "Curry1950b"
+  },
+  {
+    "title": "Mathematical Logic, Cambridge (Harvard",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1951,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1951e"
   },
   {
     "title": "Contributions to the theory of models I, II",
@@ -9918,6 +10228,26 @@
     "id": "BehmannUndateda"
   },
   {
+    "title": "Methods of logic, London 1952",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1952,
+    "type": "book",
+    "location": "London",
+    "id": "Quine1952c"
+  },
+  {
+    "title": "New foundations for mathematical logic, abgedruckt in From a logical point of view, Cambridge, Mass., 1953",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1953,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1953f"
+  },
+  {
     "title": "Diodorus and modal logic: a correction, Philosophical quarterly",
     "authors": [
       "a-n-prior"
@@ -9975,6 +10305,16 @@
     "journal": "Journal of Computing Systems",
     "notes": "forthcoming",
     "id": "AndersonUndateda"
+  },
+  {
+    "title": "Mathematical logic, Cambridge, Mass., 1947",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1947,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1947c"
   },
   {
     "title": "Uber die Unabhdngigheit des Auswahlaxioms und einiger seiner Folgerungen",
@@ -10582,6 +10922,16 @@
     "id": "Robinson1958a"
   },
   {
+    "title": "Mathematical logic, First edition, New York, 1940",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1940e"
+  },
+  {
     "title": "Distributive initial segments of the degrees of unsolvability",
     "authors": [
       "a-h-lachlan"
@@ -10852,6 +11202,28 @@
     "id": "Bernays1958a"
   },
   {
+    "title": "On ordinals",
+    "authors": [
+      "w-v-quine",
+      "hao-wang"
+    ],
+    "year": 1964,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "70",
+    "id": "Quine1964a"
+  },
+  {
+    "title": "Set theory and its logic, Cambridge, Mass., Harvard",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1963,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1963b"
+  },
+  {
     "title": "Zur Frage der Unendlichkeitsschemata in der Axiomatischen Mengenlehre, Essays on the foundations of mathematics, Jerusalem",
     "authors": [
       "paul-bernays"
@@ -10901,6 +11273,16 @@
     "type": "article",
     "notes": "forthcoming",
     "id": "MyhillUndateda"
+  },
+  {
+    "title": "Mathematical logic, revised edition, Cambridge (Harvard)",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1951,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1951f"
   },
   {
     "title": "JR., Theory of recursive functions and effective computability",
@@ -11659,6 +12041,16 @@
     "id": "Bergmann1949c"
   },
   {
+    "title": "Methods of logic, New York (Holt) 1950, xx + 264 pp",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1950,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1950f"
+  },
+  {
     "title": "The number of linear, directed, rooted, and connected graphs",
     "authors": [
       "frank-harary"
@@ -11968,6 +12360,16 @@
     "id": "Feys1965c"
   },
   {
+    "title": "Methods of logic, Holt, New York, 1964",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1964,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1964b"
+  },
+  {
     "title": "Plurality quantification",
     "authors": [
       "nicholas-rescher"
@@ -12011,6 +12413,15 @@
     "id": "Hausdorff1935a"
   },
   {
+    "title": "Mathematical logic, revised edition, Harvard, 1951",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1951,
+    "type": "article",
+    "id": "Quine1951g"
+  },
+  {
     "title": "Treatise on set topology, Part I",
     "authors": [
       "r-vaidyanathaswamy"
@@ -12040,6 +12451,17 @@
     "pages": "213-218",
     "location": "New York",
     "id": "Tarski1941d"
+  },
+  {
+    "title": "Mathematical logic, revised ed. (Harvard",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1951,
+    "type": "book",
+    "pages": "291-305",
+    "location": "Cambridge",
+    "id": "Quine1951h"
   },
   {
     "title": "The notion of analytic truth (University of Pennsylvania Press, Philadelphia: to appear)",
@@ -12255,6 +12677,26 @@
     "type": "book",
     "location": "Berlin",
     "id": "Hilbert1943a"
+  },
+  {
+    "title": "Mathematical logic, revised third printing, Harvard",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1951,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1951i"
+  },
+  {
+    "title": "Mathematical logic, second printing, Harvard",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1947,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1947d"
   },
   {
     "title": "Complete theories, Amsterdam (",
@@ -13019,16 +13461,6 @@
     "id": "Ogden1934a"
   },
   {
-    "title": "Mathematical logic",
-    "authors": [
-      "w-v-quine"
-    ],
-    "year": 1940,
-    "type": "book",
-    "location": "New York",
-    "id": "Quine1940a"
-  },
-  {
     "title": "The axiomatic method in biology",
     "authors": [
       "j-h-woodger"
@@ -13104,6 +13536,53 @@
     "volume": "43",
     "pages": "154-157",
     "id": "Wajsberg1937a"
+  },
+  {
+    "title": "New foundations for mathematical logic, The",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1937,
+    "type": "article",
+    "journal": "American Mathematical Monthly",
+    "volume": "44",
+    "pages": "70-80",
+    "id": "Quine1937e"
+  },
+  {
+    "title": "A theory of classes presupposing no canons of type",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "22",
+    "pages": "320-326",
+    "id": "Quine1936c"
+  },
+  {
+    "title": "Mathematical logic, New York",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "pages": "121",
+    "location": "New York",
+    "id": "Quine1940f"
+  },
+  {
+    "title": "Designation and existence, The",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1939,
+    "type": "article",
+    "journal": "Journal of Philosophy",
+    "volume": "36",
+    "pages": "701-709",
+    "id": "Quine1939a"
   },
   {
     "title": "Principia mathematica 2nd ed., Cambridge",
@@ -13328,6 +13807,17 @@
     "id": "LeblancUndatedc"
   },
   {
+    "title": "Mathematical logic, W",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "pages": "79-80",
+    "location": "New York",
+    "id": "Quine1940g"
+  },
+  {
     "title": "Symbolic logic, pp. 493, 498",
     "authors": [
       "c-i-lewis",
@@ -13375,6 +13865,17 @@
     "type": "book",
     "location": "Vienna",
     "id": "Tarski1937a"
+  },
+  {
+    "title": "Mathematical logic, New York 1940, p. 88",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "pages": "88",
+    "location": "New York",
+    "id": "Quine1940h"
   },
   {
     "title": "Decision procedures for S20 and T'",
@@ -13462,6 +13963,15 @@
     "type": "article",
     "volume": "4",
     "id": "Scholz1927c"
+  },
+  {
+    "title": "From the logical point of view (cf. reference21), pp. 123-127",
+    "authors": [
+      "w-v-quine"
+    ],
+    "type": "article",
+    "pages": "123-127",
+    "id": "QuineUndatedb"
   },
   {
     "title": "Indagationes mathematicae, vol. 18 (1956), pp. 275-280",
@@ -13731,6 +14241,18 @@
     "id": "HeytingUndateda"
   },
   {
+    "title": "Notes on existence and necessity, The",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1943,
+    "type": "article",
+    "journal": "Journal of Philosophy",
+    "volume": "40",
+    "pages": "113-127",
+    "id": "Quine1943b"
+  },
+  {
     "title": "A study of qualities (1941, typescript, Harvard University Library)",
     "authors": [
       "nelson-goodman"
@@ -13738,6 +14260,15 @@
     "year": 1941,
     "type": "article",
     "id": "Goodman1941b"
+  },
+  {
+    "title": "Mathematical logic, pp. 128-130",
+    "authors": [
+      "w-v-quine"
+    ],
+    "type": "article",
+    "pages": "128-130",
+    "id": "QuineUndatedc"
   },
   {
     "title": "logical work is contained in his La Logique de Leibniz (Paris, 1901)",
@@ -13991,6 +14522,16 @@
     "id": "Prior1961a"
   },
   {
+    "title": "Mathematical logic, 2nd printing, Cambridge 1947",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1947,
+    "type": "book",
+    "location": "Cambridge",
+    "id": "Quine1947e"
+  },
+  {
     "title": "0 logice tr6jwarto~ciowej, Ruch filozoficzny",
     "authors": [
       "jan-lukasiewicz"
@@ -14133,6 +14674,15 @@
     "pages": "8",
     "location": "Princeton",
     "id": "Church1941d"
+  },
+  {
+    "title": "Mathematical logic, pp. 146-149",
+    "authors": [
+      "w-v-quine"
+    ],
+    "type": "article",
+    "pages": "146-149",
+    "id": "QuineUndatedd"
   },
   {
     "title": "Systematische Basisreduktion der Modalitdten bei Idempotenz der positive Grundmodalitdten",
@@ -14478,16 +15028,6 @@
     "id": "RoutleyUndateda"
   },
   {
-    "title": "Mathematical logic (W",
-    "authors": [
-      "w-v-quine"
-    ],
-    "year": 1940,
-    "type": "book",
-    "pages": "128-132",
-    "id": "Quine1940b"
-  },
-  {
     "title": "Über die Beschränktheit der Ausdrucksmittel deduktiver Theorien",
     "authors": [
       "adolf-lindenbaum",
@@ -14523,6 +15063,16 @@
     "pages": "51-74",
     "notes": "abstract",
     "id": "Suranyi1943a"
+  },
+  {
+    "title": "Relations and reason, Technology review",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1939,
+    "type": "article",
+    "volume": "41",
+    "id": "Quine1939b"
   },
   {
     "title": "General recursivefunctions of natural numbers",
@@ -14702,6 +15252,16 @@
     "id": "Tarski1941e"
   },
   {
+    "title": "Methods of logic, New York",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1950,
+    "type": "book",
+    "location": "New York",
+    "id": "Quine1950g"
+  },
+  {
     "title": "Mathematical reviews",
     "authors": [
       "g-kreisel"
@@ -14857,6 +15417,17 @@
     "id": "TuringUndateda"
   },
   {
+    "title": "Mathematical logic (New York 1940), pp. 37-42",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "pages": "37-42",
+    "location": "New York",
+    "id": "Quine1940i"
+  },
+  {
     "title": "Zur Widerspruchsfreiheit der Zahie-ntheorie",
     "authors": [
       "wilhelm-ackermann"
@@ -14889,7 +15460,7 @@
     "type": "book",
     "pages": "74",
     "location": "Cambridge",
-    "id": "Quine1947c"
+    "id": "Quine1947f"
   },
   {
     "title": "A decision method for elementary algebra and geometry, Rand Corporation, Santa Monica, Calif., 1948",
@@ -15040,6 +15611,18 @@
     "id": "Carnap1947b"
   },
   {
+    "title": "Designation and existence",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1939,
+    "type": "article",
+    "journal": "Journal of Philosophy",
+    "volume": "36",
+    "pages": "701-709",
+    "id": "Quine1939c"
+  },
+  {
     "title": "Introduction to semantics, esp. pp. 49-55",
     "authors": [
       "rudolf-carnap"
@@ -15118,6 +15701,17 @@
     "id": "CarnapUndatedg"
   },
   {
+    "title": "Mathematical logic (New York 1940), p. 202, small type",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1940,
+    "type": "book",
+    "pages": "202",
+    "location": "New York",
+    "id": "Quine1940j"
+  },
+  {
     "title": "Arithmetical definitions in the ring of integers",
     "authors": [
       "raphael-m-robinson"
@@ -15149,7 +15743,7 @@
     "type": "book",
     "pages": "107-112",
     "location": "New York",
-    "id": "Quine1936c"
+    "id": "Quine1936d"
   },
   {
     "title": "Sur la notion de l'ordre dans la thdorie des ensembles",
@@ -15529,7 +16123,7 @@
     "type": "book",
     "pages": "30",
     "location": "New York",
-    "id": "Quine1950c"
+    "id": "Quine1950h"
   },
   {
     "title": "this JOURNAL, vol. 16 1951, pp. 154-5",
@@ -15672,6 +16266,18 @@
     "journal": "Forschungen zur Logik und zur Grundlegung der exakten Wissenschaften",
     "number": "5",
     "id": "Hermes1938b"
+  },
+  {
+    "title": "Definition of substitution",
+    "authors": [
+      "w-v-quine"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "42",
+    "pages": "561-569",
+    "id": "Quine1936e"
   },
   {
     "title": "A., Die formalen Regeln der intuitionistischen Logik, Sitzungsberichte der Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse",

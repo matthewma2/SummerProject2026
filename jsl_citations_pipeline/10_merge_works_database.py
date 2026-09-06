@@ -75,6 +75,20 @@ def venue_conflicts(candidate, work):
     return False
 
 
+def title_without_trailing_metadata(record):
+    """Remove only trailing title tokens duplicated by structured metadata."""
+    title_tokens = normalized_text(record.get("title")).split()
+    noise_tokens = set()
+    for field in ("location", "publisher"):
+        noise_tokens.update(normalized_text(record.get(field)).split())
+    if record.get("year") is not None:
+        noise_tokens.update(normalized_text(record["year"]).split())
+
+    while len(title_tokens) > 2 and title_tokens[-1] in noise_tokens:
+        title_tokens.pop()
+    return " ".join(title_tokens)
+
+
 def choose_duplicate(candidate, works):
     """Return (match, method, alternatives) for a probable duplicate work."""
     candidate_title = normalized_text(candidate.get("title"))
@@ -103,6 +117,30 @@ def choose_duplicate(candidate, works):
         if len(ranked) == 1 or metadata_score(candidate, ranked[0]) > metadata_score(candidate, ranked[1]):
             return ranked[0], "exact_title_author", alternatives
         return None, "ambiguous_exact_duplicate", alternatives
+
+    # Parsers sometimes leave a location or year at the end of a title. Treat
+    # this as an exact duplicate only when removing structured trailing metadata
+    # makes the titles equal and the author/year/venue checks above already agree.
+    candidate_core_title = title_without_trailing_metadata(candidate)
+    core_exact = [
+        work for work in compatible
+        if candidate_core_title
+        and candidate_core_title == title_without_trailing_metadata(work)
+    ]
+    if core_exact:
+        ranked = sorted(
+            core_exact,
+            key=lambda work: (
+                metadata_score(candidate, work),
+                set(candidate.get("authors") or []) == set(work.get("authors") or []),
+                candidate.get("year") is not None and candidate.get("year") == work.get("year"),
+            ),
+            reverse=True,
+        )
+        alternatives = [work["id"] for work in ranked]
+        if len(ranked) == 1 or metadata_score(candidate, ranked[0]) > metadata_score(candidate, ranked[1]):
+            return ranked[0], "exact_title_after_trailing_metadata", alternatives
+        return None, "ambiguous_metadata_trimmed_duplicate", alternatives
 
     if len(candidate_title.split()) < 3:
         return None, None, []

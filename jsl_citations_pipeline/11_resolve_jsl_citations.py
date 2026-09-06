@@ -15,6 +15,7 @@ INPUT_PATH = DATA_DIR / "2_jsl_citations_cleaned.json"
 OUTPUT_PATH = DATA_DIR / "12_jsl_citations_resolved.json"
 RESOLVED_LOG_PATH = LOG_DIR / "12_resolved_references.json"
 UNRESOLVED_LOG_PATH = LOG_DIR / "12_unresolved_references.json"
+SUMMARY_LOG_PATH = LOG_DIR / "12_resolution_summary.json"
 
 
 def load_matcher():
@@ -34,6 +35,18 @@ def main():
     matcher.OUTPUT_FILE = str(OUTPUT_PATH)
     matcher.RESOLVED_REFERENCES_FILE = str(RESOLVED_LOG_PATH)
     matcher.UNRESOLVED_REFERENCES_FILE = str(UNRESOLVED_LOG_PATH)
+    matcher.EXISTING_MATCHES_FILE = str(LOG_DIR / "9_existing_works_matched.json")
+    matcher.READY_AUDIT_FILE = str(LOG_DIR / "9_works_ready_to_add_audit.json")
+    matcher.MERGE_LOG_FILE = str(LOG_DIR / "10_merge_works_database_log.json")
+    matcher.PARSED_DUPLICATES_FILE = str(LOG_DIR / "9_parsed_duplicates.json")
+    matcher.CLASSIFIED_REFERENCES_FILE = str(LOG_DIR / "8b_classified.json")
+    matcher.REFERENCE_STATUS_FILES = {
+        "internal": str(LOG_DIR / "6b_further_internal_refs.json"),
+        "contextual": str(LOG_DIR / "6b_journal_refs.json"),
+        "unresolved": str(LOG_DIR / "8b_unresolved_after_parse.json"),
+        "contextual_or_fragment": str(LOG_DIR / "9_invalid_or_contextual_references.json"),
+    }
+    matcher.RESOLUTION_SUMMARY_FILE = str(SUMMARY_LOG_PATH)
     matcher.main()
 
 

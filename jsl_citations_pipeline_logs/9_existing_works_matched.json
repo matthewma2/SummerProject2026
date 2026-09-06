@@ -112,6 +112,14 @@
     "parsed_year": 1942
   },
   {
+    "matched_work_id": "Quine1941a",
+    "match_method": "structured_fuzzy_title",
+    "pipeline_branch": "all_caps",
+    "raw_reference": "W. V. QUINE. Element and number, ibid., vol. 6 (1941), pp. 135-149.",
+    "parsed_title": "Element and number, ibid",
+    "parsed_year": 1941
+  },
+  {
     "matched_work_id": "Wang1948a",
     "match_method": "structured_fuzzy_title",
     "pipeline_branch": "all_caps",

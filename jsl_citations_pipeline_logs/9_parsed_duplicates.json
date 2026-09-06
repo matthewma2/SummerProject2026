@@ -936,6 +936,14 @@
     "removed_raw_reference": "W. V. QUINE, New foundations for mathematical logic, American mathema- tical monthly, vol. 44 (1937), pp. 70-80."
   },
   {
+    "title": "From a logical point of view (Cambridge, Mass., 1953)",
+    "year": 1953,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "W. V. QUINE, From a logical point of view, Cambridge, Mass., 1953.",
+    "removed_raw_reference": "QUINE, From a logical point of view (Cambridge, Mass., 1953)."
+  },
+  {
     "title": "Fragments of many-valued statement calculi",
     "year": 1958,
     "kept_branch": "all_caps",
@@ -2208,6 +2216,14 @@
     "removed_raw_reference": "A. N. PRIOR, Formal logic (2nd edition), Oxford, 1962."
   },
   {
+    "title": "Mathematical logic",
+    "year": 1940,
+    "kept_branch": "all_caps",
+    "removed_branch": "with_authors",
+    "kept_raw_reference": "W. V. QUINE. Mathematical logic. New York, 1940.",
+    "removed_raw_reference": "Willard Van Orman Quine. Mathematical logic. W. W. Norton & Company, New York 1940."
+  },
+  {
     "title": "Fragments of many-valued statement calculi",
     "year": 1958,
     "kept_branch": "all_caps",
@@ -2414,6 +2430,14 @@
     "removed_branch": "all_caps",
     "kept_raw_reference": "R. Carnap, Introduction to semantics, Harvard University Press, Cambridge, Mass., 1942, especially pp. 101-105.",
     "removed_raw_reference": "R. CARNAP, Introduction to semantics (Harvard University Press, Cam- bridge: 1942), pp. 167 ff."
+  },
+  {
+    "title": "Mathematical logic (W",
+    "year": 1940,
+    "kept_branch": "with_authors",
+    "removed_branch": "with_authors",
+    "kept_raw_reference": "W. V. Quine, Mathematical logic, W. W. Norton & Co., New York, 1940, pp. 79-80.",
+    "removed_raw_reference": "Quine, Mathematical logic (W. W. Norton & Co., 1940), pp. 128-132, 155-160, 162-166."
   },
   {
     "title": "Independence results in set theory by Cohen's method",

@@ -1,0 +1,166 @@
+{
+  "total_references": 5716,
+  "resolved": 3962,
+  "unresolved_or_classified_without_id": 1754,
+  "internal_structural_shortcuts": 0,
+  "resolution_methods": {
+    "heuristic_matcher": 1635,
+    "ibid_or_loc_cit_context": 45,
+    "immediate_volume_continuation": 39,
+    "stage8_parser_match+stage9_existing_work": 128,
+    "stage9_candidate_work": 1551,
+    "stage9_candidate_work+stage9_parsed_duplicate": 99,
+    "stage9_existing_work": 143,
+    "stage9_parsed_duplicate": 322
+  },
+  "statuses": {
+    "contextual": 371,
+    "fragment": 42,
+    "internal": 229,
+    "resolved": 3962,
+    "unresolved": 1112
+  },
+  "provenance_keys_loaded": 1969,
+  "provenance_conflicts_ignored": [
+    {
+      "normalized_reference": "a tarski a mostowski and r m robinson undecidable theories north holland amsterdam 1953",
+      "work_ids": [
+        "Tarski1953a",
+        "Tarski1953c"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "a heyting intuitionism an introduction amsterdam north holland 1956",
+      "work_ids": [
+        "Heyting1956a",
+        "Heyting1956b"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "l henkin j d monk and a tarski cylindric algebras part i north holland amsterdam to appear",
+      "work_ids": [
+        "HenkinUndateda",
+        "HenkinUndatedb"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "moh shaw kwei the deduction theorems and two new logical systems methodos vol 2 1950 pp 56 75",
+      "work_ids": [
+        "Kwei1950a",
+        "Kwei1950b"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "a tarski a mostowski and r m robinson undecidable theories amsterdam north holland pub co 1953",
+      "work_ids": [
+        "Tarski1953a",
+        "Tarski1953b"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "a tarski logic semantics and metamathematics oxford 1956",
+      "work_ids": [
+        "Tarski1956b",
+        "Tarski1956f"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "a tarski a mostowski and r m robinson undecidable theories amsterdam 1953",
+      "work_ids": [
+        "Tarski1953a",
+        "Tarski1953c"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "jan lukasiewicz a system of modal logic the journal of computing systems vol 1 no 3 1953 pp 111 149",
+      "work_ids": [
+        "Lukasiewicz1953a",
+        "Lukasiewicz1953b"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "a n prior logicians at play or syll simp and hilbert australasian journal of philosophy vol 34 1956 pp 182 192",
+      "work_ids": [
+        "Prior1956b",
+        "Prior1956d"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "a n prior diodorus and modal logic a correction philosophical quarterly vol 8 1958 pp 226 230",
+      "work_ids": [
+        "Prior1958c",
+        "Prior1958d"
+      ],
+      "methods": [
+        "stage9_candidate_work"
+      ]
+    },
+    {
+      "normalized_reference": "a tarski a mostowski and r m robinson undecidable theories north holland publishing company amsterdam 1953",
+      "work_ids": [
+        "Tarski1953a",
+        "Tarski1953c"
+      ],
+      "methods": [
+        "stage9_parsed_duplicate"
+      ]
+    },
+    {
+      "normalized_reference": "a heyting intuitionism an introduction north holland amsterdam 1956",
+      "work_ids": [
+        "Heyting1956a",
+        "Heyting1956b"
+      ],
+      "methods": [
+        "stage9_parsed_duplicate"
+      ]
+    },
+    {
+      "normalized_reference": "a heyting intuitionism an introduction amsterdam north holland pub co 1956 viii 133 pp",
+      "work_ids": [
+        "Heyting1956a",
+        "Heyting1956b"
+      ],
+      "methods": [
+        "stage9_parsed_duplicate"
+      ]
+    },
+    {
+      "normalized_reference": "a tarski a mostowski and r m robinson undecidable theories amsterdam north holland 1953",
+      "work_ids": [
+        "Tarski1953a",
+        "Tarski1953b"
+      ],
+      "methods": [
+        "stage9_parsed_duplicate"
+      ]
+    }
+  ]
+}

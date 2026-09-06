@@ -4,6 +4,8 @@ This document is a map for someone taking over the project. It explains what the
 
 For proposed renames and cleanup work, see `PROJECT_CLEANUP_PLAN.md`.
 
+For current resolution totals and the most-mentioned work IDs, see `JSL_CITATION_STATISTICS.md`. Refresh that report after changes to stages 10 or 11 that alter merged IDs or citation assignments.
+
 ## Project Goal
 
 The project is building structured bibliographic and citation data for early logic-related literature. The main targets are:
@@ -108,6 +110,7 @@ python3 jsl_citations_pipeline/11_resolve_jsl_citations.py
 `6a_parse_all_caps.py` and `6b_split_by_length.py`
 
 - Parses the all-caps branch and splits the other branch into further-internal, deferred journal, and long-reference groups.
+- Stage 6a writes rejected all-caps references to `jsl_citations_pipeline_logs/6a_ignored_all_caps_author_references.txt`.
 
 `7_split_by_author.py`
 
@@ -120,14 +123,23 @@ python3 jsl_citations_pipeline/11_resolve_jsl_citations.py
 `9_prepare_work_candidates.py`
 
 - Resolves author IDs, rematches existing works, validates parsed records, and writes `10a_works_ready_to_add.json` and `10b_works_needing_review.json`.
+- Retains particles while comparing initials, so names such as `W. V. Quine` can match `Willard Van Orman Quine` without weakening ordered-initial matching.
+- Writes the prioritized unresolved-author authority report `jsl_citations_pipeline_logs/9_unresolved_authors.json`; missing people are not created automatically.
+- Writes contextual and fragmentary exclusions to `jsl_citations_pipeline_logs/9_invalid_or_contextual_references.json`.
 
 `10_merge_works_database.py`
 
 - Safely merges reviewed candidates with `databases/works.json` into `11_merged_database.json`, adjusting colliding IDs and excluding probable duplicate works.
+- Also recognizes exact titles after removing only trailing location, publisher, or year tokens already present as structured metadata.
 
 `11_resolve_jsl_citations.py`
 
 - Resolves the nested cleaned citations against the merged database and writes `12_jsl_citations_resolved.json`.
+- Preserves conflict-free IDs established by parser, existing-work, candidate, and parsed-duplicate audit records instead of rematching every string from scratch.
+- Treats `this JOURNAL` as *The Journal of Symbolic Logic* during journal/volume matching.
+- Resolves `ibid.`/`loc. cit.` from earlier references in the same source and conservatively inherits immediately adjacent strings beginning with `vol.`, `volume`, or `Bd.`.
+- Adds `status` and `resolution_method` to every reference. Unresolved non-work strings can be labeled `internal`, `contextual`, or `fragment` without receiving a work ID.
+- Keeps the unresolved-reference log as a JSON list of strings for compatibility and writes method/status totals plus ignored provenance conflicts to `jsl_citations_pipeline_logs/12_resolution_summary.json`.
 
 Shared parsing and matching implementations used by these stages live in `jsl_citations_pipeline/_helpers/`.
 
@@ -137,9 +149,12 @@ These counts are from the current files:
 
 - `1_jsl_citations_original.json`: 682 source entries and 7,502 references.
 - `2_jsl_citations_cleaned.json`: 682 source entries and 5,716 references.
-- `10a_works_ready_to_add.json`: 1,445 candidate works before final merge-time duplicate checks.
-- `11_merged_database.json`: 4,657 works with unique IDs.
-- `12_jsl_citations_resolved.json`: 3,276 resolved and 2,440 unresolved reference occurrences.
+- `10a_works_ready_to_add.json`: 1,502 candidate works before final merge-time duplicate checks.
+- `10b_works_needing_review.json`: 1,046 records needing review.
+- `11_merged_database.json`: 4,676 works with unique IDs.
+- `12_jsl_citations_resolved.json`: 3,962 resolved and 1,754 references without IDs, for a 69.3% raw-string resolution rate.
+- Of the 1,754 references without IDs, 642 are explicitly classified as internal, contextual, or fragmentary; 1,112 remain genuinely unresolved.
+- Stage 11 ignored 14 conflicting provenance keys rather than selecting an ID arbitrarily.
 
 ## Active Utility Scripts
 

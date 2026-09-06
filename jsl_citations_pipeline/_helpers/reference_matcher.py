@@ -6,6 +6,7 @@
 import json
 import re
 import unicodedata
+from collections import Counter, defaultdict
 from difflib import SequenceMatcher
 
 # --- CONFIGURATION ---
@@ -14,6 +15,15 @@ JSL_CITATIONS_FILE = "jsl_citations_data/2_jsl_citations_cleaned.json"
 OUTPUT_FILE = "jsl_citations_data/12_jsl_citations_resolved.json"
 RESOLVED_REFERENCES_FILE = "jsl_citations_pipeline_logs/12_resolved_references.json"
 UNRESOLVED_REFERENCES_FILE = "jsl_citations_pipeline_logs/12_unresolved_references.json"
+
+# Optional stage-11 inputs. They remain unset for earlier uses of this helper.
+EXISTING_MATCHES_FILE = None
+READY_AUDIT_FILE = None
+MERGE_LOG_FILE = None
+PARSED_DUPLICATES_FILE = None
+CLASSIFIED_REFERENCES_FILE = None
+REFERENCE_STATUS_FILES = {}
+RESOLUTION_SUMMARY_FILE = None
 
 # Multilingual stop words list to remove noise from titles/citations
 STOP_WORDS = {
@@ -112,6 +122,12 @@ def normalize_text(s):
     return re.sub(r'[^a-z0-9\s]+', '', strip_diacritics(str(s)).lower()).strip()
 
 
+def normalize_reference_key(s):
+    """Conservatively normalize a full reference for provenance lookup."""
+    value = strip_diacritics(rejoin_hyphenated_linebreaks(s)).lower()
+    return re.sub(r'[^a-z0-9]+', ' ', value).strip()
+
+
 def extract_vol_number(s):
     """Extract an integer volume number from a string (e.g. 'Vol. 1' or 'vol. 38')."""
     if not s:
@@ -128,11 +144,17 @@ def extract_journal_volume(reference_string):
     ref = reference_string.replace('\n', ' ').strip()
     match = re.search(r'(?P<journal>[^,]+?),\s*vol(?:ume)?\.?\s*(?P<volume>\d+)', ref, re.IGNORECASE)
     if match:
-        return normalize_text(match.group('journal')), match.group('volume').strip()
+        journal = normalize_text(match.group('journal'))
+        if journal == "this journal":
+            journal = normalize_text("The Journal of Symbolic Logic")
+        return journal, match.group('volume').strip()
 
     match = re.search(r'(?P<journal>[^,]+?),\s*no\.?\s*(?P<volume>\d+)', ref, re.IGNORECASE)
     if match:
-        return normalize_text(match.group('journal')), match.group('volume').strip()
+        journal = normalize_text(match.group('journal'))
+        if journal == "this journal":
+            journal = normalize_text("The Journal of Symbolic Logic")
+        return journal, match.group('volume').strip()
 
     return None, None
 
@@ -140,6 +162,15 @@ def extract_journal_volume(reference_string):
 def is_loc_cit(reference_string):
     """Return True if this reference is a 'loc. cit.' or 'ibid.' back-reference."""
     return bool(re.search(r'\bloc\.?\s*cit\.?\b|\bibid\.?\b', reference_string, re.IGNORECASE))
+
+
+def is_metadata_continuation(reference_string):
+    """Recognize only strong title-less volume continuations."""
+    return bool(re.match(
+        r'^\s*(?:vol(?:ume)?\.?|bd\.?)\s*\d+\b',
+        str(reference_string),
+        re.IGNORECASE,
+    ))
 
 
 def extract_year_and_authors(reference_string):
@@ -518,6 +549,101 @@ def resolve_reference(raw_ref, works_index, author_index):
 
 
 # ---------------------------------------------------------------------------
+# Stage-11 provenance and status helpers
+# ---------------------------------------------------------------------------
+
+def _load_optional_json(path, default):
+    if not path:
+        return default
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return default
+
+
+def build_provenance_index(valid_work_ids):
+    """Build an unambiguous normalized-reference-to-ID index from prior stages."""
+    ids_by_key = defaultdict(set)
+    methods_by_key = defaultdict(set)
+
+    def add(raw_reference, work_id, method):
+        if not raw_reference or work_id not in valid_work_ids:
+            return
+        key = normalize_reference_key(raw_reference)
+        if key:
+            ids_by_key[key].add(work_id)
+            methods_by_key[key].add(method)
+
+    merge_log = _load_optional_json(MERGE_LOG_FILE, {})
+    candidate_redirects = {work_id: work_id for work_id in valid_work_ids}
+    for detail in merge_log.get('duplicate_candidate_details', []):
+        candidate_redirects[detail.get('candidate_id')] = detail.get('matched_work_id')
+
+    for item in _load_optional_json(EXISTING_MATCHES_FILE, []):
+        add(item.get('raw_reference'), item.get('matched_work_id'), 'stage9_existing_work')
+
+    for item in _load_optional_json(READY_AUDIT_FILE, []):
+        record = item.get('record') or {}
+        final_id = candidate_redirects.get(record.get('id'))
+        add(item.get('raw_reference'), final_id, 'stage9_candidate_work')
+
+    for item in _load_optional_json(CLASSIFIED_REFERENCES_FILE, []):
+        add(item.get('raw_reference'), item.get('matched_work_id'), 'stage8_parser_match')
+
+    # A parsed duplicate inherits only the already-established identity of the
+    # record retained by stage 9. Iterate so duplicate chains are also handled.
+    duplicate_links = _load_optional_json(PARSED_DUPLICATES_FILE, [])
+    changed = True
+    while changed:
+        changed = False
+        for item in duplicate_links:
+            kept_key = normalize_reference_key(item.get('kept_raw_reference') or '')
+            removed_key = normalize_reference_key(item.get('removed_raw_reference') or '')
+            if not kept_key or not removed_key or not ids_by_key.get(kept_key):
+                continue
+            old_ids = set(ids_by_key.get(removed_key, set()))
+            ids_by_key[removed_key].update(ids_by_key[kept_key])
+            methods_by_key[removed_key].add('stage9_parsed_duplicate')
+            if ids_by_key[removed_key] != old_ids:
+                changed = True
+
+    index = {}
+    conflicts = []
+    for key, work_ids in ids_by_key.items():
+        if len(work_ids) == 1:
+            index[key] = (
+                next(iter(work_ids)),
+                '+'.join(sorted(methods_by_key[key])),
+            )
+        elif len(work_ids) > 1:
+            conflicts.append({
+                'normalized_reference': key,
+                'work_ids': sorted(work_ids),
+                'methods': sorted(methods_by_key[key]),
+            })
+    return index, conflicts
+
+
+def build_reference_status_index():
+    """Load conservative non-work classifications without changing log formats."""
+    rank = {'unresolved': 0, 'contextual': 1, 'fragment': 2, 'internal': 3}
+    result = {}
+    for status, path in REFERENCE_STATUS_FILES.items():
+        for item in _load_optional_json(path, []):
+            raw_reference = item if isinstance(item, str) else item.get('raw_reference')
+            if not raw_reference:
+                continue
+            item_status = status
+            if isinstance(item, dict) and item.get('category') in rank:
+                item_status = item['category']
+            key = normalize_reference_key(raw_reference)
+            if rank.get(item_status, 0) > rank.get(result.get(key, 'unresolved'), 0):
+                result[key] = item_status
+    return result
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -528,18 +654,62 @@ def main():
 
     works_index = build_year_index(works_data)
     author_index = build_author_index(works_data)
+    valid_work_ids = {work.get('id') for work in works_data}
+    provenance_index, provenance_conflicts = build_provenance_index(valid_work_ids)
+    status_index = build_reference_status_index()
     print(f"[✓] Successfully indexed {len(works_data)} works.")
+    if provenance_index:
+        print(f"[✓] Loaded {len(provenance_index)} unambiguous prior-stage matches.")
+    if provenance_conflicts:
+        print(f"[!] Ignoring {len(provenance_conflicts)} conflicting provenance keys.")
 
     print(f"[*] Loading raw citations from {JSL_CITATIONS_FILE}...")
     with open(JSL_CITATIONS_FILE, 'r', encoding='utf-8') as f:
         jsl_data = json.load(f)
 
+    # Resolve each distinct ordinary string once. Provenance is authoritative
+    # only when all earlier signals agree on one ID; otherwise use the matcher.
+    base_resolutions = {}
+    all_raw_references = {
+        ref_obj.get('reference', '')
+        for entry in jsl_data
+        for ref_obj in entry.get('references', [])
+        if isinstance(ref_obj, dict) and ref_obj.get('reference')
+    }
+    for raw_ref in all_raw_references:
+        if is_loc_cit(raw_ref):
+            continue
+        prior = provenance_index.get(normalize_reference_key(raw_ref))
+        if prior:
+            base_resolutions[raw_ref] = prior
+            continue
+        resolved_id, ok = resolve_reference(raw_ref, works_index, author_index)
+        base_resolutions[raw_ref] = (
+            (resolved_id, 'heuristic_matcher') if ok else (None, None)
+        )
+
+    # If formatting variants of the same normalized reference resolve to one
+    # and only one ID, reuse that ID for the unresolved variants.
+    variant_ids = defaultdict(set)
+    for raw_ref, (resolved_id, _method) in base_resolutions.items():
+        if resolved_id:
+            variant_ids[normalize_reference_key(raw_ref)].add(resolved_id)
+    for raw_ref, (resolved_id, _method) in list(base_resolutions.items()):
+        if resolved_id:
+            continue
+        ids = variant_ids.get(normalize_reference_key(raw_ref), set())
+        if len(ids) == 1:
+            base_resolutions[raw_ref] = (next(iter(ids)), 'normalized_resolved_variant')
+
     resolved_count = 0
     skipped_count = 0
     unresolved_count = 0
     loc_cit_count = 0
+    continuation_count = 0
     resolved_reference_strings = []
     unresolved_reference_strings = []
+    method_counts = Counter()
+    status_counts = Counter()
 
     print("[*] Resolving reference string matches...")
     for entry in jsl_data:
@@ -548,6 +718,7 @@ def main():
 
         # Per-source list of (author_hints, resolved_id) for loc. cit. back-resolution
         source_resolved_history = []
+        previous_reference_id = None
 
         for ref_obj in refs:
             raw_ref = ref_obj.get("reference", "")
@@ -555,7 +726,11 @@ def main():
             # Skip trivially short internal shorthands like "[3]"
             if re.match(r'^\[\d+\]\s*(.*)$', raw_ref.strip()) and len(raw_ref.strip()) < 15:
                 ref_obj["id"] = None
+                ref_obj["status"] = "internal"
+                ref_obj["resolution_method"] = None
                 skipped_count += 1
+                status_counts['internal'] += 1
+                previous_reference_id = None
                 continue
 
             # --- Handle loc. cit. / ibid. back-references ---
@@ -577,34 +752,66 @@ def main():
 
                 ref_obj["id"] = matched_id
                 if matched_id:
+                    ref_obj["status"] = "resolved"
+                    ref_obj["resolution_method"] = "ibid_or_loc_cit_context"
                     resolved_reference_strings.append({
                         "reference": raw_ref,
                         "id": matched_id,
+                        "resolution_method": "ibid_or_loc_cit_context",
                     })
                     loc_cit_count += 1
                     resolved_count += 1
+                    method_counts['ibid_or_loc_cit_context'] += 1
+                    status_counts['resolved'] += 1
                 else:
+                    ref_obj["status"] = status_index.get(
+                        normalize_reference_key(raw_ref), "contextual"
+                    )
+                    ref_obj["resolution_method"] = None
                     unresolved_reference_strings.append(raw_ref)
                     unresolved_count += 1
+                    status_counts[ref_obj["status"]] += 1
+                previous_reference_id = matched_id
                 # Don't push loc. cit. entries onto history (they're not primary citations)
                 continue
 
             # --- Normal resolution ---
-            resolved_id, ok = resolve_reference(raw_ref, works_index, author_index)
+            resolved_id, resolution_method = base_resolutions.get(raw_ref, (None, None))
+
+            # Strong metadata-only strings can inherit only the immediately
+            # preceding resolved item in the same source bibliography.
+            if not resolved_id and previous_reference_id and is_metadata_continuation(raw_ref):
+                resolved_id = previous_reference_id
+                resolution_method = "immediate_volume_continuation"
+                continuation_count += 1
+
             ref_obj["id"] = resolved_id
+            if resolved_id:
+                ref_obj["status"] = "resolved"
+                ref_obj["resolution_method"] = resolution_method
+            else:
+                ref_obj["status"] = status_index.get(
+                    normalize_reference_key(raw_ref), "unresolved"
+                )
+                ref_obj["resolution_method"] = None
 
             _, author_hints = extract_year_and_authors(raw_ref)
             source_resolved_history.append((author_hints, resolved_id))
 
-            if ok:
+            if resolved_id:
                 resolved_reference_strings.append({
                     "reference": raw_ref,
                     "id": resolved_id,
+                    "resolution_method": resolution_method,
                 })
                 resolved_count += 1
+                method_counts[resolution_method] += 1
+                status_counts['resolved'] += 1
             else:
                 unresolved_reference_strings.append(raw_ref)
                 unresolved_count += 1
+                status_counts[ref_obj["status"]] += 1
+            previous_reference_id = resolved_id
 
     print(f"[*] Saving resolved structures to {OUTPUT_FILE}...")
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
@@ -618,9 +825,25 @@ def main():
     with open(UNRESOLVED_REFERENCES_FILE, 'w', encoding='utf-8') as f:
         json.dump(unresolved_reference_strings, f, indent=4, ensure_ascii=False)
 
+    if RESOLUTION_SUMMARY_FILE:
+        summary = {
+            "total_references": resolved_count + unresolved_count + skipped_count,
+            "resolved": resolved_count,
+            "unresolved_or_classified_without_id": unresolved_count,
+            "internal_structural_shortcuts": skipped_count,
+            "resolution_methods": dict(sorted(method_counts.items())),
+            "statuses": dict(sorted(status_counts.items())),
+            "provenance_keys_loaded": len(provenance_index),
+            "provenance_conflicts_ignored": provenance_conflicts,
+        }
+        with open(RESOLUTION_SUMMARY_FILE, 'w', encoding='utf-8') as f:
+            json.dump(summary, f, indent=2, ensure_ascii=False)
+            f.write('\n')
+
     print("\n[✓] Execution Completed Successfully!")
     print(f"    - Matches Resolved (Unique ID Assigned): {resolved_count}")
     print(f"      of which loc. cit. / ibid. back-refs:  {loc_cit_count}")
+    print(f"      of which volume continuations:        {continuation_count}")
     print(f"    - Internal Structural Shortcuts Skipped: {skipped_count}")
     print(f"    - Remaining Unresolved Items left as null: {unresolved_count}")
     print(f"    - Resolved reference strings saved: {len(resolved_reference_strings)}")
