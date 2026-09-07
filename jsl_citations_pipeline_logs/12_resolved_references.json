@@ -50,6 +50,36 @@
         "resolution_method": "stage9_parsed_duplicate"
     },
     {
+        "reference": "P. R. HALMOS, The basic concepts of algebraic logic, American Mathematical Monthly, Vol. 53 (1956), pp. 363-387.",
+        "id": "Halmos1956a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. R. HALMOS, Algebraic Logic, I. Compositio Mathematica 12 (1955), pp. 217-249.",
+        "id": "Halmos1955a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. R. HALMOS, Algebraic Logic II. Fundamenta Mathematicae 43 (1957), pp. 255-325.",
+        "id": "Halmos1957a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. R. HALMOS, Algebraic Logic, III. Transactions of the American Mathe- matical Society 83 (1956) pp. 430-470.",
+        "id": "Halmos1956b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. R. HALMOS, Algebraic Logic, IV. Transactions of the American Mathe- matical Society 86 (1957) pp. 1-27.",
+        "id": "Halmos1957b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. R. HALMOS, Algebraic Logic, New York (Chelsea) (1962), 271 pp.",
+        "id": "Halmos1962a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "L. HENKIN, La structure algébrique des théories mathématiques, Paris (Gauthier-Villars) (1956), 52 pp.",
         "id": "Henkin1956b",
         "resolution_method": "stage9_candidate_work"
@@ -60,9 +90,24 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "R. SIKORSKI, Independent fields and cartesian products, Studia Mathematica 11 (1950) pp. 171-184.",
+        "id": "Sikorski1950a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. SIKORSKI, Cartesian products of Boolean algebras. Fundamenta Mathe- maticae 37 (1950) pp. 25-54.",
+        "id": "Sikorski1950b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "P. K. HOOPER, The undecidability of the Turing machine immortality problem, this JOURNAL, vol. 31 (1966), pp. 219-234.",
         "id": "Hooper1966a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "M. L. MINSKY, Computation; finite and infinite machines, Prentice-Hall, Englewood Cliffs, N.J., 1967.",
+        "id": "Minsky1967a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "Über Möglichkeiten im Relativkalkul, Mathematische Annalen, Bd. 76 (1915), S. 447-470 (siehe §4).",
@@ -88,6 +133,11 @@
         "reference": "RONALD HARROP, Some structure results for propositional calculi, this JOURNAL, vol. 30 (1965), pp. 271-292.",
         "id": "Harrop1965a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "STIG KANGER, A note on partial postulate sets for propositional logic, Theoria (Lund), vol. 21 (1955), pp. 99-104.",
+        "id": "Kanger1955a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "E. T. Bell. The queen of the sciences. Williams & Wilkins Company, Baltimore 1931.",
@@ -420,6 +470,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "W. HANF, Incompactness in languages with infinitely long expressions, Fundamenta mathe- maticae, vol. 53 (1964), pp. 309-324.",
+        "id": "Hanf1964a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "C. KARP, Languages with expressions of infinite length, North-Holland, Amsterdam, 1964.",
         "id": "Karp1964a",
         "resolution_method": "stage9_candidate_work"
@@ -433,6 +488,11 @@
         "reference": "S. KRIPKE, Transfinite recursions on admissible ordinals, abstracts, this JOURNAL, Vol. 29 (1964), pp. 161-162.",
         "id": "Kripke1964a",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "This JOURNAL, vol. 13 (1948), pp. 95-106.",
+        "id": "Fitch1948a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "Cf. K. Gödel, Uber formal unentscheidbare Sdtze der Principia Mathematica und ver- wandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
@@ -518,6 +578,11 @@
         "reference": "W. V. QUINE, Quantification and the empty domain, this JOURNAL, vol. 19 (1954), pp. 177- 179.",
         "id": "Quine1954b",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "This JOURNAL, vol. 13 (1948) pp. 95-106.",
+        "id": "Fitch1948a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "Grundlagen der kombinatorischen Logik, Ameri- can journal of mathematics, vol. 52 (1930), pp. 509-536, 789-834.",
@@ -685,6 +750,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "W. HANF, Incompactness in languages with infinitely long expressions, Fundamenta Mathematicae, vol. 53 (1964), pp. 309-324.",
+        "id": "Hanf1964a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "D. HILBERT, Grundlagen der Geometrie, 7th edition, Springer, Leipzig, Berlin, 1930.",
         "id": "Hilbert1930b",
         "resolution_method": "stage9_candidate_work"
@@ -756,7 +826,7 @@
     },
     {
         "reference": "G. KREISEL, Set theoretic problems suggested by the notion of potential totality, Proceed- ings of the symposium on infinitistic methods in the foundations of mathematics, Warsaw, Sept. 2-8, 1959 (1961), PP. 103-140.",
-        "id": "Kreisel1959i",
+        "id": "Kreisel1959l",
         "resolution_method": "heuristic_matcher"
     },
     {
@@ -840,9 +910,14 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "R. J. PARIKH, Some generalizations of the notion of well ordering, Zeitschrift für mathe- matische Logik und Grundlagen der Mathematik, vol. 12 (1966), pp. 333-340",
+        "id": "Parikh1966a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "A. ROBINSON, Introduction to model theory and to the metamathematics of algebra, North- Holland, Amsterdam, 1963.",
         "id": "Robinson1963a",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "K. SCHÜTTE, Beweistheorie, 1960, Springer, Berlin",
@@ -865,6 +940,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "D. S. SCOTT, Logic with denumerably long formulas and finite strings of quantifiers, Theory of models, North-Hollancd, Amsterdam, 1965, pp. 329-341.",
+        "id": "Scott1965a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "J. C. SHEPHERDSON, Non-standard models for fragments of number theory, The theory of models, North-Holland, Amsterdam, 1965, pp. 342-358.",
         "id": "Shepherdson1965a",
         "resolution_method": "stage9_candidate_work"
@@ -872,6 +952,11 @@
     {
         "reference": "J. R. SHOENFIELD, On a restricted w-rule, Bulletin de l'Académie Polonaise des Sciences, vol. 7 (1959), pp. 405-407.",
         "id": "Shoenfield1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. SOLOVAY, A non-constructible A'-set of integers, Transactions of the American Mathe- matical Society, vol. 127 (1967), pp. 50-75.",
+        "id": "Solovay1967a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -937,6 +1022,11 @@
     {
         "reference": "R. FRAISSÉ, Une notion de récursivité relative, pp. 323-328 in Infinitistic methods, Warsaw, (1961) Pergamon Press, New York",
         "id": "Fraisse1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. LACOMBE, Deux generalisations de la notion de ricursivite\", Comptes rendus hebdomadaires des séances de l'académie des sciences, vol. 258 (1964), pp. 3141-3143 and pp. 3410-3413.",
+        "id": "Lacombe1964a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -1075,6 +1165,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "K. I. APPEL AND T. G. MCLAUGHLIN, On properties of regressive sets, Transactions of the American Mathematical Society, vol. 115 (1965), pp. 83-93.",
+        "id": "Appel1965a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "J. C. E. DEKKER, Infinite series of isols, Proceedings of symposia in pure mathematics, Vol. 5, Amer. Math. Soc., Providence, R.I., 1962, pp. 77-96.",
         "id": "Dekker1962a",
         "resolution_method": "stage9_candidate_work"
@@ -1100,6 +1195,21 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "T. G. McLaughlin, Splitting and decomposition by regressive sets, Michigan mathematical journal, vol. 12 (1965), pp. 499-505.",
+        "id": "Mclaughlin1965a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "T. G. McLaughlin, Splitting and decomposition by regressive sets. II, Canadian journal of mathematics, vol. 19 (1967), pp. 291-311.",
+        "id": "Mclaughlin1967a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "T. G. McLaughlin, Some remarks on extensibility, confluence of paths, branching proper- ties, and index sets, for certain recursively enumerable graphs, Illinois journal of mathematics, vol. 11 (1967), pp. 257-279.",
+        "id": "Mclaughlin1967b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "J. MYHILL, Finitely representable functions, Constructivity in mathematics, edited by A. Heyting, North-Holland, Amsterdam, 1959, pp. 195-207.",
         "id": "Myhill1959a",
         "resolution_method": "stage9_candidate_work"
@@ -1117,6 +1227,11 @@
     {
         "reference": "C. SPECTOR, Inductively defined sets of natural numbers, Infinitistic methods, Proceedings of the Symposium of Foundations of Mathematics, Warsaw, 1961.",
         "id": "Spector1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "S. TENNENBAUM, Degrees of unsolvability and the rate of growth of functions, Abstract 587-128, Notices of the American Mathematical Society, vol. 8 (1961), p. 608.",
+        "id": "Tennenbaum1961a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -1213,6 +1328,16 @@
         "reference": "S. C. Kleene and J. B. Rosser, The inconsistency of certain formal logics, Annals of mathematics, vol. 36 (1935), pp. 630-636.",
         "id": "KleeneRosser1935b",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "This JOURNAL, vol. 12 (1947), pp. 74-84.",
+        "id": "Quine1947a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
+        "reference": "This JOURNAL, VO1. 8 (1943), pp. 1-23.",
+        "id": "Martin1943a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "W. V. Quine, Mathematical logic, New York, 1940, p. 121.",
@@ -1360,8 +1485,23 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "This JOURNAL, Vol. 22, no. 3 (1957), pp. 225-232.",
+        "id": "Cohen1957a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
         "reference": "H. ROGERS JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1968.",
         "id": "Rogers1968a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. J. COHEN, Independence of the axiom of choice, Stanford University, Stanford, Calif., 1963.",
+        "id": "Cohen1963a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. J. COHEN, Set theory and the continuum hypothesis, Benjamin, New York, 1966.",
+        "id": "Cohen1966a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -1435,6 +1575,21 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "R. F. WHEELER, Complete propositional connectives, Zeitschrift für Mathematische Logik und Grundlagen der Mathematik, vol. 7 (1961), pp. 185-198.",
+        "id": "Wheeler1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. F. WHEELER, An asymptotic formula for the number of complete propositional connec- tives, Zeitschrift für Mathematische Logik und Grundlagen der Mathematik, vol. 8 (1962), pp. 1-4.",
+        "id": "Wheeler1962a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. F. WHEELER, Complete connectives for the 3-valued propositional calculus, Proceedings of the London Mathematical Society, vol. 16 (1966), pp. 167-191.",
+        "id": "Wheeler1966a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "R. E. CLAY, The relation of weakly discrete to set and equinumerosity in mereology, Notre Dame journal of formal logic, vol. VI (1965), pp. 325-340.",
         "id": "Clay1965a",
         "resolution_method": "stage9_candidate_work"
@@ -1463,6 +1618,11 @@
         "reference": "vol. 34 (1931), pp. 142-170.",
         "id": "Lesniewski1927a",
         "resolution_method": "immediate_volume_continuation"
+    },
+    {
+        "reference": "G. FUHRKEN, Languages with added quantifier \"there exist at least אα\", The theory of models, edited by J. Addison, L. Henkin, and A. Tarski, North-Holland, Amsterdam, 1965, pp. 121-131.",
+        "id": "Fuhrken1965a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "L. HENKIN, The completeness of the first-order functional calculus, this JOURNAL, vol. 14 (1949), pp. 159-166.",
@@ -1721,7 +1881,7 @@
     },
     {
         "reference": "Alan Rose in his paper, Eight valued geometry in the Proceedings of the London Mathematical Society, vol. 3 (1952), pp. 30-44.",
-        "id": "Rose1952c",
+        "id": "Rose1952d",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -1785,6 +1945,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "T. FRAYNE, A. MOREL and D. SCOTT, Reduced direct products, Fundamenta mathematicae, vol. 51 (1962), pp. 195-248.",
+        "id": "Frayne1962a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "H. J. KEISLER, Ultraproducts of finite sets, this JOURNAL, vol. 32 (1967), pp. 47-57.",
         "id": "Keisler1967a",
         "resolution_method": "heuristic_matcher"
@@ -1827,6 +1992,11 @@
     {
         "reference": "K. J. J. HINTIKKA, Notes on quantification theory, Societas Scientiarum Fennica, Commentationes physico-mathematicae, vol. 17 no. 12 (1955).",
         "id": "Hintikka1955b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "STIG KANGER, Provability in logic, Stockholm studies in philosophy 1 (1957).",
+        "id": "Kanger1957a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -1910,6 +2080,16 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "J. W. ADDISON, Separation principles in the hierarchies of classical and effective set theory, Fundamenta Mathematicae, vol. 46 (1959), pp. 123-135.",
+        "id": "Addison1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "J. W. ADDISON, Some problems in hierarchy theory, Recursive Function Theory, Proceedings of Symposia in Pure Mathematics, American mathematical society, vol. 5, (1962), pp. 123-130.",
+        "id": "Addison1962a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "W. CRAIG, Linear reasoning. A new form of the Herbrand-Gentzen theorem, this JOURNAL, vol. 22 (1957), pp. 250-268.",
         "id": "Craig1957a",
         "resolution_method": "heuristic_matcher"
@@ -1922,6 +2102,11 @@
     {
         "reference": "A. TARSKI and R. VAUGHT, Arithmetical extensions of relational systems, Com- positio Mathematica, vol. 13 (1957), pp. 84-102.",
         "id": "Tarski1957a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "T. FRAYNE, A. MOREL and D. SCOTT, Reduced direct products, Fundamenta mathematicae, vol. 51 (1962), pp. 195-248.",
+        "id": "Frayne1962a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -1976,12 +2161,17 @@
     },
     {
         "reference": "G. KREISEL, D. LACOMBE and J. R. SCHOENFIELD, Partial recursive functionals and effective operations, Constructivity in mathematics, North-Holland, Amsterdam, 1959, pp. 290-297.",
-        "id": "Kreisel1959h",
-        "resolution_method": "heuristic_matcher"
+        "id": "Kreisel1959g",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "G. KREISEL, Set-theoretic problems suggested by the notions of potential totality, Infinitistic methods, Warsaw, Poland, 1959, pp. 103-140.",
-        "id": "Kreisel1959g",
+        "id": "Kreisel1959h",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "G. KREISEL, D. LACOMBE and J. R. SCHOENFIELD, Fonctionelles recursivement ddfinissables et fonctionelles rdcursives, Comptes rendus, vol. 245 (1959), pp. 399-342.",
+        "id": "Kreisel1959i",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -2045,6 +2235,21 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "J. ŁOŚ, On the extending of models. I. Fundamenta Mathematicae, vol. 42 (1955), pp. 38-54.",
+        "id": "Los1955a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. C. LYNDON, Properties preserved under homomorphisms. Pacific Journal of Mathematics, vol. 9 (1959), pp. 143-154.",
+        "id": "Lyndon1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. C. LYNDON, Properties preserved under algebraic constructions. Bulletin of the American Mathematical Society, vol. 65 (1959), pp. 287-299.",
+        "id": "Lyndon1959b",
+        "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
+    },
+    {
         "reference": "M. MORLEY and R. L. VAUGHT, Homogeneous universal models. Mathematica Scandinavica, vol. 11 (1962), pp. 37-57.",
         "id": "Morley1962a",
         "resolution_method": "stage9_parsed_duplicate"
@@ -2058,6 +2263,11 @@
         "reference": "A. CHURCH, Introduction to mathematical logic, Princeton University Press, Princeton, N.J., 1956.",
         "id": "Church1956a",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "S. B. KOCHEN, Ultraproducts in the theory of models, Annals of mathematics, vol. 74 (1962), pp. 221-261.",
+        "id": "Kochen1961a",
+        "resolution_method": "heuristic_matcher"
     },
     {
         "reference": "L. LÖWENHEIM, Uber Moglichkeiten im Relativkalkid, Mathematische Annalen, vol. 76 (1915), pp. 447-470.",
@@ -2143,6 +2353,11 @@
         "reference": "A. MOSTOWSKI, A formula with no recursively enumerable model, Fundamenta mathematicae, vol. 42 (1955), pp. 125-140.",
         "id": "Mostowski1955a",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "H. RASIOWA and R. SIKORSKI, On existential theorems in non-classical functional calculi, Fundamenta mathematicae, vol. 41 (1954), pp. 87-9 1.",
+        "id": "Rasiowa1954a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "J. B. ROSSER, Extensions of some theorems of Gddel and Church, this JOURNAL, vol. 1 (1936), pp. 87-91.",
@@ -2252,7 +2467,17 @@
     {
         "reference": "A. ROBINSON, On the metamathematics of algebra, Amsterdam (North Holland Pub. Co.), 1951, ix + 195 pp.",
         "id": "Robinson1951b",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "J. SŁUPECKI, Uwagi o sylogistyce Arystotelesa, Annales Universitatis Mariae Curie-Sklodowska (Lublin), vol. 1, no. 3, sectio F (1946), pp. 187-191.10",
+        "id": "Slupecki1946a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "J. SŁUPECKI, Z badań nad sylogistyka Arystotelesa, Travaux de la Société des Sciences et des Lettres de Wroclaw, s~r. B, no. 9, Wroclaw (1948).10",
+        "id": "Slupecki1948a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "I. THOMAS, CS(n): An extension of CS, Dominican studies, vol. 2 (1949), pp. 145-161.",
@@ -2311,7 +2536,7 @@
     },
     {
         "reference": "G. KREISEL, Interpretation of classical analysis by means of constructive functionals of higher type, in Constructivity in mathematics, Amsterdam (North- Holland) 1959, pp. 101-128.",
-        "id": "Kreisel1959h",
+        "id": "Kreisel1959j",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -2405,6 +2630,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "W. HANF, Some fundamental problems concerning languages with infinitely long expressions, Doctoral Dissertation, University of California, Berkeley, 1962.",
+        "id": "Hanf1962a",
+        "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
+    },
+    {
         "reference": "C. KARP, Completeness proof in predicate logic with infinitely long expressions, this JOURNAL, vol. 32 (1967).",
         "id": "Karp1967b",
         "resolution_method": "stage9_candidate_work"
@@ -2416,8 +2646,8 @@
     },
     {
         "reference": "A. ROBINSON, Complete theories, North-Holland Publishing Co., Amsterdam, 1956.",
-        "id": "Robinson1956d",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1956c",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. TARSKI, Remarks on predicate logic with infinitely long expressions, Colloquium Mathe- maticum, vol. 6 (1958), pp. 171-176.",
@@ -2530,6 +2760,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "T. FRAYNE, A. MOREL, and D. SCOTT, Reduced direct products, Fundamenta mathematica, vol. 51 (1962), pp. 195-228.",
+        "id": "Frayne1962b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "L. HENKIN, Some interconnections between modern algebra and mathematical logic, Transaction of the American Mathematical Society, vol. 14 (1953), pp. 410-427.",
         "id": "Henkin1953c",
         "resolution_method": "stage9_candidate_work"
@@ -2545,9 +2780,29 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "S. KOCHEN, Filtration systems, Notices of the American Mathematical Society, vol. 5 (1958), p. 605.",
+        "id": "Kochen1958a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "S. KOCHEN, Ultraproducts in the theory of models, Annals of mathematics (2), vol. 74 (1961), pp. 221-261.",
+        "id": "Kochen1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "J. ŁÓS, Quelques remarques, théorèmes et Problèmes sur les classes definissables, Mathematical interpretations of formal systems, Amsterdam (North Holland Publishing Co.), (1955) pp. 98-113.",
+        "id": "Los1955b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "M. MORLEY and R. VAUGHT, Homogeneous universal models, Mathematica Scandinavica, vol. 11 (1962), pp. 37-57.",
         "id": "Morley1962a",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "this Journal, vol. 2 (1937), pp. 65-77",
+        "id": "Bernays1937a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "W. Ackermann, Die Widerspruchsfreiheit der aligemeinen Mengenlehre, Math. Ann. vol. 114 (1937), pp. 305-315.",
@@ -2573,6 +2828,11 @@
         "reference": "K. Gödel, The consistency of the continuum hypothesis, Annals of mathematics studies, No. 3 (1940)",
         "id": "Godel1940a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "A. A. Markov in On the dependence of axiom B6 on the other axioms of the Bernays-Godel system, Izvéstiyá Akadémii Nauk. SSSR, ser. mat., vol. 12 (1948), pp. 569-570",
+        "id": "Markov1948a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "M. BLACK, Critical thinking, New York, 1946.",
@@ -2820,6 +3080,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "T. FRAYNE, A. MOREL and D. SCOTT, Reduced direct products, Fundamenta mathematicae, vol. 51 (1962), pp. 195-228.",
+        "id": "Frayne1962a",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
         "reference": "L. HENKIN and A. TARSKI, Cylindric algebras, Lattice theory, Proceedings of the Sympo- sium in Pure Mathematics, vol. 2, Amer. Math. Soc., 1961, 83-113.",
         "id": "Henkin1961b",
         "resolution_method": "stage9_candidate_work"
@@ -2881,7 +3146,7 @@
     },
     {
         "reference": "L. HAY, Isomorphism types of index sets of partial recursive functions, Proceedings of the American Mathematical Society, vol. 17 (1966), pp. 106-110.",
-        "id": "Hay1969a",
+        "id": "Mclaughlin1966a",
         "resolution_method": "heuristic_matcher"
     },
     {
@@ -2898,6 +3163,11 @@
         "reference": "R. SMULLYAN, Theory of formal systems, Annals of mathematics studies, No. 47, Prince- ton University Press, Princeton, N.J., 1961.",
         "id": "Smullyan1961a",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "S. KOCHEN, Ultraproducts in the theory of models, Annals of mathematics, vol. 74 (1961), pp. 221-261.",
+        "id": "Kochen1961a",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "G. KREISEL, The axiom of choice and the class of hyperarithmeticalfiunctions, Indagationes Mathematicae, vol. 24 (1962), pp. 307-391.",
@@ -3065,6 +3335,11 @@
         "resolution_method": "stage9_existing_work"
     },
     {
+        "reference": "This JOURNAL, vol. 6 (1941), pp. 135-149.",
+        "id": "Quine1941a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
         "reference": "PaulBernays, A system of axiomatic set theory-Part 1, this JOURNAL, vol. 2 (1937), pp. 65-77.",
         "id": "Bernays1937a",
         "resolution_method": "stage9_existing_work"
@@ -3078,6 +3353,11 @@
         "reference": "Thoralf Skolem, Einige Bemerkungen zu der Abhandlung von E. Zermelo, Fundamenta mathematicae, vol. 15 (1930), pp. 337-341.",
         "id": "Skolem1930b",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "P. J. COHEN, Set theory and the continuum hypothesis, W. A. Benjamin, Inc., New York, 1966.",
+        "id": "Cohen1966a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "S. C. KLEENE, Introduction to metamathematics, Van Nostrand, New York, 1952.",
@@ -3220,6 +3500,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "P. B. DOWNING, Subjunctive conditionals, time order and causation, Proceedings of the Aristotelian Society, n.s. vol. LIX (1959), p. 126.",
+        "id": "Downing1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "EVERETT J. NELSON, Intensional relations, Mind, n.s. vol. 39 (1930), p. 448.",
         "id": "Nelson1930b",
         "resolution_method": "heuristic_matcher"
@@ -3235,9 +3520,19 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "ARTHUR BURKS, The logic of causal propositions, Mind, n.s. vol. 60 (1951), pp. 363-383.",
+        "id": "Burks1951a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "IRVING COPI, Symbolic logic (1954).",
         "id": "Copi1954a",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "P. B. DOWNING, Subjunctive conditionals, time order and causation, Pro- ceedings of the Aristotelian Society, n.s. vol. LIX (1959).",
+        "id": "Downing1959a",
+        "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
     },
     {
         "reference": "C. I. LEWIS, Implication and the algebra of logic, Mind, vol. 21 (1912), pp. 522-531.",
@@ -3500,6 +3795,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "T. J. SMILEY, Entailment and deducibility, Proceedings of the Aristotelian Society, vol. 59 (1959), pp. 233-254.",
+        "id": "Smiley1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "P. F. STRAWSON, Introduction to logical theory, London, 1952.",
         "id": "Strawson1952b",
         "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
@@ -3600,6 +3900,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "G. F. ROSE, Propositional calculus and realizability, Transactions of the American Mathematical Society, vol. 75 (1953), pp. 1-19.",
+        "id": "Rose1953c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "S. C. KLEENE, Introduction to Metamathematics, Amsterdam (North Holland), Groningen (Noordhoff), New York and Toronto (Van Nostrand), 1952, x + 550 pp.",
         "id": "Kleene1952b",
         "resolution_method": "stage9_parsed_duplicate"
@@ -3612,7 +3917,7 @@
     {
         "reference": "C. Kuratowski, Sur la notion de l'ordre dans la thtorie des ensembles, Fundamenta mathematicae, vol. 2 (1921), pp. 161-171.",
         "id": "Kuratowski1921a",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "C. C. ELGOT and M. 0. RABIN, Decidability and undecidability of extensions of second (first) order theory of (generalized) successor, this JOURNAL, vol. 31 (1966), pp. 169-181.",
@@ -3735,6 +4040,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "M. L. MINSKY, Computation; finite and infinite machine, Prentice Hall, Englewood Cliffs, N.J., 1967.",
+        "id": "Minsky1967a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "F. B. Fitch, A simplification of basic logic, this JOURNAL, vol. 18 (1953), pp. 317-325",
         "id": "Fitch1953a",
         "resolution_method": "heuristic_matcher"
@@ -3807,7 +4117,7 @@
     {
         "reference": "E. P. SPECKER, The axiom of choice in Quine's New Foundations for Ma- thematical Logic, Proceedings of the National Academy of Sciences of the United States of America, vol. 39 (1953), pp. 972-975.",
         "id": "Specker1953a",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "H. BEHMANN, Beitrdge zur Algebra der Logik, insbesondere zum Entscheidungs- problem, Mathematische Annalen, vol. 86 (1922), pp. 163-229.",
@@ -3855,6 +4165,11 @@
         "resolution_method": "stage9_parsed_duplicate"
     },
     {
+        "reference": "L. E. SANCHIS, Normal combinations and the theory of types, Doctoral thesis, Pennsyl- vania State University, 1963",
+        "id": "Sanchis1963a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "B. LERCHER, Strong reduction and recursion in combinatory logic, Doctoral thesis, Pennsyl- vania State University, 1963.",
         "id": "Lercher1967a",
         "resolution_method": "heuristic_matcher"
@@ -3876,8 +4191,23 @@
     },
     {
         "reference": "G. KREISEL, D. LACOMBE, and J. R. SHOENFIELD, Partial recursive functionals and effective operations, Constructivity in Mathematics, Amsterdam (North Hol- land), 1959, pp. 290-297.",
-        "id": "Kreisel1959h",
-        "resolution_method": "heuristic_matcher"
+        "id": "Kreisel1959k",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. LACOMBE, Extension de la notion de fonction ricursive aux fonctions d'une ou plusieurs variables, Comptes Rendus de l'Académie des Sciences de Paris, vol. 240 (1955), pp. 2478-2480",
+        "id": "Lacombe1955a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "vol. 241 (1955), pp. 13-14, 151-153.",
+        "id": "Lacombe1955a",
+        "resolution_method": "immediate_volume_continuation"
+    },
+    {
+        "reference": "D. LACOMBE, Quelques procddds de definition en topologie rdcursive, Construc- tivity in Mathematics, Amsterdam (North Holland), 1959, pp. 129-158.",
+        "id": "Lacombe1959a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "J. MYHILL and J. C. SHEPHERDSON, Effective operations on partial recursive functions, Zeitschrift für mathematische Logik und Grundlagen der Mathe- matik, vol. 1 (1955), pp. 310-317.",
@@ -4016,7 +4346,7 @@
     },
     {
         "reference": "G. KREISEL, Set theoretic problems suggested by the notion of potential totality, Infinitistic methods, Proceedings of the Symposium on Foundations of Mathematics (Warsaw, 1959), Pergamon, Oxford",
-        "id": "Kreisel1959i",
+        "id": "Kreisel1959l",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -4037,6 +4367,16 @@
     {
         "reference": "S. KRIPKE, Transfinite recursion, constructible sets and analogues of cardinals, Proceedings of the American Mathematical Society Summer Institute in Axiomatic Set Theory, Los Angeles, Calif., 1967.",
         "id": "Kripke1967b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. LACOMBE, Deux ginlralisations de la notion de retcursivitd, Comptes Rendus de l'Aca- demie des Sciences de Paris, vol. 258 (1964), pp. 3141-3143.",
+        "id": "Lacombe1964b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. LACOMBE, Deux generalisations de la notion de r6cursivite' relative, Comptes Rendus de l'Academie des Sciences de Paris, vol. 258 (1964), pp. 3410-3413.",
+        "id": "Lacombe1964c",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -4098,6 +4438,11 @@
         "reference": "K. GÖDEL, The consistency of the continuum hypothesis, revised ed., Princeton, N.J. (Princeton University Press), 1951.",
         "id": "Godel1941a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "C. KURATOWSKI, Sur l'e'tat actuel de l'axiomatique de la thiorie des ensembles, Annales de la Société Polonaise de Mathématique, vol. 3 (1924), pp. 146-147.",
+        "id": "Kuratowski1924a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. MOSTOWSKI, An undecidable arithmetic statement, Fundamenta mathe- maticae, vol. 36 (1949), pp. 143-164.",
@@ -4192,6 +4537,11 @@
     {
         "reference": "G. BERGMANN, The finite representations of S5. Methodos, vol. 1 (1949), pp. 217-219.",
         "id": "Bergmann1949b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "T. J. SMILEY, Natural systems of logic. Ph.D. Thesis, University of Cambridge (1956).",
+        "id": "Smiley1956a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -4320,6 +4670,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "J. ŁOŚ, On the categoricity in power of elementary deductive systems and some related problems, Colloquium mathematicum, vol. 3 (1955), pp. 58-62.",
+        "id": "Los1955c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "A. MOSTOWSKI, Concerning a problem of H. Scholz, Zeitschrift für mathe- matische Logik und Grundlagen der Mathematik, vol. 2 (1956), pp. 210-214.",
         "id": "Mostowski1956a",
         "resolution_method": "stage9_candidate_work"
@@ -4383,6 +4738,11 @@
         "reference": "R. M. SMULLYAN, Uniform Gentzen systems, this JOURNAL this issue, pp. 549-559.",
         "id": "Smullyan1968b",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "GENE F. ROSE, Propositional calculus and realizability, Transactions of the American Mathematical Society, vol. 75 (1953) pp. 1-19.",
+        "id": "Rose1953c",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "S. C. KLEENE, On the interpretation of intuitionistic number theory, this JOURNAL, vol. 10 (1945) pp. 109-124.",
@@ -4585,6 +4945,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "W. HANF, Some fundamental problems concerning languages with infinitely long expressions Doctoral Dissertation, University of California, Berkeley, 1962.",
+        "id": "Hanf1962a",
+        "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
+    },
+    {
         "reference": "C. KARP, Completeness proof in predicate logic with infinitely long expressions, this JOURNAL, vol. 32 (1967).",
         "id": "Karp1967b",
         "resolution_method": "stage9_candidate_work"
@@ -4601,8 +4966,8 @@
     },
     {
         "reference": "A. ROBINSON, Complete theories, North-Holland Publishing Co., Amsterdam, 1956.",
-        "id": "Robinson1956d",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1956c",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "C. A. Baylis, Are some propositions neither trite nor false?, Philosophy of science, vol. 3 (1936), pp. 156-166.",
@@ -4791,18 +5156,23 @@
     },
     {
         "reference": "This JOURNAL, Vol. 15 (1950), pp. 182-184.",
-        "id": "Church1950a",
-        "resolution_method": "heuristic_matcher"
+        "id": "Kalicki1950a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "This JOURNAL, Vol. 15 (1950), pp. 174-181.",
-        "id": "Church1950a",
-        "resolution_method": "heuristic_matcher"
+        "id": "Kalicki1950b",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "J. Kalicki, On Tarski's matrix method, forthcoming in Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie. (This paper has since appeared in volume 41 of the indicated periodical, pp. 130-142. Editor.)",
         "id": "KalickiUndateda",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "J. Łoś, O matrycach logicznych, Travaux de la Societ6 des Sciences et des Lettres de Wroclaw, ser. B no. 19 (1949).",
+        "id": "Los1949b",
+        "resolution_method": "heuristic_matcher"
     },
     {
         "reference": "L. Chwistek, see e.g. The limits of science, New York, Harcourt Brace and Company, 1948, p. 86.",
@@ -4853,6 +5223,11 @@
         "reference": "S. C. KLEENE, On the forms of the predicates in the theory of constructive ordinals (second paper), American Journal of Mathematics, vol. 77 (1955), pp. 405-428.",
         "id": "Kleene1955b",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. L. KREIDER and H. ROGERS, Jr., Constructive versions of ordinal number classes, Transactions of the American Mathematical Society, vol. 100 (1961),",
+        "id": "Kreider1961a",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "G. KREISEL, J. SHOENFIELD and H. WANG, Number theoretic concepts and recursive well-orderings, Archiv für Mathematiche Logik und Grundlagen- forschung, vol. 5 (1960), pp. 42-64.",
@@ -5002,12 +5377,12 @@
     {
         "reference": "A. ROBINSON, Introduction to model theory and to the metamathematics of algebra, North- Holland, Amsterdam, 1963.",
         "id": "Robinson1963a",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. ROBINSON, Model theory and non-standard arithmetic, Infinitistic methods, Symposium on Foundations of Mathematics, Warsaw, pp. 265-302, 1959.",
-        "id": "Robinson1963a",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1959a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. TARSKI AND R. VAUGHT, Arithmetical extensions of relational systems, Compositio mathematica, vol. 18 (1957), pp. 81-102.",
@@ -5043,6 +5418,16 @@
         "reference": "Kurt Gödel, Ober formal unentscheidbare Sdtze der Principia Mathematica und verwandter Systeme 1, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "This JOURNAL, vol. 11 (1946), pp. 1-16",
+        "id": "Barcan1946a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
+        "reference": "P. J. COHEN, Set theory and the continuum hypothesis, Benjamin, New York, 1966.",
+        "id": "Cohen1966a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "K. GÖDEL, Consistency-proof for the generalized continuum hypothesis, Proceedings of the National Academy of Sciences of the U.S.A., vol. 25 (1939), pp. 220-224.",
@@ -5090,8 +5475,18 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "K. I. APPEL and T. G. MCLAUGHLIN, On properties of regressive sets, Transactions of the American Mathematical Society, vol. 115 (1965), pp. 83-92.",
+        "id": "Appel1965a",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
         "reference": "J. C. E. DEKKER, Infinite series of isols, Proceedings of symposia in pure and applied mathematics, vol. 5, American Mathematical Society, Providence, R.I., 1962, pp. 77-96.",
         "id": "Dekker1962b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "T. G. McLaughlin, Retraceable sets and recursive permutations, Proceedings of the American Mathematical Society, vol. 17 (1966), pp. 427-429.",
+        "id": "Mclaughlin1966a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -5180,6 +5575,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "T. FRAYNE, A. C. MOREL and D. ScoTT, Reduced direct products, Fundamenta Mathemati- cae, vol. 51 (1962), pp. 195-228.",
+        "id": "Frayne1962c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "H. J. KEISLER, On cardinalities of ultraproducts, Bulletin of the American Mathematical Society, vol. 70 (1964), pp. 644-647.",
         "id": "Keisler1964a",
         "resolution_method": "stage9_candidate_work"
@@ -5198,6 +5598,11 @@
         "reference": "H. J. KEISLER, Limit ultrapowers, Transactions of the American Mathematical Society, vol. 107 (1963), pp. 382-408.",
         "id": "Keisler1963c",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "S. KOCHEN, Ultraproducts in the theory of models, Annals of Mathematics, vol. 74 (1961), pp. 221-261.",
+        "id": "Kochen1961a",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "M. MORLEY and R. VAUGHT, Homogeneous universal models, Mathematica Scandinavica, vol. 11 (1962), pp. 37-57.",
@@ -5288,6 +5693,11 @@
         "reference": "J. B. ROSSER and A. R. TURQUETTE, Many-valued logics, Studies in logic and the foundations of mathematics, Amsterdam (North Holland Pub. Co.), 1952.",
         "id": "Rosser1952b",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "J. SLUPECKI, Der volle dreiwertige Aussagenkalkül, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 29 (1936), pp. 9-11.",
+        "id": "Slupecki1936a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "GERHARD GENTZEN, Recherches sur la déduction logique, Traduit par R. Feys et J. Ladri6re, Paris, 1955.",
@@ -5390,6 +5800,16 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "A. A. MARKOV. Theory of Algorithms, OTS 60-51805 (1961).",
+        "id": "Markov1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "MARVIN L. MINSKY, Recursive unsolvability of Post's problem of tag, Annals of Mathematics, vol. 74 (1961) pp. 437-455.",
+        "id": "Minsky1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "J. C. SHEPHERDSON and H. E. STURGIS, The computability of partial recursive functions by forms of Turing machines, Journal of the Association of Computing Machinery, vol. 10 (1963) pp. 217-255.",
         "id": "Myhill1955a",
         "resolution_method": "heuristic_matcher"
@@ -5465,6 +5885,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "E. J. McCluskey, Jr., Minimal sums for boolean functions having many unspecified fundamental products, Proceedings of the Second Annual Symposium on Switching Theory and Logical Design, Detroit, Michigan, AIEE Publication S- 134, October 1961.",
+        "id": "Mccluskey1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "W. V. QUINE, Mathematical Logic, Rev. Ed., Harvard University Press, Cambridge, Mass., 1961.",
         "id": "Quine1961a",
         "resolution_method": "stage9_candidate_work"
@@ -5506,7 +5931,7 @@
     },
     {
         "reference": "D. SCOTT, Logic with denumerably long formulas and finite strings of quantifiers, Theory of models, North Holland, Amsterdam, 1965, pp. 329-341.",
-        "id": "Scott1965a",
+        "id": "Scott1965b",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -5530,6 +5955,21 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "W. HANF, Isomorphism in elementary logic, Notices of the American Mathematical Society, vol. 9 (1962), pp. 127-128.",
+        "id": "Hanf1962b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "W. HANF, Model theoretic methods in the study of elementary logic, The theory of models, North-Holland, Amsterdam, 1965, pp. 133-146.",
+        "id": "Hanf1965a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "W. HANF, On some fundamental problems concerning isomorphism of Boolean algebras, Mathematicae scandinavica, vol. 5 (1957), pp. 205-217.",
+        "id": "Hanf1957a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "A. LACHLAN, On the lattice of recursively enumerable sets, Transactions of the American Mathematical Society, vol. 130 (1968), pp. 1-37.",
         "id": "Lachlan1968a",
         "resolution_method": "heuristic_matcher"
@@ -5542,6 +5982,16 @@
     {
         "reference": "H. ROGERS, Theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
         "id": "Rogers1967b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. SIKORSKI, Boolean algebra, Springer-Verlag, Berlin, 1964.",
+        "id": "Sikorski1964a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "S. TENNENBAUM, Non-Archimedean models for arithmetic, Notices of the American Mathematical Society, vol. 6 (1959), p. 207.",
+        "id": "Tennenbaum1959a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -5710,11 +6160,6 @@
         "resolution_method": "heuristic_matcher"
     },
     {
-        "reference": "C. Kuratowski (Sur la notion de l'ordre dans la thgorie des ensembles, Fundamenta mathematicae, vol. 2 (1921), pp. 161-171).",
-        "id": "Kuratowski1921a",
-        "resolution_method": "heuristic_matcher"
-    },
-    {
         "reference": "R. M. FRIEDBERG, Three theorems on recursive enumeration, Journal of Sym- bolic Logic, vol. 23 (1958), pp. 309-316.",
         "id": "Friedberg1958a",
         "resolution_method": "heuristic_matcher"
@@ -5775,6 +6220,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "P. ERDÖS, A. HAUNAL and R. RADo, Partition relations for cardinal numbers, Acta mathe- matica, vol. 16 (1965), pp. 93-196.",
+        "id": "Erdos1965a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "L. HENKIN, Some remarks on infinitely long formulas, Infinitistic methods, Proceedings of the Symposium on the Foundations of Mathematics, Warsaw, 1959, pp. 167-183.",
         "id": "Henkin1959a",
         "resolution_method": "stage9_candidate_work"
@@ -5825,6 +6275,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "J. W. ADDISON, Some consequences of the axiom of constructibility, Fundamenta mathe- maticae, vol. 46 (1959), pp. 337-357.",
+        "id": "Addison1959b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "S. FEFERMAN and C. SPECTOR, Incompleteness along paths in progressions of theories, this JOURNAL, vol. 27 (1962), pp. 383-390.",
         "id": "FefermanSpector1962a",
         "resolution_method": "heuristic_matcher"
@@ -5847,6 +6302,11 @@
     {
         "reference": "S. C. KLEENE, On the forms of the predicates in the theory of constructive ordinals (second paper), American journal of mathematics, vol. 77 (1955), pp. 405-428.",
         "id": "Kleene1955b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "C. KURATOWSKI, Topologie. I, 4th ed., PWN, Warsaw, 1958.",
+        "id": "Kuratowski1958a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -5925,8 +6385,13 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "ROGER LYNDON, An interpolation theorem in the predicate calculus. Pacific Journal of Mathematics, vol. 9 (1959), pp. 129-142.",
+        "id": "Lyndon1959c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "ABRAHAM ROBINSON, A result on consistency and its application to the theory of definition. Indagationes Mathematicae, vol. 18 (1956), pp. 47-58.",
-        "id": "Robinson1956c",
+        "id": "Robinson1956d",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -5991,8 +6456,8 @@
     },
     {
         "reference": "A. ROBINSON, Complete Theories, North Holland Publishing Company, Amsterdam, 1956.",
-        "id": "Robinson1956d",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1956c",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "J. D. RUTLEDGE, A preliminary investigation of the infinitely many-valued predicate calculus, Ph.D. Thesis, Cornell University, 1959.",
@@ -6025,6 +6490,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "P. R. HALMOS, Lectures on Boolean algebras, Van Nostrand, Princeton, 1963.",
+        "id": "Halmos1963a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "H. R. STRONG, JR., An algebraic approach through uniformly reflexive structures to generalized recursive function theory, Doctoral dissertation, University of Washington, 1967.",
         "id": "Strong1967a",
         "resolution_method": "stage9_candidate_work"
@@ -6032,6 +6502,21 @@
     {
         "reference": "H. R. STRONG, JR., Algebraically generalized recursive function theory, IBM journal research and development, 12, 6, 465-475, November, 1968.",
         "id": "Strong1968a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "E. G. WAGNER, Uniformly reflexive structures: Towards an abstract theory of computa- bility, Research report RC-934, IBM Thomas J. Watson Research Center, Yorktown Heights, N.Y., 1963. (Doctoral dissertation, Columbia University, 1963.)",
+        "id": "Wagner1963a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "E. G. WAGNER, Uniformly reflexive structures: An axiomatic approach to computability, Logic, Computability, and Automata: Joint RADC-HAC Symposium, 1965. Trinkaus Manor, Oriskany, New York (to be published).",
+        "id": "Wagner1965a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "E. G. WAGNER, Uniformly reflexive structures: On the nature of Gödelization and relative computability, Transactions of the American Mathematical Society, 144 (1969), pp. 1-41.",
+        "id": "Wagner1969a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -6185,6 +6670,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "W. W. BOONE, The word problem, Annals of mathematics, vol. 70 (1959), pp. 207-265.",
+        "id": "Boone1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "A. CHURCH, An unsolvable Problem of elementary number theory, American journal of mathematics, vol. 58 (1936), pp. 345-363.",
         "id": "Church1936e",
         "resolution_method": "stage9_parsed_duplicate"
@@ -6207,6 +6697,11 @@
     {
         "reference": "S. C. KLEENE, Recursive predicates and quantifiers, Transactions of the American Mathematical Society, vol. 53 (1943), pp. 41-73.",
         "id": "Kleene1943a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "W. W. BOONE, Partial results regarding word problems and recursively enumerable degrees of unsolvability, Bulletin of the American Mathematical Society, vol. 68 (1962), pp. 616-623.",
+        "id": "Boone1962a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -6233,6 +6728,11 @@
         "reference": "J. MYHILL, Creative sets, Zeitschrift für mathematische Logik und Grund- lagen der Mathematik, vol. 1 (1955), pp. 97-108.",
         "id": "Myhill1955b",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "This JOURNAL, vol. 6 (1941), pp. 23-27.",
+        "id": "Berry1941a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "Kurt Gödel, Uber formal unentscheidbare sdtze der Principia Mathematica und ver- wandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
@@ -6381,7 +6881,7 @@
     },
     {
         "reference": "D. SCOTT, Logic with denumerably long formulas and finite strings of quantifiers in Theory of models, North-Holland, Amsterdam, 1965, pp. 329-341.",
-        "id": "Scott1965a",
+        "id": "Scott1965b",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -6435,6 +6935,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "A. A. MUČNIK, Nérazréš imost' problémy svodimosti téorii algoritmov (Negative answer to the problem of reducibility of the theory of algorithms), Doklady Aka- démii Nauk SSSR, vol. 108 (1956), pp. 194-197.",
+        "id": "Muchnik1956a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "J. MYHILL, Creative sets, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 1 (1955), pp. 97-108.",
         "id": "Myhill1955b",
         "resolution_method": "stage9_candidate_work"
@@ -6471,8 +6976,8 @@
     },
     {
         "reference": "A. ROBINSON, Complete Theories, Amsterdam (North-Holland), 1956.",
-        "id": "Robinson1956d",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1956c",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "A. TARSKI and R. L. VAUGHT, Arithmetical extensions of relational systems, Compositio Mathematica, vol. 13 (1957), pp. 81-102.",
@@ -6488,6 +6993,11 @@
         "reference": "S. C. KLEENE, Introduction to metamathematics, Van Nostrand, New York, 1952.",
         "id": "Kleene1952a",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "A. A. MUČNIK, Negative answer to the problem of reducibility of the theory of algorithms (Russian), Doklady Akademii Nauk SSSR, vol. 108 (1956), pp. 194-197.",
+        "id": "Muchnik1956b",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "G. E. SACKS, Degrees of unsolvability, Annals of Mathematics Study No.55, Princeton, 1963.",
@@ -6660,6 +7170,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "H. RASIOWA and R. SIKORSKI, The mathematics of metamathematics, PWN, Warsaw, 1963.",
+        "id": "Rasiowa1963a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "David Hilbert, Ciber das Unendliche, Mathematische Annalen, vol. 95 (1926), p. 183 ff.",
         "id": "Hilbert1926a",
         "resolution_method": "heuristic_matcher"
@@ -6737,6 +7252,11 @@
     {
         "reference": "J. VON NEUMANN, Theory of self-reproducing automata, edited and completed by Arthur W. Burks, 1966.",
         "id": "Neumann1966a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. W. BURKS, Computation, behaviour, and structure in fixed and growing automata, Behavioural science, vol. 6 (1961), pp. 5-22.",
+        "id": "Burks1961a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -6887,6 +7407,11 @@
     {
         "reference": "A. HORN. The normal completion of a subset of a complete lattice and lattices of continuous functions, Pacific journal of mathematics, vol. 3 (1953), pp. 137-152.",
         "id": "Horn1953a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "H. RASIOWA and R. SIKORSKI, The mathematics of metamathematics, Monografie Matematyczne, vol. 41, PWN, Warsaw, 1963.",
+        "id": "Rasiowa1963b",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -7048,6 +7573,16 @@
         "reference": "BRUCE LERCHER, Strong reduction and recursion in combinatory logic, Ph.D. Thesis, The Pennsylvania State University, University Park, Pa., 1963.",
         "id": "Lercher1967a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "L. E. SANCHIS, Normal combinations and the theory of types, Ph.D. Thesis, The Pennsylvania State University, University Park, Pa., 1963.",
+        "id": "Sanchis1963b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "L. E. SANCHIS. Types in combinatory logic, Notre Dame Journal of Formal Logic, Vol. 5 (1964), pp. 161-180.",
+        "id": "Sanchis1964a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "R. CARNAP, Modalities and Quantification, this JOURNAL, V. 11 (1946), pp 33-64.",
@@ -7255,6 +7790,16 @@
         "resolution_method": "stage9_parsed_duplicate"
     },
     {
+        "reference": "A. A. MUCHNIK, Negative answer to the problem of reducibility of the theory of algorithms (in Russian), Doklady Akad. Nauk SSSR, Vol. 108 (1956), pp. 194-197.",
+        "id": "Muchnik1956c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. A. MUCHNIK, Solution of Post's reduction problem and of certain problems in the theory of algorithms (in Russian), Trudy Moskow Mat. Obsc., Vol. 7 (1958), pp. 391-405.",
+        "id": "Muchnik1958a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "GERALD E. SACKS, Degrees of Unsolvability, Princeton University Press, 1963.",
         "id": "Sacks1963a",
         "resolution_method": "stage9_candidate_work"
@@ -7283,6 +7828,16 @@
         "reference": "W. V. QUINE, On t-consistency and a so-called axiom of infinity, this JOURNAL, vol. 18 (1953), pp. 119-124.",
         "id": "Quine1953a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "H. RASIOWA and R. SIKORSKI, A proof of the completeness theorem of Godel, Fundamenta Mathematicae, vol. 37 (1950), pp. 193-200.",
+        "id": "Rasiowa1950a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "H. RASIOWA and R. SIKORSKI, A proof of the Skolem-Lfwenheim theorem, Fundamenta Mathematicae, vol. 38 (1951), pp. 230-232.",
+        "id": "Rasiowa1951a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "J. B. ROSSER, G6del theorems for non-constructive logics, this JOURNAL, vol. 2 (1937), pp. 129-137.",
@@ -7472,6 +8027,11 @@
     {
         "reference": "A. N. PRIOR and L. J. COHEN in Philosophical Studies, Vol. XII (1961), pp. 72-78",
         "id": "Prior1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "T. J. SMILEY, Propositional functions, Proceedings of the Aristotelian Society, Supplementary Volume XXXIV (1960), pp. 33-46.",
+        "id": "Smiley1960a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -7707,6 +8267,11 @@
     {
         "reference": "Emil L. Post, Introduction to a general theory of elementary propositions, American journal of mathematics, vol. 43 (1921), pp. 163-185.",
         "id": "Post1921a",
+        "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "Jerzy Słupecki, Der voile dreiwertige Aussagenkalkil, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 29 (1936), pp. 9-11.",
+        "id": "Slupecki1936b",
         "resolution_method": "heuristic_matcher"
     },
     {
@@ -7972,6 +8537,11 @@
     {
         "reference": "E. ELLENTUCK, Universal isols, Mathematische zeitschrift, vol. 98 (1967), pp. 1-8.",
         "id": "Ellentuck1967a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "G. FUHRKEN, Skolem-type normal forms for first order languages with a generalized quantifier, Fundamenta mathematicae, vol. 54 (1964), pp. 291-302.",
+        "id": "Fuhrken1964a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -8450,6 +9020,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "PAUL HALMOS, Algebraic logic II - Homogeneous locally finite polyadic Boolean algebras of infinite degree, Fundamenta mathematicae, vol. 43 (1956) pp. 255-325.",
+        "id": "Halmos1956c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "A. ROSE and J. B. ROSSER, Fragments of the many-valued statement calculi, Transactions of the American Mathematical Society, vol. 87 (1958) pp. 1-53.",
         "id": "Rose1958a",
         "resolution_method": "stage9_candidate_work"
@@ -8608,6 +9183,11 @@
         "reference": "EMIL L. POST, Introduction to a general theory of elementary propositions, American journal of mathematics, vol. 43 (1921), pp. 163-185.",
         "id": "Post1921a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "JERZY SŁUPECKI, Kryterium pełności wielowartościowych systemów logiki zdań, Comptes rendus des séances de la Société des Sciences et des Lettres de Varso- vie, Classe III, 32 Année (1939), pp. 102-109.",
+        "id": "Slupecki1939a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "ARTO SALOMAA, On the composition of functions of several variables ranging over a finite set, Annales Universitatis Turkuensis, Series A I 41.",
@@ -8915,6 +9495,11 @@
         "resolution_method": "stage9_parsed_duplicate"
     },
     {
+        "reference": "H. RASIOWA and R. SIKORSKI, On existential theorems in non-classical functional calculi, Fundamenta mathematicae, vol. 41 (1954), pp. 87-91.",
+        "id": "Rasiowa1954a",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
         "reference": "DANA SCOTT, Completeness proofs for the intuitionistic sentential calculus, Summaries of talks presented at the Summer Institute of Symbolic Logic in 1957 at Cornell University, mimeographed, 1957, pp. 231-241.",
         "id": "Scott1957a",
         "resolution_method": "stage9_candidate_work"
@@ -8941,8 +9526,13 @@
     },
     {
         "reference": "A. ROBINSON, Complete Theories, Amsterdam, 1956, p. 6.",
-        "id": "Robinson1956d",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1956c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "G. Fuhrken, Skolem-type normal forms for first order languages! with a generalized quantifier, Fundamenta Mathematicae LIV, (1964) Theorem 3.4.",
+        "id": "Fuhrken1964a",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "An axiomatic system for the first order languages with an equi- cardinality quantifier, (this JOURNAL, Vol. 31 (1966), pp. 633-640.)",
@@ -9055,6 +9645,16 @@
         "resolution_method": "ibid_or_loc_cit_context"
     },
     {
+        "reference": "T. FRAYNE, A. C. MOREL and D. SCOTT, Reduced direct products, Fundamenta Mathematicae, vol. 51 (1962), pp. 195-228.",
+        "id": "Frayne1962c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "G. FUHRKEN, On generalized quantifiers (abstract), Notices American Mathe- matical Society, vol. 9 (1962), p. 132.",
+        "id": "Fuhrken1962a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "H. J. KEISLER, Limit ultrapowers, Transactions American Mathematical Society, vol. 107 (1963), pp. 382-408.",
         "id": "Keisler1963d",
         "resolution_method": "stage9_candidate_work"
@@ -9088,6 +9688,11 @@
         "reference": "H. J. KEISLER and A. TARSKI, From accessible to inaccessible cardinals, Funda- mentia Mathematicae, vol. 53 (1964), pp. 225-308.",
         "id": "Keisler1964d",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "S. KOCHEN, Ultraproducts in the theory of models, Annals of Mathematics, vol. 74 (1961), pp. 221-261.",
+        "id": "Kochen1961a",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "M. MORLEY and R. VAUGHT, Homogeneous universal models, Mathematica Scandinavica, vol. 11 (1962), pp. 37-57.",
@@ -9170,6 +9775,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "P. ERDOS and A. TARSKI, On families of mutually exclusive sets, Annals of Mathematics, vol. 44 (1943), pp. 315-329.",
+        "id": "Erdos1943a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "L. HENKIN, The completeness of the first-order functional calculus, this JOURNAL, vol. 14 (1949), pp. 159-166.",
         "id": "Henkin1949b",
         "resolution_method": "heuristic_matcher"
@@ -9213,6 +9823,16 @@
         "reference": "A. MOSTOWSKI, Proofs of non-deducibility in intuitionistic functional calculus, this JOURNAL, VOL. 13 (1948), pp. 204-207.",
         "id": "Mostowski1948a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "H. RASIOWA and R. SIKORSIcI, A proof of the completeness theorem of Godel, Fundamenta mathematicae, vol. 37 (1950), pp. 193-200.",
+        "id": "Rasiowa1950a",
+        "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "H. RASIOWA and R. SIKORSKI, An algebraic treatment of the notion of satis- fiability, Fundamenta mathematicae, vol. 40 (1943), pp. 62-95.",
+        "id": "Rasiowa1943a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "D. SCOTT and A. TARSKI, The sentential calculus with infinitely ltong expressions, Colloquium mathematicum, vol. 6 (1958), pp. 166-170.",
@@ -9295,6 +9915,16 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "R. C. LYNDON, An interpolation theorem in the predicate calculus, Pacific Journal of mathe- matics, vol. 9 (1959), pp. 129-142.",
+        "id": "Lyndon1959c",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "R. C. LYNDON, Properties preserved under homomorphism, Pacific journal of mathematics, vol. 9 (1959), pp. 143-154.",
+        "id": "Lyndon1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "A. OBERSCHELP, On the Craig-Lyndon interpolation theorem, Notices of the American Mathematical Society, vol. 14 (1967), p. 142.",
         "id": "Oberschelp1968a",
         "resolution_method": "heuristic_matcher"
@@ -9312,6 +9942,11 @@
     {
         "reference": "R. I. SOARE, Recursion theory and Dedekind cuts, Transactions of the American Mathe- matical Society, vol. 140 (1969), pp. 271-294.",
         "id": "SoareUndateda",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. HALMOS, Algebraic logic. IV, Transactions of the American Mathematical Society, vol. 86 (1957), pp. 1-27.",
+        "id": "Halmos1957c",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -9415,6 +10050,11 @@
         "resolution_method": "stage9_parsed_duplicate"
     },
     {
+        "reference": "T. FRAYNE, A. C. MOREL, and S. C. ScoTrr, Reduced direct products, Fundamenta Mathe- maticae, vol. 51 (1962), pp. 195-228.",
+        "id": "Frayne1962d",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "J. R. GEISER, Nonstandard logic, doctoral thesis, M.I.T., Cambridge, Mass., 1966.",
         "id": "Geiser1966a",
         "resolution_method": "stage9_candidate_work"
@@ -9448,6 +10088,21 @@
         "reference": "J. KEISLER, Limit ultraproducts, this JOURNAL, vol. 30 (1965), pp. 212-234.",
         "id": "Keisler1965a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "S. KOCHEN, Ultra products in the theory of models, Annals of Mathematics, vol. 74 (1961), pp. 221-261.",
+        "id": "Kochen1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. ROBINSON, On languages which are based on nonstandard arithmetic, Nagoya Mathe- matical Journal, vol. 22 (1963), pp. 83-117.",
+        "id": "Robinson1963b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. ROBINSON, Non-standard analysis, North-Holland, Amsterdam, 1963.",
+        "id": "Robinson1963c",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. TARSKI, Remarks on predicate logics with infinitely long expressions, Colloquium Mathematicum, vol. 6 (1958), pp. 171-176.",
@@ -9495,6 +10150,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "J. W. ADDISON, Hierarchies and the axiom of constructibility, mimeographed Summaries of talks presented at the Summer Institute of Symbolic Logic in 1957 at Cornell University, pp. 355-362.",
+        "id": "Addison1957a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "RICHARD M. FRIEDBERG, Two recursively enumerable sets of incomparable degrees of unsolvability (solution of Post's problem, 1944), Proceedings of the National Academy of Sciences, vol. 43 (1957), pp. 236-238.",
         "id": "Friedberg1957a",
         "resolution_method": "heuristic_matcher"
@@ -9508,6 +10168,11 @@
         "reference": "KURT GÖDEL, The consistency of the axiom of choice and of the generalized con- tinuum hypothesis, Proceedings of the National Academy of Sciences, vol. 24 (1938), pp. 556-557.",
         "id": "Godel1938a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "PAUL R. HALMOS, Measure theory, Van Nostrand, 1950, xi+304 pp.",
+        "id": "Halmos1950a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "S. C. KLEENE, Introduction to metamathematics, New York and Toronto (Van Nostrand), Amsterdam (North-Holland Publishing Company), and Groningen (Noordhoff), 1952, x+550 pp.",
@@ -9528,6 +10193,16 @@
         "reference": "S. C. KLEENE and EMIL L. POST. The upper semi-lattice of degrees of recursive unsolvability, Annals of mathematics, vol. 59 (1954), pp. 379-407.",
         "id": "Kleene1954a",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "CASIMIR KURATOWSKI, Topologie I, 2nd ed., Warszawa-Wroclaw, 1948, xi+450 pp.",
+        "id": "Kuratowski1948a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. A. MUČNIK, Nérazréšimost' problémy svodimosti téorii algoritmov (Negative answer to the problem of reducibility of the theory of algorithms), Doklady Aka- démii Nauk SSSR, vol. 108 (1956), pp. 194-197",
+        "id": "Muchnik1956a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "CLIFFORD SPECTOR, Recursive well-orderings, this JOURNAL, vol. 20 (1955), pp. 151-163.",
@@ -9738,6 +10413,11 @@
         "reference": "The deduction theorem in a functional calculus of first order based on strict implication, this JOURNAL, vol. 11 (1946), pp. 115-118.",
         "id": "Barcan1946b",
         "resolution_method": "stage8_parser_match+stage9_existing_work"
+    },
+    {
+        "reference": "P. J. COHEN, Set theory and the continuum hypothesis, Benjamin, New York, 1966.",
+        "id": "Cohen1966a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "E. ELLENTUCK, The universal properties of Dedekind finite cardinals, Annals of Mathe- matics, vol. 82 (1965), pp. 225-248.",
@@ -9952,7 +10632,7 @@
     {
         "reference": "T. J. SMILEY, On Lukasiewicz's L-modal system. Notre Dame Journal of Formal Logic, vol. 2 (1961), pp. 149-153.",
         "id": "Smiley1961a",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. N. PRIOR, Time and modality. (Oxford, 1957.)",
@@ -10030,6 +10710,16 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "P. HALMOS, Algebraic logic. II, Fundamenta Mathematicae, vol. 43 (1956), pp. 255-325.",
+        "id": "Halmos1956d",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. HALMOS, Algebraic logic. IV, Transactions of the American Mathematical Society, vol. 86 (1957), pp. 1-27.",
+        "id": "Halmos1957c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "L. HENKIN and A. TARSKI, Cylindric algebras, Proceedings of symposia in pure mathe- matics, vol. 2, Amer. Math. Soc., Providence, R.I., 1961, pp. 83-113.",
         "id": "Henkin1961a",
         "resolution_method": "stage9_parsed_duplicate"
@@ -10095,6 +10785,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "T. FRAYNE, A. MOREL and D. ScoTT, Reduced direct products, Fundamenta Mathematicae, vol. 51 (1962), pp. 195-248.",
+        "id": "Frayne1962a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "H. J. KEISLER, Ultraproducts and elementary classes, Indagationes Mathematicae, vol. 23 (1962), pp. 447-495",
         "id": "Keisler1962c",
         "resolution_method": "stage9_candidate_work"
@@ -10123,6 +10818,16 @@
         "reference": "H. J. KEISLER, A survey of ultraproducts, Logic, methodology, and the philosophy of science, Proceedings of the 1964 International Congress, pp. 112-126, Jerusalem, 1965.",
         "id": "Keisler1964a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "J. ŁOS, On the categoricity in power of elementary deductive systems, Colloquium Mathe- maticum, vol. 3 (1954), pp. 58-62.",
+        "id": "Los1954a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "J. ŁOS, Quelques remarques, théorèmes et problèmes sur les classes définissables d'algèbres, Mathematical interpretations of formal systems, North-Holland, Amsterdam, 1955, pp. 98-113.",
+        "id": "Los1955d",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "M. MORLEY, Categoricity in power, Doctoral dissertation, University of Chicago, Chicago, Ill., 1962",
@@ -10181,8 +10886,8 @@
     },
     {
         "reference": "D. F. HUGILL AND A. H. LACHLAN, Distributive initial segments of the degrees of unsolva- bility (to appear).",
-        "id": "Lachlan1968b",
-        "resolution_method": "heuristic_matcher"
+        "id": "HugillUndateda",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "G. E. SACKS, Degrees of unsolvability, Annals of mathematics studies, number 55, Prince- ton Univ. Press, Princeton, N.J., 1963.",
@@ -10193,6 +10898,21 @@
         "reference": "C. SPECTOR, On degrees of recursive unsolvability, Annals of mathematics, vol. 64 (1956), pp. 581-592.",
         "id": "Spector1956a",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. ERDÖS and A. HAJNAL, On the structure of set mappings, Acta Mathematica Academiae Scientiarum Hungaricae, vol. 9 (1958), pp. 111-1 31.",
+        "id": "Erdos1958a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. ERDÖS and A. HAJNAL, Some remarks concerning our paper \"On the structure of set mappings\", Acta Mathematica Academiae Scientiarum Hungaricae, vol. 13 (1962), pp. 223-226.",
+        "id": "Erdos1962a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. ERDÖS, A. HAJNAL and R. RADO, Partition relations for cardinal numbers, Acta Mathe- matica Academiae Scientiarum Hungaricae, vol. 16 (1965), pp. 93-196.",
+        "id": "Erdos1965a",
+        "resolution_method": "heuristic_matcher"
     },
     {
         "reference": "E. M. KLEINBERG, Strong partition properties, Notices of the American Mathematical Society, vol. 16 (1969), p. 579.",
@@ -10215,6 +10935,16 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "A. R. D. MATHIAS, Doctoral dissertation, Peterhouse, Cambridge Univ., Cambridge, England.",
+        "id": "MathiasUndateda",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. R. D. MATHIAS, On a generalization of Ramsey's theorem, Notices of the American Mathematical Society, vol. 15 (1968), p. 931.",
+        "id": "Mathias1968a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "M. MORLEY, Categoricity in power, Doctoral dissertation, University of Chicago, Chicago, Ill., 1962.",
         "id": "Morley1962b",
         "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
@@ -10230,8 +10960,23 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "This JOURNAL, vol. 2 (1937), pp. 125-128.",
+        "id": "Fitch1937a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
         "reference": "R. Carnap, Introduction to semantics, Harvard University Press, Cambridge, Mass., 1942, especially pp. 101-105.",
         "id": "Carnap1942a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "J. W. ADDISON, Separation principles in the hierarchies of classical and effective descriptive set theory, Bulletin of the American Mathematical Society, vol. 63 (1957), pp. 397-8.",
+        "id": "Addison1957b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "J. W. ADDISON, Separation principles in the hierarchies of classical and effective descriptive set theory, to appear in Fundamenta mathematicae.",
+        "id": "AddisonUndateda",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -10305,6 +11050,16 @@
         "resolution_method": "stage9_existing_work"
     },
     {
+        "reference": "E. J. McCluskey, JR., Detection of group invariance or total symmetry of a boolean function, The Bell System technical journal, vol. 35 (1956), pp. 1445-1453.",
+        "id": "Mccluskey1956a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "E. J. McCluskey, JR., Minimization of boolean functions , The Bell System technical journal, vol. 35 (1956), pp. 1417-1444.",
+        "id": "Mccluskey1956b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "W. ACKERMANN, Zur Widerspruchsfreiheit der Zahlentheorie, Mathematische Annalen, vol. 117 (1940), pp. 162-194.",
         "id": "Ackermann1940a",
         "resolution_method": "stage9_parsed_duplicate"
@@ -10351,12 +11106,17 @@
     },
     {
         "reference": "G. KREISEL, Proof by transfinite induction and definition by transfinite recursion in quantifier-free systems (abstract), this JOURNAL, vol. 24 (1959), pp. 322-3.",
-        "id": "Kreisel1959j",
+        "id": "Kreisel1959m",
         "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "G. KREISEL and W. W. TAIT, Induction and recursion (abstract), this JOURNAL, vol. 25 (1960), p. 385.",
         "id": "Kreisel1960f",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. J. PARIKH, Some generalizations of the notion of well-ordering (abstract), Notices of the American Mathematical Society, vol. 9 (1962), p. 412.",
+        "id": "Parikh1962a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -10388,6 +11148,11 @@
         "reference": "R. CARNAP, An axiom system of inductive logic (to appear).",
         "id": "CarnapUndatedb",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. R. HALMOS, Lectures on Boolean algebras, Van Nostrand, Princeton, N.J., 1963.",
+        "id": "Halmos1963a",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "D. SCOTT and P. KRAUSS, Assigning probabilities to logical formulas, Aspects of inductive logic, edited by J. Hintikka and P. Suppes, North Holland, Amsterdam, 1966, pp. 219-259.",
@@ -10440,8 +11205,13 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "H. RASIOWA and R. SIKORSKI, On Gentzen theorem, Fundamenta mathematicae, vol. 48 (1960), pp. 57-69.",
+        "id": "Rasiowa1960a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "D. SCOTT, Logic with denumerably long formulas and finite strings of quantifiers, The theory of models, North Holland Publishing Co., Amsterdam, 1965.",
-        "id": "Scott1965a",
+        "id": "Scott1965b",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -10517,7 +11287,7 @@
     {
         "reference": "ERNST SPECKER, The axiom of choice in Quine's new foundations for mathema- tical logic, Proceedings of the National Academy of Sciences, vol. 39 (1953), pp. 972-975.",
         "id": "Specker1953a",
-        "resolution_method": "stage9_candidate_work"
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "ALFRED TARSKI, Sur le terme primitif dans la logistique, Fundamenta mathe- maticae, vol. 4 (1923), pp. 196-200.",
@@ -10548,6 +11318,11 @@
         "reference": "J. B. ROSSER and A. R. TURQUETTE, Many-valued Logics, Amsterdam, 1952, p. 17.",
         "id": "Rosser1952c",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "JERZY SŁUPECKI, Der volle dreiwertige Aussagenkalkül, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 29 (1936), pp. 9-11.",
+        "id": "Slupecki1936a",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "Lewis and Langford, Symbolic logic, pp. 122-198, and pp. 492-502.",
@@ -10790,6 +11565,21 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "H. RASIOWA, Constructive theories, Bulletin de l'Académie Polonaise des Sciences, Classe III, vol. 2 (1954), pp. 121-124.",
+        "id": "Rasiowa1954b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "H. RASIOWA, Algebraic models of axiomatic theories, Fundamenta mathe- maticae, vol. 41 (1954), pp. 291-310.",
+        "id": "Rasiowa1954c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "G. F. ROSE, Propositional calculus and realizability, Transactions of the American Mathematical Society, vol. 75 (1953), pp. 1-19.",
+        "id": "Rose1953c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "A. EHRENFEUCHT and A. MOSTOWSKI, Models of axiomatic theories admitting automnor- phisms, Fundamenta mathematicae, vol. 43 (1956), pp. 50-68.",
         "id": "Ehrenfeucht1956a",
         "resolution_method": "stage9_candidate_work"
@@ -10806,8 +11596,18 @@
     },
     {
         "reference": "E. P. SPECKER, The axiom of choice in Quine's \"New Foundations,\" Proceedings of the National Academy of Sciences, vol. 39 (1953), pp. 972-975.",
-        "id": "Specker1953a",
-        "resolution_method": "heuristic_matcher"
+        "id": "Specker1953b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "E. P. SPECKER, Typical ambiguity, Logic, methodology and philosophy of science, Stanford University Press, Stanford, Calif., 1962, pp. 116-124.",
+        "id": "Specker1962a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "This JOURNAL, vol. 6 (1941), pp. 73-89.",
+        "id": "Tarski1941a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "A. N. Whitehead and B. Russell, Principia mathematica, Cambridge, England, 1910- 1913.",
@@ -10868,6 +11668,11 @@
         "reference": "A. CHURCH, Introduction to mathematical logic, vol. 1, Princeton University Press, Princeton, N.J., 1956.",
         "id": "Church1956a",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "P. B. DOWNING, Subjunctive conditionals, time order and causation, Proceedings of the Aristotelian Society (N.S.), vol. LIX (1959).",
+        "id": "Downing1959a",
+        "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
     },
     {
         "reference": "STORRS MCCALL, Connexive implication, this JOURNAL, vol. 31 (1966), pp. 415-433.",
@@ -10943,6 +11748,16 @@
         "reference": "K. SCHÜTTE, Beweistheorie, Springer-Verlag, Berlin, 1960.",
         "id": "Schutte1960a",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "S. KANGER, Provability in logic, Acta Universitatis Stockholmiensis Stockholm Studies in Philosophy 1, Almquist & Wiksell, Stockholm.",
+        "id": "KangerUndateda",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. LYNDON, Notes on logic, Van Nostrand Mathematical Studies #6, Princeton, N.J.",
+        "id": "LyndonUndateda",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "CHURCH, ALONZO, Introduction to mathematical logic, part I, bevorstehende revidierte und erweiterte Auflage.",
@@ -11071,8 +11886,8 @@
     },
     {
         "reference": "A. ROBINSON, A result on consistency aed its application to the theory of definition, Koninklijke Nederlandse Akademie van Wetenschappen, Proceedings, ser. A, vol. 59 (also Indagationes mathematicae, vol. 18) (1956), pp. 47-58.",
-        "id": "Robinson1956c",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1956f",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. TARSKI, Some notions and methods on the borderline of algebra and meta- mathematics, Proceedings of the International Congress of Mathematicians, 1950, vol. 1, pp. 705-720.",
@@ -11115,6 +11930,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "T. FRAYNE, A. C. MOREL and S. C. SCOTT, Reduced direct products, Fundamenta Mathe- maticae, vol. 51 (1962), p. 195.",
+        "id": "Frayne1962c",
+        "resolution_method": "heuristic_matcher"
+    },
+    {
         "reference": "C. R. KARP, Finite quantifier equivalence, The theory of models, North-Holland, Amster- dam, 1965, p. 407.",
         "id": "Karp1965a",
         "resolution_method": "stage9_candidate_work"
@@ -11127,6 +11947,11 @@
     {
         "reference": "H. J. KEISLER, Ultraproducts and elementary classes, Indagationes Mathematicae, vol. 23 (1962), p. 447.",
         "id": "Keisler1962c",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "S. KOCHEN, Ultraproducts in the theory of models, Annals of Mathematics, vol. 74 (1961), p. 221.",
+        "id": "Kochen1961a",
         "resolution_method": "stage9_parsed_duplicate"
     },
     {
@@ -11163,6 +11988,11 @@
         "reference": "Lindenbaum and Tarski, Über die Beschränktheit der Ausdrucksmittel deduktiver Theorien, Ergebnisse eines mathematischen Kolloquiums, Heft 7 (1936), pp. 15-22",
         "id": "Lindenbaum1936b",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "this JOURNAL, vol. 6 (1941), pp. 90-95.",
+        "id": "Dotterer1941a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "J. R. BÜCHI, Weak second-order arithmetic and finite automata, Zeitschrift für Mathematische Logik und Grundlagen der Mathematik, vol. 6 (1960), pp. 66-92.",
@@ -11255,6 +12085,11 @@
         "resolution_method": "stage9_parsed_duplicate"
     },
     {
+        "reference": "R. J. PARIKH, Some generalizations of the notion of well ordering, Notices of the American Mathematical Society vol. 9 (1962), p. 142.",
+        "id": "Parikh1962a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "K. SCHÜTTE, Beweistheorie, Springer, Berlin, 1960.",
         "id": "Schutte1960a",
         "resolution_method": "stage9_parsed_duplicate"
@@ -11312,6 +12147,11 @@
     {
         "reference": "S. JAŚKOWSKI, Recherches sur le système de la logique intuitioniste, Actes du Congrès International de Philosophie Scientifique, VI Philosophie des mathé- matiques, Paris (Hermann & Cie.) 1936, pp. 58-61.",
         "id": "Jaskowski1936a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "G. F. ROSE, Propositional calculus and realizability, Transactions of the American Mathematical Society, vol. 75 (1953), pp. 1-19.",
+        "id": "Rose1953c",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -11605,6 +12445,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "B. A. TRAHTENBROT, Impossibility of an algorithm for the decision problem in finite classes (in Russian), Doklady Akademii Nauk SSSR, n.s., vol. 70 (1950), pp. 569-572.",
+        "id": "Trakhtenbrot1950a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "R. L. VAUGHT, Sentences true in all constructive models, this JOURNAL, vol. 25 (1960), pp. 39-53.",
         "id": "Vaught1960a",
         "resolution_method": "heuristic_matcher"
@@ -11673,6 +12518,11 @@
         "reference": "Ivo THOMAS, Finite limitations on Dummett's LC. Notre Dame Journal of Formal Logic, vol. III (1962), pp. 170-174.",
         "id": "Thomas1962a",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "This JOURNAL, vol. 14 (1949), pp. 32-41.",
+        "id": "Goodman1949a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "Hilbert and Bernays, Grundlagen der Mathematik, volume I (1934)",
@@ -11865,6 +12715,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "H. RASIOWA and R. SIKORSKI, Algebraic treatment of the notion of satisfiability, Fundamenta mathematicae, vol. 40 (1953), pp. 62-95.",
+        "id": "Rasiowa1953a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "M. WAJSBERG, Untersuchungen über den Aussagenkalkül von A. Heyting, Wiadomości matematyczne, vol. 46 (1938), pp. 45-101.",
         "id": "Wajsberg1938a",
         "resolution_method": "stage9_candidate_work"
@@ -11908,6 +12763,11 @@
         "reference": "Uber die Nicht-charakterisierbarkeit der Zahlenreihe mittels endlich oder abzahlbar unendlich viewer Aussagen mit ausschliesslich Zahlenvariablen, Fundamenta mathematicae, vol. 23 (1934), pp. 150-161.",
         "id": "Skolem1934b",
         "resolution_method": "stage8_parser_match+stage9_existing_work"
+    },
+    {
+        "reference": "J. N. CROSSLEY and R. PARIKH. On Isomorphisms of recursive well-orderings (abstract), this JOURNAL, vol. 28 (1963), P. 308.",
+        "id": "Crossley1963a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "S. FEFERMAN, Systems of predictive analysis, this JOURNAL, vol. 29 (1964), pp. 1-30.",
@@ -12090,6 +12950,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "JERZY ŁOŚ, O matrycach logicznych (On logical matrices), Prace Wroc- ławskiego Towarzystwa Naukowego, series B, no. 19, Wrocław 1949, 42 pp.",
+        "id": "Los1949a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "NORMAN M. MARTIN, Some analogues of the Sheffer stroke function in n-valued logic, Indagationes mathematicae, vol. 12 (1950), pp. 373-400.",
         "id": "Martin1950c",
         "resolution_method": "stage9_parsed_duplicate"
@@ -12108,6 +12973,11 @@
         "reference": "EMIL L. POST, Introduction to a general theory of elementary propositions, American journal of mathematics, vol. 43 (1921), pp. 163-185.",
         "id": "Post1921a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "JERZY SŁUPECKI, Kryterium pe~no~ci wielowarto~ciowych systemdw logiki zdari (A criterion of fullness of many-valued systems of propositional logic), Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 32 (1939), pp. 102-109.",
+        "id": "Slupecki1939b",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "DONALD L. WEBB, Generation of any n-valued logic by one binary operator, Proceedings of the National Academy of Sciences, vol. 21 (1935), pp. 252-254.",
@@ -12138,6 +13008,26 @@
         "reference": "J. R. SHOENFIELD, On the independence of the axiom of constructibility, American Journal of Mathematics, vol. 81 (1959), pp. 537-540.",
         "id": "Shoenfield1959e",
         "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
+    },
+    {
+        "reference": "A. HAJNAL, On a consistency theorem connected with the generalized continuum hypothesis, Acta. Mathematica Academiae Scientiarum Hungaricae, vol. 12 (1961), pp. 321-376.",
+        "id": "Hajnal1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "P. J. COHEN, The independence of the continuum hypothesis, Proceedings of the National Academy of Sciences, vol. 50 (1963), pp. 1143-1148",
+        "id": "Cohen1963b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "vol. 51 (1964), pp. 105-110.",
+        "id": "Cohen1963b",
+        "resolution_method": "immediate_volume_continuation"
+    },
+    {
+        "reference": "R. SOLOVAY, 2א0 can be anything it ought to be, The theory of models, North-Holland, Amsterdam, 1965, p. 435.",
+        "id": "Solovay1965a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "J. Dugundji, Note on a property of matrices for Lewis and Langford's calculi of proposi- tions, this JOURNAL, vol. 5 (1940) pp. 150-151.",
@@ -12255,8 +13145,33 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "J. W. ADDISON, Separation principles in the hierarchies of classical and effective descriptive set theory, Fundamenta mathematicae, vol. 46 (1959), pp. 123-135.",
+        "id": "Addison1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. R. D. MATHIAS, On a generalization of Ramsey's theorems, Notices of the American Mathematical Society, vol. 15 (1968), p. 931.",
+        "id": "Mathias1968a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. SCOTT and R. M. SOLOVAY, Boolean-valued models of set theory, Proc. Sympos. Pure Math., vol. 13, Amer. Math. Soc., Providence, R.I. (to appear).",
+        "id": "ScottUndateda",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "J. SHOENFIELD, The problem of predicativity. Essays on the foundations of mathematics, Magnes Press, Jerusalem, 1961, pp. 226-233.",
         "id": "Shoenfield1961c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. M. SOLOVAY, Ʃ12 subsets of R are Lebesgue measurable (to appear).",
+        "id": "SolovayUndateda",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. M. SOLOVAY and S. TENNENBAUM, Iterated Cohen extensions and Souslin's problem (to appear).",
+        "id": "SolovayUndatedb",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -12355,6 +13270,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "W. HANF, Incompactness in languages with infinitely long expressions, Fundamenta mathe- maticae, vol. 53 (1964), pp. 309-324.",
+        "id": "Hanf1964a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "C. KARP, Languages with expressions of infinite length, North-Holland, Amsterdam, 1964.",
         "id": "Karp1964a",
         "resolution_method": "stage9_candidate_work"
@@ -12411,7 +13331,12 @@
     },
     {
         "reference": "D. SCOTT, Logic with denumerably long formulas and finite strings of quantifiers, The theory of models, edited by J. Addison, L. Henkin, and A. Tarski, North-Holland, Amsterdam, 1965, pp. 329-341.",
-        "id": "Scott1965d",
+        "id": "Scott1965e",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. SOLOVAY, A A' non-constructible set of integers, Transactions of the American Mathe- matical Society, vol. 127 (1967), pp. 50-75.",
+        "id": "Solovay1967a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -12590,6 +13515,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "this JOURNAL, vol. 9(1944), pp. 33-41.",
+        "id": "Goodstein1944a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
         "reference": "W. Ackermann, Zum Hilbertschen Aufbau der reelen Zahlen, Mathematische Annalen, vol. 99(1928), p. 120.",
         "id": "Ackermann1928a",
         "resolution_method": "heuristic_matcher"
@@ -12686,13 +13616,13 @@
     },
     {
         "reference": "A. ROBINSON, On the metamathematics of algebra, Studies in logic and the foundations of mathematics, Amsterdam, North Holland Pub. Co., 1951, IX + 195 pp.",
-        "id": "Robinson1951b",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1951c",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. ROBINSON, On axiomatic systems which possess finite models, Methodos, 1951, pp. 140-149.",
-        "id": "Robinson1951c",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1951d",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "K. GÖDEL, The consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory, Princeton, 1951.",
@@ -12770,6 +13700,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "This JOURNAL, vol. 14 (1949), pp. 95-97.",
+        "id": "Dienes1949b",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
         "reference": "Über die Hypothesen der Mengen- lehre, Mathematische Zeitschrift, vol. 25 (1926), pp. 439-473",
         "id": "Chwistek1926a",
         "resolution_method": "stage8_parser_match+stage9_existing_work"
@@ -12778,6 +13713,11 @@
         "reference": "F. B. Fitch, The consistency of the ramified Principia, this JOURNAL vol. 3 (1938), pp. 140-149.",
         "id": "Fitch1938a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "This JOURNAL, vol. 13 (1948), pp. 95-106.",
+        "id": "Fitch1948a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "Kleene in his review of EBL, this JOURNAL, vol. 14 (1949), pp. 68-69.",
@@ -12927,6 +13867,11 @@
     {
         "reference": "R. HARROP, A relativization procedure for propositional calculi with an application to a generalized form of Post's theorem. Proceedings of the London Mathematical Society, vol. 14 (1964), pp. 595-617.",
         "id": "Harrop1964a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. H. IHRIG, The Post Lineal theorems for arbitrary recursively enumerable degrees of unsolvability, Notre Dame journal of formal logic, vol. 4 (1965), pp. 54-71.",
+        "id": "Ihrig1965a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -13285,6 +14230,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "G. R. ROSE and J. S. ULLIAN, Approximation of functions on the integers, Pacific journal of mathematics, vol. 13 (1963), pp. 693-701.",
+        "id": "Rose1963a",
+        "resolution_method": "heuristic_matcher"
+    },
+    {
         "reference": "G. E. SACKS, A maximal set which is not complete, Michigan mathematical journal, vol. 11 (1964), pp. 193-205.",
         "id": "Sacks1964b",
         "resolution_method": "stage9_candidate_work"
@@ -13541,7 +14491,7 @@
     },
     {
         "reference": "ABRAHAM ROBINSON, Introduction to model theory and to the metamathematics of algebra, North-Holland, Amsterdam, 1963.",
-        "id": "Robinson1963a",
+        "id": "Robinson1963d",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -13618,6 +14568,11 @@
         "reference": "QUINE, W. V., Concatenation as basis for arithmetic, this JOURNAL, vol. 11 (1946), pp. 105-114.",
         "id": "Quine1946a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "W. W. BOONE, Partial results regarding word problems and recursively enumerable degrees of unsolvability, Bulletin of the American Mathematical Society, vol. 68 (1962), pp. 616-623.",
+        "id": "Boone1962a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "R. A. BULL, The implicational fragment of Dummett's LC, this JOURNAL, vol. 27 (1962), pp. 189-194.",
@@ -13730,6 +14685,21 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "A. H. IHRIG, Post-Linial theorems for r.e.d.u., Notices of the American Mathematical Society, vol. 11 (1964), p. 456 (Abstract).",
+        "id": "Ihrig1964a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. H. IHRIG, Coincidence of partial propositional calculi, Notices of the American Mathematical Society, vol. 11 (1964), p. 457 (Abstract).",
+        "id": "Ihrig1964b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. H. IHRIG, Classes of partial propositional calculi and r.e.d.u.'s, Notices of the American Mathematical Society, vol. 11 (1964), p. 669 (Abstract).",
+        "id": "Ihrig1964c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "S. JAŚKOWSKI, Recherches sur le système de la logique intuitioniste, Actes du Congrès International de Philosophie Scientifique VI, Philosophie des Mathematiques, Actualités Seientifiques et Industrielles, no. 393, Paris (Hermann), 1936, pp. 58-61.",
         "id": "Jaskowski1936b",
         "resolution_method": "stage9_candidate_work"
@@ -13792,6 +14762,21 @@
     {
         "reference": "A. N. PRIOR, Formal Logic, Oxford (Clarendon), second edition 1962.",
         "id": "Prior1962b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "H. RASIOWA, 0 Pewnym, Fragnencie Implikacyinego Rachunku Zdah (On a fragment of implicative propositional calculus) (Polish with Russian and English summaries), Studia Logica, vol. 3 (1955), pp. 208-226.",
+        "id": "Rasiowa1955a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "G. F. ROSE, Jaskowski's truth-tables and realizability, Ph.D. thesis, University of Wisconsin, 1952.",
+        "id": "Rose1952c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "G. F. ROSE, Propositional calculus and realizability, Transactions of the American Mathematical Society, vol. 75 (1953), pp. 1-19.",
+        "id": "Rose1953c",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -13861,8 +14846,8 @@
     },
     {
         "reference": "A. ROBINSON, Introduction to model theory and to the metamathematics of algebra, North Holland, Amsterdam, 1963.",
-        "id": "Robinson1963a",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1963d",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "C. RYLL-NARDZEWSKI, On theories categorical in power cs0, Bulletin de l'Académie Polonaise des Sciences, Série des Sciences Mathématiques, Astronomiques et Physiques, vol. 7 (1959), pp. 545-548.",
@@ -13893,6 +14878,11 @@
         "reference": "A minimum calculus for logic, ibid., vol. 9 (1944), pp. 89-94",
         "id": "Fitch1942a",
         "resolution_method": "ibid_or_loc_cit_context"
+    },
+    {
+        "reference": "This JOURNAL, vol. 1 (1936), pp. 87-91.",
+        "id": "Rosser1936b",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "H. BEHMANN, Zu den Widersprüchen der Logik und der Mengenlehre, Jahres- bericht der Deutschen Mathematiker-Vereinigung, Bd. 40 (1931), S. 37-48.",
@@ -14145,6 +15135,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "R. C. Lyndon, The representation of algebras of relations, Bulletin of the American Mathematical Society, vol. 55 (1949), pp. 513-514, Abstract 234.",
+        "id": "Lyndon1949a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "K. Gödel, Oberformal unentscheidbare SaIze der Principia A!athematicat und ver- wandlerSysteme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a",
         "resolution_method": "heuristic_matcher"
@@ -14178,6 +15173,11 @@
         "reference": "J. N. CROSSLEY, Constructive order types, I, in Formal Systems and Recursive Functions, ed. J. N. Crossley and M. A. E. Dummett. Amsterdam 1965, pp. 189-264.",
         "id": "Crossley1966a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "J. N. CROSSLEY and R. J. PARIKH, On isomorphisms of recursive well-orderings, (Abstract) this JOURNAL, Vol. 28, p. 308.",
+        "id": "Crossley1963a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "P. BERNAYS, A system of axiomatic set theory, Part VII, this JOURNAL, VOl. 19 (1954), pp. 81-96.",
@@ -14350,6 +15350,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "This JOURNAL, vol. 8 (1943), pp. 1-23.",
+        "id": "Martin1943a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
         "reference": "R. M. Martin, A note on nominalism and recursive functions, this JOURNAL, VOI. 14 (1949), pp. 27-31.",
         "id": "Martin1949a",
         "resolution_method": "heuristic_matcher"
@@ -14425,6 +15430,11 @@
         "resolution_method": "immediate_volume_continuation"
     },
     {
+        "reference": "J. SŁUPECKI, S. Legniewski's calculus of names, Studia logica, vol. 3 (1955), pp. 7-76.",
+        "id": "Slupecki1955a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "B. SOBOCIŃSKI, L'analyse de l'antinomie russellienne par Legniewski, Methodos, vol. 1 (1949), pp. 94-107, 220-228, 308-316",
         "id": "Sobocinski1949b",
         "resolution_method": "stage9_candidate_work"
@@ -14448,6 +15458,11 @@
         "reference": "N. D. BELNAP, JR., Intensional models for first degree formulas, this JOURNAL, vol. 32 (1967), pp. 1-22.",
         "id": "Belnap1967a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "J. ŁOŚ, On logical matrices, Travaux de la Société des Sciences et des Lettres de Wroclaw, Seria B, no. 19, 1949. (Polish)",
+        "id": "Los1949b",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "J. C. C. MCKINsEY, A solution to the decision problem for the Lewis systems S2 and S4 with an application to topology, this JOURNAL, vol. 6 (1941), pp. 117-134.",
@@ -14622,6 +15637,11 @@
     {
         "reference": "A. MOSTOWSKI, Axiomatizability of some many valued predicate calculi, Fundamenta mathematicae, vol. 50 (1961), pp. 165-190.",
         "id": "Mostowski1961a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "H. RASIOWA and R. SIKORSKI, A proof of the completeness theorem of Gedel, Fundamenta mathematicae, vol. 37 (1950), pp. 193-200.",
+        "id": "Rasiowa1950a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -14815,6 +15835,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "M. L. MINSKY, Computation; finite and infinite machines, Prentice-Hall, Englewood Cliffs, N.J., 1967.",
+        "id": "Minsky1967a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "N. D. BELNAP, JR., Intensional models for first-degree formulas, this JOURNAL, vol. 32 (1967), pp. 1-22.",
         "id": "Belnap1967a",
         "resolution_method": "heuristic_matcher"
@@ -14905,6 +15930,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "W. W. BOONE (1959) The word problem, Annals of mathematics, vol. 70, pp. 207-265.",
+        "id": "Boone1959a",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
         "reference": "D. F. CUDIA AND W. E. SINGLETARY (1965) Post's correspondence problem and degrees of unsolvability; Degrees of unsolvability in automata and grammars, this JOURNAL, vol. 30, pp. 267-268.",
         "id": "Cudia1965a",
         "resolution_method": "stage9_candidate_work"
@@ -14912,12 +15942,27 @@
     {
         "reference": "M. DAVIS (1958) Computability and unsolvability, McGraw-Hill, New York.",
         "id": "Davis1958a",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "A. H. IHRIG (1964) Applications of recursive function theory to algebra, Doctoral dissertation, Univ. of Illinois, pp. 1-61 + appendix.",
+        "id": "Ihrig1964d",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "S. C. KLEENE (1952) Introduction to metamathematics, Van Nostrand, Princeton, N.J.",
+        "id": "Kleene1952a",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "A. A. MUČNIK (1956) Negative answer to the problem of reducibility of the theory of algorithms (in Russian), Dokl. Acad. Nauk SSSR, vol. 108, pp. 194-197.",
+        "id": "Muchnik1956c",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "E. L. POST (1943) Formal reductions of the general combinatorial decision problem, American journal of mathematics, vol. 65, pp. 197-215.",
         "id": "Post1943a",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "(1947) Recursive unsolvability of a problem of Thue, this JOURNAL, vol. 12, pp. 1-11.",
@@ -15125,6 +16170,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "C. Kuratowski, Sur la notion de V'ordre dans la theorie des ensembles, Fundamenta mathematicae, vol. 2 (1921), pp. 161-171.",
+        "id": "Kuratowski1921a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "N. Wiener, A simplification of the logic of relations, Proceedings of the Cambridge Philo- sophical Society, vol. 17 (1914), pp. 387-390.",
         "id": "Wiener1914a",
         "resolution_method": "heuristic_matcher"
@@ -15151,7 +16201,7 @@
     },
     {
         "reference": "R. M. Robinson, Arithmetical definitions in the ring of integers, Proceedings of the American Mathematical Society, vol. 2 (1951), pp. 279-284.",
-        "id": "Robinson1951d",
+        "id": "Robinson1951g",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -15217,6 +16267,11 @@
     {
         "reference": "S. C. KLEENE, On the forms of the predicates in the theory of constructive ordinals (second paper), American Journal of Mathematics, vol. 77 (1955), pp. 405-428.",
         "id": "Kleene1955b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. KREIDER, Analytic predicates and extensions of the notion of constructive ordinal, Ph.D. Thesis, Massachusetts Institute of Technology, 1958.",
+        "id": "Kreider1958a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -15406,13 +16461,18 @@
     },
     {
         "reference": "A. ROBINSON, Complete Theories, Studies in Logic and the foundations of mathematics, Amsterdam (North Holland Pub. Co.) 1956.",
-        "id": "Robinson1956d",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1956g",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. ROBINSON, On predicates in algebraically closed fields, this JOURNAL, Vol. 19 (1954), Pp. 103-114.",
         "id": "Robinson1954a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "B. L. VAN DER WAERDEN, Einführung in die algebraische Geometrie, Berlin (Springer) 1939.",
+        "id": "Waerden1939a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "JULIA ROBINSON, Definability and decision problems in arithmdic, this JOURNAL, Vol. 14 (1949), pp. 98-114, Theorem 1.1.",
@@ -15610,6 +16670,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "B. A. TRAHTÉNBROT, Ndvozmotnost' algorifma d~d problimy razrtifmosti na koninyh klassah (Unm6glichkeit eines Algorithmus fUr die Entscheidungsproblem in endlichen Klassen), Doklady Akadémii Nauk SSSR, n. R., Bd. 70 (1950), S. 569-572.",
+        "id": "Trakhtenbrot1950b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "Alonzo Church's Intro- duction to mathematical logic, Princeton University Press, 1944.",
         "id": "Church1944a",
         "resolution_method": "stage9_candidate_work"
@@ -15655,6 +16720,26 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "A. ROBINSON, Non-standard analysis, Studies in logic and foundations of mathematics, North-Holland, Amsterdam, 1966.",
+        "id": "Robinson1966a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. ROBINSON, Non-standard theory of Dedekind rings, Proceedings of the Royal Academy of Science, North-Holland, Amsterdam, vol. 70 (1967), pp. 444-452.",
+        "id": "Robinson1967c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. ROBINSON, Non-standard arithmetic, Bulletin of the American Mathematical Society, vol. 73 (1967), pp. 818-843.",
+        "id": "Robinson1967d",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "PAUL J. COHEN, Set theory and the continuum hypothesis, W. A. Benjamin, Inc., New York, 1966.",
+        "id": "Cohen1966a",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
         "reference": "SAUL KRIPKE, Semantical considerations on modal logic, Proceedings of a colloquium on modal and many-valued logics, Helsinki, August 1962, Acta philosophica Fennica No. 16, Helsinki (1963), pp. 83-94.",
         "id": "Kripke1963b",
         "resolution_method": "heuristic_matcher"
@@ -15696,8 +16781,23 @@
     },
     {
         "reference": "A. HAJNAL, On a consistency theorem connected with the generalized continuum problem (abstract), Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 2 (1956), pp. 131-136.",
-        "id": "Mostowski1956a",
-        "resolution_method": "heuristic_matcher"
+        "id": "Hajnal1956a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "A. HAJNAL, On a consistency theorem connected with the generalized continuum problem, to appear in Acta mathematica Academiae Scientiarum Hungaricae.",
+        "id": "HajnalUndateda",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. L. KREIDER, On sets in both two-function-quantifier forms (abstract), Notices of the American Mathematical Society, vol. 6 (1958), p. 364.",
+        "id": "Kreider1958b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. L. KREIDER and H. ROGERS, JR., Analytic predicates and extensions of the notion of constructive ordinals, to appear.",
+        "id": "KreiderUndateda",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "A. LÉVY, Contributions to the metamathematics of set theory (Hebrew with English summary), Ph. D. thesis, Hebrew University, Jerusalem, 1958.",
@@ -15791,7 +16891,7 @@
     },
     {
         "reference": "R. W. ROBINSON, Recursively enumerable sets not contained in any maximal set, Abstract 632-4, Notices of the American Mathematical Society, vol. 13 (1966), p. 325.",
-        "id": "Robinson1966a",
+        "id": "Robinson1966b",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -15818,6 +16918,11 @@
         "reference": "W. V. Quine, On the theory of types, this JOURNAL, vol. 3 (1938), pp. 125-139.",
         "id": "Quine1938d",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "this JOURNAL, vol. 6 (1941), pp. 135-149.",
+        "id": "Quine1941a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "F. B. Fitch, A basic logic, this JOURNAL, vol. 7 (1942), pp. 105-114.",
@@ -15960,6 +17065,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "W. P. HANF and D. Scorr, Classifying inaccessible cardinals, Notices of the American Mathematical Society, vol. 8 (1961), p. 445.",
+        "id": "Hanf1962b",
+        "resolution_method": "heuristic_matcher"
+    },
+    {
         "reference": "A. MOSTOWSKI, Some impredicative definitions in the axiomatic set theory, Fundamenta mathematicae, vol. 37 (1950), p. 111.",
         "id": "Mostowski1950a",
         "resolution_method": "stage9_parsed_duplicate"
@@ -16060,9 +17170,19 @@
         "resolution_method": "ibid_or_loc_cit_context"
     },
     {
+        "reference": "J. ŁOŚ, Sur les classes définissables, p. 107, in Mathematical interpretation of formal systems, Amsterdam (North Holland Publishing Co.), 1955.",
+        "id": "Los1955e",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. C. LYNDON, Properties preserved under homomorphism, Pacific journal of mathematics, Vol. 9 (1959), pp. 143-154.",
+        "id": "Lyndon1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "A. ROBINSON, On the metamathematics of algebra, Amsterdam (North Holland Publishing Co.), 1951.",
         "id": "Robinson1951b",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "A. ROBINSON, Note on a problem of Henkin, this JOURNAL, Vol. 21 (1956), pp. 33-35.",
@@ -16280,6 +17400,11 @@
         "resolution_method": "ibid_or_loc_cit_context"
     },
     {
+        "reference": "R. C. LYNDON, Properties preserved under algebraic constructions, Bulletin of the American Mathematical Society, vol. 65 (1959), pp. 287-299.",
+        "id": "Lyndon1959b",
+        "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
+    },
+    {
         "reference": "W. V. QUINE, Mathematical Logic, revised edition, Cambridge (Harvard University Press), 1951.",
         "id": "Quine1951c",
         "resolution_method": "stage9_parsed_duplicate"
@@ -16298,6 +17423,11 @@
         "reference": "A. TARSKI and R. L. VAUGHT, Arithmetical extensions of relational systems, Compositio mathematica, vol. 13 (1957), pp. 81-102.",
         "id": "Tarski1957a",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "B. A. TRAHTÉNBROT, Névozmožnost' algorifma dlá problémy razréšimosti na konéčnyh klassah (Impossibility of an algorithm for the decision problem in finite classes), Doklady Akadémii Nauk SSSR, n.s., vol. 70 (1950), pp. 569-572.",
+        "id": "Trakhtenbrot1950c",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "LQ QUINE, W. V., On the logic of quantification, this JOURNAL, Vo1. 10 (1945), pp. 1-12.",
@@ -16443,6 +17573,21 @@
         "reference": "A. TARSKI, A. MosTowsKi, and R. M. ROBINSON, Undecidable theories, Amsterdam, 1953.",
         "id": "Tarski1953c",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "B. A. TRAHTÉNBROT, Ndvozmoznost' algori/ma dla probldmy razrydimosti na kon6~nyh kiassak (Impossibility of an algorithm for the decision problem in finite classes), Doklady Akadémii Nauk SSSR, vol. 70 (1950), pp. 569-572.",
+        "id": "Trakhtenbrot1950c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "B. A. TRAHTÉNBROT, 0 rdkursivnoj otddlimosti (On recursive separability), Doklady Akadémii Nauk SSSR, vol. 88 (1953), pp. 953-956.",
+        "id": "Trakhtenbrot1953a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "B. A. TRAHTÉNBROT, Definition of finite sets and deductive incompleteness of the theory of sets, Izvéstiya Akadémii Nauk SSSR, ser. mat., vol. 20 (1956), pp. 569-582.",
+        "id": "Trakhtenbrot1956a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "R. L. VAUGHT, Non-recursive-enumerability of the set of sentences true in all constructive models, Bulletin of the American Mathematical Society, vol. 63 (1957), p. 230.",
@@ -16606,7 +17751,7 @@
     },
     {
         "reference": "R. M. Robinson's review of R6sza Peter's Rekursive Funktionen, this JOURNAL, Vol. 16 (1951), pp. 280-282.",
-        "id": "Robinson1951e",
+        "id": "Robinson1951h",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -16665,6 +17810,16 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "J. Los, On extending of models. I, Fundamenta mathematicae, vol. 42 (1955), pp. 38-54.",
+        "id": "Los1955f",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "R. C. LYNDON, Properties preserved under homomorphism, Pacific journal of mathematics, vol. 9 (1959), pp. 143-154.",
+        "id": "Lyndon1959a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "M. MAKKAI, On PCA-classes in the theory of models, A Magyar Tudományos Akademia Matematikai Kutató Intézetének Közleményei, vol. 9 (1964), pp. 159-194.",
         "id": "Makkai1964a",
         "resolution_method": "stage9_candidate_work"
@@ -16678,6 +17833,11 @@
         "reference": "M. MAKKAI, Applications of a method of Smullyan's to logics on admissible sets (to appear).",
         "id": "MakkaiUndateda",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. S. SCOTT, Logic with denumerably long formulas and finite strings of quantifiers. The theory of models. Proceedings of the 1963 International Symposium at Berkeley, North-Holland, Amsterdam, 1965, pp. 329-341.",
+        "id": "Scott1965a",
+        "resolution_method": "heuristic_matcher"
     },
     {
         "reference": "R. M. SMULLYAN, A unifying principal in quantification theory, Proceedings of the National Academy of Science U.S.A., vol. 49 (1963), pp. 828-832.",
@@ -16800,6 +17960,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "this JOURNAL, vol. 6 (1941), pp; 1-17.",
+        "id": "Bernays1941a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
         "reference": "E. Zermelo, Untersuchungen aber die Grundlagen der Mengenlehre 1, Mathematische Annalen, vol. 65 (1908), \"Axiom VII,\" pp. 266-267.",
         "id": "Zermelo1908c",
         "resolution_method": "heuristic_matcher"
@@ -16830,6 +17995,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "this JOURNAL, vol. 2 (1937), pp. 65-77",
+        "id": "Bernays1937a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+    },
+    {
         "reference": "J. König, Zum Kontinuum- Problem, Mathematische Annalen, vol. 60 (1905), pp. 177-180",
         "id": "Konig1905b",
         "resolution_method": "stage9_candidate_work"
@@ -16851,7 +18021,7 @@
     },
     {
         "reference": "Kuratowski in his paper, Sur la notion de l'ordre dars la theorie des ensembles, Fundamenta mathematicae, vol. 2 (1921), pp. 161-171.",
-        "id": "Kuratowski1921a",
+        "id": "Kuratowski1921d",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -16970,9 +18140,14 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "D. F. HUGILL, Initial segments of Turing degrees, Proceedings of the London Mathematical Society, vol. 19 (1969), pp. 1-16.",
+        "id": "Hugill1969a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "D. F. HUGILL and A. H. LACHLAN, Distributive initial segments of the degrees of unsolv- ability, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 14 (1968), pp. 457-472.",
         "id": "Lachlan1968b",
-        "resolution_method": "stage9_parsed_duplicate"
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "D. A. MARTIN, Classes of recursively enumerable sets and degrees of unsolvability, Zeit- schrift für mathematische Logik und Grundlagen der Mathematik, vol. 12 (1966), pp. 295-310.",
@@ -17205,6 +18380,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "A. W. Burks, The logic of causal propositious, Mind, n.s. vol. 60 (1951), pp. 363-382.",
+        "id": "Burks1951a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "W. T. Parry, Modalities in the survey system of strict implication, this JOURNAL, vol. 4 (1939), pp. 137-154",
         "id": "Parry1939a",
         "resolution_method": "heuristic_matcher"
@@ -17213,6 +18393,11 @@
         "reference": "A. R. Anderson and N. D. Belnap, Jr., First degree entailments, Technical Report No. 10, ibid., 1961",
         "id": "Anderson1956c",
         "resolution_method": "ibid_or_loc_cit_context"
+    },
+    {
+        "reference": "this JOURNAL, vol. 16 (1951), pp. 161-190",
+        "id": "Shepherdson1951a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "GÖDEL, K., The consistency of the continuum hypothesis. Princeton 1940.",
@@ -17305,6 +18490,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "B. L. VAN DER WAERDEN. Moderne algebra, vol. 1, 1st. ed., Berlin (Springer), 1930, 128 pp.",
+        "id": "Waerden1930a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "GUSTAV BERGMANN, The finite representations of SS, Methodos, vol. 2 (1949), pp. 217-219.",
         "id": "Bergmann1949c",
         "resolution_method": "stage9_candidate_work"
@@ -17371,7 +18561,7 @@
     },
     {
         "reference": "ABRAHAM ROBINSON, On axiomatic systems which possess finite models, Methodos, Vol. 3 (1951), pp. 140-149.",
-        "id": "Robinson1951c",
+        "id": "Robinson1951d",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -17531,7 +18721,7 @@
     },
     {
         "reference": "G, KREISEL, Model-theoretic invariants: applications to recursive and hyperarithmetic operations, The theory of models; North-Holland, Amsterdam, 1965, pp. 190-205.",
-        "id": "Monk1965b",
+        "id": "Scott1965a",
         "resolution_method": "heuristic_matcher"
     },
     {
@@ -17552,6 +18742,11 @@
     {
         "reference": "G. GENTZEN, Untersuchungen ilber das logische Schliessen I. Math. Zeitschrift, vol. 39 (1935), pp. 176-210.",
         "id": "Gentzen1934a",
+        "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "Stig Kanger, Provability in logic, Stockholm studies in Philosophy, vol. 1. Alynquist & Wiksell, 1957.",
+        "id": "Kanger1957b",
         "resolution_method": "heuristic_matcher"
     },
     {
@@ -17596,7 +18791,7 @@
     },
     {
         "reference": "Kuratowski, Sur la notion de l'ordere dons la th eorie des ensembles, Fundamenta mathematicae, vol. 2 (1921), p. 171",
-        "id": "Kuratowski1921b",
+        "id": "Kuratowski1921a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -17676,8 +18871,8 @@
     },
     {
         "reference": "A. ROBINSON, On the meta-mathematics of algebra, Studies in logic and the foundations of mathematics, Amsterdam, 1951.",
-        "id": "Robinson1951b",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1951c",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "L. HENKIN, The completeness of the first-order functional calculus, this JOURNAL, vol. 14 (1949), pp. 159-166.",
@@ -17830,11 +19025,6 @@
         "resolution_method": "stage9_parsed_duplicate"
     },
     {
-        "reference": "A. ROSE, The degree of completeness o0 the K.-valued Lukasiewicz propositional calculus, Journal of the London Mathematical Society, vol. 28 (1953), pp. 176-184.",
-        "id": "Rose1953b",
-        "resolution_method": "heuristic_matcher"
-    },
-    {
         "reference": "A. ROSE and J. B. ROSSER, Fragments of many-valued statement calculi, Trans- actions of the American Mathematical Society, vol. 87 (1958), pp. 1-53.",
         "id": "Rose1958a",
         "resolution_method": "stage9_parsed_duplicate"
@@ -17928,6 +19118,11 @@
         "reference": "H. B. CURRY, Foundations of mathematical logic, McGraw Hill, 1963.",
         "id": "Curry1963a",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "A. A. MARKOV, Theory of algorithms, Trudy mat6mati66skogo Instituta im6ni V. A. St~klova (Translation: Office of Technical Services, U. S. Department of Commerce, Washington, D. C., 1961).",
+        "id": "Markov1961b",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "E. MENDELSON, Introduction to mathematical logic, D. Van Nostrand, 1964.",
@@ -18060,6 +19255,11 @@
         "resolution_method": "stage9_parsed_duplicate"
     },
     {
+        "reference": "A. A. MUCHNIK, On the unsolvability of the problem of reducibility in the theory of algor- ithms (Russian), Doklady Akademii Nauk SSSR, n.s., vol. 108 (1956), pp. 194-197.",
+        "id": "Muchnik1956e",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "G. E. SACKS, Degrees of unsolvability, Princeton, 1961.",
         "id": "Sacks1961b",
         "resolution_method": "stage9_candidate_work"
@@ -18086,8 +19286,8 @@
     },
     {
         "reference": "this JOURNAL, vol. 21 (1956), pp. 36-48.",
-        "id": "Myhill1956b",
-        "resolution_method": "heuristic_matcher"
+        "id": "Gandy1956a",
+        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "The consistency of the continuum hypothesis and of the generalized continuum-hypothesis with the axioms of set theory, Princeton (Princeton University Press), 1940, 66 pp. Second printing 1951, 74 pp.",
@@ -18240,6 +19440,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "R. LYNDON, An interpolation theorem in the predicate calculus, Pacific journal of mathe- matics, vol. 9 (1959), pp. 129-142.",
+        "id": "Lyndon1959c",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
         "reference": "J. B. ROSSER and A. R. TURQUETTE, Many-valued logics, North-Holland, Amsterdam, 1952.",
         "id": "Rosser1952c",
         "resolution_method": "stage9_candidate_work"
@@ -18251,8 +19456,8 @@
     },
     {
         "reference": "A. ROBINSON, A result on consistency and its application to the theory of definability, Indagationes Mathematicae, vol. 18 (1956), pp. 47-58.",
-        "id": "Robinson1956c",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1956d",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "L. HENKIN, An extension of the Craig-Lyndon Interpolation Theorem, this JOURNAL, vol. 28 (1963), pp. 201-216.",
@@ -18282,6 +19487,16 @@
     {
         "reference": "J. B. ROSSER and A. R. TURQUETTE, Many-valued logics, Amsterdam (North-Holland), 1955.",
         "id": "Rosser1955c",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "JERZY SŁUPECKI, Der volle dreiwertige Aussagen-kalkül, Comtes rendus des séances de la Société des Sciences et des Lettres de Varsovie, classes III, vol. 29 (1936), pp. 9-11.",
+        "id": "Slupecki1936b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "JERZY SŁUPECKI, Kryterium pełnosci wielowartosciowych systemow logiki zdan (A criterion of fullness of many-valued systems of propositional logic), Comtes rendus des séances de la Société des Sciences et des Lettres de Varsovie, classes III, vol. 32 (1939), pp. 102-109.",
+        "id": "Slupecki1939c",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -18375,6 +19590,11 @@
         "resolution_method": "heuristic_matcher"
     },
     {
+        "reference": "T. G. McLaughlin, Strong reducibility on hypersimple sets, Notre Dame Journal for Formal Logic, to appear.",
+        "id": "MclaughlinUndateda",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "J. MYHILL, Recursive digraphs, splinters and cylinders, Mathematische Annalen, 138 (1959), pp. 211-218.",
         "id": "Myhill1959b",
         "resolution_method": "stage9_parsed_duplicate"
@@ -18387,6 +19607,11 @@
     {
         "reference": "H. ROGERS, Jr., Recursive Functions and Effective Computability, McGraw-Hill, 1966.",
         "id": "Rogers1966b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "G. F. ROSE and J. S. ULLIAN, Approximnation of functions on the integers, Pacific Journal of Mathematics, 13 (1963), pp. 693-701.",
+        "id": "Rose1963a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -18666,8 +19891,8 @@
     },
     {
         "reference": "ABRAHAM ROBINSON, Complete theories, Amsterdam (North-Holland), 1956.",
-        "id": "Robinson1956d",
-        "resolution_method": "stage9_candidate_work"
+        "id": "Robinson1956c",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "J. C. E. DEKKER and J. MYHILL, Recursive equivalence types, University of California publications in mathematics, vol. 3 (1960), pp. 67-213.",
@@ -18751,8 +19976,18 @@
     },
     {
         "reference": "A. ROBINSON, Introduction to model theory and to the metamathematics of algebra, North-Holland, Amsterdam, 1963.",
-        "id": "Robinson1963a",
-        "resolution_method": "heuristic_matcher"
+        "id": "Robinson1963d",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "B. VAN DER WAERDEN, Eine Bemerkungen uiber die Unzerlegbarkeit von Polynomen, Mathematische Annalen, vol. 102 (1930), pp. 738-739.",
+        "id": "Waerden1930b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "B. VAN DER WAERDEN, Moderne Algebra, 2nd ed., Springer, Berlin, 1937.",
+        "id": "Waerden1937a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "P. BERNAYS, Betrachtungen zum Sequenzen-Kalkul, Contributions to logic and methodology in honor of J. M. Bocheński, A.-T. Tymieniecka, ed., North-Holland, Amsterdam, 1965, pp. 1-44.",
@@ -18768,6 +20003,11 @@
         "reference": "G. GENTZEN, Die Widerspruchsfreiheit der reinen Zahlentheorie, Mathematische Annalen, vol. 112 (1936), pp. 493-565.",
         "id": "Gentzen1936a",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "S. KANGER, Provability in logic, Almquist and Wiksell, Stockholm, 1957.",
+        "id": "Kanger1957b",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "H. LEBLANC, Techniques of deductive inference, Prentice-Hall, Englewood Cliffs, N.J., 1966.",
@@ -18822,6 +20062,11 @@
     {
         "reference": "S. C. KLEENE, Recursive functional and quantifiers of finite types. II, Transactions of the American Mathematical Society, vol. 108 (1963), pp. 106-142.",
         "id": "Kleene1963b",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. L. KREIDER AND H. ROGERS, JR., Constructive versions of ordinal number classes, Transactions of the American Mathematical Society, vol. 100 (1961), pp. 325-369.",
+        "id": "Kreider1961a",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -19020,6 +20265,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "J. ŁOS, A. MOSTOWSKi and H. RASIOWA, A Proof of Herbrand's theorem, Jour- nal de Mathématiques Pures et Appliqués, vol. 35 (1956), pp. 19-25.",
+        "id": "Los1956a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "A. MOSTOWSKI, On definable sets of positive integers, Fundamenta mathe- maticae, vol. 34 (1947), pp. 81-112.",
         "id": "Mostowski1947b",
         "resolution_method": "stage9_candidate_work"
@@ -19038,6 +20288,11 @@
         "reference": "H. PUTNAM, Arithmetic models for consistent formulae of quantification theory, this JOURNAL, vol. 22 (1957), pp. 110-111.",
         "id": "Putnam1957b",
         "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
+        "reference": "A. ROBINSON, On ordered fields and definite functions, Mathematische Annalen, vol. 130 (1955), pp. 257-271.",
+        "id": "Robinson1955a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "J. B. ROSSER, Extensions of some theorems of Godel and Church, this JOURNAL vol. 1 (1936), pp. 87-91.",
@@ -19102,6 +20357,11 @@
     {
         "reference": "Karl Popper, Logik der Forschung, 1935, p. 13 and pp. 67ff",
         "id": "Popper1935a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "B. A. Trahténbrot in a Russian journal. This paper was reviewed in this JOURNAL, VOL. 15 (1950), p. 229.",
+        "id": "Trakhtenbrot1950e",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -19470,6 +20730,11 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
+        "reference": "A. W. BURKS and I. M. Copi, Lewis Carroll's barbershop paradox, Mind, vol. 59 (1950), pp. 219-222.",
+        "id": "Burks1950a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
         "reference": "WILLIAM KNEALE, Aristotle and the Consequentia Mirabilis, Journal of Hel- lenic Studies 77, part i (1957), pp. 62-66.",
         "id": "Kneale1957a",
         "resolution_method": "stage9_candidate_work"
@@ -19500,6 +20765,11 @@
         "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
     },
     {
+        "reference": "JERZY SŁUPECKI, Der volle dreiwertige Aussagenkalkül, Comptes Rendus de la Société des Sciences et des Lettres de Varsovie, Cl. III, vol. 29 (1936), pp.9-11.",
+        "id": "Slupecki1936a",
+        "resolution_method": "stage9_parsed_duplicate"
+    },
+    {
         "reference": "P. F. STRAWSON, Introduction to logical theory, London 1952.",
         "id": "Strawson1952b",
         "resolution_method": "stage9_candidate_work+stage9_parsed_duplicate"
@@ -19508,6 +20778,11 @@
         "reference": "L. FEINER, Degrees of non-recursive presentability, in preparation.",
         "id": "FeinerUndateda",
         "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "D. HUGILL, Initial segments of Turing degrees, Proceedings of the London Mathematical Society, vol. 19 (1969), pp. 1-15.",
+        "id": "Hugill1969a",
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "H. ROGERS, The theory of recursive functions and effective computability, McGraw-Hill, New York, 1967.",
@@ -19542,7 +20817,7 @@
     {
         "reference": "CASIMIR KURATOWSKI, Sur la notion de l'ordre dans la thgorie des ensembles, Funda- menta mathematicae, vol. 2 (1921), pp. 161-171.",
         "id": "Kuratowski1921a",
-        "resolution_method": "heuristic_matcher"
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "W. V. QUINE, On ordered pairs, this JOURNAL, vol. 10 (1945), pp. 95-96.",
@@ -19572,6 +20847,11 @@
     {
         "reference": "W. ACKERMANN, Solvable cases of the decision problem, Studies in logic and the foundations of mathematics, Amsterdam (North Holland) 1954, viii + 144 pp.",
         "id": "Ackermann1954a",
+        "resolution_method": "stage9_candidate_work"
+    },
+    {
+        "reference": "J. W. ADDISON, Some consequences of the axiom of constructibility, to appear in Fundamenta mathematicae, vol. 46.",
+        "id": "AddisonUndatedb",
         "resolution_method": "stage9_candidate_work"
     },
     {
@@ -19643,6 +20923,11 @@
         "reference": "S. OREY, On co-consistency and related properties, this JOURNAL, vol. 21 (1956), pp. 246-252.",
         "id": "Orey1956b",
         "resolution_method": "heuristic_matcher"
+    },
+    {
+        "reference": "H. RASIOWA and R. SIKORSKI, A proof of the completeness theorem of Godel, Fundamenta mathematicae, vol. 37 (1950), pp. 193-200.",
+        "id": "Rasiowa1950a",
+        "resolution_method": "stage9_candidate_work"
     },
     {
         "reference": "J. B. ROSSER, Extensions of some theorems of Godel and Church, this JOURNAL, vol. 1 (1936), pp. 87-91.",
@@ -19742,7 +21027,7 @@
     {
         "reference": "TIMOTHY SMILEY, On Lukasiewicz's L-modal system, Notre Dame journal of formal logic, vol. 2 (1961), pp. 149-153.",
         "id": "Smiley1961a",
-        "resolution_method": "stage9_candidate_work"
+        "resolution_method": "stage9_parsed_duplicate"
     },
     {
         "reference": "KURT GÖDEL, The consistency of the axiom of choice and of the general- ized continuum-hypothesis with the axioms of set theory, Annals of Mathematics studies, no. 3, Princeton (Princeton University Press) 1940, 66 pp.",

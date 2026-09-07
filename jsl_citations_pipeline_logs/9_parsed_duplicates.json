@@ -232,6 +232,14 @@
     "removed_raw_reference": "S. C. KLEENE, Introduction to metamathematics, Amsterdam (North Holland) Groningen (Noordhoff), New York and Toronto (Van Nostrand), 1952."
   },
   {
+    "title": "Propositional calculus and realizability",
+    "year": 1953,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "G. F. ROSE, Propositional calculus and realizability, Transactions of the American Mathematical Society, vol. 75 (1953), pp. 1-19.",
+    "removed_raw_reference": "GENE F. ROSE, Propositional calculus and realizability, Transactions of the American Mathematical Society, vol. 75 (1953) pp. 1-19."
+  },
+  {
     "title": "Foundations of mathematical logic",
     "year": 1963,
     "kept_branch": "all_caps",
@@ -800,6 +808,14 @@
     "removed_raw_reference": "S. C. KLEENE, Introduction to metamathematics, New York (Van Nostrand) 1952, 550 pp."
   },
   {
+    "title": "An interpolation theorem in the predicate calculus",
+    "year": 1959,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "ROGER LYNDON, An interpolation theorem in the predicate calculus. Pacific Journal of Mathematics, vol. 9 (1959), pp. 129-142.",
+    "removed_raw_reference": "R. C. LYNDON, An interpolation theorem in the predicate calculus, Pacific Journal of mathe- matics, vol. 9 (1959), pp. 129-142."
+  },
+  {
     "title": "Cylindric algebras, Proceedings of symposia in pure mathematics",
     "year": 1961,
     "kept_branch": "all_caps",
@@ -944,12 +960,28 @@
     "removed_raw_reference": "QUINE, From a logical point of view (Cambridge, Mass., 1953)."
   },
   {
+    "title": "The axiom of choice in Quine's new foundations for mathematical logic",
+    "year": 1953,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "E. P. SPECKER, The axiom of choice in Quine's New Foundations for Ma- thematical Logic, Proceedings of the National Academy of Sciences of the United States of America, vol. 39 (1953), pp. 972-975.",
+    "removed_raw_reference": "ERNST SPECKER, The axiom of choice in Quine's new foundations for mathema- tical logic, Proceedings of the National Academy of Sciences, vol. 39 (1953), pp. 972-975."
+  },
+  {
     "title": "Fragments of many-valued statement calculi",
     "year": 1958,
     "kept_branch": "all_caps",
     "removed_branch": "all_caps",
     "kept_raw_reference": "ALAN ROSE and J. B. ROSSER, Fragments of many valued statement calculi, Transactions of the American Mathematical Society, vol. 87 (1958), pp. 1-53.",
     "removed_raw_reference": "ALAN ROSE and J. BARKLEY ROSSER, Fragments of many-valued statement calculi, Transactions of the American Mathematical Society, vol. 87 (1958), pp. 1-53."
+  },
+  {
+    "title": "Der volle dreiwertige Aussagenkalkül",
+    "year": 1936,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "J. SLUPECKI, Der volle dreiwertige Aussagenkalkül, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 29 (1936), pp. 9-11.",
+    "removed_raw_reference": "JERZY SŁUPECKI, Der volle dreiwertige Aussagenkalkül, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 29 (1936), pp. 9-11."
   },
   {
     "title": "Introduction to metamathematics, Amsterdam (",
@@ -1100,7 +1132,7 @@
     "year": 1953,
     "kept_branch": "all_caps",
     "removed_branch": "all_caps",
-    "kept_raw_reference": "ERNST SPECKER, The axiom of choice in Quine's new foundations for mathema- tical logic, Proceedings of the National Academy of Sciences, vol. 39 (1953), pp. 972-975.",
+    "kept_raw_reference": "E. P. SPECKER, The axiom of choice in Quine's New Foundations for Ma- thematical Logic, Proceedings of the National Academy of Sciences of the United States of America, vol. 39 (1953), pp. 972-975.",
     "removed_raw_reference": "E. SPECKER, The axiom of choice in Quine's New Foundations for Mathematical Logic, Proceedings of the National Academy of Sciences of the United States of America, vol. 39 (1953), pp. 972-975."
   },
   {
@@ -1424,6 +1456,14 @@
     "removed_raw_reference": "S. C. KLEENE, Introduction to metamathematics, Amsterdam (North Holland), Groningen (Noordhoff), New York, Toronto (Van Nostrand), 1952."
   },
   {
+    "title": "Introduction to model theory and to the metamathematics of algebra",
+    "year": 1963,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "ABRAHAM ROBINSON, Introduction to model theory and to the metamathematics of algebra, North-Holland, Amsterdam, 1963.",
+    "removed_raw_reference": "A. ROBINSON, Introduction to model theory and to the metamathematics of algebra, North Holland, Amsterdam, 1963."
+  },
+  {
     "title": "Introduction to logical theory, London 1952",
     "year": 1952,
     "kept_branch": "all_caps",
@@ -1640,6 +1680,14 @@
     "removed_raw_reference": "L. GILLMAN and M. JERISON, Rings of continuous functions, Van Nostrand, New York, 1960."
   },
   {
+    "title": "Set theory and the continuum hypothesis, W",
+    "year": 1966,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "P. J. COHEN, Set theory and the continuum hypothesis, W. A. Benjamin, Inc., New York, 1966.",
+    "removed_raw_reference": "PAUL J. COHEN, Set theory and the continuum hypothesis, W. A. Benjamin, Inc., New York, 1966."
+  },
+  {
     "title": "Semantical analysis of intuitionistic logic",
     "year": 1965,
     "kept_branch": "all_caps",
@@ -1848,14 +1896,6 @@
     "removed_raw_reference": "J. C. E. DEKKER, A theorem on hypersimple sets, Proceedings of the American Mathematical Society, 5 (1954), 791-796."
   },
   {
-    "title": "Distributive initial segments of the degrees of unsolvability",
-    "year": 1968,
-    "kept_branch": "all_caps",
-    "removed_branch": "all_caps",
-    "kept_raw_reference": "A. H. LACHLAN, Distributive initial segments of the degrees of unsolvability, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 14 (1968), pp. 457-472.",
-    "removed_raw_reference": "D. F. HUGILL and A. H. LACHLAN, Distributive initial segments of the degrees of unsolv- ability, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 14 (1968), pp. 457-472."
-  },
-  {
     "title": "Degrees of unsolvability",
     "year": 1963,
     "kept_branch": "all_caps",
@@ -1918,6 +1958,14 @@
     "removed_branch": "all_caps",
     "kept_raw_reference": "A. TARSKI, Contributions to the theory of models I, II, Indagationes Mathe- maticae, vol. 16 (1954), pp. 572-581, 582-588.",
     "removed_raw_reference": "ALFRED TARSKI, Contributions to the theory of models, I, II, Indagationes mathematicae, vol. 16 (1954), pp. 572-588."
+  },
+  {
+    "title": "On axiomatic systems which possess finite models, Methodos",
+    "year": 1951,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "ABRAHAM ROBINSON, On axiomatic systems which possess finite models, Methodos, Vol. 3 (1951), pp. 140-149.",
+    "removed_raw_reference": "A. ROBINSON, On axiomatic systems which possess finite models, Methodos, 1951, pp. 140-149."
   },
   {
     "title": "An unsolvable problem of elementary number theory",
@@ -2040,6 +2088,14 @@
     "removed_raw_reference": "R. CARNAP, Meaning Postulates, Philosophical studies, vol. 3 (1952): pp. 65-73."
   },
   {
+    "title": "An interpolation theorem in the predicate calculus",
+    "year": 1959,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "ROGER LYNDON, An interpolation theorem in the predicate calculus. Pacific Journal of Mathematics, vol. 9 (1959), pp. 129-142.",
+    "removed_raw_reference": "R. LYNDON, An interpolation theorem in the predicate calculus, Pacific journal of mathe- matics, vol. 9 (1959), pp. 129-142."
+  },
+  {
     "title": "A note on Sheffer functions in N-valued logic, Methodos",
     "year": 1951,
     "kept_branch": "all_caps",
@@ -2088,6 +2144,14 @@
     "removed_raw_reference": "HAO WANG, On Zermelo's and von Neumann's axioms for set theory, Proceedings of the National Academy of Sciences, vol. 35 (1949), pp. 150-155."
   },
   {
+    "title": "Complete theories, Amsterdam (",
+    "year": 1956,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "A. ROBINSON, Complete Theories, Amsterdam, 1956, p. 6.",
+    "removed_raw_reference": "ABRAHAM ROBINSON, Complete theories, Amsterdam (North-Holland), 1956."
+  },
+  {
     "title": "Degrees of unsolvability",
     "year": 1963,
     "kept_branch": "all_caps",
@@ -2108,7 +2172,7 @@
     "year": 1963,
     "kept_branch": "all_caps",
     "removed_branch": "all_caps",
-    "kept_raw_reference": "A. ROBINSON, Introduction to model theory and to the metamathematics of algebra, North Holland, Amsterdam, 1963.",
+    "kept_raw_reference": "ABRAHAM ROBINSON, Introduction to model theory and to the metamathematics of algebra, North-Holland, Amsterdam, 1963.",
     "removed_raw_reference": "A. ROBINSON, Introduction to model theory and to the metamathematics of algebra, North-Holland, Amsterdam, 1963."
   },
   {
@@ -2204,8 +2268,16 @@
     "year": 1936,
     "kept_branch": "all_caps",
     "removed_branch": "all_caps",
-    "kept_raw_reference": "JERZY SŁUPECKI, Der volle dreiwertige Aussagenkalkül, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 29 (1936), pp. 9-11.",
+    "kept_raw_reference": "J. SLUPECKI, Der volle dreiwertige Aussagenkalkül, Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie, Classe III, vol. 29 (1936), pp. 9-11.",
     "removed_raw_reference": "JERZY SŁUPECKI, Der volle dreiwertige Aussagenkalkül, Comptes Rendus de la Société des Sciences et des Lettres de Varsovie, Cl. III, vol. 29 (1936), pp.9-11."
+  },
+  {
+    "title": "Initial segments of Turing degrees",
+    "year": 1969,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "D. F. HUGILL, Initial segments of Turing degrees, Proceedings of the London Mathematical Society, vol. 19 (1969), pp. 1-16.",
+    "removed_raw_reference": "D. HUGILL, Initial segments of Turing degrees, Proceedings of the London Mathematical Society, vol. 19 (1969), pp. 1-15."
   },
   {
     "title": "Formal logic (2nd edition), Oxford, 1962",
@@ -2214,6 +2286,14 @@
     "removed_branch": "all_caps",
     "kept_raw_reference": "A. N. PRIOR, Formal logic, 2nd edition, Oxford 1962.",
     "removed_raw_reference": "A. N. PRIOR, Formal logic (2nd edition), Oxford, 1962."
+  },
+  {
+    "title": "On Lukasiewicz's L-modal system",
+    "year": 1961,
+    "kept_branch": "all_caps",
+    "removed_branch": "all_caps",
+    "kept_raw_reference": "T. J. SMILEY, On Lukasiewicz's L-modal system. Notre Dame Journal of Formal Logic, vol. 2 (1961), pp. 149-153.",
+    "removed_raw_reference": "TIMOTHY SMILEY, On Lukasiewicz's L-modal system, Notre Dame journal of formal logic, vol. 2 (1961), pp. 149-153."
   },
   {
     "title": "Mathematical logic",
@@ -2526,6 +2606,38 @@
     "removed_branch": "with_authors",
     "kept_raw_reference": "E. V. Huntington. Postulates for assertion, conjunction, negation, and equality. Proceedings of the American Academy of Arts and Sciences, vol. 72 (1937), pp. 1-44.",
     "removed_raw_reference": "E. V. Huntington's Postulates for assertion, conjunction, negation, and equality, Proceedings of the American Academy of Arts and Sciences, vol. 72 (1937), pp. 1-44."
+  },
+  {
+    "title": "The word problem",
+    "year": 1959,
+    "kept_branch": "all_caps",
+    "removed_branch": "with_authors",
+    "kept_raw_reference": "W. W. BOONE, The word problem, Annals of mathematics, vol. 70 (1959), pp. 207-265.",
+    "removed_raw_reference": "W. W. BOONE (1959) The word problem, Annals of mathematics, vol. 70, pp. 207-265."
+  },
+  {
+    "title": "Computability and unsolvability",
+    "year": 1958,
+    "kept_branch": "all_caps",
+    "removed_branch": "with_authors",
+    "kept_raw_reference": "MARTIN DAVIS, Computability and unsolvability, McGraw-Hill, New York, 1958.",
+    "removed_raw_reference": "M. DAVIS (1958) Computability and unsolvability, McGraw-Hill, New York."
+  },
+  {
+    "title": "Introduction to metamathematics",
+    "year": 1952,
+    "kept_branch": "all_caps",
+    "removed_branch": "with_authors",
+    "kept_raw_reference": "S. C. KLEENE, Introduction to metamathematics, Van Nostrand, Princeton, N.J., 1952.",
+    "removed_raw_reference": "S. C. KLEENE (1952) Introduction to metamathematics, Van Nostrand, Princeton, N.J."
+  },
+  {
+    "title": "Formal reductions of the general combinatorial decision problem",
+    "year": 1943,
+    "kept_branch": "all_caps",
+    "removed_branch": "with_authors",
+    "kept_raw_reference": "E. POST, Formal reductions of the general combinatorial decision problem, American journal of mathematics, vol. 65 (1943), pp. 197-215.",
+    "removed_raw_reference": "E. L. POST (1943) Formal reductions of the general combinatorial decision problem, American journal of mathematics, vol. 65, pp. 197-215."
   },
   {
     "title": "Recursive predicates and quantifiers",

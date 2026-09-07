@@ -3,13 +3,13 @@
   "candidates_input": "/Users/matthewma/Projects/Summer Research Project 2026/jsl_citations_data/10a_works_ready_to_add.json",
   "merged_output": "/Users/matthewma/Projects/Summer Research Project 2026/jsl_citations_data/11_merged_database.json",
   "existing_works": 3404,
-  "input_candidates": 1502,
-  "candidates_added": 1272,
-  "duplicate_candidates_skipped": 223,
+  "input_candidates": 1707,
+  "candidates_added": 1454,
+  "duplicate_candidates_skipped": 246,
   "ambiguous_duplicates_skipped": 7,
   "rejected_candidates": 0,
   "id_adjustments": 0,
-  "merged_works": 4676,
+  "merged_works": 4858,
   "added_ids": [
     "Bourbaki1948a",
     "Church1956a",
@@ -17,9 +17,19 @@
     "DaigneaultUndateda",
     "Feferman1957b",
     "Feferman1959a",
+    "Halmos1956a",
+    "Halmos1955a",
+    "Halmos1957a",
+    "Halmos1956b",
+    "Halmos1957b",
+    "Halmos1962a",
     "Henkin1956b",
     "Henkin1961a",
+    "Sikorski1950a",
+    "Sikorski1950b",
+    "Minsky1967a",
     "Curry1963a",
+    "Kanger1955a",
     "Church1951a",
     "Quine1940a",
     "Tarski1956a",
@@ -43,6 +53,7 @@
     "Barwise1967b",
     "Feferman1966a",
     "Fraisse1959a",
+    "Hanf1964a",
     "Karp1964a",
     "Kripke1964a",
     "Copi1954a",
@@ -82,11 +93,15 @@
     "Lorenzen1955a",
     "Mostowski1957a",
     "Mostowski1962a",
+    "Parikh1966a",
+    "Robinson1963a",
     "Schutte1960a",
     "Schutte1965a",
     "Schutte1966a",
+    "Scott1965a",
     "Shepherdson1965a",
     "Shoenfield1959a",
+    "Solovay1967a",
     "Spector1962b",
     "Tait1966a",
     "Tait1966b",
@@ -98,6 +113,7 @@
     "Feferman1966c",
     "Feferman1962b",
     "Fraisse1961a",
+    "Lacombe1964a",
     "Friedman1967a",
     "Friedman1967b",
     "Gandy1967a",
@@ -117,6 +133,7 @@
     "Vaught1964a",
     "Howard1968a",
     "Appel1967b",
+    "Appel1965a",
     "Dekker1962a",
     "Dekker1964a",
     "Dekker1958b",
@@ -125,18 +142,25 @@
     "Rogers1967a",
     "Sacks1963a",
     "Spector1961a",
+    "Tennenbaum1961a",
     "Yates1962a",
     "Yates1967a",
     "Skolem1955a",
     "Skolem1938b",
     "Weyl1950a",
     "Rogers1968a",
+    "Cohen1963a",
+    "Cohen1966a",
     "Morley1962a",
     "Vaught1961a",
     "Lukasiewicz1952a",
     "Martin1950c",
     "Rosser1952c",
+    "Wheeler1961a",
+    "Wheeler1962a",
+    "Wheeler1966a",
     "Clay1965a",
+    "Fuhrken1965a",
     "YasuharaUndateda",
     "Bernays1961a",
     "Bernstein1947a",
@@ -160,15 +184,19 @@
     "Rosenbloom1950a",
     "Smullyan1959a",
     "Myhill1953d",
+    "Frayne1962a",
     "Beth1955a",
     "Beth1955b",
     "Hintikka1955b",
+    "Kanger1957a",
     "Schutte1956a",
     "Schutte1960b",
     "Takeuti1953b",
     "Kleene1959c",
     "Levy1960a",
     "Levy1960b",
+    "Addison1959a",
+    "Addison1962a",
     "Kleene1952e",
     "Tarski1957a",
     "Morley1965a",
@@ -180,16 +208,22 @@
     "Kleene1959d",
     "Kreisel1959f",
     "Kreisel1959g",
+    "Kreisel1959h",
+    "Kreisel1959i",
     "Myhill1955a",
     "Keisler1963a",
     "Keisler1963b",
     "KeislerUndateda",
     "Kreisel1956a",
+    "Los1955a",
+    "Lyndon1959a",
+    "Lyndon1959b",
     "Tarski1954a",
     "Godel1932e",
     "Heyting1956b",
     "Kleene1952f",
     "Kleene1957a",
+    "Rasiowa1954a",
     "Scott1957a",
     "Tarski1938b",
     "Rose1958a",
@@ -202,20 +236,29 @@
     "Hermes1951a",
     "Lukasiewicz1951a",
     "Popper1948a",
+    "Robinson1951b",
+    "Slupecki1946a",
+    "Slupecki1948a",
     "Thomas1949a",
     "Beth1956a",
     "Kleene1959e",
     "KleeneUndateda",
-    "Kreisel1959h",
+    "Kreisel1959j",
     "Kreisel1958e",
+    "Hanf1962a",
     "Karp1967b",
     "Kopperman1965a",
+    "Robinson1956c",
     "Tarski1958a",
     "Tarski1953b",
     "Hamilton1969a",
     "Fraisse1954a",
+    "Frayne1962b",
     "Henkin1953c",
     "Keisler1961a",
+    "Kochen1958a",
+    "Kochen1961a",
+    "Los1955b",
     "Black1946a",
     "Curry1950a",
     "Lukasiewicz1951b",
@@ -278,6 +321,8 @@
     "Dedekind1932a",
     "Birkhoff1941a",
     "StrawsonUndateda",
+    "Downing1959a",
+    "Burks1951a",
     "Strawson1952b",
     "Whitehead1925a",
     "Church1938b",
@@ -300,6 +345,7 @@
     "Joseph1925a",
     "Kneale1946a",
     "Kwei1950a",
+    "Smiley1959a",
     "Sugihara1955a",
     "Wright1951a",
     "Wright1957a",
@@ -313,6 +359,7 @@
     "Feys1950a",
     "Feys1950b",
     "Feys1965a",
+    "Rose1953c",
     "Tarski1963a",
     "Dekker1954a",
     "Gandy1960a",
@@ -332,10 +379,15 @@
     "Quine1940b",
     "Quine1951b",
     "Sierpinski1928a",
+    "Specker1953a",
     "Henkin1955a",
     "Kleene1950a",
     "Tarski1953c",
+    "Sanchis1963a",
     "Gandy1962a",
+    "Kreisel1959k",
+    "Lacombe1955a",
+    "Lacombe1959a",
     "Nerode1959a",
     "El1959a",
     "El1960a",
@@ -344,22 +396,27 @@
     "Gandy1962b",
     "Gandy1960b",
     "Kleene1955d",
-    "Kreisel1959i",
+    "Kreisel1959l",
     "Kripke1967b",
+    "Lacombe1964b",
+    "Lacombe1964c",
     "Moschovakis1967a",
     "Moschovakis1967b",
     "MoschovakisUndateda",
     "MoschovakisUndatedb",
     "Firestone1949a",
+    "Kuratowski1924a",
     "Mostowski1949a",
     "Rosser1955a",
     "Sierpinski1928b",
     "Wang1952b",
     "Quine1950d",
     "Bergmann1949b",
+    "Smiley1956a",
     "Dreben1962a",
     "Suranyi1959a",
     "Kleene1952j",
+    "Los1955c",
     "Mostowski1956a",
     "Tarski1948b",
     "Tarski1954c",
@@ -392,12 +449,14 @@
     "Dreben1952a",
     "Kleene9393a",
     "Dekker1955a",
+    "Kreider1961a",
     "Kreisel1960d",
     "Harrop1958b",
     "Kreisel1957a",
     "Prior1955a",
     "Bing1955a",
     "Tarski1954d",
+    "Robinson1959a",
     "Shoenfield1961a",
     "Dekker1962b",
     "RosserUndateda",
@@ -405,36 +464,49 @@
     "Godel1940a",
     "Church1944a",
     "Wang1949a",
+    "Frayne1962c",
     "Keisler1964a",
     "Keisler1964b",
     "Keisler1963c",
     "Henkin1947a",
     "Carnap1956a",
     "Kripke1963a",
+    "Slupecki1936a",
     "Gentzen1955a",
     "Davis1965a",
     "Feferman1964b",
     "Kleene1959f",
     "Buchi1962a",
     "Hooper1965a",
+    "Markov1961a",
+    "Minsky1961a",
     "House1963a",
     "Quine1959b",
     "Quine1961a",
     "Barwise1968a",
     "BarwiseUndateda",
-    "Scott1965a",
+    "Scott1965b",
     "Shoenfield1967a",
+    "Hanf1962b",
+    "Hanf1965a",
+    "Hanf1957a",
+    "Sikorski1964a",
+    "Tennenbaum1959a",
     "Wang1955b",
     "LeblancUndateda",
     "Quine1951c",
     "Schmidt1938a",
     "Schmidt1951a",
     "Ullian1961a",
+    "Erdos1965a",
     "Henkin1959a",
+    "Addison1959b",
     "Gandy1960c",
+    "Kuratowski1958a",
     "Suzuki1964a",
     "Myhill1956b",
-    "Robinson1956c",
+    "Lyndon1959c",
+    "Robinson1956d",
     "Chang1961a",
     "Chang1958b",
     "Chang1959a",
@@ -442,16 +514,22 @@
     "Rosser1960a",
     "Lukasiewicz1948a",
     "Meredith1963a",
+    "Halmos1963a",
     "Strong1967a",
     "Strong1968a",
+    "Wagner1963a",
+    "Wagner1965a",
+    "Wagner1969a",
     "Ehrenfeucht1961a",
     "Kreisel1958f",
     "El1967a",
     "Putnam1960b",
     "Shepherdson1960a",
     "Wang1951a",
+    "Boone1959a",
     "Rabin1960a",
     "Grzegorczyk1953a",
+    "Boone1962a",
     "Kreisel1960e",
     "Lachlan1964b",
     "Mitchell1962a",
@@ -464,14 +542,18 @@
     "Vaught3321a",
     "Dekker1953a",
     "Kleene1952l",
+    "Muchnik1956a",
     "Davis1960a",
+    "Muchnik1956b",
     "YatesUndateda",
     "Beth1962a",
     "Fitch1952c",
     "Kripke1965a",
     "Leblanc1966a",
     "Montague1957a",
+    "Rasiowa1963a",
     "Neumann1966a",
+    "Burks1961a",
     "Grzegorczyk1967a",
     "Dekker1966a",
     "Dekker1966b",
@@ -482,6 +564,7 @@
     "Sierpinski1934a",
     "Vaught1954b",
     "Horn1953a",
+    "Rasiowa1963b",
     "Harrop1956a",
     "Kreisel1958h",
     "Kreisel1953b",
@@ -493,6 +576,8 @@
     "Routley1966a",
     "Scott1967a",
     "Trew1968a",
+    "Sanchis1963b",
+    "Sanchis1964a",
     "Feys1965b",
     "Kripke1963d",
     "Leonard1951a",
@@ -501,6 +586,10 @@
     "Kreisel1953d",
     "Konig1932a",
     "Quine1959c",
+    "Muchnik1956c",
+    "Muchnik1958a",
+    "Rasiowa1950a",
+    "Rasiowa1951a",
     "Rose1952b",
     "Davis1954a",
     "PaolaUndateda",
@@ -517,6 +606,7 @@
     "Stone1937a",
     "Prior1963a",
     "Cohen1962a",
+    "Smiley1960a",
     "Prior1954a",
     "Montague1963a",
     "Church1948a",
@@ -535,6 +625,7 @@
     "LeblancUndatedb",
     "Tarski1965a",
     "Ellentuck1967a",
+    "Fuhrken1964a",
     "Nerode1965b",
     "Kripke1965b",
     "Gandy1967b",
@@ -545,6 +636,7 @@
     "Hetper1934b",
     "Kemeny1949a",
     "Wang1949b",
+    "Halmos1956c",
     "Rogers1967d",
     "Kleene1967a",
     "Davis1957a",
@@ -554,6 +646,7 @@
     "Lerman1968a",
     "Martin1966b",
     "Yates1969a",
+    "Slupecki1939a",
     "Ackermann1940a",
     "Peter1936a",
     "Robinson1948a",
@@ -573,6 +666,8 @@
     "Friedman1968a",
     "ChangUndateda",
     "Craig1962a",
+    "CraigUndateda",
+    "Fuhrken1962a",
     "Keisler1963d",
     "Keisler1959a",
     "Keisler1962a",
@@ -583,22 +678,31 @@
     "Rabin1959a",
     "Tarski1925a",
     "Tarski1958b",
+    "Erdos1943a",
     "Henkin1955b",
     "Karp1958a",
     "Karp1958c",
     "Keisler1960b",
+    "Rasiowa1943a",
     "Scott1958a",
     "Friedman1963a",
     "Friedman1963b",
     "Friedman1964a",
     "Robinson1965b",
+    "Halmos1957c",
     "HenkinUndatedb",
     "Monk1961a",
     "Monk1965b",
     "Tarski1955a",
     "Rogers1957a",
+    "Frayne1962d",
     "Geiser1966a",
     "Keisler1961b",
+    "Robinson1963b",
+    "Robinson1963c",
+    "Addison1957a",
+    "Halmos1950a",
+    "Kuratowski1948a",
     "Bull1966b",
     "Tarski1936d",
     "Tarski1953e",
@@ -620,9 +724,11 @@
     "Kwei1950b",
     "Lukasiewicz1953a",
     "Prior1956b",
+    "Smiley1961a",
     "Quine1953e",
     "Feferman1957c",
     "Takeuti1963a",
+    "Halmos1956d",
     "MccallUndateda",
     "Bull1965b",
     "Chang1966a",
@@ -630,19 +736,29 @@
     "Keisler1962c",
     "Keisler1961c",
     "Keisler1965c",
+    "Los1954a",
+    "Los1955d",
     "Morley1962b",
     "Tarski1930d",
     "Tarski1950a",
     "Vaught1963a",
+    "HugillUndateda",
+    "Erdos1958a",
+    "Erdos1962a",
     "Kleinberg1969b",
     "Kleinberg1969c",
     "MartinUndateda",
+    "MathiasUndateda",
+    "Mathias1968a",
     "Silver1966a",
+    "Addison1957b",
+    "AddisonUndateda",
     "Sierpinski1950a",
     "Spector1957a",
     "Robinson1947a",
-    "Kreisel1959j",
+    "Kreisel1959m",
     "Kreisel1960f",
+    "Parikh1962a",
     "Tait1961a",
     "TaitUndateda",
     "Carnap1950d",
@@ -652,9 +768,9 @@
     "Karp1965a",
     "Escobar1965a",
     "Rogers1966a",
+    "Rasiowa1960a",
     "Tarski1956e",
     "Quine1951d",
-    "Specker1953a",
     "Bull1964b",
     "Dummett1959b",
     "Harrop1958d",
@@ -663,15 +779,22 @@
     "Curry1952e",
     "Lewis1942a",
     "Sobocinski1954a",
+    "Rasiowa1954b",
+    "Rasiowa1954c",
     "Orey1964a",
+    "Specker1953b",
+    "Specker1962a",
     "Mccall1967b",
     "Strawson1952d",
     "SmullyanUndateda",
     "SmullyanUndatedb",
     "SmullyanUndatedc",
+    "KangerUndateda",
+    "LyndonUndateda",
     "Mostowski1946a",
     "Beth1953a",
     "Buchi1956a",
+    "Robinson1956f",
     "Kleene1959g",
     "Ehrenfeucht1960a",
     "Buchi1960a",
@@ -692,6 +815,7 @@
     "Zeman1964a",
     "Prior1967b",
     "Chang1965a",
+    "Trakhtenbrot1950a",
     "Birkhoff1948a",
     "Langford1930c",
     "Rosser1938a",
@@ -704,7 +828,9 @@
     "Rosser1956a",
     "Mostowski1948b",
     "Curry1939a",
+    "Rasiowa1953a",
     "Wajsberg1938a",
+    "Crossley1963a",
     "Kreisel1965b",
     "Schutte1954a",
     "Schutte1965b",
@@ -719,19 +845,27 @@
     "Mostowski1952d",
     "Sierpinski1928c",
     "Tarski1949a",
+    "Los1949a",
     "Martin1951a",
+    "Slupecki1939b",
     "Feferman1963a",
     "Shoenfield1959e",
+    "Hajnal1961a",
+    "Cohen1963b",
+    "Solovay1965a",
     "Post1941a",
     "DavisUndateda",
     "Robinson1950a",
     "TaitUndatedb",
     "TaitUndatedc",
+    "ScottUndateda",
     "Shoenfield1961c",
+    "SolovayUndateda",
+    "SolovayUndatedb",
     "Hasenjaeger1950b",
     "Kripke1964e",
     "Platek1966b",
-    "Scott1965d",
+    "Scott1965e",
     "GabbayUndateda",
     "GabbayUndatedb",
     "Kripke1965d",
@@ -741,9 +875,12 @@
     "QuineUndateda",
     "Curry1950b",
     "Quine1951e",
+    "Robinson1951c",
+    "Robinson1951d",
     "Takeuti1962b",
     "Gladstone1965a",
     "Harrop1964a",
+    "Ihrig1965a",
     "Singletary1964a",
     "Fitch1966a",
     "FitchUndateda",
@@ -780,7 +917,7 @@
     "Krom1966a",
     "Krom1968a",
     "Krom1967a",
-    "Robinson1963a",
+    "Robinson1963d",
     "Wang1963c",
     "Ellentuck1968a",
     "Ellentuck1968b",
@@ -792,10 +929,15 @@
     "Gladstone1964b",
     "GladstoneUndateda",
     "Harrop1959a",
+    "Ihrig1964a",
+    "Ihrig1964b",
+    "Ihrig1964c",
     "Jaskowski1936b",
     "Kreisel1957e",
     "Lemmon1960a",
     "Prior1962b",
+    "Rasiowa1955a",
+    "Rose1952c",
     "Umezawa1959c",
     "Chang1964a",
     "ChangUndatedb",
@@ -824,7 +966,9 @@
     "Kleene1963b",
     "Shoenfield1968a",
     "Lejewski1963a",
+    "Slupecki1955a",
     "Sobocinski1949b",
+    "Los1949b",
     "MeyerUndatedd",
     "Gandy1960f",
     "Mostowski1961b",
@@ -851,6 +995,7 @@
     "Feferman1958a",
     "Feferman1958b",
     "Feferman1959c",
+    "Kreider1958a",
     "KreiselUndatedc",
     "Rogers1956a",
     "Schutte1960c",
@@ -859,6 +1004,8 @@
     "Davis1964a",
     "Robinson1958a",
     "Quine1940e",
+    "Robinson1956g",
+    "Waerden1939a",
     "Lachlan1968b",
     "Anderson1959b",
     "Anderson1963c",
@@ -871,14 +1018,22 @@
     "Dekker1960c",
     "Dekker1963a",
     "Ellentuck1964a",
+    "Trakhtenbrot1950b",
     "Kleene1952o",
     "Fenstad1967a",
+    "Robinson1966a",
+    "Robinson1967c",
+    "Robinson1967d",
     "Prawitz1966a",
     "Church1937a",
+    "Hajnal1956a",
+    "HajnalUndateda",
+    "Kreider1958b",
+    "KreiderUndateda",
     "Shoenfield1957a",
     "Schmidt1954a",
     "Martin1966c",
-    "Robinson1966a",
+    "Robinson1966b",
     "Bernays1958a",
     "Quine1964a",
     "Quine1963b",
@@ -890,15 +1045,19 @@
     "ChangUndatedc",
     "Henkin1953d",
     "Keisler1959b",
+    "Los1955e",
     "Tarski1958d",
     "Piaget1949a",
     "Craig1957c",
     "KleeneUndatedf",
+    "Trakhtenbrot1950c",
     "Gandy1960g",
     "Cobham1957a",
     "Kalmar1951a",
     "Mostowski1953b",
     "Mostowski1957d",
+    "Trakhtenbrot1953a",
+    "Trakhtenbrot1956a",
     "Church1946a",
     "Prior1955c",
     "Goodman1951b",
@@ -917,6 +1076,7 @@
     "CocchiarellaUndateda",
     "Prior1967c",
     "Kreisel1960i",
+    "Hugill1969a",
     "Sacks1961a",
     "Yates1966b",
     "Yates1966c",
@@ -938,11 +1098,10 @@
     "Berry1952a",
     "Feferman1955a",
     "Vaught1954e",
+    "Waerden1930a",
     "Bergmann1949c",
     "Quine1950f",
     "Harary1955a",
-    "Robinson1951b",
-    "Robinson1951c",
     "Kalicki1952b",
     "Kleene1953a",
     "Mostowski1952e",
@@ -963,11 +1122,13 @@
     "Belluce1960b",
     "Rosser1955b",
     "ScarpelliniUndateda",
+    "Markov1961b",
     "Mendelson1964a",
     "KreiselUndatedd",
     "Feys1965c",
     "Quine1964b",
     "Rescher1962b",
+    "Muchnik1956e",
     "Sacks1961b",
     "Hahn1932b",
     "Hausdorff1935a",
@@ -976,9 +1137,12 @@
     "MartinUndatedb",
     "Birkhoff1957a",
     "Rosser1955c",
+    "Slupecki1936b",
+    "Slupecki1939c",
     "Materna1968a",
     "Dekker1960d",
     "Rogers1966b",
+    "Rose1963a",
     "Shoenfield1957b",
     "Young1963b",
     "Young1963c",
@@ -992,14 +1156,16 @@
     "Hilbert1943a",
     "Quine1951i",
     "Quine1947d",
-    "Robinson1956d",
     "Dekker1960f",
     "Feferman1965a",
     "Goodstein1961a",
     "Kleene1952p",
     "Lambert1965b",
     "Lambert1965c",
+    "Waerden1930b",
+    "Waerden1937a",
     "Bernays1965a",
+    "Kanger1957b",
     "Leblanc1966c",
     "Prawitz1965b",
     "Prawitz1967b",
@@ -1018,7 +1184,9 @@
     "Kreisel1952c",
     "Kreisel1957f",
     "Kreisel1957g",
+    "Los1956a",
     "Mostowski1947b",
+    "Robinson1955a",
     "Schutte1951b",
     "Schutte1951c",
     "Schutte1953a",
@@ -1039,17 +1207,21 @@
     "Prior1962d",
     "FeinerUndateda",
     "YatesUndatedb",
+    "Kuratowski1921a",
     "Ackermann1954a",
+    "AddisonUndatedb",
     "Grzegorczyk1956a",
     "Mostowski1956b",
     "LemmonUndateda",
     "LemmonUndatedb",
-    "Smiley1961a",
     "Carnap1929b",
     "Ogden1934a",
     "Woodger1937b",
     "Huntington1937a",
     "Carnap1937a",
+    "Mclaughlin1965a",
+    "Mclaughlin1967a",
+    "Mclaughlin1967b",
     "Kalmar1935b",
     "Hermes1937a",
     "Wajsberg1937a",
@@ -1063,7 +1235,7 @@
     "Thomas1952a",
     "Wajsberg1936a",
     "Rescher1967a",
-    "Rose1952c",
+    "Rose1952d",
     "Aqvist1966a",
     "Hiz1951a",
     "Reichenbach1947a",
@@ -1073,6 +1245,7 @@
     "Skolem1936a",
     "Bernays1926b",
     "Post1921b",
+    "Markov1948a",
     "LeblancUndatedc",
     "Quine1940g",
     "LewisUndateda",
@@ -1107,11 +1280,13 @@
     "Church1946b",
     "Mckay1967a",
     "Helmer1936a",
+    "Mclaughlin1966a",
     "Kleene1952q",
     "Davis1958e",
     "Wang1957b",
     "Schmidt1938b",
     "LukasiewiczUndateda",
+    "Mccluskey1961a",
     "HeytingUndateda",
     "Goodman1941b",
     "QuineUndatedc",
@@ -1165,6 +1340,8 @@
     "Nicod1930b",
     "Post1946b",
     "Anderson1956b",
+    "Mccluskey1956a",
+    "Mccluskey1956b",
     "TarskiUndatedb",
     "Godel1932f",
     "Jevons1892a",
@@ -1207,6 +1384,7 @@
     "ChurchUndatedc",
     "TuringUndateda",
     "Quine1940i",
+    "Lyndon1949a",
     "Quine1947f",
     "Tarski1948c",
     "Konig1927b",
@@ -1215,6 +1393,7 @@
     "Mostowski1938a",
     "LindenbaumUndateda",
     "Cudia1965a",
+    "Ihrig1964d",
     "Carnap1942b",
     "Tarski1944b",
     "CarnapUndatedd",
@@ -1226,7 +1405,7 @@
     "TarskiUndatedd",
     "CarnapUndatedg",
     "Quine1940j",
-    "Robinson1951d",
+    "Robinson1951g",
     "Mcnaughton1966a",
     "Quine1936d",
     "Jaskowski1936c",
@@ -1247,13 +1426,13 @@
     "Feys1950e",
     "Church1936j",
     "Tarski1949b",
-    "Robinson1951e",
+    "Robinson1951h",
+    "Los1955f",
     "Konig1905b",
     "Sierpinski1921b",
-    "Kuratowski1921a",
+    "Kuratowski1921d",
     "Anderson1956c",
     "Anderson1961c",
-    "Kuratowski1921b",
     "Church1951d",
     "Tarski1948d",
     "Church1936k",
@@ -1265,6 +1444,7 @@
     "Carnap1936c",
     "Carnap1942d",
     "Carnap1943b",
+    "MclaughlinUndateda",
     "Hermes1938b",
     "Quine1936e",
     "Mckinsey1944c",
@@ -1273,6 +1453,7 @@
     "Carnap1950h",
     "Helmer1945a",
     "Popper1935a",
+    "Trakhtenbrot1950e",
     "Fitch1953b",
     "Ore1963a",
     "Thomas1963b",
@@ -1281,12 +1462,13 @@
     "Rosser1938c",
     "Whitehead1925e",
     "Wiener1912a",
+    "Burks1950a",
     "Mccall1965a",
     "Mccall1964a"
   ],
   "duplicate_candidate_details": [
     {
-      "input_index": 37,
+      "input_index": 48,
       "candidate_id": "Rosser1953b",
       "candidate_title": "Logic for mathematicians, New York",
       "matched_work_id": "Rosser1953a",
@@ -1296,7 +1478,7 @@
       ]
     },
     {
-      "input_index": 53,
+      "input_index": 64,
       "candidate_id": "Feferman1966b",
       "candidate_title": "Persistent and invariantformulas relative to theories of higher order",
       "matched_work_id": "Feferman1966a",
@@ -1306,7 +1488,7 @@
       ]
     },
     {
-      "input_index": 55,
+      "input_index": 66,
       "candidate_id": "Godel1958b",
       "candidate_title": "Über elne fisher noch nicht benfitzte Erweiterung des finiten Standpunktes",
       "matched_work_id": "Godel1958a",
@@ -1316,7 +1498,7 @@
       ]
     },
     {
-      "input_index": 59,
+      "input_index": 70,
       "candidate_id": "Kleene1952c",
       "candidate_title": "Introduction to metamathematics",
       "matched_work_id": "Kleene1952a",
@@ -1326,7 +1508,7 @@
       ]
     },
     {
-      "input_index": 60,
+      "input_index": 71,
       "candidate_id": "Kreisel1959c",
       "candidate_title": "Interpretation of classical analysis by means of constructive functionals of finite type, Constructivity in mathematics, edited by A",
       "matched_work_id": "Kreisel1959a",
@@ -1336,7 +1518,7 @@
       ]
     },
     {
-      "input_index": 131,
+      "input_index": 155,
       "candidate_id": "Mostowski1957b",
       "candidate_title": "On a generalization of quantifiers",
       "matched_work_id": "Mostowski1957a",
@@ -1346,7 +1528,7 @@
       ]
     },
     {
-      "input_index": 140,
+      "input_index": 164,
       "candidate_id": "Davis1958b",
       "candidate_title": "Computability and unsolvability",
       "matched_work_id": "Davis1958a",
@@ -1356,7 +1538,7 @@
       ]
     },
     {
-      "input_index": 182,
+      "input_index": 215,
       "candidate_id": "Church1956b",
       "candidate_title": "Introduction to mathematical logic, Princeton",
       "matched_work_id": "Church1956a",
@@ -1366,7 +1548,7 @@
       ]
     },
     {
-      "input_index": 201,
+      "input_index": 238,
       "candidate_id": "Godel1958c",
       "candidate_title": "Über eine bisher noch nicht benützte Erweiterung des finiten Standpunktes",
       "matched_work_id": "Godel1958a",
@@ -1376,7 +1558,7 @@
       ]
     },
     {
-      "input_index": 209,
+      "input_index": 248,
       "candidate_id": "Tarski1957b",
       "candidate_title": "Arithmetic extensions of relational systems",
       "matched_work_id": "Tarski1957a",
@@ -1386,7 +1568,7 @@
       ]
     },
     {
-      "input_index": 211,
+      "input_index": 250,
       "candidate_id": "Kleene1952g",
       "candidate_title": "Introduction to metamathematics, Amsterdam, 1952",
       "matched_work_id": "Kleene1952a",
@@ -1396,7 +1578,7 @@
       ]
     },
     {
-      "input_index": 250,
+      "input_index": 293,
       "candidate_id": "Tarski1935f",
       "candidate_title": "Der Wahrheitsbegriff in den formalisierten Sprachen, Studia phil",
       "matched_work_id": "Tarski1935e",
@@ -1406,7 +1588,17 @@
       ]
     },
     {
-      "input_index": 270,
+      "input_index": 312,
+      "candidate_id": "Cohen1966b",
+      "candidate_title": "Set theory and the continuum hypothesis, W",
+      "matched_work_id": "Cohen1966a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Cohen1966a"
+      ]
+    },
+    {
+      "input_index": 314,
       "candidate_id": "Kripke1964c",
       "candidate_title": "Transfinite recursions on admissible ordinals, I, II, abstracts",
       "matched_work_id": "Kripke1964a",
@@ -1416,7 +1608,7 @@
       ]
     },
     {
-      "input_index": 281,
+      "input_index": 327,
       "candidate_id": "Copi1954b",
       "candidate_title": "Symbolic logic",
       "matched_work_id": "Copi1954a",
@@ -1426,7 +1618,7 @@
       ]
     },
     {
-      "input_index": 287,
+      "input_index": 333,
       "candidate_id": "Davis1958c",
       "candidate_title": "Computability and Unsolvability, New York (",
       "matched_work_id": "Davis1958a",
@@ -1436,7 +1628,7 @@
       ]
     },
     {
-      "input_index": 290,
+      "input_index": 336,
       "candidate_id": "Kleene1952h",
       "candidate_title": "Introduction to Metamathematics, New York (",
       "matched_work_id": "Kleene1952a",
@@ -1446,7 +1638,7 @@
       ]
     },
     {
-      "input_index": 306,
+      "input_index": 353,
       "candidate_id": "Strawson1952c",
       "candidate_title": "Introduction to logical theory, London, 1952",
       "matched_work_id": "Strawson1952b",
@@ -1456,7 +1648,7 @@
       ]
     },
     {
-      "input_index": 319,
+      "input_index": 366,
       "candidate_id": "Sobocinski1962b",
       "candidate_title": "A contribution to the axiomatization of Lewis' system S5",
       "matched_work_id": "Sobocinski1962a",
@@ -1466,7 +1658,7 @@
       ]
     },
     {
-      "input_index": 330,
+      "input_index": 378,
       "candidate_id": "Mostowski1962b",
       "candidate_title": "Representability of sets in formal systems, Recursive Function Theory, Proceedings of Symposia in Pure Mathematics, 5",
       "matched_work_id": "Mostowski1962a",
@@ -1476,7 +1668,7 @@
       ]
     },
     {
-      "input_index": 334,
+      "input_index": 382,
       "candidate_id": "Smullyan1961b",
       "candidate_title": "Theory of Formal Systems, Princeton, 1961",
       "matched_work_id": "Smullyan1961a",
@@ -1486,7 +1678,17 @@
       ]
     },
     {
-      "input_index": 346,
+      "input_index": 383,
+      "candidate_id": "Minsky1967b",
+      "candidate_title": "Computation; finite and infinite machine",
+      "matched_work_id": "Minsky1967a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Minsky1967a"
+      ]
+    },
+    {
+      "input_index": 400,
       "candidate_id": "Myhill1955c",
       "candidate_title": "Effective operations on partial recursive functions",
       "matched_work_id": "Myhill1955a",
@@ -1496,7 +1698,7 @@
       ]
     },
     {
-      "input_index": 355,
+      "input_index": 409,
       "candidate_id": "Kleene1955e",
       "candidate_title": "Arithmetic predicates andfunction quantifiers",
       "matched_work_id": "Kleene1955a",
@@ -1506,7 +1708,7 @@
       ]
     },
     {
-      "input_index": 357,
+      "input_index": 411,
       "candidate_id": "Kreisel1960c",
       "candidate_title": "La predicativitd, Bulletin de la Soci'te' Mathématique de France",
       "matched_work_id": "Kreisel1960a",
@@ -1516,7 +1718,7 @@
       ]
     },
     {
-      "input_index": 358,
+      "input_index": 412,
       "candidate_id": "Kreisel1962d",
       "candidate_title": "The axiom of choice and the class of hyperarithmetic functions",
       "matched_work_id": "Kreisel1962c",
@@ -1526,7 +1728,7 @@
       ]
     },
     {
-      "input_index": 364,
+      "input_index": 420,
       "candidate_id": "Mostowski1962c",
       "candidate_title": "Representability of sets in formal systems, Recursive Function Theory, Proceedings of Symposia in Pure Mathematics, Providence, R.I",
       "matched_work_id": "Mostowski1962a",
@@ -1536,7 +1738,7 @@
       ]
     },
     {
-      "input_index": 377,
+      "input_index": 436,
       "candidate_id": "Tarski1954b",
       "candidate_title": "Contributions to the theory of models, Parts I and II",
       "matched_work_id": "Tarski1954a",
@@ -1546,7 +1748,7 @@
       ]
     },
     {
-      "input_index": 379,
+      "input_index": 438,
       "candidate_id": "Tarski1953d",
       "candidate_title": "and R. M. ROBINSON, Undecidable theories, Amsterdam (",
       "matched_work_id": "Tarski1953a",
@@ -1556,7 +1758,7 @@
       ]
     },
     {
-      "input_index": 403,
+      "input_index": 462,
       "candidate_id": "Smullyan1961c",
       "candidate_title": "Theory of formal systems, Princeton",
       "matched_work_id": "Smullyan1961a",
@@ -1566,7 +1768,7 @@
       ]
     },
     {
-      "input_index": 404,
+      "input_index": 463,
       "candidate_id": "Quine1953c",
       "candidate_title": "From a logical point of view, Cambridge, 1953",
       "matched_work_id": "Quine1953b",
@@ -1576,7 +1778,7 @@
       ]
     },
     {
-      "input_index": 410,
+      "input_index": 469,
       "candidate_id": "Quine1950e",
       "candidate_title": "Methods of logic, New York (Holt), 1950",
       "matched_work_id": "Quine1950d",
@@ -1586,7 +1788,7 @@
       ]
     },
     {
-      "input_index": 416,
+      "input_index": 476,
       "candidate_id": "Wright1951b",
       "candidate_title": "An essay in modal logic",
       "matched_work_id": "Wright1951a",
@@ -1596,7 +1798,7 @@
       ]
     },
     {
-      "input_index": 419,
+      "input_index": 479,
       "candidate_id": "Tarski1954e",
       "candidate_title": "Contributions to the theory of models, II",
       "matched_work_id": "Tarski1954d",
@@ -1606,7 +1808,7 @@
       ]
     },
     {
-      "input_index": 422,
+      "input_index": 483,
       "candidate_id": "Quine1940d",
       "candidate_title": "Mathematical logic",
       "matched_work_id": "Quine1940a",
@@ -1616,7 +1818,7 @@
       ]
     },
     {
-      "input_index": 435,
+      "input_index": 498,
       "candidate_id": "Harrop1958c",
       "candidate_title": "On the existence of finite models and decision procedures tor propositional calculi, Proceedings of the Cambridge Philosophical Society",
       "matched_work_id": "Harrop1958a",
@@ -1626,7 +1828,7 @@
       ]
     },
     {
-      "input_index": 438,
+      "input_index": 501,
       "candidate_id": "Kleene1955f",
       "candidate_title": "Arithmetical predicates andfunction quantifiers",
       "matched_work_id": "Kleene1955a",
@@ -1636,7 +1838,7 @@
       ]
     },
     {
-      "input_index": 449,
+      "input_index": 517,
       "candidate_id": "Rogers1967c",
       "candidate_title": "Theory of recursive functions and effective computability",
       "matched_work_id": "Rogers1967b",
@@ -1646,7 +1848,7 @@
       ]
     },
     {
-      "input_index": 452,
+      "input_index": 522,
       "candidate_id": "Mostowski1957c",
       "candidate_title": "On ageneralization of quantifiers",
       "matched_work_id": "Mostowski1957a",
@@ -1656,7 +1858,7 @@
       ]
     },
     {
-      "input_index": 459,
+      "input_index": 531,
       "candidate_id": "Kleene1955g",
       "candidate_title": "Arithmeticalpredicates andfunction quantifiers",
       "matched_work_id": "Kleene1955a",
@@ -1666,7 +1868,7 @@
       ]
     },
     {
-      "input_index": 462,
+      "input_index": 535,
       "candidate_id": "CurryUndateda",
       "candidate_title": "Combinatory logic",
       "matched_work_id": "Curry1958a",
@@ -1676,17 +1878,27 @@
       ]
     },
     {
-      "input_index": 490,
-      "candidate_id": "Scott1965b",
+      "input_index": 570,
+      "candidate_id": "Scott1965c",
       "candidate_title": "Logic with denumerably long formulas and finite strings of quantifiers in Theory of models",
-      "matched_work_id": "Scott1965a",
+      "matched_work_id": "Scott1965b",
       "match_method": "fuzzy_title_author_year",
       "alternative_matches": [
-        "Scott1965a"
+        "Scott1965b"
       ]
     },
     {
-      "input_index": 504,
+      "input_index": 576,
+      "candidate_id": "Robinson1956e",
+      "candidate_title": "Complete Theories, Amsterdam",
+      "matched_work_id": "Robinson1956c",
+      "match_method": "exact_title_after_trailing_metadata",
+      "alternative_matches": [
+        "Robinson1956c"
+      ]
+    },
+    {
+      "input_index": 589,
       "candidate_id": "Dekker1958d",
       "candidate_title": "The factorialfunction for isols",
       "matched_work_id": "Dekker1958a",
@@ -1696,7 +1908,7 @@
       ]
     },
     {
-      "input_index": 508,
+      "input_index": 593,
       "candidate_id": "Dekker1960b",
       "candidate_title": "Recursive equivalence types, University of California Publications in Mathematics (N.S.)",
       "matched_work_id": "Dekker1960a",
@@ -1706,7 +1918,7 @@
       ]
     },
     {
-      "input_index": 513,
+      "input_index": 598,
       "candidate_id": "Tarski1954f",
       "candidate_title": "Contributions to the theory of models, I, II, III",
       "matched_work_id": "Tarski1954a",
@@ -1716,7 +1928,7 @@
       ]
     },
     {
-      "input_index": 517,
+      "input_index": 603,
       "candidate_id": "Kreisel1958g",
       "candidate_title": "The noon-derivability of -,(x)A (x) -* (Ex)A (x), A primitive recursive, in iontuitioonistic formal systems (abstract)",
       "matched_work_id": "Kreisel1958e",
@@ -1726,7 +1938,7 @@
       ]
     },
     {
-      "input_index": 523,
+      "input_index": 609,
       "candidate_id": "Leblanc1959b",
       "candidate_title": "Non-designating singular terms",
       "matched_work_id": "Leblanc1959a",
@@ -1736,7 +1948,7 @@
       ]
     },
     {
-      "input_index": 530,
+      "input_index": 618,
       "candidate_id": "Kripke1963c",
       "candidate_title": "Semantical Considerations on Modal Logic, Acta Philosophica Fennica, Fasc. 16",
       "matched_work_id": "Kripke1963b",
@@ -1746,7 +1958,7 @@
       ]
     },
     {
-      "input_index": 536,
+      "input_index": 624,
       "candidate_id": "Putnam1957c",
       "candidate_title": "Arithmetic models for consistent formulae of quantification theory (abstract)",
       "matched_work_id": "Putnam1957b",
@@ -1756,7 +1968,7 @@
       ]
     },
     {
-      "input_index": 537,
+      "input_index": 625,
       "candidate_id": "Shoenfield1959c",
       "candidate_title": "On degrees on unsolvability",
       "matched_work_id": "Shoenfield1959b",
@@ -1766,7 +1978,7 @@
       ]
     },
     {
-      "input_index": 538,
+      "input_index": 626,
       "candidate_id": "Tarski1956c",
       "candidate_title": "Logic, semantics, metamathematics, Oxford (",
       "matched_work_id": "Tarski1956b",
@@ -1776,7 +1988,7 @@
       ]
     },
     {
-      "input_index": 541,
+      "input_index": 631,
       "candidate_id": "Sacks1963c",
       "candidate_title": "Degrees of Unsolvability, Princeton",
       "matched_work_id": "Sacks1963a",
@@ -1786,7 +1998,7 @@
       ]
     },
     {
-      "input_index": 556,
+      "input_index": 648,
       "candidate_id": "Prior1957b",
       "candidate_title": "Time and Modality, Oxford 1957",
       "matched_work_id": "Prior1957a",
@@ -1796,7 +2008,7 @@
       ]
     },
     {
-      "input_index": 557,
+      "input_index": 649,
       "candidate_id": "Tarski1956d",
       "candidate_title": "Logic, Semantics and Metamathematics, Oxford 1956",
       "matched_work_id": "Tarski1956b",
@@ -1806,7 +2018,7 @@
       ]
     },
     {
-      "input_index": 572,
+      "input_index": 665,
       "candidate_id": "Dekker1966c",
       "candidate_title": "Good choice sets, Annali della Scuola Normale Superiore di Pisa, Serie III",
       "matched_work_id": "Dekker1966a",
@@ -1816,7 +2028,7 @@
       ]
     },
     {
-      "input_index": 581,
+      "input_index": 675,
       "candidate_id": "Mostowski1939c",
       "candidate_title": "lber die Unabhangigkeit des Wohlordnungssatzes vom Ordnungsprinzip",
       "matched_work_id": "Mostowski1939b",
@@ -1826,7 +2038,7 @@
       ]
     },
     {
-      "input_index": 582,
+      "input_index": 676,
       "candidate_id": "Zermelo1930c",
       "candidate_title": "tber Grenzzahlen und Mengenbereiche",
       "matched_work_id": "Zermelo1930b",
@@ -1836,7 +2048,7 @@
       ]
     },
     {
-      "input_index": 586,
+      "input_index": 680,
       "candidate_id": "CarnapUndateda",
       "candidate_title": "Meaning Postulates, Philosophical Studies",
       "matched_work_id": "Carnap1952a",
@@ -1846,7 +2058,7 @@
       ]
     },
     {
-      "input_index": 587,
+      "input_index": 681,
       "candidate_id": "KemenyUndateda",
       "candidate_title": "Extension of the Methods of Inductive Logic, Philosophical Studies",
       "matched_work_id": "Kemeny1952a",
@@ -1856,7 +2068,7 @@
       ]
     },
     {
-      "input_index": 593,
+      "input_index": 688,
       "candidate_id": "Rose1958b",
       "candidate_title": "Fragments of the many-valued statement calculi",
       "matched_work_id": "Rose1958a",
@@ -1866,7 +2078,7 @@
       ]
     },
     {
-      "input_index": 606,
+      "input_index": 702,
       "candidate_id": "Curry1958b",
       "candidate_title": "Combinatory logic, Amsterdam, 1958",
       "matched_work_id": "Curry1958a",
@@ -1876,7 +2088,7 @@
       ]
     },
     {
-      "input_index": 612,
+      "input_index": 708,
       "candidate_id": "Carnap1950c",
       "candidate_title": "Logical foundations of probability, Chicago",
       "matched_work_id": "Carnap1950a",
@@ -1886,7 +2098,7 @@
       ]
     },
     {
-      "input_index": 613,
+      "input_index": 709,
       "candidate_id": "Kleene1950c",
       "candidate_title": "A symmetric form of Go5del's theorem",
       "matched_work_id": "Kleene1950a",
@@ -1896,7 +2108,7 @@
       ]
     },
     {
-      "input_index": 616,
+      "input_index": 712,
       "candidate_id": "Kreisel1953e",
       "candidate_title": "Note on arithmetic models for consistent formulae of the predicate calculus II, Proceedings of Xlth International Congress of Philosophy",
       "matched_work_id": "Kreisel1953a",
@@ -1906,7 +2118,7 @@
       ]
     },
     {
-      "input_index": 619,
+      "input_index": 715,
       "candidate_id": "Scott1957b",
       "candidate_title": "Completeness proofs for the intuitionistic sentential calculus, Summaries of talks presented at the Summer Institute of Symbolic Logic in 1957 at Cornell University, mimeographed",
       "matched_work_id": "Scott1957a",
@@ -1916,7 +2128,7 @@
       ]
     },
     {
-      "input_index": 620,
+      "input_index": 716,
       "candidate_id": "Tarski1938c",
       "candidate_title": "Der Aussagenkalkfil und die Topologie",
       "matched_work_id": "Tarski1938b",
@@ -1926,7 +2138,7 @@
       ]
     },
     {
-      "input_index": 621,
+      "input_index": 717,
       "candidate_id": "Vaught1964b",
       "candidate_title": "The completeness of logic with the added quantifier \"there are uncountably many\"",
       "matched_work_id": "Vaught1964a",
@@ -1936,7 +2148,7 @@
       ]
     },
     {
-      "input_index": 627,
+      "input_index": 723,
       "candidate_id": "Kreisel1968c",
       "candidate_title": "Reflection principles and their use for establishing the complexity of axiomatic systems",
       "matched_work_id": "Kreisel1968b",
@@ -1946,7 +2158,7 @@
       ]
     },
     {
-      "input_index": 642,
+      "input_index": 741,
       "candidate_id": "Karp1958b",
       "candidate_title": "Formalizations of functional languages with wffs of infinite length, Abstract 542-57, Notices of the American Mathematical Society",
       "matched_work_id": "Karp1958a",
@@ -1956,7 +2168,17 @@
       ]
     },
     {
-      "input_index": 650,
+      "input_index": 750,
+      "candidate_id": "Lyndon1959d",
+      "candidate_title": "Properties preserved under homomorphism",
+      "matched_work_id": "Lyndon1959a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Lyndon1959a"
+      ]
+    },
+    {
+      "input_index": 751,
       "candidate_id": "Soare1969d",
       "candidate_title": "Recursion theory and Dedekind cuts",
       "matched_work_id": "SoareUndateda",
@@ -1966,7 +2188,7 @@
       ]
     },
     {
-      "input_index": 651,
+      "input_index": 753,
       "candidate_id": "Henkin1956c",
       "candidate_title": "La structure algébrique des théories mathématiques",
       "matched_work_id": "Henkin1956b",
@@ -1976,7 +2198,7 @@
       ]
     },
     {
-      "input_index": 658,
+      "input_index": 761,
       "candidate_id": "Henkin1959b",
       "candidate_title": "Some remarks on infinitely long formulas, Infinitistic methods, Proceedings of the Symposium on the Foundations of Mathematics, Warsaw, pp. 167-183, 1959",
       "matched_work_id": "Henkin1959a",
@@ -1986,7 +2208,17 @@
       ]
     },
     {
-      "input_index": 660,
+      "input_index": 763,
+      "candidate_id": "Kochen1961b",
+      "candidate_title": "Ultra products in the theory of models",
+      "matched_work_id": "Kochen1961a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Kochen1961a"
+      ]
+    },
+    {
+      "input_index": 766,
       "candidate_id": "Tarski1958c",
       "candidate_title": "Remarks on predicate logics with infinitely long expressions",
       "matched_work_id": "Tarski1958a",
@@ -1996,7 +2228,17 @@
       ]
     },
     {
-      "input_index": 670,
+      "input_index": 770,
+      "candidate_id": "Muchnik1956d",
+      "candidate_title": "Nérazréšimost' problémy svodimosti téorii algoritmov (Negative answer to the problem of reducibility of the theory of algorithms), Doklady Akadémii Nauk SSSR",
+      "matched_work_id": "Muchnik1956a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Muchnik1956a"
+      ]
+    },
+    {
+      "input_index": 780,
       "candidate_id": "Mostowski1939d",
       "candidate_title": "Ober die Unabhangigkeit des Wohlordnungssatzes vom Ordnungsprinzip",
       "matched_work_id": "Mostowski1939b",
@@ -2006,7 +2248,7 @@
       ]
     },
     {
-      "input_index": 676,
+      "input_index": 786,
       "candidate_id": "Tarski1953f",
       "candidate_title": "and R. M. ROBINSON, Undecidable theories, Amsterdam 1953",
       "matched_work_id": "Tarski1953a",
@@ -2016,7 +2258,7 @@
       ]
     },
     {
-      "input_index": 677,
+      "input_index": 787,
       "candidate_id": "Church1956c",
       "candidate_title": "Introduction to mathematical logic, Princeton, 1956",
       "matched_work_id": "Church1956a",
@@ -2026,7 +2268,7 @@
       ]
     },
     {
-      "input_index": 680,
+      "input_index": 790,
       "candidate_id": "Mostowski1952c",
       "candidate_title": "Sentences undecidable in formalized arithmetic, Amsterdam (",
       "matched_work_id": "Mostowski1952b",
@@ -2036,7 +2278,7 @@
       ]
     },
     {
-      "input_index": 691,
+      "input_index": 803,
       "candidate_id": "Kripke1965c",
       "candidate_title": "Semantical analysis of intuitionist logic",
       "matched_work_id": "Kripke1965a",
@@ -2046,7 +2288,7 @@
       ]
     },
     {
-      "input_index": 696,
+      "input_index": 808,
       "candidate_id": "Keisler1964e",
       "candidate_title": "Good ideals in fields of sets",
       "matched_work_id": "Keisler1964b",
@@ -2056,7 +2298,7 @@
       ]
     },
     {
-      "input_index": 701,
+      "input_index": 815,
       "candidate_id": "Tarski1954g",
       "candidate_title": "Contributions to the theory of models",
       "matched_work_id": "Tarski1954d",
@@ -2066,7 +2308,7 @@
       ]
     },
     {
-      "input_index": 702,
+      "input_index": 816,
       "candidate_id": "Tarski1953g",
       "candidate_title": "A. MosTOwsKI and R. ROBINSON, Undecidable theories, Amsterdam, 1953",
       "matched_work_id": "Tarski1953e",
@@ -2076,7 +2318,7 @@
       ]
     },
     {
-      "input_index": 704,
+      "input_index": 818,
       "candidate_id": "Vaught1954c",
       "candidate_title": "Applications of the Lowenheim-Skolem-Tarski theorem to problems of completeness and decidability",
       "matched_work_id": "Vaught1954a",
@@ -2086,7 +2328,7 @@
       ]
     },
     {
-      "input_index": 709,
+      "input_index": 830,
       "candidate_id": "Lorenzen1955b",
       "candidate_title": "Einführung in die operative Logik und Mathematik, Berlin 1955",
       "matched_work_id": "Lorenzen1955a",
@@ -2096,7 +2338,7 @@
       ]
     },
     {
-      "input_index": 712,
+      "input_index": 833,
       "candidate_id": "Quine1952b",
       "candidate_title": "The problem of simplifying truth functions, The",
       "matched_work_id": "Quine1952a",
@@ -2106,7 +2348,7 @@
       ]
     },
     {
-      "input_index": 723,
+      "input_index": 845,
       "candidate_id": "Kino1963a",
       "candidate_title": "On predicates with infinitely long expressions, Journal of the Mathematical Society of Japan",
       "matched_work_id": "Takeuti1963a",
@@ -2116,17 +2358,17 @@
       ]
     },
     {
-      "input_index": 726,
-      "candidate_id": "Scott1965c",
+      "input_index": 849,
+      "candidate_id": "Scott1965d",
       "candidate_title": "Logic with denumerably long formulas and finite strings of quantifiers, The theory of models",
-      "matched_work_id": "Scott1965a",
+      "matched_work_id": "Scott1965b",
       "match_method": "fuzzy_title_author_year",
       "alternative_matches": [
-        "Scott1965a"
+        "Scott1965b"
       ]
     },
     {
-      "input_index": 727,
+      "input_index": 850,
       "candidate_id": "Shoenfield1959d",
       "candidate_title": "On a restricted w-rule, Bulletin de l'Academie Polonaise des Sciences, Ser",
       "matched_work_id": "Shoenfield1959a",
@@ -2136,7 +2378,7 @@
       ]
     },
     {
-      "input_index": 730,
+      "input_index": 853,
       "candidate_id": "Rosser1953c",
       "candidate_title": "Logic for mathematicians, New York, 1953",
       "matched_work_id": "Rosser1953a",
@@ -2146,7 +2388,7 @@
       ]
     },
     {
-      "input_index": 732,
+      "input_index": 854,
       "candidate_id": "Rosser1952d",
       "candidate_title": "Many-valued Logics, Amsterdam",
       "matched_work_id": "Rosser1952c",
@@ -2156,7 +2398,7 @@
       ]
     },
     {
-      "input_index": 733,
+      "input_index": 855,
       "candidate_id": "Birkhoff1944b",
       "candidate_title": "Sub-direct unions in universal algebras",
       "matched_work_id": "Birkhoff1944a",
@@ -2166,7 +2408,7 @@
       ]
     },
     {
-      "input_index": 737,
+      "input_index": 859,
       "candidate_id": "Prior1957c",
       "candidate_title": "Time and Modality",
       "matched_work_id": "Prior1957a",
@@ -2176,7 +2418,7 @@
       ]
     },
     {
-      "input_index": 740,
+      "input_index": 862,
       "candidate_id": "Copi1954c",
       "candidate_title": "Symbolic logic, New York, 1954",
       "matched_work_id": "Copi1954a",
@@ -2186,7 +2428,7 @@
       ]
     },
     {
-      "input_index": 744,
+      "input_index": 866,
       "candidate_id": "Harrop1956b",
       "candidate_title": "On disjunctions and existential statements in intuitionistic systems of logic",
       "matched_work_id": "Harrop1956a",
@@ -2196,7 +2438,7 @@
       ]
     },
     {
-      "input_index": 745,
+      "input_index": 867,
       "candidate_id": "Kreisel1958i",
       "candidate_title": "The non-derivability of -,(x)A (x) --* (Ex)-nA (x), A primitive recursive, in intuitionistic formal systems (abstract)",
       "matched_work_id": "Kreisel1958e",
@@ -2206,7 +2448,7 @@
       ]
     },
     {
-      "input_index": 746,
+      "input_index": 868,
       "candidate_id": "Kreisel1957c",
       "candidate_title": "Eine Unableitbarkeitsbeweismethode für den intuitionistischen Aussagenkalkül",
       "matched_work_id": "Kreisel1957a",
@@ -2216,7 +2458,7 @@
       ]
     },
     {
-      "input_index": 747,
+      "input_index": 871,
       "candidate_id": "Ehrenfeucht1956b",
       "candidate_title": "Models of axiomatic theories admitting automnorphisms",
       "matched_work_id": "Ehrenfeucht1956a",
@@ -2226,7 +2468,17 @@
       ]
     },
     {
-      "input_index": 754,
+      "input_index": 875,
+      "candidate_id": "Downing1959b",
+      "candidate_title": "Subjunctive conditionals, time order and causation, Proceedings of the Aristotelian Society (N.S.)",
+      "matched_work_id": "Downing1959a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Downing1959a"
+      ]
+    },
+    {
+      "input_index": 883,
       "candidate_id": "Kleene1952m",
       "candidate_title": "Introduction to metamathematics, New York, Amsterdam, und Groningen 1952",
       "matched_work_id": "Kleene1952i",
@@ -2236,7 +2488,7 @@
       ]
     },
     {
-      "input_index": 760,
+      "input_index": 890,
       "candidate_id": "Feferman1959b",
       "candidate_title": "The first order properties ofproducts of algebraic systems",
       "matched_work_id": "Feferman1959a",
@@ -2246,7 +2498,7 @@
       ]
     },
     {
-      "input_index": 765,
+      "input_index": 895,
       "candidate_id": "Brouwer1927c",
       "candidate_title": "Uber De/initionsbereiche von Funktionen",
       "matched_work_id": "Brouwer1927b",
@@ -2256,7 +2508,7 @@
       ]
     },
     {
-      "input_index": 766,
+      "input_index": 896,
       "candidate_id": "Gentzen1938c",
       "candidate_title": "Neue Fassung des Widerspruchs/reiheitsbeweises fur die reine Zahlentheorie",
       "matched_work_id": "Gentzen1938b",
@@ -2266,7 +2518,7 @@
       ]
     },
     {
-      "input_index": 767,
+      "input_index": 897,
       "candidate_id": "Godel1958d",
       "candidate_title": "Uber eine bisher noch nicht beniqtzte Erweiterung des finiten Standpunktes",
       "matched_work_id": "Godel1958a",
@@ -2276,7 +2528,17 @@
       ]
     },
     {
-      "input_index": 778,
+      "input_index": 900,
+      "candidate_id": "Parikh1962b",
+      "candidate_title": "Some generalizations of the notion of well ordering, Notices of the American Mathematical Society vol. 9",
+      "matched_work_id": "Parikh1962a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Parikh1962a"
+      ]
+    },
+    {
+      "input_index": 909,
       "candidate_id": "Lukasiewicz1951c",
       "candidate_title": "Aristotle's syllogistic, Oxford",
       "matched_work_id": "Lukasiewicz1951b",
@@ -2286,7 +2548,7 @@
       ]
     },
     {
-      "input_index": 783,
+      "input_index": 914,
       "candidate_id": "Craig1962b",
       "candidate_title": "Relative characterizability and generalized existential quantifiers, American Mathematical Society Notices",
       "matched_work_id": "Craig1962a",
@@ -2296,7 +2558,7 @@
       ]
     },
     {
-      "input_index": 784,
+      "input_index": 915,
       "candidate_id": "Tarski1953i",
       "candidate_title": "A. MOSTOWSKl and R. M. ROBINSON, Undecidable theories, Amsterdam, 1953",
       "matched_work_id": "Tarski1953c",
@@ -2306,7 +2568,7 @@
       ]
     },
     {
-      "input_index": 785,
+      "input_index": 917,
       "candidate_id": "Heyting1930e",
       "candidate_title": "Die formalen Regeln der intuitionistischen Logik, Sitzungsberichte der Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse",
       "matched_work_id": "Heyting1930d",
@@ -2316,7 +2578,7 @@
       ]
     },
     {
-      "input_index": 786,
+      "input_index": 918,
       "candidate_id": "Birkhoff1944c",
       "candidate_title": "Subdirect unions in universal algebras",
       "matched_work_id": "Birkhoff1944a",
@@ -2326,7 +2588,7 @@
       ]
     },
     {
-      "input_index": 797,
+      "input_index": 929,
       "candidate_id": "KleeneUndatedb",
       "candidate_title": "Finite axiomatizability of theories in the predicate calculus using additional predicate symbols, Memoirs of the American Mathematical Society",
       "matched_work_id": "Kleene1952j",
@@ -2336,7 +2598,7 @@
       ]
     },
     {
-      "input_index": 801,
+      "input_index": 935,
       "candidate_id": "Gandy1960d",
       "candidate_title": "Proof of Mostowski's conjecture, Bulletin de l'Academie Polonaise des Sciences",
       "matched_work_id": "Gandy1960c",
@@ -2346,7 +2608,7 @@
       ]
     },
     {
-      "input_index": 815,
+      "input_index": 949,
       "candidate_id": "Henkin1961c",
       "candidate_title": "\"Cylindric algebras\", Lattice theory, Proceedings of symposia in pure mathematics",
       "matched_work_id": "Henkin1961b",
@@ -2356,7 +2618,7 @@
       ]
     },
     {
-      "input_index": 817,
+      "input_index": 951,
       "candidate_id": "Tarski1953j",
       "candidate_title": "A. MosTowsKI and R. M. ROBINSON, Undecidable theories",
       "matched_work_id": "Tarski1953c",
@@ -2366,7 +2628,27 @@
       ]
     },
     {
-      "input_index": 828,
+      "input_index": 965,
+      "candidate_id": "Addison1959c",
+      "candidate_title": "Separation principles in the hierarchies of classical and effective descriptive set theory",
+      "matched_work_id": "Addison1959a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Addison1959a"
+      ]
+    },
+    {
+      "input_index": 966,
+      "candidate_id": "Mathias1968b",
+      "candidate_title": "On a generalization of Ramsey's theorems, Notices of the American Mathematical Society",
+      "matched_work_id": "Mathias1968a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Mathias1968a"
+      ]
+    },
+    {
+      "input_index": 972,
       "candidate_id": "Barwise1968b",
       "candidate_title": "Implicit definability and compactness in infinitary languages, The syntax and semantics of infinitary languages, Lecture Notes in Math(matics",
       "matched_work_id": "Barwise1968a",
@@ -2376,7 +2658,7 @@
       ]
     },
     {
-      "input_index": 829,
+      "input_index": 973,
       "candidate_id": "Feferman1966d",
       "candidate_title": "Persistent and invariant formulas relative to theories of higher type",
       "matched_work_id": "Feferman1966a",
@@ -2386,7 +2668,7 @@
       ]
     },
     {
-      "input_index": 830,
+      "input_index": 974,
       "candidate_id": "Kreisel1961c",
       "candidate_title": "Set theoretic problems suggested by the notion of potential totality, Infinitistic methods, Warsaw",
       "matched_work_id": "Kreisel1961b",
@@ -2396,7 +2678,7 @@
       ]
     },
     {
-      "input_index": 831,
+      "input_index": 975,
       "candidate_id": "Kripke1964d",
       "candidate_title": "Transfinite recursion on admissible ordinals",
       "matched_work_id": "Kripke1964b",
@@ -2406,7 +2688,17 @@
       ]
     },
     {
-      "input_index": 837,
+      "input_index": 979,
+      "candidate_id": "Solovay1967b",
+      "candidate_title": "A A' non-constructible set of integers",
+      "matched_work_id": "Solovay1967a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Solovay1967a"
+      ]
+    },
+    {
+      "input_index": 982,
       "candidate_id": "Kreisel1957d",
       "candidate_title": "Eine Unableitbarkeitsbeweismethodefiir den intuitionistischen Aussagenkalkil",
       "matched_work_id": "Kreisel1957a",
@@ -2416,7 +2708,7 @@
       ]
     },
     {
-      "input_index": 840,
+      "input_index": 985,
       "candidate_id": "Kleene1944b",
       "candidate_title": "On the forms of predicates in the theory of constructive ordinals",
       "matched_work_id": "Kleene1944a",
@@ -2426,7 +2718,7 @@
       ]
     },
     {
-      "input_index": 841,
+      "input_index": 986,
       "candidate_id": "Kleene1955h",
       "candidate_title": "On the forms of predicates in the theory of constructive ordinals (second paper)",
       "matched_work_id": "Kleene1955b",
@@ -2436,7 +2728,7 @@
       ]
     },
     {
-      "input_index": 842,
+      "input_index": 987,
       "candidate_id": "SpectorUndateda",
       "candidate_title": "Hyperarithmetical quantifiers",
       "matched_work_id": "Spector1960a",
@@ -2446,7 +2738,7 @@
       ]
     },
     {
-      "input_index": 843,
+      "input_index": 988,
       "candidate_id": "Feys1950c",
       "candidate_title": "Les systems formalise's des modalite's aristot~liciennes, Revue philosophique de Louvain",
       "matched_work_id": "Feys1950b",
@@ -2456,7 +2748,7 @@
       ]
     },
     {
-      "input_index": 844,
+      "input_index": 989,
       "candidate_id": "Wang1951c",
       "candidate_title": "Arithmetic models for formal systems, Methodos",
       "matched_work_id": "Wang1951b",
@@ -2466,7 +2758,7 @@
       ]
     },
     {
-      "input_index": 858,
+      "input_index": 1006,
       "candidate_id": "Feys1950d",
       "candidate_title": "Les systèmes formalisés des modalités aristotéliciennes, Revue philosophique de Louvain",
       "matched_work_id": "Feys1950b",
@@ -2476,7 +2768,7 @@
       ]
     },
     {
-      "input_index": 859,
+      "input_index": 1007,
       "candidate_id": "Prior1955b",
       "candidate_title": "Formal logic, Oxford 1955",
       "matched_work_id": "Prior1955a",
@@ -2486,7 +2778,7 @@
       ]
     },
     {
-      "input_index": 864,
+      "input_index": 1012,
       "candidate_id": "Kleene1955i",
       "candidate_title": "On the forms of predicates in the theory of constructive ordinals, II",
       "matched_work_id": "Kleene1955d",
@@ -2496,7 +2788,7 @@
       ]
     },
     {
-      "input_index": 865,
+      "input_index": 1013,
       "candidate_id": "Kreisel1960g",
       "candidate_title": "La predicativite, Bulletin de la Société Mathématique de France",
       "matched_work_id": "Kreisel1960a",
@@ -2506,7 +2798,7 @@
       ]
     },
     {
-      "input_index": 869,
+      "input_index": 1017,
       "candidate_id": "Schutte1954b",
       "candidate_title": "Kennzeichnung von Ordnungszahlen dtrch rekursiv erkldrte Funktionen",
       "matched_work_id": "Schutte1954a",
@@ -2516,7 +2808,7 @@
       ]
     },
     {
-      "input_index": 870,
+      "input_index": 1018,
       "candidate_id": "Spector1962d",
       "candidate_title": "Provably recursive functionals of analysis: a consistency proof of analysis by an extension of principles formulated in current intuitionistic mathematics, Recursive function theory",
       "matched_work_id": "Spector1962b",
@@ -2526,7 +2818,7 @@
       ]
     },
     {
-      "input_index": 898,
+      "input_index": 1046,
       "candidate_id": "Ellentuck1965b",
       "candidate_title": "The universal properties of Dedekindfinite cardinals",
       "matched_work_id": "Ellentuck1965a",
@@ -2536,7 +2828,7 @@
       ]
     },
     {
-      "input_index": 903,
+      "input_index": 1051,
       "candidate_id": "Bull1964c",
       "candidate_title": "A note on the modal calculi S4.2 and S4.3",
       "matched_work_id": "Bull1964b",
@@ -2546,7 +2838,7 @@
       ]
     },
     {
-      "input_index": 910,
+      "input_index": 1058,
       "candidate_id": "Harrop1964b",
       "candidate_title": "A relativization procedure for propositional calculi with an application to a generalized from of Post's theorem",
       "matched_work_id": "Harrop1964a",
@@ -2556,7 +2848,7 @@
       ]
     },
     {
-      "input_index": 923,
+      "input_index": 1076,
       "candidate_id": "Vaught1954d",
       "candidate_title": "Applications of the Loiwenheim-Skolem-Tarski theorem to problems of completeness and decidabiity",
       "matched_work_id": "Vaught1954a",
@@ -2566,7 +2858,7 @@
       ]
     },
     {
-      "input_index": 930,
+      "input_index": 1083,
       "candidate_id": "Kripke1964f",
       "candidate_title": "Transfinite recursions on admissible ordinals (abstract)",
       "matched_work_id": "Kripke1964a",
@@ -2576,7 +2868,17 @@
       ]
     },
     {
-      "input_index": 941,
+      "input_index": 1087,
+      "candidate_id": "CrossleyUndateda",
+      "candidate_title": "On isomorphisms of recursive well-orderings, (Abstract)",
+      "matched_work_id": "Crossley1963a",
+      "match_method": "exact_title_author",
+      "alternative_matches": [
+        "Crossley1963a"
+      ]
+    },
+    {
+      "input_index": 1095,
       "candidate_id": "BethUndateda",
       "candidate_title": "On Padoa's method in the theory of definitions",
       "matched_work_id": "Beth1953a",
@@ -2586,7 +2888,7 @@
       ]
     },
     {
-      "input_index": 943,
+      "input_index": 1097,
       "candidate_id": "Tarski1953k",
       "candidate_title": "Undecidable Theories, Amsterdam (",
       "matched_work_id": "Tarski1953b",
@@ -2596,7 +2898,7 @@
       ]
     },
     {
-      "input_index": 945,
+      "input_index": 1099,
       "candidate_id": "Shoenfield1961e",
       "candidate_title": "The problem of predicativity, Essays on the foundations of mathematics, Magnes Press, Jerusalem, Israel",
       "matched_work_id": "Shoenfield1961b",
@@ -2606,7 +2908,7 @@
       ]
     },
     {
-      "input_index": 949,
+      "input_index": 1104,
       "candidate_id": "Anderson1963b",
       "candidate_title": "Some open problems concerning the system E of entailment, Acta Philosophica Fennica",
       "matched_work_id": "Anderson1963a",
@@ -2616,7 +2918,7 @@
       ]
     },
     {
-      "input_index": 951,
+      "input_index": 1107,
       "candidate_id": "Meyer1968b",
       "candidate_title": "Entailment logics and material implication, Notices of the American Mathematical Society",
       "matched_work_id": "Meyer1968a",
@@ -2626,7 +2928,7 @@
       ]
     },
     {
-      "input_index": 952,
+      "input_index": 1108,
       "candidate_id": "Sugihara1955b",
       "candidate_title": "Strict implication free from implicational paradoxes, Memoirs of the Faculty of Liberal Arts, Fukui University, Series 1",
       "matched_work_id": "Sugihara1955a",
@@ -2636,7 +2938,7 @@
       ]
     },
     {
-      "input_index": 953,
+      "input_index": 1109,
       "candidate_id": "Stone1937b",
       "candidate_title": "Topological representations of distributive lattices and Brouwerian logics, Časopis pro Pěstováni Mathematiky a Fysiky",
       "matched_work_id": "Stone1937a",
@@ -2646,7 +2948,17 @@
       ]
     },
     {
-      "input_index": 965,
+      "input_index": 1116,
+      "candidate_id": "Rasiowa1950b",
+      "candidate_title": "A proof of the completeness theorem of Gedel",
+      "matched_work_id": "Rasiowa1950a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Rasiowa1950a"
+      ]
+    },
+    {
+      "input_index": 1122,
       "candidate_id": "Kleene1954b",
       "candidate_title": "The tipper semi-lattice of degrees of recursive unsolvability",
       "matched_work_id": "Kleene1954a",
@@ -2656,7 +2968,7 @@
       ]
     },
     {
-      "input_index": 983,
+      "input_index": 1141,
       "candidate_id": "Tarski1953l",
       "candidate_title": "with A. MOSTOWSKi and R. M. ROBINSON, Undecidable theories, Amsterdam (",
       "matched_work_id": "Tarski1953c",
@@ -2666,7 +2978,7 @@
       ]
     },
     {
-      "input_index": 990,
+      "input_index": 1150,
       "candidate_id": "Thomason1967b",
       "candidate_title": "The forcing method and the upper semi-lattice of hyperdegrees",
       "matched_work_id": "Thomason1967a",
@@ -2676,7 +2988,7 @@
       ]
     },
     {
-      "input_index": 994,
+      "input_index": 1154,
       "candidate_id": "AndersonUndatedc",
       "candidate_title": "JR., Tautological entailments, Philosophical studies",
       "matched_work_id": "Anderson1961a",
@@ -2686,7 +2998,7 @@
       ]
     },
     {
-      "input_index": 1003,
+      "input_index": 1163,
       "candidate_id": "Kleene1952n",
       "candidate_title": "Introduction to metamathematics, Amsterdam und Groningen (Noordhoff), New York und Toronto (",
       "matched_work_id": "Kleene1952d",
@@ -2696,7 +3008,7 @@
       ]
     },
     {
-      "input_index": 1020,
+      "input_index": 1188,
       "candidate_id": "Quine1951f",
       "candidate_title": "Mathematical logic, revised edition, Cambridge (Harvard)",
       "matched_work_id": "Quine1951c",
@@ -2706,7 +3018,7 @@
       ]
     },
     {
-      "input_index": 1021,
+      "input_index": 1189,
       "candidate_id": "Rogers1956b",
       "candidate_title": "JR., Theory of recursive functions and effective computability",
       "matched_work_id": "Rogers1956a",
@@ -2716,7 +3028,7 @@
       ]
     },
     {
-      "input_index": 1027,
+      "input_index": 1196,
       "candidate_id": "Buchi1956b",
       "candidate_title": "Notes on the family PCA of sets of models, abstract",
       "matched_work_id": "Buchi1956a",
@@ -2726,7 +3038,7 @@
       ]
     },
     {
-      "input_index": 1031,
+      "input_index": 1201,
       "candidate_id": "Gandy1960h",
       "candidate_title": "and W. TTrr, Set existence, Bulletin de l'Académie Polonaise des Sciences, Serie des sciences mathematiques, astronomiques et physiques",
       "matched_work_id": "Gandy1960e",
@@ -2736,7 +3048,7 @@
       ]
     },
     {
-      "input_index": 1034,
+      "input_index": 1204,
       "candidate_id": "Kleene1950d",
       "candidate_title": "A symmetric form of Gddel's theorem",
       "matched_work_id": "Kleene1950a",
@@ -2746,7 +3058,7 @@
       ]
     },
     {
-      "input_index": 1035,
+      "input_index": 1205,
       "candidate_id": "Kreisel1953f",
       "candidate_title": "Note on arithmetic models for consistent formulae of the predicate calculus II, Proceedings of the XI-th International Congress of Philosophy Amsterdam (",
       "matched_work_id": "Kreisel1953a",
@@ -2756,7 +3068,7 @@
       ]
     },
     {
-      "input_index": 1038,
+      "input_index": 1208,
       "candidate_id": "Tarski1953m",
       "candidate_title": "A. MosTowsKi, and R. M. ROBINSON, Undecidable theories, Amsterdam, 1953",
       "matched_work_id": "Tarski1953c",
@@ -2766,7 +3078,17 @@
       ]
     },
     {
-      "input_index": 1039,
+      "input_index": 1209,
+      "candidate_id": "Trakhtenbrot1950d",
+      "candidate_title": "Ndvozmoznost' algori/ma dla probldmy razrydimosti na kon6~nyh kiassak (Impossibility of an algorithm for the decision problem in finite classes), Doklady Akadémii Nauk SSSR",
+      "matched_work_id": "Trakhtenbrot1950c",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Trakhtenbrot1950c"
+      ]
+    },
+    {
+      "input_index": 1212,
       "candidate_id": "Feys1937c",
       "candidate_title": "Les logiques nouvelles des modalités, Revue néoscholastique de philosophie",
       "matched_work_id": "Feys1937a",
@@ -2776,7 +3098,7 @@
       ]
     },
     {
-      "input_index": 1045,
+      "input_index": 1218,
       "candidate_id": "Karp1964c",
       "candidate_title": "LLanguages with expressions of infinite length",
       "matched_work_id": "Karp1964a",
@@ -2786,7 +3108,7 @@
       ]
     },
     {
-      "input_index": 1049,
+      "input_index": 1222,
       "candidate_id": "Smullyan1963b",
       "candidate_title": "A unifying principal in quantification theory",
       "matched_work_id": "Smullyan1963a",
@@ -2796,7 +3118,7 @@
       ]
     },
     {
-      "input_index": 1053,
+      "input_index": 1226,
       "candidate_id": "Church1941c",
       "candidate_title": "The calculi of lambda-conversion, Princeton",
       "matched_work_id": "Church1941a",
@@ -2806,7 +3128,7 @@
       ]
     },
     {
-      "input_index": 1061,
+      "input_index": 1234,
       "candidate_id": "Shoenfield1959f",
       "candidate_title": "On a restricted c-rule, Bulletin de l'Academie Polonaise des Sciences",
       "matched_work_id": "Shoenfield1959a",
@@ -2816,7 +3138,17 @@
       ]
     },
     {
-      "input_index": 1062,
+      "input_index": 1236,
+      "candidate_id": "Hugill1968a",
+      "candidate_title": "Distributive initial segments of the degrees of unsolvability",
+      "matched_work_id": "Lachlan1968b",
+      "match_method": "exact_title_author",
+      "alternative_matches": [
+        "Lachlan1968b"
+      ]
+    },
+    {
+      "input_index": 1237,
       "candidate_id": "Rogers1968b",
       "candidate_title": "JR., Theory of recursive functions and effective computability",
       "matched_work_id": "Rogers1968a",
@@ -2826,7 +3158,7 @@
       ]
     },
     {
-      "input_index": 1064,
+      "input_index": 1239,
       "candidate_id": "Sacks1963d",
       "candidate_title": "On the degrees less than 0'",
       "matched_work_id": "Sacks1963b",
@@ -2836,7 +3168,7 @@
       ]
     },
     {
-      "input_index": 1074,
+      "input_index": 1249,
       "candidate_id": "Hintikka1959b",
       "candidate_title": "Existential presuppositions and existential commitments, The",
       "matched_work_id": "Hintikka1959a",
@@ -2846,7 +3178,7 @@
       ]
     },
     {
-      "input_index": 1079,
+      "input_index": 1254,
       "candidate_id": "Leblanc1959d",
       "candidate_title": "Nondesignating singular terms, The",
       "matched_work_id": "Leblanc1959c",
@@ -2856,7 +3188,7 @@
       ]
     },
     {
-      "input_index": 1084,
+      "input_index": 1259,
       "candidate_id": "Mostowski1939f",
       "candidate_title": "Uber die Unabhangigkeit des Wohlordnungssatzes vom Ordnungsprinzip",
       "matched_work_id": "Mostowski1939b",
@@ -2866,7 +3198,17 @@
       ]
     },
     {
-      "input_index": 1103,
+      "input_index": 1267,
+      "candidate_id": "Robinson1951e",
+      "candidate_title": "On the metamathematics of algebra",
+      "matched_work_id": "Robinson1951b",
+      "match_method": "exact_title_after_trailing_metadata",
+      "alternative_matches": [
+        "Robinson1951b"
+      ]
+    },
+    {
+      "input_index": 1278,
       "candidate_id": "Chang1966b",
       "candidate_title": "Continuous model theory, Princeton",
       "matched_work_id": "ChangUndateda",
@@ -2876,7 +3218,17 @@
       ]
     },
     {
-      "input_index": 1116,
+      "input_index": 1285,
+      "candidate_id": "Robinson1951f",
+      "candidate_title": "On the meta-mathematics of algebra, Studies in logic and the foundations of mathematics, Amsterdam, 1951",
+      "matched_work_id": "Robinson1951c",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Robinson1951c"
+      ]
+    },
+    {
+      "input_index": 1293,
       "candidate_id": "Ackermann1940c",
       "candidate_title": "Zur Widerspruchsfreiheit der reinen Zahlentheorie",
       "matched_work_id": "Ackermann1940b",
@@ -2887,7 +3239,7 @@
       ]
     },
     {
-      "input_index": 1117,
+      "input_index": 1294,
       "candidate_id": "Gentzen1938d",
       "candidate_title": "Neue Fassung des Widerspruchsfreiheitsbeweises für die reine Zahlentheorie",
       "matched_work_id": "Gentzen1938b",
@@ -2897,7 +3249,7 @@
       ]
     },
     {
-      "input_index": 1124,
+      "input_index": 1302,
       "candidate_id": "Quine1951g",
       "candidate_title": "Mathematical logic, revised edition, Harvard, 1951",
       "matched_work_id": "Quine1951a",
@@ -2907,7 +3259,7 @@
       ]
     },
     {
-      "input_index": 1126,
+      "input_index": 1304,
       "candidate_id": "Carnap1950f",
       "candidate_title": "Logical foundations of probability ((University of Chicago Press, Chicago: 1950)",
       "matched_work_id": "Carnap1950e",
@@ -2917,7 +3269,17 @@
       ]
     },
     {
-      "input_index": 1141,
+      "input_index": 1308,
+      "candidate_id": "Robinson1956h",
+      "candidate_title": "A result on consistency and its application to the theory of definability",
+      "matched_work_id": "Robinson1956d",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Robinson1956d"
+      ]
+    },
+    {
+      "input_index": 1323,
       "candidate_id": "Dekker1960e",
       "candidate_title": "Recursive equivalence types, University of California Publications in Mathematics (new series)",
       "matched_work_id": "Dekker1960a",
@@ -2927,7 +3289,7 @@
       ]
     },
     {
-      "input_index": 1146,
+      "input_index": 1328,
       "candidate_id": "Kreisel1953g",
       "candidate_title": "Note on arithmetic models for consistent formulae of the predicate calculus II, Proceedings of the XIth International Congress of Philosophy, Bruxelles, August 20-26",
       "matched_work_id": "Kreisel1953d",
@@ -2937,7 +3299,7 @@
       ]
     },
     {
-      "input_index": 1147,
+      "input_index": 1329,
       "candidate_id": "Mostowski1953c",
       "candidate_title": "On a system of axioms whsch has no recursively enumerable arithmetic model",
       "matched_work_id": "Mostowski1953a",
@@ -2947,7 +3309,7 @@
       ]
     },
     {
-      "input_index": 1162,
+      "input_index": 1346,
       "candidate_id": "Tait1966c",
       "candidate_title": "A nonconstructive proof of Gentzen's Hauptsatz for second order predicate logic",
       "matched_work_id": "Tait1966b",
@@ -2957,7 +3319,7 @@
       ]
     },
     {
-      "input_index": 1165,
+      "input_index": 1349,
       "candidate_id": "Kleene1963c",
       "candidate_title": "Recursive functional and quantifiers of finite types",
       "matched_work_id": "Kleene1963b",
@@ -2967,7 +3329,7 @@
       ]
     },
     {
-      "input_index": 1170,
+      "input_index": 1354,
       "candidate_id": "Curry1950c",
       "candidate_title": "A theory of formal deducibility, Notre Dame Mathematical Lectures No. 6",
       "matched_work_id": "Curry1950b",
@@ -2977,7 +3339,7 @@
       ]
     },
     {
-      "input_index": 1178,
+      "input_index": 1362,
       "candidate_id": "Kreisel1953h",
       "candidate_title": "Note on arithmetic models for consistent formulae of the predicate calculus II, Proceedings of XIth International Congress of Philosophy",
       "matched_work_id": "Kreisel1953a",
@@ -2987,7 +3349,7 @@
       ]
     },
     {
-      "input_index": 1179,
+      "input_index": 1363,
       "candidate_id": "Kreisel1955c",
       "candidate_title": "Models, translations and interpretations, Mathematical interpretation of formal systems, Studies in logic and the foundations of mathematics, Amsterdam (",
       "matched_work_id": "Kreisel1955a",
@@ -2997,7 +3359,7 @@
       ]
     },
     {
-      "input_index": 1182,
+      "input_index": 1366,
       "candidate_id": "Kreisel1957h",
       "candidate_title": "Hilbert's 17th problem II (abstract)",
       "matched_work_id": "Kreisel1957g",
@@ -3007,7 +3369,7 @@
       ]
     },
     {
-      "input_index": 1192,
+      "input_index": 1378,
       "candidate_id": "Thomason1967c",
       "candidate_title": "The forcing method and the upper semilattice of hyperdegrees",
       "matched_work_id": "Thomason1967a",
@@ -3017,7 +3379,7 @@
       ]
     },
     {
-      "input_index": 1193,
+      "input_index": 1379,
       "candidate_id": "Church1956e",
       "candidate_title": "Introduction to mathematical logic I, Princeton, 1956",
       "matched_work_id": "Church1956d",
@@ -3027,7 +3389,7 @@
       ]
     },
     {
-      "input_index": 1194,
+      "input_index": 1380,
       "candidate_id": "Feys1937d",
       "candidate_title": "Les logiques nouvelles des modalitds, Revue néoscholastique de philosophie",
       "matched_work_id": "Feys1937a",
@@ -3037,7 +3399,7 @@
       ]
     },
     {
-      "input_index": 1195,
+      "input_index": 1381,
       "candidate_id": "Lemmon1960b",
       "candidate_title": "Extension algebras and the modal system T",
       "matched_work_id": "Lemmon1960a",
@@ -3047,7 +3409,7 @@
       ]
     },
     {
-      "input_index": 1198,
+      "input_index": 1384,
       "candidate_id": "Rosenbloom1950b",
       "candidate_title": "The elements of mathematical logic, New York, 1950",
       "matched_work_id": "Rosenbloom1950a",
@@ -3057,7 +3419,7 @@
       ]
     },
     {
-      "input_index": 1208,
+      "input_index": 1394,
       "candidate_id": "Rogers1967e",
       "candidate_title": "The theory of recursive functions and effective computability",
       "matched_work_id": "Rogers1967b",
@@ -3067,7 +3429,7 @@
       ]
     },
     {
-      "input_index": 1213,
+      "input_index": 1401,
       "candidate_id": "Tarski1953n",
       "candidate_title": "A. MOSTOWSKi and R. M. ROBINSON, Undecidable theories, Studies in logic and the foundations of mathematics, Amsterdam (",
       "matched_work_id": "Tarski1953h",
@@ -3077,7 +3439,7 @@
       ]
     },
     {
-      "input_index": 1216,
+      "input_index": 1404,
       "candidate_id": "Lukasiewicz1953c",
       "candidate_title": "A system of modal logic, Journal of computing systems",
       "matched_work_id": "Lukasiewicz1953b",
@@ -3087,7 +3449,7 @@
       ]
     },
     {
-      "input_index": 1223,
+      "input_index": 1413,
       "candidate_id": "Lukasiewicz1931c",
       "candidate_title": "Ein Vollständigkeitsbeweis des zweiwertigen Aussagenkalküls",
       "matched_work_id": "Lukasiewicz1931b",
@@ -3097,7 +3459,7 @@
       ]
     },
     {
-      "input_index": 1227,
+      "input_index": 1417,
       "candidate_id": "Quine1937e",
       "candidate_title": "New foundations for mathematical logic, The",
       "matched_work_id": "Quine1937d",
@@ -3107,7 +3469,7 @@
       ]
     },
     {
-      "input_index": 1229,
+      "input_index": 1419,
       "candidate_id": "Quine1940f",
       "candidate_title": "Mathematical logic, New York",
       "matched_work_id": "Quine1940a",
@@ -3117,7 +3479,7 @@
       ]
     },
     {
-      "input_index": 1249,
+      "input_index": 1439,
       "candidate_id": "Ackermann1937c",
       "candidate_title": "Die Widerspruchsfreiheit der aligemeinen Mengenlehre, Math",
       "matched_work_id": "Ackermann1937a",
@@ -3127,7 +3489,17 @@
       ]
     },
     {
-      "input_index": 1283,
+      "input_index": 1450,
+      "candidate_id": "Kuratowski1921b",
+      "candidate_title": "Sur la notion de l'ordre dans la thtorie des ensembles",
+      "matched_work_id": "Kuratowski1921a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Kuratowski1921a"
+      ]
+    },
+    {
+      "input_index": 1475,
       "candidate_id": "Mckinsey1946b",
       "candidate_title": "On closed elements in closure algebras",
       "matched_work_id": "Mckinsey1946a",
@@ -3137,7 +3509,7 @@
       ]
     },
     {
-      "input_index": 1292,
+      "input_index": 1486,
       "candidate_id": "Quine1943b",
       "candidate_title": "Notes on existence and necessity, The",
       "matched_work_id": "Quine1943a",
@@ -3147,7 +3519,7 @@
       ]
     },
     {
-      "input_index": 1306,
+      "input_index": 1500,
       "candidate_id": "Kuratowski1937b",
       "candidate_title": "Fundamenta mathematicae, vol. 29 (1937), p. 58",
       "matched_work_id": "Kuratowski1937a",
@@ -3157,7 +3529,7 @@
       ]
     },
     {
-      "input_index": 1313,
+      "input_index": 1507,
       "candidate_id": "Kreisel1957i",
       "candidate_title": "Eine Unableitbarkeitbeweismethode fuir den intuitionistischen Aussagenkalkid",
       "matched_work_id": "Kreisel1957a",
@@ -3167,7 +3539,7 @@
       ]
     },
     {
-      "input_index": 1314,
+      "input_index": 1508,
       "candidate_id": "Kleene1936c",
       "candidate_title": "X-dcfinabilify and recursiveness",
       "matched_work_id": "Kleene1936b",
@@ -3177,7 +3549,7 @@
       ]
     },
     {
-      "input_index": 1323,
+      "input_index": 1517,
       "candidate_id": "Carnap1950g",
       "candidate_title": "Logical foundations of probability, University of Chicago Press, 1950",
       "matched_work_id": "Carnap1950e",
@@ -3187,7 +3559,7 @@
       ]
     },
     {
-      "input_index": 1337,
+      "input_index": 1531,
       "candidate_id": "Church1936h",
       "candidate_title": "Formal definitions it the theory of ordinal numbers",
       "matched_work_id": "Church1936f",
@@ -3197,7 +3569,7 @@
       ]
     },
     {
-      "input_index": 1338,
+      "input_index": 1532,
       "candidate_id": "Kleene1936d",
       "candidate_title": "?-definability and recursiveness",
       "matched_work_id": "Kleene1936b",
@@ -3207,7 +3579,7 @@
       ]
     },
     {
-      "input_index": 1339,
+      "input_index": 1533,
       "candidate_id": "Church1941e",
       "candidate_title": "The calculi of lambda-conversion",
       "matched_work_id": "Church1941a",
@@ -3217,7 +3589,7 @@
       ]
     },
     {
-      "input_index": 1353,
+      "input_index": 1547,
       "candidate_id": "Feys1937e",
       "candidate_title": "Les Logiques nouvelles des modaliths, Revue néoscolastique de philosophie",
       "matched_work_id": "Feys1937a",
@@ -3227,7 +3599,7 @@
       ]
     },
     {
-      "input_index": 1361,
+      "input_index": 1557,
       "candidate_id": "Heyting1930f",
       "candidate_title": "Die formalen Regeln der intuitionistischen Logik, Sitzungsberichte der Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Kiasse",
       "matched_work_id": "Heyting1930d",
@@ -3237,7 +3609,7 @@
       ]
     },
     {
-      "input_index": 1371,
+      "input_index": 1567,
       "candidate_id": "Kleene1936f",
       "candidate_title": "-definatbility and recursiveness",
       "matched_work_id": "Kleene1936b",
@@ -3247,7 +3619,7 @@
       ]
     },
     {
-      "input_index": 1379,
+      "input_index": 1575,
       "candidate_id": "Mostowski1939g",
       "candidate_title": "Uber die Unabhdngigkeit des Wohlordnungssatzes vom Ordnungsprinzip",
       "matched_work_id": "Mostowski1939b",
@@ -3257,7 +3629,7 @@
       ]
     },
     {
-      "input_index": 1383,
+      "input_index": 1579,
       "candidate_id": "Suranyi1943b",
       "candidate_title": "A logikai fidggvenykalkulus eldontesproblemndjdnak redukci6jdr6t (in Hungarian with German abstract: Zur Reduktion des Entscheidungs problems des logischen Funktionenkalkals), Matematikai és fizikai lapok",
       "matched_work_id": "Suranyi1943a",
@@ -3267,7 +3639,7 @@
       ]
     },
     {
-      "input_index": 1385,
+      "input_index": 1581,
       "candidate_id": "Tarski1941e",
       "candidate_title": "Introduction to logic and to the methodology of deductive sciences, New York 1941",
       "matched_work_id": "Tarski1941c",
@@ -3277,7 +3649,7 @@
       ]
     },
     {
-      "input_index": 1386,
+      "input_index": 1582,
       "candidate_id": "Quine1950g",
       "candidate_title": "Methods of logic, New York",
       "matched_work_id": "Quine1950c",
@@ -3287,7 +3659,7 @@
       ]
     },
     {
-      "input_index": 1397,
+      "input_index": 1593,
       "candidate_id": "Dedekind1888b",
       "candidate_title": "Was sind und was sollen die Zahlen?, Braunschweig 1888, ?9",
       "matched_work_id": "Dedekind1888a",
@@ -3297,7 +3669,7 @@
       ]
     },
     {
-      "input_index": 1403,
+      "input_index": 1599,
       "candidate_id": "Ackermann1940d",
       "candidate_title": "Zur Widerspruchsfreiheit der Zahie-ntheorie",
       "matched_work_id": "Ackermann1940a",
@@ -3307,7 +3679,7 @@
       ]
     },
     {
-      "input_index": 1404,
+      "input_index": 1601,
       "candidate_id": "Kleene1936g",
       "candidate_title": "General reczrsivefunctions of natural numbers",
       "matched_work_id": "Kleene1936e",
@@ -3317,7 +3689,7 @@
       ]
     },
     {
-      "input_index": 1408,
+      "input_index": 1605,
       "candidate_id": "Tarski1938d",
       "candidate_title": "Der Aussagenkalklal und die Topologie",
       "matched_work_id": "Tarski1938b",
@@ -3327,7 +3699,7 @@
       ]
     },
     {
-      "input_index": 1411,
+      "input_index": 1608,
       "candidate_id": "Lukasiewicz1951d",
       "candidate_title": "Aristotle's Syllogistic",
       "matched_work_id": "Lukasiewicz1951b",
@@ -3337,7 +3709,7 @@
       ]
     },
     {
-      "input_index": 1412,
+      "input_index": 1609,
       "candidate_id": "Jaskowski1948b",
       "candidate_title": "Trois contributions au calcul des propositions bivalent, Studia Societatis Scientiarum Toruniensis, sectio A",
       "matched_work_id": "Jaskowski1948a",
@@ -3347,7 +3719,7 @@
       ]
     },
     {
-      "input_index": 1415,
+      "input_index": 1612,
       "candidate_id": "Sierpinski1928d",
       "candidate_title": "Leçons sur les nombres transfinis, Paris 1928, p. 51",
       "matched_work_id": "Sierpinski1928b",
@@ -3357,7 +3729,17 @@
       ]
     },
     {
-      "input_index": 1419,
+      "input_index": 1615,
+      "candidate_id": "Muchnik1956f",
+      "candidate_title": "Negative answer to the problem of reducibility of the theory of algorithms (in Russian), Dokl",
+      "matched_work_id": "Muchnik1956c",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Muchnik1956c"
+      ]
+    },
+    {
+      "input_index": 1618,
       "candidate_id": "Carnap1947b",
       "candidate_title": "Meaning and necessity, Chicago, 1947",
       "matched_work_id": "Carnap1947a",
@@ -3367,7 +3749,7 @@
       ]
     },
     {
-      "input_index": 1420,
+      "input_index": 1619,
       "candidate_id": "Quine1939c",
       "candidate_title": "Designation and existence",
       "matched_work_id": "Quine1939a",
@@ -3377,7 +3759,17 @@
       ]
     },
     {
-      "input_index": 1433,
+      "input_index": 1628,
+      "candidate_id": "Kuratowski1921c",
+      "candidate_title": "Sur la notion de V'ordre dans la theorie des ensembles",
+      "matched_work_id": "Kuratowski1921a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Kuratowski1921a"
+      ]
+    },
+    {
+      "input_index": 1633,
       "candidate_id": "Kuratowski1920b",
       "candidate_title": "Sur la notion de l'ordre dans la thdorie des ensembles",
       "matched_work_id": "Kuratowski1920a",
@@ -3387,7 +3779,7 @@
       ]
     },
     {
-      "input_index": 1435,
+      "input_index": 1635,
       "candidate_id": "Rose1958c",
       "candidate_title": "Fragment of many-valued statement calculi",
       "matched_work_id": "Rose1958a",
@@ -3397,7 +3789,7 @@
       ]
     },
     {
-      "input_index": 1436,
+      "input_index": 1636,
       "candidate_id": "Church1944c",
       "candidate_title": "Introduction to mathematical logic, Princeton",
       "matched_work_id": "Church1944a",
@@ -3407,7 +3799,7 @@
       ]
     },
     {
-      "input_index": 1441,
+      "input_index": 1641,
       "candidate_id": "Chwistek1948c",
       "candidate_title": "See e.g. The limits of science",
       "matched_work_id": "Chwistek1948b",
@@ -3417,7 +3809,7 @@
       ]
     },
     {
-      "input_index": 1448,
+      "input_index": 1648,
       "candidate_id": "Carnap1942c",
       "candidate_title": "Introduction to semantics (Cambridge, Mass., 1942)",
       "matched_work_id": "Carnap1942b",
@@ -3427,7 +3819,7 @@
       ]
     },
     {
-      "input_index": 1454,
+      "input_index": 1654,
       "candidate_id": "Jaskowski1936d",
       "candidate_title": "Recherches sur le systéme de la logique intuitioniste, Actes du Congrès International de Philosophie Scientifique, VI Philosophie des mathématiques, Paris 1936, pp. 58-61",
       "matched_work_id": "Jaskowski1936a",
@@ -3437,7 +3829,7 @@
       ]
     },
     {
-      "input_index": 1456,
+      "input_index": 1656,
       "candidate_id": "Lukasiewicz1951e",
       "candidate_title": "Aristotle's syllogistic (Oxford, 1951), ?? 19, 24",
       "matched_work_id": "Lukasiewicz1951b",
@@ -3447,7 +3839,17 @@
       ]
     },
     {
-      "input_index": 1465,
+      "input_index": 1665,
+      "candidate_id": "Burks1951b",
+      "candidate_title": "The logic of causal propositious, Mind, n.s. vol. 60",
+      "matched_work_id": "Burks1951a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Burks1951a"
+      ]
+    },
+    {
+      "input_index": 1667,
       "candidate_id": "Mckinsey1946c",
       "candidate_title": "On closed elements in closure algebras, ibid",
       "matched_work_id": "Mckinsey1946a",
@@ -3457,7 +3859,17 @@
       ]
     },
     {
-      "input_index": 1467,
+      "input_index": 1668,
+      "candidate_id": "Kuratowski1921e",
+      "candidate_title": "Sur la notion de l'ordere dons la th eorie des ensembles",
+      "matched_work_id": "Kuratowski1921a",
+      "match_method": "fuzzy_title_author_year",
+      "alternative_matches": [
+        "Kuratowski1921a"
+      ]
+    },
+    {
+      "input_index": 1669,
       "candidate_id": "Quine1950h",
       "candidate_title": "Methods of logic, (New York, 1950), p. 30",
       "matched_work_id": "Quine1950c",
@@ -3467,7 +3879,7 @@
       ]
     },
     {
-      "input_index": 1471,
+      "input_index": 1673,
       "candidate_id": "Huntington1937b",
       "candidate_title": "E. V., Postulates for assertion, conjunction, negation, and equality",
       "matched_work_id": "Huntington1937a",
@@ -3477,7 +3889,7 @@
       ]
     },
     {
-      "input_index": 1482,
+      "input_index": 1685,
       "candidate_id": "Heyting1930g",
       "candidate_title": "A., Die formalen Regeln der intuitionistischen Logik, Sitzungsberichte der Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse",
       "matched_work_id": "Heyting1930d",
@@ -3487,7 +3899,7 @@
       ]
     },
     {
-      "input_index": 1485,
+      "input_index": 1688,
       "candidate_id": "Tarski1938f",
       "candidate_title": "Alfred, Der Aussagenkalkül und die Topologie",
       "matched_work_id": "Tarski1938e",
@@ -3497,7 +3909,7 @@
       ]
     },
     {
-      "input_index": 1486,
+      "input_index": 1689,
       "candidate_id": "Wajsberg1938b",
       "candidate_title": "M., Untersuchungen uber den Aussagenkalkul von A",
       "matched_work_id": "Wajsberg1938a",
@@ -3507,7 +3919,7 @@
       ]
     },
     {
-      "input_index": 1496,
+      "input_index": 1700,
       "candidate_id": "Ramsey1931g",
       "candidate_title": "The foundations of mathematics and other logical essays",
       "matched_work_id": "Ramsey1931f",
@@ -3519,7 +3931,7 @@
   ],
   "ambiguous_duplicate_details": [
     {
-      "input_index": 260,
+      "input_index": 303,
       "candidate_id": "Lemmon1966c",
       "candidate_title": "Algebraic semantics for modal logics",
       "reason": "ambiguous_fuzzy_duplicate",
@@ -3529,7 +3941,7 @@
       ]
     },
     {
-      "input_index": 502,
+      "input_index": 587,
       "candidate_id": "Lemmon1966d",
       "candidate_title": "Algebraic semanticsfor modal logics",
       "reason": "ambiguous_fuzzy_duplicate",
@@ -3539,7 +3951,7 @@
       ]
     },
     {
-      "input_index": 850,
+      "input_index": 997,
       "candidate_id": "Tarski1954i",
       "candidate_title": "Contributions to the theory of models I, II",
       "reason": "ambiguous_fuzzy_duplicate",
@@ -3549,7 +3961,7 @@
       ]
     },
     {
-      "input_index": 1128,
+      "input_index": 1306,
       "candidate_id": "Quine1951h",
       "candidate_title": "Mathematical logic, revised ed. (Harvard",
       "reason": "ambiguous_fuzzy_duplicate",
@@ -3559,7 +3971,7 @@
       ]
     },
     {
-      "input_index": 1257,
+      "input_index": 1448,
       "candidate_id": "Quine1940h",
       "candidate_title": "Mathematical logic, New York 1940, p. 88",
       "reason": "ambiguous_fuzzy_duplicate",
@@ -3569,7 +3981,7 @@
       ]
     },
     {
-      "input_index": 1332,
+      "input_index": 1526,
       "candidate_id": "Church1941d",
       "candidate_title": "The calculi of lambdaconversion, Princeton, N",
       "reason": "ambiguous_fuzzy_duplicate",
@@ -3579,7 +3991,7 @@
       ]
     },
     {
-      "input_index": 1444,
+      "input_index": 1644,
       "candidate_id": "KleeneUndatedh",
       "candidate_title": "Recursive predicates and quantifiers",
       "reason": "ambiguous_exact_duplicate",

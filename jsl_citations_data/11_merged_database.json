@@ -44601,6 +44601,72 @@
     "id": "Feferman1959a"
   },
   {
+    "title": "The basic concepts of algebraic logic",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1956,
+    "type": "article",
+    "journal": "American Mathematical Monthly",
+    "volume": "53",
+    "pages": "363-387",
+    "id": "Halmos1956a"
+  },
+  {
+    "title": "Algebraic Logic, I",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "Compositio Mathematica",
+    "pages": "217-249",
+    "id": "Halmos1955a"
+  },
+  {
+    "title": "Algebraic Logic II",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1957,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "pages": "255-325",
+    "id": "Halmos1957a"
+  },
+  {
+    "title": "Algebraic Logic, III",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1956,
+    "type": "article",
+    "journal": "Transactions of the American Mathematical Society",
+    "pages": "430-470",
+    "id": "Halmos1956b"
+  },
+  {
+    "title": "Algebraic Logic, IV",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1957,
+    "type": "article",
+    "journal": "Transactions of the American Mathematical Society",
+    "pages": "1-27",
+    "id": "Halmos1957b"
+  },
+  {
+    "title": "Algebraic Logic, New York (",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1962,
+    "type": "book",
+    "location": "New York",
+    "id": "Halmos1962a"
+  },
+  {
     "title": "La structure algébrique des théories mathématiques, Paris (",
     "authors": [
       "leon-henkin"
@@ -44623,6 +44689,36 @@
     "id": "Henkin1961a"
   },
   {
+    "title": "Independent fields and cartesian products, Studia Mathematica 11",
+    "authors": [
+      "roman-sikorski"
+    ],
+    "year": 1950,
+    "type": "article",
+    "pages": "171-184",
+    "id": "Sikorski1950a"
+  },
+  {
+    "title": "Cartesian products of Boolean algebras",
+    "authors": [
+      "roman-sikorski"
+    ],
+    "year": 1950,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "pages": "25-54",
+    "id": "Sikorski1950b"
+  },
+  {
+    "title": "Computation; finite and infinite machines",
+    "authors": [
+      "marvin-l-minsky"
+    ],
+    "year": 1967,
+    "type": "book",
+    "id": "Minsky1967a"
+  },
+  {
     "title": "Foundations of mathematical logic",
     "authors": [
       "haskell-b-curry"
@@ -44631,6 +44727,18 @@
     "type": "book",
     "location": "New York",
     "id": "Curry1963a"
+  },
+  {
+    "title": "A note on partial postulate sets for propositional logic",
+    "authors": [
+      "stig-kanger"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "Theoria",
+    "volume": "21",
+    "pages": "99-104",
+    "id": "Kanger1955a"
   },
   {
     "title": "A formulation of the logic of sense and denotation, Structure, method, and meaning: essays in honor of Henry M",
@@ -44886,6 +44994,18 @@
     "pages": "323-328",
     "location": "Warsaw",
     "id": "Fraisse1959a"
+  },
+  {
+    "title": "Incompactness in languages with infinitely long expressions",
+    "authors": [
+      "william-p-hanf"
+    ],
+    "year": 1964,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "53",
+    "pages": "309-324",
+    "id": "Hanf1964a"
   },
   {
     "title": "Languages with expressions of infinite length",
@@ -45331,6 +45451,28 @@
     "id": "Mostowski1962a"
   },
   {
+    "title": "Some generalizations of the notion of well ordering",
+    "authors": [
+      "rohit-j-parikh"
+    ],
+    "year": 1966,
+    "type": "article",
+    "journal": "Zeitschrift für Mathematische Logik und Grundlagen der Mathematik",
+    "volume": "12",
+    "pages": "333-340",
+    "id": "Parikh1966a"
+  },
+  {
+    "title": "Introduction to model theory and to the metamathematics of algebra, NorthHolland, Amsterdam, 1963",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1963,
+    "type": "book",
+    "location": "Amsterdam",
+    "id": "Robinson1963a"
+  },
+  {
     "title": "Beweistheorie",
     "authors": [
       "kurt-schutte"
@@ -45362,6 +45504,17 @@
     "id": "Schutte1966a"
   },
   {
+    "title": "Logic with denumerably long formulas and finite strings of quantifiers, Theory of models, North-Hollancd, Amsterdam",
+    "authors": [
+      "dana-scott"
+    ],
+    "year": 1965,
+    "type": "book",
+    "pages": "329-341",
+    "location": "Amsterdam",
+    "id": "Scott1965a"
+  },
+  {
     "title": "Non-standard models for fragments of number theory, The theory of models",
     "authors": [
       "j-c-shepherdson"
@@ -45382,6 +45535,18 @@
     "volume": "7",
     "pages": "405-407",
     "id": "Shoenfield1959a"
+  },
+  {
+    "title": "A non-constructible A'-set of integers",
+    "authors": [
+      "robert-m-solovay"
+    ],
+    "year": 1967,
+    "type": "article",
+    "journal": "Transactions of the American Mathematical Society",
+    "volume": "127",
+    "pages": "50-75",
+    "id": "Solovay1967a"
   },
   {
     "title": "Provably recursive functionals of analysis: a consistency proof of analysis by an extension of principles formulated in current intuitionistic mathematics",
@@ -45509,6 +45674,18 @@
     "pages": "323-328",
     "location": "New York",
     "id": "Fraisse1961a"
+  },
+  {
+    "title": "Deux generalisations de la notion de ricursivite\"",
+    "authors": [
+      "daniel-lacombe"
+    ],
+    "year": 1964,
+    "type": "article",
+    "journal": "Comptes rendus hebdomadaires des séances de l'académie des sciences",
+    "volume": "258",
+    "pages": "3141-3143",
+    "id": "Lacombe1964a"
   },
   {
     "title": "On subsystems of analysis, Notices of the American Mathematical Society",
@@ -45729,6 +45906,19 @@
     "id": "Appel1967b"
   },
   {
+    "title": "On properties of regressive sets",
+    "authors": [
+      "k-i-appel",
+      "t-g-mclaughlin"
+    ],
+    "year": 1965,
+    "type": "article",
+    "journal": "Transactions of the American Mathematical Society",
+    "volume": "115",
+    "pages": "83-93",
+    "id": "Appel1965a"
+  },
+  {
     "title": "Infinite series of isols, Proceedings of symposia in pure mathematics",
     "authors": [
       "j-c-e-dekker"
@@ -45819,6 +46009,18 @@
     "id": "Spector1961a"
   },
   {
+    "title": "Degrees of unsolvability and the rate of growth of functions, Abstract 587-128, Notices of the American Mathematical Society",
+    "authors": [
+      "stanley-tennenbaum"
+    ],
+    "year": 1961,
+    "type": "article",
+    "volume": "8",
+    "pages": "608",
+    "notes": "Abstract",
+    "id": "Tennenbaum1961a"
+  },
+  {
     "title": "Recursively enumerable sets and retracing functions",
     "authors": [
       "c-e-m-yates"
@@ -45886,6 +46088,26 @@
     "id": "Rogers1968a"
   },
   {
+    "title": "Independence of the axiom of choice, Stanford University, Stanford, Calif., 1963",
+    "authors": [
+      "paul-j-cohen"
+    ],
+    "year": 1963,
+    "type": "book",
+    "location": "Stanford",
+    "id": "Cohen1963a"
+  },
+  {
+    "title": "Set theory and the continuum hypothesis",
+    "authors": [
+      "paul-j-cohen"
+    ],
+    "year": 1966,
+    "type": "book",
+    "location": "New York",
+    "id": "Cohen1966a"
+  },
+  {
     "title": "Homogeneous universal models",
     "authors": [
       "michael-morley",
@@ -45943,6 +46165,42 @@
     "id": "Rosser1952c"
   },
   {
+    "title": "Complete propositional connectives",
+    "authors": [
+      "r-f-wheeler"
+    ],
+    "year": 1961,
+    "type": "article",
+    "journal": "Zeitschrift für Mathematische Logik und Grundlagen der Mathematik",
+    "volume": "7",
+    "pages": "185-198",
+    "id": "Wheeler1961a"
+  },
+  {
+    "title": "An asymptotic formula for the number of complete propositional connectives",
+    "authors": [
+      "r-f-wheeler"
+    ],
+    "year": 1962,
+    "type": "article",
+    "journal": "Zeitschrift für Mathematische Logik und Grundlagen der Mathematik",
+    "volume": "8",
+    "pages": "1-4",
+    "id": "Wheeler1962a"
+  },
+  {
+    "title": "Complete connectives for the 3-valued propositional calculus",
+    "authors": [
+      "r-f-wheeler"
+    ],
+    "year": 1966,
+    "type": "article",
+    "journal": "Proceedings of the London Mathematical Society",
+    "volume": "16",
+    "pages": "167-191",
+    "id": "Wheeler1966a"
+  },
+  {
     "title": "The relation of weakly discrete to set and equinumerosity in mereology",
     "authors": [
       "robert-e-clay"
@@ -45953,6 +46211,17 @@
     "volume": "VI",
     "pages": "325-340",
     "id": "Clay1965a"
+  },
+  {
+    "title": "Languages with added quantifier \"there exist at least אα\", The theory of models, edited by J",
+    "authors": [
+      "g-fuhrken"
+    ],
+    "year": 1965,
+    "type": "book",
+    "pages": "121-131",
+    "location": "Amsterdam",
+    "id": "Fuhrken1965a"
   },
   {
     "title": "Incompleteness of Lp languages",
@@ -46213,6 +46482,20 @@
     "id": "Myhill1953d"
   },
   {
+    "title": "Reduced direct products",
+    "authors": [
+      "t-frayne",
+      "anne-c-morel",
+      "dana-scott"
+    ],
+    "year": 1962,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "51",
+    "pages": "195-248",
+    "id": "Frayne1962a"
+  },
+  {
     "title": "Remarks on natural deduction",
     "authors": [
       "e-w-beth"
@@ -46248,6 +46531,16 @@
     "volume": "17",
     "number": "12",
     "id": "Hintikka1955b"
+  },
+  {
+    "title": "Provability in logic, Stockholm studies in philosophy 1",
+    "authors": [
+      "stig-kanger"
+    ],
+    "year": 1957,
+    "type": "book",
+    "location": "Stockholm",
+    "id": "Kanger1957a"
   },
   {
     "title": "Ein System des verknüpfenden Schlieβens",
@@ -46318,6 +46611,29 @@
     "volume": "49",
     "pages": "1-10",
     "id": "Levy1960b"
+  },
+  {
+    "title": "Separation principles in the hierarchies of classical and effective set theory",
+    "authors": [
+      "john-w-addison"
+    ],
+    "year": 1959,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "46",
+    "pages": "123-135",
+    "id": "Addison1959a"
+  },
+  {
+    "title": "Some problems in hierarchy theory, Recursive Function Theory, Proceedings of Symposia in Pure Mathematics, American mathematical society",
+    "authors": [
+      "john-w-addison"
+    ],
+    "year": 1962,
+    "type": "article",
+    "volume": "5",
+    "pages": "123-130",
+    "id": "Addison1962a"
   },
   {
     "title": "Introduction to metamathematics, D",
@@ -46431,6 +46747,19 @@
     "id": "Kreisel1959f"
   },
   {
+    "title": "Partial recursive functionals and effective operations, Constructivity in mathematics",
+    "authors": [
+      "g-kreisel",
+      "daniel-lacombe",
+      "joseph-r-shoenfield"
+    ],
+    "year": 1959,
+    "type": "book",
+    "pages": "290-297",
+    "location": "Amsterdam",
+    "id": "Kreisel1959g"
+  },
+  {
     "title": "Set-theoretic problems suggested by the notions of potential totality, Infinitistic methods, Warsaw, Poland",
     "authors": [
       "g-kreisel"
@@ -46439,7 +46768,20 @@
     "type": "book",
     "pages": "103-140",
     "location": "Warsaw",
-    "id": "Kreisel1959g"
+    "id": "Kreisel1959h"
+  },
+  {
+    "title": "Fonctionelles recursivement ddfinissables et fonctionelles rdcursives",
+    "authors": [
+      "g-kreisel",
+      "daniel-lacombe",
+      "joseph-r-shoenfield"
+    ],
+    "year": 1959,
+    "type": "article",
+    "volume": "245",
+    "pages": "399-342",
+    "id": "Kreisel1959i"
   },
   {
     "title": "Effective operations and partial recursive functions",
@@ -46499,6 +46841,42 @@
     "id": "Kreisel1956a"
   },
   {
+    "title": "On the extending of models",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "42",
+    "pages": "38-54",
+    "id": "Los1955a"
+  },
+  {
+    "title": "Properties preserved under homomorphisms",
+    "authors": [
+      "roger-c-lyndon"
+    ],
+    "year": 1959,
+    "type": "article",
+    "journal": "Pacific Journal of Mathematics",
+    "volume": "9",
+    "pages": "143-154",
+    "id": "Lyndon1959a"
+  },
+  {
+    "title": "Properties preserved under algebraic constructions",
+    "authors": [
+      "roger-c-lyndon"
+    ],
+    "year": 1959,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "65",
+    "pages": "287-299",
+    "id": "Lyndon1959b"
+  },
+  {
     "title": "Contributions to the theory of models, I and II",
     "authors": [
       "alfred-tarski"
@@ -46552,6 +46930,19 @@
     "pages": "100-105",
     "notes": "mimeographed",
     "id": "Kleene1957a"
+  },
+  {
+    "title": "On existential theorems in non-classical functional calculi",
+    "authors": [
+      "helena-rasiowa",
+      "roman-sikorski"
+    ],
+    "year": 1954,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "41",
+    "pages": "87-9",
+    "id": "Rasiowa1954a"
   },
   {
     "title": "Completeness proofs for the intuitionistic sentential calculus, mimeographed Summaries of talks presented at the Summer Institute of Symbolic Logic in 1957 at Cornell University",
@@ -46690,6 +47081,39 @@
     "id": "Popper1948a"
   },
   {
+    "title": "On the metamathematics of algebra, Amsterdam (",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1951,
+    "type": "book",
+    "location": "Amsterdam",
+    "id": "Robinson1951b"
+  },
+  {
+    "title": "Uwagi o sylogistyce Arystotelesa",
+    "authors": [
+      "jerzy-slupecki"
+    ],
+    "year": 1946,
+    "type": "article",
+    "journal": "Annales Universitatis Mariae Curie-Sklodowska",
+    "volume": "1",
+    "number": "3",
+    "pages": "187-191",
+    "id": "Slupecki1946a"
+  },
+  {
+    "title": "Z badań nad sylogistyka Arystotelesa, Travaux de la Société des Sciences et des Lettres de Wroclaw, sér",
+    "authors": [
+      "jerzy-slupecki"
+    ],
+    "year": 1948,
+    "type": "article",
+    "number": "9",
+    "id": "Slupecki1948a"
+  },
+  {
     "title": "CS(n): An extension of CS, Dominican studies",
     "authors": [
       "ivo-thomas"
@@ -46743,7 +47167,7 @@
     "type": "book",
     "pages": "101-128",
     "location": "Amsterdam",
-    "id": "Kreisel1959h"
+    "id": "Kreisel1959j"
   },
   {
     "title": "Non-derivability of ¬(x)A(x) → (∃x) ¬A(x), A(x) primitive recursive, in intuitionistic formal systems (abstract)",
@@ -46757,6 +47181,15 @@
     "pages": "456-457",
     "notes": "abstract",
     "id": "Kreisel1958e"
+  },
+  {
+    "title": "Some fundamental problems concerning languages with infinitely long expressions, Doctoral Dissertation, University of California, Berkeley, 1962",
+    "authors": [
+      "william-p-hanf"
+    ],
+    "year": 1962,
+    "type": "article",
+    "id": "Hanf1962a"
   },
   {
     "title": "Completeness proof in predicate logic with infinitely long expressions",
@@ -46778,6 +47211,16 @@
     "type": "book",
     "location": "Cambridge",
     "id": "Kopperman1965a"
+  },
+  {
+    "title": "Complete theories",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1956,
+    "type": "book",
+    "location": "Amsterdam",
+    "id": "Robinson1956c"
   },
   {
     "title": "Remarks on predicate logic with infinitely long expressions",
@@ -46822,6 +47265,18 @@
     "id": "Fraisse1954a"
   },
   {
+    "title": "and D. SCOTT, Reduced direct products",
+    "authors": [
+      "t-frayne",
+      "anne-c-morel"
+    ],
+    "year": 1962,
+    "type": "article",
+    "volume": "51",
+    "pages": "195-228",
+    "id": "Frayne1962b"
+  },
+  {
     "title": "Some interconnections between modern algebra and mathematical logic, Transaction of the American Mathematical Society",
     "authors": [
       "leon-henkin"
@@ -46842,6 +47297,40 @@
     "volume": "23",
     "pages": "477-495",
     "id": "Keisler1961a"
+  },
+  {
+    "title": "Filtration systems, Notices of the American Mathematical Society",
+    "authors": [
+      "simon-kochen"
+    ],
+    "year": 1958,
+    "type": "article",
+    "volume": "5",
+    "pages": "605",
+    "id": "Kochen1958a"
+  },
+  {
+    "title": "Ultraproducts in the theory of models",
+    "authors": [
+      "simon-kochen"
+    ],
+    "year": 1961,
+    "type": "article",
+    "journal": "Annals of Mathematics",
+    "volume": "74",
+    "pages": "221-261",
+    "id": "Kochen1961a"
+  },
+  {
+    "title": "Quelques remarques, théorèmes et Problèmes sur les classes definissables, Mathematical interpretations of formal systems, Amsterdam (",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1955,
+    "type": "book",
+    "pages": "98-113",
+    "location": "Amsterdam",
+    "id": "Los1955b"
   },
   {
     "title": "Critical thinking, New York, 1946",
@@ -47508,6 +47997,30 @@
     "id": "StrawsonUndateda"
   },
   {
+    "title": "Subjunctive conditionals, time order and causation, Proceedings of the Aristotelian Society, n.s. vol",
+    "authors": [
+      "p-b-downing"
+    ],
+    "year": 1959,
+    "type": "article",
+    "journal": "Proceedings of the Cambridge Philosophical Society",
+    "volume": "LIX",
+    "pages": "126",
+    "id": "Downing1959a"
+  },
+  {
+    "title": "The logic of causal propositions, Mind, n.s. vol. 60",
+    "authors": [
+      "arthur-w-burks"
+    ],
+    "year": 1951,
+    "type": "article",
+    "journal": "Mind",
+    "volume": "60",
+    "pages": "363-383",
+    "id": "Burks1951a"
+  },
+  {
     "title": "Introduction to logical theory",
     "authors": [
       "peter-frederick-strawson"
@@ -47758,6 +48271,18 @@
     "id": "Kwei1950a"
   },
   {
+    "title": "Entailment and deducibility, Proceedings of the Aristotelian Society",
+    "authors": [
+      "timothy-smiley"
+    ],
+    "year": 1959,
+    "type": "article",
+    "journal": "Proceedings of the Cambridge Philosophical Society",
+    "volume": "59",
+    "pages": "233-254",
+    "id": "Smiley1959a"
+  },
+  {
     "title": "Strict implication free from implicational paradoxes, Memoirs of the Faculty of Liberal Arts, Fukui University, Series I",
     "authors": [
       "takeo-sugihara"
@@ -47879,6 +48404,18 @@
     "type": "book",
     "location": "Paris",
     "id": "Feys1965a"
+  },
+  {
+    "title": "Propositional calculus and realizability",
+    "authors": [
+      "gene-f-rose"
+    ],
+    "year": 1953,
+    "type": "article",
+    "journal": "Transactions of the American Mathematical Society",
+    "volume": "75",
+    "pages": "1-19",
+    "id": "Rose1953c"
   },
   {
     "title": "A. MOSTOwsKI and A. ROBINSON, Undecidable theories",
@@ -48076,6 +48613,18 @@
     "id": "Sierpinski1928a"
   },
   {
+    "title": "The axiom of choice in Quine's New Foundations for Mathematical Logic",
+    "authors": [
+      "ernst-specker"
+    ],
+    "year": 1953,
+    "type": "article",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "39",
+    "pages": "972-975",
+    "id": "Specker1953a"
+  },
+  {
     "title": "On a theorem of Vaught",
     "authors": [
       "leon-henkin"
@@ -48110,6 +48659,16 @@
     "id": "Tarski1953c"
   },
   {
+    "title": "Normal combinations and the theory of types, Doctoral thesis, Pennsylvania State University, 1963",
+    "authors": [
+      "l-e-sanchis"
+    ],
+    "year": 1963,
+    "type": "article",
+    "notes": "Doctoral thesis",
+    "id": "Sanchis1963a"
+  },
+  {
     "title": "Effective operations and recursive functionals, abstract",
     "authors": [
       "robin-o-gandy"
@@ -48121,6 +48680,40 @@
     "pages": "378-379",
     "notes": "abstract",
     "id": "Gandy1962a"
+  },
+  {
+    "title": "and J. R. SHOENFIELD, Partial recursive functionals and effective operations, Constructivity in Mathematics, Amsterdam (",
+    "authors": [
+      "g-kreisel",
+      "daniel-lacombe"
+    ],
+    "year": 1959,
+    "type": "book",
+    "pages": "290-297",
+    "location": "Amsterdam",
+    "id": "Kreisel1959k"
+  },
+  {
+    "title": "Extension de la notion de fonction ricursive aux fonctions d'une ou plusieurs variables",
+    "authors": [
+      "daniel-lacombe"
+    ],
+    "year": 1955,
+    "type": "book",
+    "pages": "2478-2480",
+    "location": "Paris",
+    "id": "Lacombe1955a"
+  },
+  {
+    "title": "Quelques procddds de definition en topologie rdcursive, Constructivity in Mathematics, Amsterdam (",
+    "authors": [
+      "daniel-lacombe"
+    ],
+    "year": 1959,
+    "type": "book",
+    "pages": "129-158",
+    "location": "Amsterdam",
+    "id": "Lacombe1959a"
   },
   {
     "title": "Some Stone spaces and recursion theory",
@@ -48224,7 +48817,7 @@
     "year": 1959,
     "type": "book",
     "location": "Oxford",
-    "id": "Kreisel1959i"
+    "id": "Kreisel1959l"
   },
   {
     "title": "Transfinite recursion, constructible sets and analogues of cardinals",
@@ -48235,6 +48828,28 @@
     "type": "article",
     "journal": "Proceedings of the American Mathematical Society",
     "id": "Kripke1967b"
+  },
+  {
+    "title": "Deux ginlralisations de la notion de retcursivitd",
+    "authors": [
+      "daniel-lacombe"
+    ],
+    "year": 1964,
+    "type": "book",
+    "pages": "3141-3143",
+    "location": "Paris",
+    "id": "Lacombe1964b"
+  },
+  {
+    "title": "Deux generalisations de la notion de r6cursivite' relative",
+    "authors": [
+      "daniel-lacombe"
+    ],
+    "year": 1964,
+    "type": "book",
+    "pages": "3410-3413",
+    "location": "Paris",
+    "id": "Lacombe1964c"
   },
   {
     "title": "Hyperanalytic predicates",
@@ -48290,6 +48905,17 @@
     "pages": "79",
     "notes": "abstract",
     "id": "Firestone1949a"
+  },
+  {
+    "title": "Sur l'e'tat actuel de l'axiomatique de la thiorie des ensembles, Annales de la Société Polonaise de Mathématique",
+    "authors": [
+      "kazimierz-kuratowski"
+    ],
+    "year": 1924,
+    "type": "article",
+    "volume": "3",
+    "pages": "146-147",
+    "id": "Kuratowski1924a"
   },
   {
     "title": "An undecidable arithmetic statement",
@@ -48357,6 +48983,17 @@
     "id": "Bergmann1949b"
   },
   {
+    "title": "Natural systems of logic",
+    "authors": [
+      "timothy-smiley"
+    ],
+    "year": 1956,
+    "type": "book",
+    "location": "Cambridge",
+    "notes": "Ph.D. Thesis",
+    "id": "Smiley1956a"
+  },
+  {
     "title": "Solvable Surdnyi subclasses: an introduction to the Herbrand theory",
     "authors": [
       "burton-s-dreben"
@@ -48387,6 +49024,18 @@
     "number": "10",
     "pages": "27-68",
     "id": "Kleene1952j"
+  },
+  {
+    "title": "On the categoricity in power of elementary deductive systems and some related problems",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "Colloquium Mathematicum",
+    "volume": "3",
+    "pages": "58-62",
+    "id": "Los1955c"
   },
   {
     "title": "Concerning a problem of H",
@@ -48734,6 +49383,19 @@
     "id": "Dekker1955a"
   },
   {
+    "title": "JR., Constructive versions of ordinal number classes",
+    "authors": [
+      "d-l-kreider",
+      "hartley-rogers-jr"
+    ],
+    "year": 1961,
+    "type": "article",
+    "journal": "Transactions of the American Mathematical Society",
+    "volume": "100",
+    "pages": "325-369",
+    "id": "Kreider1961a"
+  },
+  {
     "title": "Number-theoretic concepts and recursive well-orderings",
     "authors": [
       "g-kreisel",
@@ -48803,6 +49465,17 @@
     "type": "book",
     "pages": "572-581",
     "id": "Tarski1954d"
+  },
+  {
+    "title": "Model theory and non-standard arithmetic, Infinitistic methods, Symposium on Foundations of Mathematics, Warsaw, pp. 265-302, 1959",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1959,
+    "type": "book",
+    "pages": "265-302",
+    "location": "Warsaw",
+    "id": "Robinson1959a"
   },
   {
     "title": "The problem of predicativity, Essays on the foundations of mathematics, pp. 132-139, Jerusalem, 1961",
@@ -48878,6 +49551,18 @@
     "id": "Wang1949a"
   },
   {
+    "title": "A. C. MOREL and D. ScoTT, Reduced direct products",
+    "authors": [
+      "t-frayne"
+    ],
+    "year": 1962,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "51",
+    "pages": "195-228",
+    "id": "Frayne1962c"
+  },
+  {
     "title": "On cardinalities of ultraproducts",
     "authors": [
       "h-jerome-keisler"
@@ -48941,6 +49626,18 @@
     "type": "article",
     "journal": "Zeitschrift für Mathematische Logik und Grundlagen der Mathematik",
     "id": "Kripke1963a"
+  },
+  {
+    "title": "Der volle dreiwertige Aussagenkalkül",
+    "authors": [
+      "jerzy-slupecki"
+    ],
+    "year": 1936,
+    "type": "article",
+    "journal": "Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie",
+    "volume": "29",
+    "pages": "9-11",
+    "id": "Slupecki1936a"
   },
   {
     "title": "Recherches sur la déduction logique, Traduit par R",
@@ -49011,6 +49708,27 @@
     "id": "Hooper1965a"
   },
   {
+    "title": "Theory of Algorithms, OTS 60-51805",
+    "authors": [
+      "a-a-markov"
+    ],
+    "year": 1961,
+    "type": "article",
+    "id": "Markov1961a"
+  },
+  {
+    "title": "Recursive unsolvability of Post's problem of tag",
+    "authors": [
+      "marvin-l-minsky"
+    ],
+    "year": 1961,
+    "type": "article",
+    "journal": "Annals of Mathematics",
+    "volume": "74",
+    "pages": "437-455",
+    "id": "Minsky1961a"
+  },
+  {
     "title": "On a computer program for obtaining irreducible representations for two-level multiple input-output logical systems, Journal of the Association for Computing Machinery",
     "authors": [
       "r-w-house",
@@ -49074,7 +49792,7 @@
     "type": "book",
     "pages": "329-341",
     "location": "Amsterdam",
-    "id": "Scott1965a"
+    "id": "Scott1965b"
   },
   {
     "title": "Mathematical logic",
@@ -49084,6 +49802,60 @@
     "year": 1967,
     "type": "book",
     "id": "Shoenfield1967a"
+  },
+  {
+    "title": "Isomorphism in elementary logic, Notices of the American Mathematical Society",
+    "authors": [
+      "william-p-hanf"
+    ],
+    "year": 1962,
+    "type": "article",
+    "volume": "9",
+    "pages": "127-128",
+    "id": "Hanf1962b"
+  },
+  {
+    "title": "Model theoretic methods in the study of elementary logic, The theory of models",
+    "authors": [
+      "william-p-hanf"
+    ],
+    "year": 1965,
+    "type": "book",
+    "pages": "133-146",
+    "location": "Amsterdam",
+    "id": "Hanf1965a"
+  },
+  {
+    "title": "On some fundamental problems concerning isomorphism of Boolean algebras, Mathematicae scandinavica",
+    "authors": [
+      "william-p-hanf"
+    ],
+    "year": 1957,
+    "type": "article",
+    "volume": "5",
+    "pages": "205-217",
+    "id": "Hanf1957a"
+  },
+  {
+    "title": "Boolean algebra",
+    "authors": [
+      "roman-sikorski"
+    ],
+    "year": 1964,
+    "type": "book",
+    "location": "Berlin",
+    "id": "Sikorski1964a"
+  },
+  {
+    "title": "Non-Archimedean models for arithmetic, Notices of the American Mathematical Society",
+    "authors": [
+      "stanley-tennenbaum"
+    ],
+    "year": 1959,
+    "type": "article",
+    "volume": "6",
+    "pages": "207",
+    "id": "Tennenbaum1959a"
   },
   {
     "title": "On denumerable bases of formal systems, Mathematical interpretation of formal systems",
@@ -49152,6 +49924,17 @@
     "id": "Ullian1961a"
   },
   {
+    "title": "A. HAUNAL and R. RADo, Partition relations for cardinal numbers, Acta mathematica",
+    "authors": [
+      "paul-erdos"
+    ],
+    "year": 1965,
+    "type": "article",
+    "volume": "16",
+    "pages": "93-196",
+    "id": "Erdos1965a"
+  },
+  {
     "title": "Some remarks on infinitely long formulas, Infinitistic methods, Proceedings of the Symposium on the Foundations of Mathematics, Warsaw",
     "authors": [
       "leon-henkin"
@@ -49163,6 +49946,18 @@
     "id": "Henkin1959a"
   },
   {
+    "title": "Some consequences of the axiom of constructibility",
+    "authors": [
+      "john-w-addison"
+    ],
+    "year": 1959,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "46",
+    "pages": "337-357",
+    "id": "Addison1959b"
+  },
+  {
     "title": "Proof of Mostowski's conjecture, Bulletin de l'Académie Polonaise des Science",
     "authors": [
       "robin-o-gandy"
@@ -49172,6 +49967,16 @@
     "volume": "8",
     "pages": "571-575",
     "id": "Gandy1960c"
+  },
+  {
+    "title": "Topologie. I, 4th ed., PWN, Warsaw, 1958",
+    "authors": [
+      "kazimierz-kuratowski"
+    ],
+    "year": 1958,
+    "type": "book",
+    "location": "Warsaw",
+    "id": "Kuratowski1958a"
   },
   {
     "title": "A complete classification of the Al-functions",
@@ -49198,6 +50003,18 @@
     "id": "Myhill1956b"
   },
   {
+    "title": "An interpolation theorem in the predicate calculus",
+    "authors": [
+      "roger-c-lyndon"
+    ],
+    "year": 1959,
+    "type": "article",
+    "journal": "Pacific Journal of Mathematics",
+    "volume": "9",
+    "pages": "129-142",
+    "id": "Lyndon1959c"
+  },
+  {
     "title": "A result on consistency and its application to the theory of definition",
     "authors": [
       "abraham-robinson"
@@ -49207,7 +50024,7 @@
     "journal": "Indagationes Mathematicae",
     "volume": "18",
     "pages": "47-58",
-    "id": "Robinson1956c"
+    "id": "Robinson1956d"
   },
   {
     "title": "Theory of models of infinite valued logic",
@@ -49292,6 +50109,16 @@
     "id": "Meredith1963a"
   },
   {
+    "title": "Lectures on Boolean algebras",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1963,
+    "type": "book",
+    "location": "Princeton",
+    "id": "Halmos1963a"
+  },
+  {
     "title": "JR., An algebraic approach through uniformly reflexive structures to generalized recursive function theory, Doctoral dissertation, University of Washington, 1967",
     "authors": [
       "h-r-strong"
@@ -49308,6 +50135,37 @@
     "year": 1968,
     "type": "article",
     "id": "Strong1968a"
+  },
+  {
+    "title": "Uniformly reflexive structures: Towards an abstract theory of computability, Research report RC-934, IBM Thomas J",
+    "authors": [
+      "e-g-wagner"
+    ],
+    "year": 1963,
+    "type": "article",
+    "notes": "abstract",
+    "id": "Wagner1963a"
+  },
+  {
+    "title": "Uniformly reflexive structures: An axiomatic approach to computability, Logic, Computability, and Automata: Joint RADC-HAC Symposium, 1965",
+    "authors": [
+      "e-g-wagner"
+    ],
+    "year": 1965,
+    "type": "book",
+    "location": "New York",
+    "id": "Wagner1965a"
+  },
+  {
+    "title": "Uniformly reflexive structures: On the nature of Gödelization and relative computability",
+    "authors": [
+      "e-g-wagner"
+    ],
+    "year": 1969,
+    "type": "article",
+    "journal": "Transactions of the American Mathematical Society",
+    "pages": "1-41",
+    "id": "Wagner1969a"
   },
   {
     "title": "Separable theories, Bulletin de L'Académie Polonaise des Sciences",
@@ -49383,6 +50241,18 @@
     "id": "Wang1951a"
   },
   {
+    "title": "The word problem",
+    "authors": [
+      "william-w-boone"
+    ],
+    "year": 1959,
+    "type": "article",
+    "journal": "Annals of Mathematics",
+    "volume": "70",
+    "pages": "207-265",
+    "id": "Boone1959a"
+  },
+  {
     "title": "Computable algebra, general theory and theory of computable fields",
     "authors": [
       "michael-o-rabin"
@@ -49403,6 +50273,18 @@
     "type": "article",
     "volume": "4",
     "id": "Grzegorczyk1953a"
+  },
+  {
+    "title": "Partial results regarding word problems and recursively enumerable degrees of unsolvability",
+    "authors": [
+      "william-w-boone"
+    ],
+    "year": 1962,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "68",
+    "pages": "616-623",
+    "id": "Boone1962a"
   },
   {
     "title": "Number-theoretic concepts and recursive well-orderings, Archive für Mathematische Logik und Grundlagenforschung",
@@ -49534,6 +50416,17 @@
     "id": "Kleene1952l"
   },
   {
+    "title": "Nérazréš imost' problémy svodimosti téorii algoritmov (Negative answer to the problem of reducibility of the theory of algorithms), Doklady Akadémii Nauk SSSR",
+    "authors": [
+      "albert-a-muchnik"
+    ],
+    "year": 1956,
+    "type": "article",
+    "volume": "108",
+    "pages": "194-197",
+    "id": "Muchnik1956a"
+  },
+  {
     "title": "A computing procedure for quantification theory, Journal of the Association for Computing Machinery",
     "authors": [
       "martin-davis",
@@ -49544,6 +50437,17 @@
     "volume": "7",
     "pages": "201-215",
     "id": "Davis1960a"
+  },
+  {
+    "title": "Negative answer to the problem of reducibility of the theory of algorithms (Russian), Doklady Akademii Nauk SSSR",
+    "authors": [
+      "albert-a-muchnik"
+    ],
+    "year": 1956,
+    "type": "article",
+    "volume": "108",
+    "pages": "194-197",
+    "id": "Muchnik1956b"
   },
   {
     "title": "On the degree of index sets, On the degree of index sets",
@@ -49611,6 +50515,17 @@
     "id": "Montague1957a"
   },
   {
+    "title": "The mathematics of metamathematics, PWN, Warsaw, 1963",
+    "authors": [
+      "helena-rasiowa",
+      "roman-sikorski"
+    ],
+    "year": 1963,
+    "type": "book",
+    "location": "Warsaw",
+    "id": "Rasiowa1963a"
+  },
+  {
     "title": "Theory of self-reproducing automata, edited and completed by Arthur W",
     "authors": [
       "j-v-neumann"
@@ -49618,6 +50533,17 @@
     "year": 1966,
     "type": "article",
     "id": "Neumann1966a"
+  },
+  {
+    "title": "Computation, behaviour, and structure in fixed and growing automata, Behavioural science",
+    "authors": [
+      "arthur-w-burks"
+    ],
+    "year": 1961,
+    "type": "article",
+    "volume": "6",
+    "pages": "5-22",
+    "id": "Burks1961a"
   },
   {
     "title": "Some relational systems and the associated topological spaces",
@@ -49731,6 +50657,17 @@
     "volume": "3",
     "pages": "137-152",
     "id": "Horn1953a"
+  },
+  {
+    "title": "The mathematics of metamathematics, Monografie Matematyczne",
+    "authors": [
+      "helena-rasiowa",
+      "roman-sikorski"
+    ],
+    "year": 1963,
+    "type": "book",
+    "location": "Warsaw",
+    "id": "Rasiowa1963b"
   },
   {
     "title": "On disjunctions and existential statements in intuitioonistic systems of logic",
@@ -49857,6 +50794,28 @@
     "id": "Trew1968a"
   },
   {
+    "title": "Normal combinations and the theory of types, Ph.D",
+    "authors": [
+      "l-e-sanchis"
+    ],
+    "year": 1963,
+    "type": "article",
+    "notes": "Ph.D. Thesis",
+    "id": "Sanchis1963b"
+  },
+  {
+    "title": "Types in combinatory logic",
+    "authors": [
+      "l-e-sanchis"
+    ],
+    "year": 1964,
+    "type": "article",
+    "journal": "Notre Dame Journal of Formal Logic",
+    "volume": "5",
+    "pages": "161-180",
+    "id": "Sanchis1964a"
+  },
+  {
     "title": "Modal Logics",
     "authors": [
       "robert-feys"
@@ -49937,6 +50896,54 @@
     "type": "book",
     "location": "New York",
     "id": "Quine1959c"
+  },
+  {
+    "title": "Negative answer to the problem of reducibility of the theory of algorithms (in Russian), Doklady Akad",
+    "authors": [
+      "albert-a-muchnik"
+    ],
+    "year": 1956,
+    "type": "article",
+    "volume": "108",
+    "pages": "194-197",
+    "id": "Muchnik1956c"
+  },
+  {
+    "title": "Solution of Post's reduction problem and of certain problems in the theory of algorithms (in Russian), Trudy Moskow Mat",
+    "authors": [
+      "albert-a-muchnik"
+    ],
+    "year": 1958,
+    "type": "article",
+    "volume": "7",
+    "pages": "391-405",
+    "id": "Muchnik1958a"
+  },
+  {
+    "title": "A proof of the completeness theorem of Godel",
+    "authors": [
+      "helena-rasiowa",
+      "roman-sikorski"
+    ],
+    "year": 1950,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "37",
+    "pages": "193-200",
+    "id": "Rasiowa1950a"
+  },
+  {
+    "title": "A proof of the Skolem-Lfwenheim theorem",
+    "authors": [
+      "helena-rasiowa",
+      "roman-sikorski"
+    ],
+    "year": 1951,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "38",
+    "pages": "230-232",
+    "id": "Rasiowa1951a"
   },
   {
     "title": "An extension of the calculus of non-contradiction",
@@ -50111,6 +51118,18 @@
     "year": 1962,
     "type": "article",
     "id": "Cohen1962a"
+  },
+  {
+    "title": "Propositional functions, Proceedings of the Aristotelian Society, Supplementary Volume XXXIV",
+    "authors": [
+      "timothy-smiley"
+    ],
+    "year": 1960,
+    "type": "article",
+    "journal": "Proceedings of the Cambridge Philosophical Society",
+    "volume": "XXXIV",
+    "pages": "33-46",
+    "id": "Smiley1960a"
   },
   {
     "title": "The interpretation of two systems of modality, Journal of Computing Systems",
@@ -50323,6 +51342,18 @@
     "id": "Ellentuck1967a"
   },
   {
+    "title": "Skolem-type normal forms for first order languages with a generalized quantifier",
+    "authors": [
+      "g-fuhrken"
+    ],
+    "year": 1964,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "54",
+    "pages": "291-302",
+    "id": "Fuhrken1964a"
+  },
+  {
     "title": "Non-linear combinatorial functions of isols",
     "authors": [
       "anil-nerode"
@@ -50429,6 +51460,18 @@
     "id": "Wang1949b"
   },
   {
+    "title": "Algebraic logic II - Homogeneous locally finite polyadic Boolean algebras of infinite degree",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1956,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "43",
+    "pages": "255-325",
+    "id": "Halmos1956c"
+  },
+  {
     "title": "JR., Theory of recursive functions and effective computability, McGrawHill, New York, 1967",
     "authors": [
       "hartley-rogers-jr"
@@ -50520,6 +51563,17 @@
     "volume": "135",
     "pages": "249-266",
     "id": "Yates1969a"
+  },
+  {
+    "title": "Kryterium pełności wielowartościowych systemów logiki zdań",
+    "authors": [
+      "jerzy-slupecki"
+    ],
+    "year": 1939,
+    "type": "article",
+    "journal": "Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie",
+    "pages": "102-109",
+    "id": "Slupecki1939a"
   },
   {
     "title": "Zur Widerspruchsfreiheit der Zahlentheorie",
@@ -50732,6 +51786,29 @@
     "id": "Craig1962a"
   },
   {
+    "title": "On relative characterizability in a language, Ibid., pp. 152-153, Abstract 62T-95",
+    "authors": [
+      "william-craig",
+      "william-p-hanf"
+    ],
+    "type": "article",
+    "pages": "152-153",
+    "notes": "Abstract",
+    "id": "CraigUndateda"
+  },
+  {
+    "title": "On generalized quantifiers (abstract), Notices American Mathematical Society",
+    "authors": [
+      "g-fuhrken"
+    ],
+    "year": 1962,
+    "type": "article",
+    "volume": "9",
+    "pages": "132",
+    "notes": "abstract",
+    "id": "Fuhrken1962a"
+  },
+  {
     "title": "Limit ultrapowers, Transactions American Mathematical Society",
     "authors": [
       "h-jerome-keisler"
@@ -50848,6 +51925,19 @@
     "id": "Tarski1958b"
   },
   {
+    "title": "On families of mutually exclusive sets",
+    "authors": [
+      "paul-erdos",
+      "alfred-tarski"
+    ],
+    "year": 1943,
+    "type": "article",
+    "journal": "Annals of Mathematics",
+    "volume": "44",
+    "pages": "315-329",
+    "id": "Erdos1943a"
+  },
+  {
     "title": "The representation theorem for cylindrical algebras, Mathematical interpretation of formal systems, Amsterdam (",
     "authors": [
       "leon-henkin"
@@ -50893,6 +51983,19 @@
     "pages": "363",
     "notes": "Abstract",
     "id": "Keisler1960b"
+  },
+  {
+    "title": "An algebraic treatment of the notion of satisfiability",
+    "authors": [
+      "helena-rasiowa",
+      "roman-sikorski"
+    ],
+    "year": 1943,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "40",
+    "pages": "62-95",
+    "id": "Rasiowa1943a"
   },
   {
     "title": "The sentential calculus with infinitely ltong expressions",
@@ -50949,6 +52052,18 @@
     "volume": "12",
     "pages": "23-41",
     "id": "Robinson1965b"
+  },
+  {
+    "title": "Algebraic logic",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1957,
+    "type": "article",
+    "journal": "Transactions of the American Mathematical Society",
+    "volume": "86",
+    "pages": "1-27",
+    "id": "Halmos1957c"
   },
   {
     "title": "and A. TARSKI, Cylindric algebras, Part I",
@@ -51008,6 +52123,19 @@
     "id": "Rogers1957a"
   },
   {
+    "title": "and S. C. ScoTrr, Reduced direct products",
+    "authors": [
+      "t-frayne",
+      "anne-c-morel"
+    ],
+    "year": 1962,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "51",
+    "pages": "195-228",
+    "id": "Frayne1962d"
+  },
+  {
     "title": "Nonstandard logic, doctoral thesis, M.I.T., Cambridge, Mass., 1966",
     "authors": [
       "james-r-geiser"
@@ -51028,6 +52156,56 @@
     "volume": "8",
     "pages": "63",
     "id": "Keisler1961b"
+  },
+  {
+    "title": "On languages which are based on nonstandard arithmetic, Nagoya Mathematical Journal",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1963,
+    "type": "article",
+    "volume": "22",
+    "pages": "83-117",
+    "id": "Robinson1963b"
+  },
+  {
+    "title": "Non-standard analysis",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1963,
+    "type": "book",
+    "location": "Amsterdam",
+    "id": "Robinson1963c"
+  },
+  {
+    "title": "Hierarchies and the axiom of constructibility, mimeographed Summaries of talks presented at the Summer Institute of Symbolic Logic in 1957 at Cornell University, pp. 355-362",
+    "authors": [
+      "john-w-addison"
+    ],
+    "year": 1957,
+    "type": "article",
+    "pages": "355-362",
+    "notes": "mimeographed",
+    "id": "Addison1957a"
+  },
+  {
+    "title": "Measure theory",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1950,
+    "type": "book",
+    "id": "Halmos1950a"
+  },
+  {
+    "title": "Topologie I, 2nd ed., Warszawa-Wroclaw",
+    "authors": [
+      "kazimierz-kuratowski"
+    ],
+    "year": 1948,
+    "type": "article",
+    "id": "Kuratowski1948a"
   },
   {
     "title": "That all normal extensions of S4.3 have the finite model property",
@@ -51267,6 +52445,18 @@
     "id": "Prior1956b"
   },
   {
+    "title": "On Lukasiewicz's L-modal system",
+    "authors": [
+      "timothy-smiley"
+    ],
+    "year": 1961,
+    "type": "article",
+    "journal": "Notre Dame Journal of Formal Logic",
+    "volume": "2",
+    "pages": "149-153",
+    "id": "Smiley1961a"
+  },
+  {
     "title": "On a so-called paradox",
     "authors": [
       "w-v-quine"
@@ -51298,6 +52488,18 @@
     "type": "article",
     "volume": "15",
     "id": "Takeuti1963a"
+  },
+  {
+    "title": "Algebraic logic",
+    "authors": [
+      "paul-r-halmos"
+    ],
+    "year": 1956,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "43",
+    "pages": "255-325",
+    "id": "Halmos1956d"
   },
   {
     "title": "The completeness of Boolean algebra, forthcoming in",
@@ -51381,6 +52583,29 @@
     "id": "Keisler1965c"
   },
   {
+    "title": "On the categoricity in power of elementary deductive systems",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1954,
+    "type": "article",
+    "journal": "Colloquium Mathematicum",
+    "volume": "3",
+    "pages": "58-62",
+    "id": "Los1954a"
+  },
+  {
+    "title": "Quelques remarques, théorèmes et problèmes sur les classes définissables d'algèbres, Mathematical interpretations of formal systems",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1955,
+    "type": "book",
+    "pages": "98-113",
+    "location": "Amsterdam",
+    "id": "Los1955d"
+  },
+  {
     "title": "Categoricity in power, Doctoral dissertation, University of Chicago, Chicago, Ill., 1962",
     "authors": [
       "michael-morley"
@@ -51426,6 +52651,40 @@
     "id": "Vaught1963a"
   },
   {
+    "title": "Distributive initial segments of the degrees of unsolvability (to appear)",
+    "authors": [
+      "d-f-hugill",
+      "a-h-lachlan"
+    ],
+    "type": "article",
+    "notes": "to appear",
+    "id": "HugillUndateda"
+  },
+  {
+    "title": "On the structure of set mappings, Acta Mathematica Academiae Scientiarum Hungaricae",
+    "authors": [
+      "paul-erdos",
+      "andras-hajnal"
+    ],
+    "year": 1958,
+    "type": "article",
+    "volume": "9",
+    "pages": "111-1",
+    "id": "Erdos1958a"
+  },
+  {
+    "title": "Some remarks concerning our paper \"On the structure of set mappings\", Acta Mathematica Academiae Scientiarum Hungaricae",
+    "authors": [
+      "paul-erdos",
+      "andras-hajnal"
+    ],
+    "year": 1962,
+    "type": "article",
+    "volume": "13",
+    "pages": "223-226",
+    "id": "Erdos1962a"
+  },
+  {
     "title": "Strong partition properties, Notices of the American Mathematical Society",
     "authors": [
       "e-m-kleinberg"
@@ -51458,6 +52717,26 @@
     "id": "MartinUndateda"
   },
   {
+    "title": "Doctoral dissertation, Peterhouse, Cambridge Univ., Cambridge, England",
+    "authors": [
+      "adrian-r-d-mathias"
+    ],
+    "type": "book",
+    "location": "Cambridge",
+    "id": "MathiasUndateda"
+  },
+  {
+    "title": "On a generalization of Ramsey's theorem, Notices of the American Mathematical Society",
+    "authors": [
+      "adrian-r-d-mathias"
+    ],
+    "year": 1968,
+    "type": "article",
+    "volume": "15",
+    "pages": "931",
+    "id": "Mathias1968a"
+  },
+  {
     "title": "Some applications of model theory in set theory, Doctoral dissertation, University of California, Berkeley, Calif., 1966",
     "authors": [
       "jack-silver"
@@ -51465,6 +52744,28 @@
     "year": 1966,
     "type": "article",
     "id": "Silver1966a"
+  },
+  {
+    "title": "Separation principles in the hierarchies of classical and effective descriptive set theory",
+    "authors": [
+      "john-w-addison"
+    ],
+    "year": 1957,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "63",
+    "pages": "397-8",
+    "id": "Addison1957b"
+  },
+  {
+    "title": "Separation principles in the hierarchies of classical and effective descriptive set theory, to appear in",
+    "authors": [
+      "john-w-addison"
+    ],
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "notes": "to appear",
+    "id": "AddisonUndateda"
   },
   {
     "title": "Les ensembles projectifs et analytiques, Memorial des sciences mathématiques",
@@ -51511,7 +52812,7 @@
     "volume": "24",
     "pages": "322-3",
     "notes": "abstract",
-    "id": "Kreisel1959j"
+    "id": "Kreisel1959m"
   },
   {
     "title": "Induction and recursion (abstract)",
@@ -51526,6 +52827,18 @@
     "pages": "385",
     "notes": "abstract",
     "id": "Kreisel1960f"
+  },
+  {
+    "title": "Some generalizations of the notion of well-ordering (abstract), Notices of the American Mathematical Society",
+    "authors": [
+      "rohit-j-parikh"
+    ],
+    "year": 1962,
+    "type": "article",
+    "volume": "9",
+    "pages": "412",
+    "notes": "abstract",
+    "id": "Parikh1962a"
   },
   {
     "title": "Nested recursion",
@@ -51623,6 +52936,19 @@
     "id": "Rogers1966a"
   },
   {
+    "title": "On Gentzen theorem",
+    "authors": [
+      "helena-rasiowa",
+      "roman-sikorski"
+    ],
+    "year": 1960,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "48",
+    "pages": "57-69",
+    "id": "Rasiowa1960a"
+  },
+  {
     "title": "On the concept of truth in formalized languages, Logic, semantics and metamathematics, Oxford",
     "authors": [
       "alfred-tarski"
@@ -51641,18 +52967,6 @@
     "type": "book",
     "location": "Cambridge",
     "id": "Quine1951d"
-  },
-  {
-    "title": "The axiom of choice in Quine's new foundations for mathematical logic",
-    "authors": [
-      "ernst-specker"
-    ],
-    "year": 1953,
-    "type": "article",
-    "journal": "Proceedings of the National Academy of Sciences",
-    "volume": "39",
-    "pages": "972-975",
-    "id": "Specker1953a"
   },
   {
     "title": "A note on the modal calculi 54.2 and 54.3",
@@ -51747,6 +53061,29 @@
     "id": "Sobocinski1954a"
   },
   {
+    "title": "Constructive theories, Bulletin de l'Académie Polonaise des Sciences, Classe III",
+    "authors": [
+      "helena-rasiowa"
+    ],
+    "year": 1954,
+    "type": "article",
+    "volume": "2",
+    "pages": "121-124",
+    "id": "Rasiowa1954b"
+  },
+  {
+    "title": "Algebraic models of axiomatic theories",
+    "authors": [
+      "helena-rasiowa"
+    ],
+    "year": 1954,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "41",
+    "pages": "291-310",
+    "id": "Rasiowa1954c"
+  },
+  {
     "title": "New foundations and the axiom of counting",
     "authors": [
       "steven-orey"
@@ -51757,6 +53094,29 @@
     "volume": "31",
     "pages": "655-660",
     "id": "Orey1964a"
+  },
+  {
+    "title": "The axiom of choice in Quine's \"New Foundations,\"",
+    "authors": [
+      "ernst-specker"
+    ],
+    "year": 1953,
+    "type": "article",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "39",
+    "pages": "972-975",
+    "id": "Specker1953b"
+  },
+  {
+    "title": "Typical ambiguity, Logic, methodology and philosophy of science, Stanford",
+    "authors": [
+      "ernst-specker"
+    ],
+    "year": 1962,
+    "type": "book",
+    "pages": "116-124",
+    "location": "Stanford",
+    "id": "Specker1962a"
   },
   {
     "title": "Connexive implication and the syllogism, Mind (N.S.)",
@@ -51811,6 +53171,24 @@
     "id": "SmullyanUndatedc"
   },
   {
+    "title": "Provability in logic, Acta Universitatis Stockholmiensis Stockholm Studies in Philosophy 1, Almquist & Wiksell, Stockholm",
+    "authors": [
+      "stig-kanger"
+    ],
+    "type": "book",
+    "location": "Stockholm",
+    "id": "KangerUndateda"
+  },
+  {
+    "title": "Notes on logic",
+    "authors": [
+      "roger-c-lyndon"
+    ],
+    "type": "book",
+    "location": "Princeton",
+    "id": "LyndonUndateda"
+  },
+  {
     "title": "On definable sets of positive integers",
     "authors": [
       "andrzej-mostowski"
@@ -51845,6 +53223,18 @@
     "pages": "222-223",
     "notes": "abstract",
     "id": "Buchi1956a"
+  },
+  {
+    "title": "A result on consistency aed its application to the theory of definition",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1956,
+    "type": "article",
+    "journal": "Indagationes Mathematicae",
+    "volume": "59",
+    "pages": "47-58",
+    "id": "Robinson1956f"
   },
   {
     "title": "Introduction to metamathematics",
@@ -52060,6 +53450,17 @@
     "id": "Chang1965a"
   },
   {
+    "title": "Impossibility of an algorithm for the decision problem in finite classes (in Russian), Doklady Akademii Nauk SSSR, n.s",
+    "authors": [
+      "boris-a-trakhtenbrot"
+    ],
+    "year": 1950,
+    "type": "article",
+    "volume": "70",
+    "pages": "569-572",
+    "id": "Trakhtenbrot1950a"
+  },
+  {
     "title": "Lattice Theory",
     "authors": [
       "garrett-birkhoff"
@@ -52195,6 +53596,19 @@
     "id": "Curry1939a"
   },
   {
+    "title": "Algebraic treatment of the notion of satisfiability",
+    "authors": [
+      "helena-rasiowa",
+      "roman-sikorski"
+    ],
+    "year": 1953,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "40",
+    "pages": "62-95",
+    "id": "Rasiowa1953a"
+  },
+  {
     "title": "Untersuchungen über den Aussagenkalkül von A",
     "authors": [
       "mordechaj-wajsberg"
@@ -52205,6 +53619,20 @@
     "volume": "46",
     "pages": "45-101",
     "id": "Wajsberg1938a"
+  },
+  {
+    "title": "On Isomorphisms of recursive well-orderings (abstract)",
+    "authors": [
+      "john-n-crossley",
+      "rohit-j-parikh"
+    ],
+    "year": 1963,
+    "type": "article",
+    "journal": "The Journal of Symbolic Logic",
+    "volume": "28",
+    "pages": "308",
+    "notes": "abstract",
+    "id": "Crossley1963a"
   },
   {
     "title": "Mathematical logic, pp. 95-195 in Lectures in modern mathematics",
@@ -52364,6 +53792,16 @@
     "id": "Tarski1949a"
   },
   {
+    "title": "O matrycach logicznych (On logical matrices), Prace Wrocławskiego Towarzystwa Naukowego, series B",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1949,
+    "type": "article",
+    "number": "19",
+    "id": "Los1949a"
+  },
+  {
     "title": "A note on Sheffer functions in n-valued logic, Methodos",
     "authors": [
       "norman-m-martin"
@@ -52373,6 +53811,18 @@
     "volume": "3",
     "pages": "240-242",
     "id": "Martin1951a"
+  },
+  {
+    "title": "Kryterium pe~no~ci wielowarto~ciowych systemdw logiki zdari (A criterion of fullness of many-valued systems of propositional logic)",
+    "authors": [
+      "jerzy-slupecki"
+    ],
+    "year": 1939,
+    "type": "article",
+    "journal": "Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie",
+    "volume": "32",
+    "pages": "102-109",
+    "id": "Slupecki1939b"
   },
   {
     "title": "Independence results in set theory by Cohen's method",
@@ -52396,6 +53846,40 @@
     "volume": "81",
     "pages": "537-540",
     "id": "Shoenfield1959e"
+  },
+  {
+    "title": "On a consistency theorem connected with the generalized continuum hypothesis, Acta",
+    "authors": [
+      "andras-hajnal"
+    ],
+    "year": 1961,
+    "type": "article",
+    "volume": "12",
+    "pages": "321-376",
+    "id": "Hajnal1961a"
+  },
+  {
+    "title": "The independence of the continuum hypothesis",
+    "authors": [
+      "paul-j-cohen"
+    ],
+    "year": 1963,
+    "type": "article",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "50",
+    "pages": "1143-1148",
+    "id": "Cohen1963b"
+  },
+  {
+    "title": "2א0 can be anything it ought to be, The theory of models",
+    "authors": [
+      "robert-m-solovay"
+    ],
+    "year": 1965,
+    "type": "book",
+    "pages": "435",
+    "location": "Amsterdam",
+    "id": "Solovay1965a"
   },
   {
     "title": "The two-valued iterative systems of mathematical logic",
@@ -52447,6 +53931,17 @@
     "id": "TaitUndatedc"
   },
   {
+    "title": "Boolean-valued models of set theory, Proc",
+    "authors": [
+      "dana-scott",
+      "robert-m-solovay"
+    ],
+    "type": "article",
+    "volume": "13",
+    "notes": "to appear",
+    "id": "ScottUndateda"
+  },
+  {
     "title": "The problem of predicativity",
     "authors": [
       "joseph-r-shoenfield"
@@ -52455,6 +53950,25 @@
     "type": "article",
     "pages": "226-233",
     "id": "Shoenfield1961c"
+  },
+  {
+    "title": "Ʃ12 subsets of R are Lebesgue measurable (to appear)",
+    "authors": [
+      "robert-m-solovay"
+    ],
+    "type": "article",
+    "notes": "to appear",
+    "id": "SolovayUndateda"
+  },
+  {
+    "title": "Iterated Cohen extensions and Souslin's problem (to appear)",
+    "authors": [
+      "robert-m-solovay",
+      "stanley-tennenbaum"
+    ],
+    "type": "article",
+    "notes": "to appear",
+    "id": "SolovayUndatedb"
   },
   {
     "title": "Ein Beitrag zur Ordnungstheorie",
@@ -52500,7 +54014,7 @@
     "type": "book",
     "pages": "329-341",
     "location": "Amsterdam",
-    "id": "Scott1965d"
+    "id": "Scott1965e"
   },
   {
     "title": "Decidability results in nonclassical logics",
@@ -52594,6 +54108,27 @@
     "id": "Quine1951e"
   },
   {
+    "title": "On the metamathematics of algebra, Studies in logic and the foundations of mathematics, Amsterdam",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1951,
+    "type": "book",
+    "location": "Amsterdam",
+    "id": "Robinson1951c"
+  },
+  {
+    "title": "On axiomatic systems which possess finite models, Methodos",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1951,
+    "type": "article",
+    "volume": "3",
+    "pages": "140-149",
+    "id": "Robinson1951d"
+  },
+  {
     "title": "On hierarchies of predicates of ordinal numbers, Journal of the Mathematical Society of Japan, 14",
     "authors": [
       "gaisi-takeuti",
@@ -52626,6 +54161,18 @@
     "volume": "14",
     "pages": "595-617",
     "id": "Harrop1964a"
+  },
+  {
+    "title": "The Post Lineal theorems for arbitrary recursively enumerable degrees of unsolvability",
+    "authors": [
+      "a-h-ihrig"
+    ],
+    "year": 1965,
+    "type": "article",
+    "journal": "Notre Dame Journal of Formal Logic",
+    "volume": "4",
+    "pages": "54-71",
+    "id": "Ihrig1965a"
   },
   {
     "title": "Doctoral Dissertation, University of Illinois, Urbana, Ill., 1964",
@@ -53026,7 +54573,7 @@
     "year": 1963,
     "type": "book",
     "location": "Amsterdam",
-    "id": "Robinson1963a"
+    "id": "Robinson1963d"
   },
   {
     "title": "Tag systems and lag systems",
@@ -53149,6 +54696,42 @@
     "id": "Harrop1959a"
   },
   {
+    "title": "Post-Linial theorems for r.e.d.u., Notices of the American Mathematical Society",
+    "authors": [
+      "a-h-ihrig"
+    ],
+    "year": 1964,
+    "type": "article",
+    "volume": "11",
+    "pages": "456",
+    "notes": "Abstract",
+    "id": "Ihrig1964a"
+  },
+  {
+    "title": "Coincidence of partial propositional calculi, Notices of the American Mathematical Society",
+    "authors": [
+      "a-h-ihrig"
+    ],
+    "year": 1964,
+    "type": "article",
+    "volume": "11",
+    "pages": "457",
+    "notes": "Abstract",
+    "id": "Ihrig1964b"
+  },
+  {
+    "title": "Classes of partial propositional calculi and r.e.d.u.'s, Notices of the American Mathematical Society",
+    "authors": [
+      "a-h-ihrig"
+    ],
+    "year": 1964,
+    "type": "article",
+    "volume": "11",
+    "pages": "669",
+    "notes": "Abstract",
+    "id": "Ihrig1964c"
+  },
+  {
     "title": "Recherches sur le système de la logique intuitioniste, Actes du Congrès International de Philosophie Scientifique VI, Philosophie des Mathematiques, Actualités Seientifiques et Industrielles",
     "authors": [
       "stanisaw-jakowski"
@@ -53193,6 +54776,28 @@
     "type": "book",
     "location": "Oxford",
     "id": "Prior1962b"
+  },
+  {
+    "title": "0 Pewnym, Fragnencie Implikacyinego Rachunku Zdah (On a fragment of implicative propositional calculus) (Polish with Russian and English summaries)",
+    "authors": [
+      "helena-rasiowa"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "Studia Logica",
+    "volume": "3",
+    "pages": "208-226",
+    "id": "Rasiowa1955a"
+  },
+  {
+    "title": "Jaskowski's truth-tables and realizability, Ph.D. thesis, University of Wisconsin, 1952",
+    "authors": [
+      "gene-f-rose"
+    ],
+    "year": 1952,
+    "type": "article",
+    "notes": "Ph.D. thesis",
+    "id": "Rose1952c"
   },
   {
     "title": "On intermediate many-valued logics, Journal of the Mathematical Society of Japan",
@@ -53507,6 +55112,18 @@
     "id": "Lejewski1963a"
   },
   {
+    "title": "S. Legniewski's calculus of names",
+    "authors": [
+      "jerzy-slupecki"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "Studia Logica",
+    "volume": "3",
+    "pages": "7-76",
+    "id": "Slupecki1955a"
+  },
+  {
     "title": "L'analyse de l'antinomie russellienne par Legniewski, Methodos",
     "authors": [
       "bolesaw-sobociski"
@@ -53516,6 +55133,16 @@
     "volume": "1",
     "pages": "94-107",
     "id": "Sobocinski1949b"
+  },
+  {
+    "title": "On logical matrices, Travaux de la Société des Sciences et des Lettres de Wroclaw, Seria B",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1949,
+    "type": "article",
+    "number": "19",
+    "id": "Los1949b"
   },
   {
     "title": "R-mingle and relevant disjunction",
@@ -53810,6 +55437,16 @@
     "id": "Feferman1959c"
   },
   {
+    "title": "Analytic predicates and extensions of the notion of constructive ordinal, Ph.D",
+    "authors": [
+      "d-l-kreider"
+    ],
+    "year": 1958,
+    "type": "article",
+    "notes": "Ph.D. Thesis",
+    "id": "Kreider1958a"
+  },
+  {
     "title": "Completeness properties of formalisms for recursively enumerable relations and recursive functions, to appear",
     "authors": [
       "g-kreisel",
@@ -53891,6 +55528,26 @@
     "type": "book",
     "location": "New York",
     "id": "Quine1940e"
+  },
+  {
+    "title": "Complete Theories, Studies in Logic and the foundations of mathematics, Amsterdam (",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1956,
+    "type": "book",
+    "location": "Amsterdam",
+    "id": "Robinson1956g"
+  },
+  {
+    "title": "Einführung in die algebraische Geometrie, Berlin (",
+    "authors": [
+      "bartel-l-van-der-waerden"
+    ],
+    "year": 1939,
+    "type": "book",
+    "location": "Berlin",
+    "id": "Waerden1939a"
   },
   {
     "title": "Distributive initial segments of the degrees of unsolvability",
@@ -54030,6 +55687,17 @@
     "id": "Ellentuck1964a"
   },
   {
+    "title": "Ndvozmotnost' algorifma d~d problimy razrtifmosti na koninyh klassah (Unm6glichkeit eines Algorithmus fUr die Entscheidungsproblem in endlichen Klassen), Doklady Akadémii Nauk SSSR, n",
+    "authors": [
+      "boris-a-trakhtenbrot"
+    ],
+    "year": 1950,
+    "type": "article",
+    "volume": "70",
+    "pages": "569-572",
+    "id": "Trakhtenbrot1950b"
+  },
+  {
     "title": "Introduction to metamathematics, Amsterdam-GroningenNew York, 1952",
     "authors": [
       "s-c-kleene"
@@ -54049,6 +55717,39 @@
     "pages": "378-380",
     "location": "Amsterdam",
     "id": "Fenstad1967a"
+  },
+  {
+    "title": "Non-standard analysis, Studies in logic and foundations of mathematics",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1966,
+    "type": "book",
+    "location": "Amsterdam",
+    "id": "Robinson1966a"
+  },
+  {
+    "title": "Non-standard theory of Dedekind rings, Proceedings of the Royal Academy of Science",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1967,
+    "type": "book",
+    "pages": "444-452",
+    "location": "Amsterdam",
+    "id": "Robinson1967c"
+  },
+  {
+    "title": "Non-standard arithmetic",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1967,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "73",
+    "pages": "818-843",
+    "id": "Robinson1967d"
   },
   {
     "title": "An interpretation of intuitionistic predicate logic in modal logic, Contributions to mathematical logic, Proceedings of the logic colloquium, Hanover, 1966",
@@ -54071,6 +55772,50 @@
     "volume": "28",
     "pages": "11-22",
     "id": "Church1937a"
+  },
+  {
+    "title": "On a consistency theorem connected with the generalized continuum problem (abstract)",
+    "authors": [
+      "andras-hajnal"
+    ],
+    "year": 1956,
+    "type": "article",
+    "journal": "Zeitschrift für Mathematische Logik und Grundlagen der Mathematik",
+    "volume": "2",
+    "pages": "131-136",
+    "notes": "abstract",
+    "id": "Hajnal1956a"
+  },
+  {
+    "title": "On a consistency theorem connected with the generalized continuum problem, to appear in Acta mathematica Academiae Scientiarum Hungaricae",
+    "authors": [
+      "andras-hajnal"
+    ],
+    "type": "article",
+    "notes": "to appear",
+    "id": "HajnalUndateda"
+  },
+  {
+    "title": "On sets in both two-function-quantifier forms (abstract), Notices of the American Mathematical Society",
+    "authors": [
+      "d-l-kreider"
+    ],
+    "year": 1958,
+    "type": "article",
+    "volume": "6",
+    "pages": "364",
+    "notes": "abstract",
+    "id": "Kreider1958b"
+  },
+  {
+    "title": "JR., Analytic predicates and extensions of the notion of constructive ordinals, to appear",
+    "authors": [
+      "d-l-kreider",
+      "hartley-rogers-jr"
+    ],
+    "type": "article",
+    "notes": "to appear",
+    "id": "KreiderUndateda"
   },
   {
     "title": "Constructible sets (abstract), Summaries of talks presented at the Summer Institute of Symbolic Logic in 1957 at Cornell University (mimeographed)",
@@ -54116,7 +55861,7 @@
     "volume": "13",
     "pages": "325",
     "notes": "Abstract",
-    "id": "Robinson1966a"
+    "id": "Robinson1966b"
   },
   {
     "title": "Axiomatic set theory, Amsterdam",
@@ -54237,6 +55982,17 @@
     "id": "Keisler1959b"
   },
   {
+    "title": "Sur les classes définissables, p. 107, in Mathematical interpretation of formal systems, Amsterdam (",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1955,
+    "type": "book",
+    "pages": "107",
+    "location": "Amsterdam",
+    "id": "Los1955e"
+  },
+  {
     "title": "Arithmetical extensions of relational systems",
     "authors": [
       "alfred-tarski",
@@ -54277,6 +56033,17 @@
     "type": "article",
     "pages": "1-26",
     "id": "KleeneUndatedf"
+  },
+  {
+    "title": "Névozmožnost' algorifma dlá problémy razréšimosti na konéčnyh klassah (Impossibility of an algorithm for the decision problem in finite classes), Doklady Akadémii Nauk SSSR, n.s",
+    "authors": [
+      "boris-a-trakhtenbrot"
+    ],
+    "year": 1950,
+    "type": "article",
+    "volume": "70",
+    "pages": "569-572",
+    "id": "Trakhtenbrot1950c"
   },
   {
     "title": "On a problem of Kleene's",
@@ -54335,6 +56102,28 @@
     "volume": "5",
     "pages": "705-710",
     "id": "Mostowski1957d"
+  },
+  {
+    "title": "0 rdkursivnoj otddlimosti (On recursive separability), Doklady Akadémii Nauk SSSR",
+    "authors": [
+      "boris-a-trakhtenbrot"
+    ],
+    "year": 1953,
+    "type": "article",
+    "volume": "88",
+    "pages": "953-956",
+    "id": "Trakhtenbrot1953a"
+  },
+  {
+    "title": "Definition of finite sets and deductive incompleteness of the theory of sets, Izvéstiya Akadémii Nauk SSSR, ser. mat",
+    "authors": [
+      "boris-a-trakhtenbrot"
+    ],
+    "year": 1956,
+    "type": "article",
+    "volume": "20",
+    "pages": "569-582",
+    "id": "Trakhtenbrot1956a"
   },
   {
     "title": "review of A",
@@ -54532,6 +56321,18 @@
     "volume": "5",
     "pages": "42-64",
     "id": "Kreisel1960i"
+  },
+  {
+    "title": "Initial segments of Turing degrees",
+    "authors": [
+      "d-f-hugill"
+    ],
+    "year": 1969,
+    "type": "article",
+    "journal": "Proceedings of the London Mathematical Society",
+    "volume": "19",
+    "pages": "1-16",
+    "id": "Hugill1969a"
   },
   {
     "title": "A minimal degree less than 0'",
@@ -54768,6 +56569,16 @@
     "id": "Vaught1954e"
   },
   {
+    "title": "Moderne algebra",
+    "authors": [
+      "bartel-l-van-der-waerden"
+    ],
+    "year": 1930,
+    "type": "book",
+    "location": "Berlin",
+    "id": "Waerden1930a"
+  },
+  {
     "title": "The finite representations of SS, Methodos",
     "authors": [
       "gustav-bergmann"
@@ -54798,27 +56609,6 @@
     "journal": "Transactions of the American Mathematical Society",
     "volume": "78",
     "id": "Harary1955a"
-  },
-  {
-    "title": "On the metamathematics of algebra",
-    "authors": [
-      "abraham-robinson"
-    ],
-    "year": 1951,
-    "type": "book",
-    "location": "Amsterdam",
-    "id": "Robinson1951b"
-  },
-  {
-    "title": "On axiomatic systems which possess finite models, Methodos",
-    "authors": [
-      "abraham-robinson"
-    ],
-    "year": 1951,
-    "type": "article",
-    "volume": "3",
-    "pages": "140-149",
-    "id": "Robinson1951c"
   },
   {
     "title": "On the comparison of finite algebras",
@@ -55036,6 +56826,15 @@
     "id": "ScarpelliniUndateda"
   },
   {
+    "title": "Theory of algorithms, Trudy mat6mati66skogo Instituta im6ni V",
+    "authors": [
+      "a-a-markov"
+    ],
+    "year": 1961,
+    "type": "article",
+    "id": "Markov1961b"
+  },
+  {
     "title": "Introduction to mathematical logic, D",
     "authors": [
       "elliott-mendelson"
@@ -55083,6 +56882,17 @@
     "volume": "27",
     "pages": "373-374",
     "id": "Rescher1962b"
+  },
+  {
+    "title": "On the unsolvability of the problem of reducibility in the theory of algorithms (Russian), Doklady Akademii Nauk SSSR, n.s",
+    "authors": [
+      "albert-a-muchnik"
+    ],
+    "year": 1956,
+    "type": "article",
+    "volume": "108",
+    "pages": "194-197",
+    "id": "Muchnik1956e"
   },
   {
     "title": "Degrees of unsolvability, Princeton, 1961",
@@ -55168,6 +56978,28 @@
     "id": "Rosser1955c"
   },
   {
+    "title": "Der volle dreiwertige Aussagen-kalkül, Comtes rendus des séances de la Société des Sciences et des Lettres de Varsovie, classes III",
+    "authors": [
+      "jerzy-slupecki"
+    ],
+    "year": 1936,
+    "type": "article",
+    "volume": "29",
+    "pages": "9-11",
+    "id": "Slupecki1936b"
+  },
+  {
+    "title": "Kryterium pełnosci wielowartosciowych systemow logiki zdan (A criterion of fullness of many-valued systems of propositional logic), Comtes rendus des séances de la Société des Sciences et des Lettres de Varsovie, classes III",
+    "authors": [
+      "jerzy-slupecki"
+    ],
+    "year": 1939,
+    "type": "article",
+    "volume": "32",
+    "pages": "102-109",
+    "id": "Slupecki1939c"
+  },
+  {
     "title": "Redukce rozhodovacích problémů na zjišťovací problémy (Reduction of decision problems to which-problems), Filosofick& časopis 1968/2",
     "authors": [
       "pavel-materna"
@@ -55195,6 +57027,18 @@
     "year": 1966,
     "type": "book",
     "id": "Rogers1966b"
+  },
+  {
+    "title": "Approximnation of functions on the integers",
+    "authors": [
+      "gene-f-rose",
+      "j-s-ullian"
+    ],
+    "year": 1963,
+    "type": "article",
+    "journal": "Pacific Journal of Mathematics",
+    "pages": "693-701",
+    "id": "Rose1963a"
   },
   {
     "title": "Quasicreative sets",
@@ -55336,16 +57180,6 @@
     "id": "Quine1947d"
   },
   {
-    "title": "Complete theories, Amsterdam (",
-    "authors": [
-      "abraham-robinson"
-    ],
-    "year": 1956,
-    "type": "book",
-    "location": "Amsterdam",
-    "id": "Robinson1956d"
-  },
-  {
     "title": "Recursive equivalence types, University of California publications in mathematics",
     "authors": [
       "j-c-e-dekker",
@@ -55411,6 +57245,28 @@
     "id": "Lambert1965c"
   },
   {
+    "title": "Eine Bemerkungen uiber die Unzerlegbarkeit von Polynomen",
+    "authors": [
+      "bartel-l-van-der-waerden"
+    ],
+    "year": 1930,
+    "type": "article",
+    "journal": "Mathematische Annalen",
+    "volume": "102",
+    "pages": "738-739",
+    "id": "Waerden1930b"
+  },
+  {
+    "title": "Moderne Algebra, 2nd ed",
+    "authors": [
+      "bartel-l-van-der-waerden"
+    ],
+    "year": 1937,
+    "type": "book",
+    "location": "Berlin",
+    "id": "Waerden1937a"
+  },
+  {
     "title": "Betrachtungen zum Sequenzen-Kalkul, Contributions to logic and methodology in honor of J",
     "authors": [
       "paul-bernays"
@@ -55420,6 +57276,16 @@
     "pages": "1-44",
     "location": "Amsterdam",
     "id": "Bernays1965a"
+  },
+  {
+    "title": "Provability in logic, Almquist and Wiksell, Stockholm, 1957",
+    "authors": [
+      "stig-kanger"
+    ],
+    "year": 1957,
+    "type": "book",
+    "location": "Stockholm",
+    "id": "Kanger1957b"
   },
   {
     "title": "Techniques of deductive inference",
@@ -55622,6 +57488,17 @@
     "id": "Kreisel1957g"
   },
   {
+    "title": "A. MOSTOWSKi and H. RASIOWA, A Proof of Herbrand's theorem, Journal de Mathématiques Pures et Appliqués",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1956,
+    "type": "article",
+    "volume": "35",
+    "pages": "19-25",
+    "id": "Los1956a"
+  },
+  {
     "title": "On definable sets of positive integers",
     "authors": [
       "andrzej-mostowski"
@@ -55632,6 +57509,18 @@
     "volume": "34",
     "pages": "81-112",
     "id": "Mostowski1947b"
+  },
+  {
+    "title": "On ordered fields and definite functions",
+    "authors": [
+      "abraham-robinson"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "Mathematische Annalen",
+    "volume": "130",
+    "pages": "257-271",
+    "id": "Robinson1955a"
   },
   {
     "title": "Schlussweisen-Kalküle der Prädikatenlogik",
@@ -55857,6 +57746,18 @@
     "id": "YatesUndatedb"
   },
   {
+    "title": "Sur la notion de l'ordre dans la thgorie des ensembles",
+    "authors": [
+      "kazimierz-kuratowski"
+    ],
+    "year": 1921,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "2",
+    "pages": "161-171",
+    "id": "Kuratowski1921a"
+  },
+  {
     "title": "Solvable cases of the decision problem, Studies in logic and the foundations of mathematics, Amsterdam (",
     "authors": [
       "wilhelm-ackermann"
@@ -55865,6 +57766,17 @@
     "type": "book",
     "location": "Amsterdam",
     "id": "Ackermann1954a"
+  },
+  {
+    "title": "Some consequences of the axiom of constructibility, to appear in",
+    "authors": [
+      "john-w-addison"
+    ],
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "46",
+    "notes": "to appear",
+    "id": "AddisonUndatedb"
   },
   {
     "title": "Some proofs of undecidability of arithmetic",
@@ -55908,18 +57820,6 @@
     "journal": "Notre Dame Journal of Formal Logic",
     "notes": "forthcoming",
     "id": "LemmonUndatedb"
-  },
-  {
-    "title": "On Lukasiewicz's L-modal system",
-    "authors": [
-      "timothy-smiley"
-    ],
-    "year": 1961,
-    "type": "article",
-    "journal": "Notre Dame Journal of Formal Logic",
-    "volume": "2",
-    "pages": "149-153",
-    "id": "Smiley1961a"
   },
   {
     "title": "Abriss der Logistik",
@@ -55971,6 +57871,42 @@
     "type": "book",
     "location": "New York",
     "id": "Carnap1937a"
+  },
+  {
+    "title": "Splitting and decomposition by regressive sets",
+    "authors": [
+      "t-g-mclaughlin"
+    ],
+    "year": 1965,
+    "type": "article",
+    "journal": "Michigan Mathematical Journal",
+    "volume": "12",
+    "pages": "499-505",
+    "id": "Mclaughlin1965a"
+  },
+  {
+    "title": "Splitting and decomposition by regressive sets",
+    "authors": [
+      "t-g-mclaughlin"
+    ],
+    "year": 1967,
+    "type": "article",
+    "journal": "Canadian Journal of Mathematics",
+    "volume": "19",
+    "pages": "291-311",
+    "id": "Mclaughlin1967a"
+  },
+  {
+    "title": "Some remarks on extensibility, confluence of paths, branching properties, and index sets, for certain recursively enumerable graphs",
+    "authors": [
+      "t-g-mclaughlin"
+    ],
+    "year": 1967,
+    "type": "article",
+    "journal": "Illinois Journal of Mathematics",
+    "volume": "11",
+    "pages": "257-279",
+    "id": "Mclaughlin1967b"
   },
   {
     "title": "Über die Axiomatisierbarkeit des Aussagenkalküls, Acta litterarum ac scientiarum Regiae Universitatis Hungaricae Francisco-Josephinae, Sectio scientiarum mathematicarum",
@@ -56126,7 +58062,7 @@
     "journal": "Proceedings of the London Mathematical Society",
     "volume": "3",
     "pages": "30-44",
-    "id": "Rose1952c"
+    "id": "Rose1952d"
   },
   {
     "title": "'Next' and 'ought': alternative foundations for von Wright's tense-logic with an application to deontic logic",
@@ -56229,6 +58165,17 @@
     "journal": "American Journal of Mathematics",
     "volume": "43",
     "id": "Post1921b"
+  },
+  {
+    "title": "On the dependence of axiom B6 on the other axioms of the Bernays-Godel system, Izvéstiyá Akadémii Nauk",
+    "authors": [
+      "a-a-markov"
+    ],
+    "year": 1948,
+    "type": "article",
+    "volume": "12",
+    "pages": "569-570",
+    "id": "Markov1948a"
   },
   {
     "title": "Completeness theorems for some presupposition-free logics, forthcoming in",
@@ -56594,6 +58541,18 @@
     "id": "Helmer1936a"
   },
   {
+    "title": "Retraceable sets and recursive permutations",
+    "authors": [
+      "t-g-mclaughlin"
+    ],
+    "year": 1966,
+    "type": "article",
+    "journal": "Proceedings of the American Mathematical Society",
+    "volume": "17",
+    "pages": "427-429",
+    "id": "Mclaughlin1966a"
+  },
+  {
     "title": "Introduction to metamathematics, Ainsterdam, 1952",
     "authors": [
       "s-c-kleene"
@@ -56641,6 +58600,15 @@
     ],
     "type": "article",
     "id": "LukasiewiczUndateda"
+  },
+  {
+    "title": "Minimal sums for boolean functions having many unspecified fundamental products, Proceedings of the Second Annual Symposium on Switching Theory and Logical Design, Detroit, Michigan, AIEE Publication S134, October 1961",
+    "authors": [
+      "edward-j-mccluskey-jr"
+    ],
+    "year": 1961,
+    "type": "article",
+    "id": "Mccluskey1961a"
   },
   {
     "title": "remark, \"Aber auch diese Zergliederung ist wohl nicht endgültig,\" near the top of p. 13",
@@ -57200,6 +59168,28 @@
     "id": "Anderson1956b"
   },
   {
+    "title": "Detection of group invariance or total symmetry of a boolean function, The Bell System technical journal",
+    "authors": [
+      "edward-j-mccluskey-jr"
+    ],
+    "year": 1956,
+    "type": "article",
+    "volume": "35",
+    "pages": "1445-1453",
+    "id": "Mccluskey1956a"
+  },
+  {
+    "title": "Minimization of boolean functions , The Bell System technical journal",
+    "authors": [
+      "edward-j-mccluskey-jr"
+    ],
+    "year": 1956,
+    "type": "article",
+    "volume": "35",
+    "pages": "1417-1444",
+    "id": "Mccluskey1956b"
+  },
+  {
     "title": "in Über den Begriff der logischen Folgerung, Actes du Congrès International de Philosophie Scientifique, VII Logique, Actualités scientifiques et industrielles 394, pp. 1-11",
     "authors": [
       "alfred-tarski"
@@ -57646,6 +59636,19 @@
     "id": "Quine1940i"
   },
   {
+    "title": "The representation of algebras of relations",
+    "authors": [
+      "roger-c-lyndon"
+    ],
+    "year": 1949,
+    "type": "article",
+    "journal": "Bulletin of the American Mathematical Society",
+    "volume": "55",
+    "pages": "513-514",
+    "notes": "Abstract",
+    "id": "Lyndon1949a"
+  },
+  {
     "title": "Mathematical logic, Cambridge 1947, p. 74",
     "authors": [
       "w-v-quine"
@@ -57726,6 +59729,16 @@
     "volume": "30",
     "pages": "267-268",
     "id": "Cudia1965a"
+  },
+  {
+    "title": "Applications of recursive function theory to algebra, Doctoral dissertation, Univ. of Illinois, pp. 1-61 + appendix",
+    "authors": [
+      "a-h-ihrig"
+    ],
+    "year": 1964,
+    "type": "article",
+    "pages": "1-61",
+    "id": "Ihrig1964d"
   },
   {
     "title": "Introduction to semantics, Cambridge, Mass",
@@ -57849,7 +59862,7 @@
     "journal": "Proceedings of the American Mathematical Society",
     "volume": "2",
     "pages": "279-284",
-    "id": "Robinson1951d"
+    "id": "Robinson1951g"
   },
   {
     "title": "Testing and generating infinite sequences by a finite automaton, Information and control",
@@ -58072,7 +60085,19 @@
     "journal": "The Journal of Symbolic Logic",
     "volume": "16",
     "pages": "280-282",
-    "id": "Robinson1951e"
+    "id": "Robinson1951h"
+  },
+  {
+    "title": "On extending of models",
+    "authors": [
+      "jerzy-los"
+    ],
+    "year": 1955,
+    "type": "article",
+    "journal": "Fundamenta Mathematicae",
+    "volume": "42",
+    "pages": "38-54",
+    "id": "Los1955f"
   },
   {
     "title": "Zum KontinuumProblem",
@@ -58108,7 +60133,7 @@
     "journal": "Fundamenta Mathematicae",
     "volume": "2",
     "pages": "161-171",
-    "id": "Kuratowski1921a"
+    "id": "Kuratowski1921d"
   },
   {
     "title": "The formal analysis of normative systems, Technical Report No. 2, Contract No",
@@ -58130,18 +60155,6 @@
     "type": "article",
     "number": "10",
     "id": "Anderson1961c"
-  },
-  {
-    "title": "Sur la notion de l'ordere dons la th eorie des ensembles",
-    "authors": [
-      "kazimierz-kuratowski"
-    ],
-    "year": 1921,
-    "type": "article",
-    "journal": "Fundamenta Mathematicae",
-    "volume": "2",
-    "pages": "171",
-    "id": "Kuratowski1921b"
   },
   {
     "title": "this JOURNAL, vol. 16 1951, pp. 154-5",
@@ -58264,6 +60277,15 @@
     "id": "Carnap1943b"
   },
   {
+    "title": "Strong reducibility on hypersimple sets",
+    "authors": [
+      "t-g-mclaughlin"
+    ],
+    "type": "article",
+    "notes": "to appear",
+    "id": "MclaughlinUndateda"
+  },
+  {
     "title": "Semiotik. Eine Theorie der Zeichengestalten als Grundlage für Untersuchungen von formalisierten Sprachen",
     "authors": [
       "hans-hermes"
@@ -58353,6 +60375,17 @@
     "id": "Popper1935a"
   },
   {
+    "title": "a Russian journal",
+    "authors": [
+      "boris-a-trakhtenbrot"
+    ],
+    "year": 1950,
+    "type": "article",
+    "journal": "The Journal of Symbolic Logic",
+    "pages": "229",
+    "id": "Trakhtenbrot1950e"
+  },
+  {
     "title": "Self-referential relations, to be presented at the Eleventh International Congress of Philosophy, Brussels, 1953",
     "authors": [
       "frederic-b-fitch"
@@ -58438,6 +60471,19 @@
     "volume": "17",
     "pages": "387-390",
     "id": "Wiener1912a"
+  },
+  {
+    "title": "Lewis Carroll's barbershop paradox, Mind",
+    "authors": [
+      "arthur-w-burks",
+      "irving-m-copi"
+    ],
+    "year": 1950,
+    "type": "article",
+    "journal": "Mind",
+    "volume": "59",
+    "pages": "219-222",
+    "id": "Burks1950a"
   },
   {
     "title": "A modal logic with eight modalities, ch. 4 of Logic and philosophy of science, Essays in honor of I",

@@ -130,6 +130,10 @@ def resolve_author(raw_name, by_id, aliases, surnames):
     if raw_name in by_id:
         return raw_name, "already_id", []
 
+    # Some bibliography branches leave a parenthesized publication year on the
+    # author segment (for example, "A. A. MUČNIK (1956)"). It is metadata, not
+    # part of the person's name, and can be removed without guessing identity.
+    raw_name = re.sub(r"\s*\((?:18|19|20)\d{2}\)\s*$", "", str(raw_name)).strip()
     name_norm = normalized_text(raw_name)
     exact = aliases.get(name_norm, set())
     if len(exact) == 1:

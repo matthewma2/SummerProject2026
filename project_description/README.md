@@ -10,6 +10,7 @@ Start here:
 - `databases/` contains the current canonical JSON databases: authors, works, journals, and publishers.
 - `jsl_citations_pipeline/` contains the numbered JSL citation-processing pipeline.
 - `jsl_citations_data/` contains the numbered inputs and outputs for that pipeline.
+- `jsl_citations_pipeline_logs/10b_jsl_journal_metadata_resolution.json` audits exact Crossref resolutions of title-less JSL volume/page references.
 - `jsl_citations_pipeline_logs/12_resolution_summary.json` records final resolution methods, non-work statuses, and any provenance conflicts deliberately left unresolved.
 
 Most work should treat `databases/works.json` and `databases/authors.json` as the core data sources, and should treat `old_data/`, `old_scripts/`, and `archive/` as historical unless a handoff note says otherwise.

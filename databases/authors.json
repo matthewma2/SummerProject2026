@@ -304,7 +304,8 @@
     "id": "abraham-robinson",
     "full_name": "Abraham Robinson",
     "alternative_names": [
-      "Robinson"
+      "Robinson",
+      "A. Robinson"
     ]
   },
   {
@@ -1279,7 +1280,9 @@
     "id": "dana-scott",
     "full_name": "Dana Scott",
     "alternative_names": [
-      "Scott"
+      "Scott",
+      "D. Scott",
+      "D. S. Scott"
     ]
   },
   {
@@ -1768,7 +1771,9 @@
     "id": "ernst-specker",
     "full_name": "Ernst Specker",
     "alternative_names": [
-      "Specker"
+      "Specker",
+      "E. Specker",
+      "E. P. Specker"
     ]
   },
   {
@@ -3291,7 +3296,9 @@
     "id": "joseph-r-shoenfield",
     "full_name": "Joseph R. Shoenfield",
     "alternative_names": [
-      "Shoenfield"
+      "Shoenfield",
+      "J. R. Shoenfield",
+      "J. R. Schoenfield"
     ]
   },
   {
@@ -4020,7 +4027,9 @@
     "full_name": "Kazimierz Kuratowski",
     "alternative_names": [
       "Kazimierz",
-      "Kuratowski"
+      "Kuratowski",
+      "Casimir Kuratowski",
+      "C. Kuratowski"
     ]
   },
   {
@@ -6271,7 +6280,9 @@
     "id": "timothy-smiley",
     "full_name": "Timothy Smiley",
     "alternative_names": [
-      "Smiley"
+      "Smiley",
+      "T. Smiley",
+      "T. J. Smiley"
     ]
   },
   {
@@ -8093,5 +8104,195 @@
       "Kojève",
       "Kojevnikoff"
     ]
+  },
+  {
+    "id": "helena-rasiowa",
+    "full_name": "Helena Rasiowa",
+    "alternative_names": ["Rasiowa", "H. Rasiowa"]
+  },
+  {
+    "id": "roman-sikorski",
+    "full_name": "Roman Sikorski",
+    "alternative_names": ["Sikorski", "R. Sikorski"]
+  },
+  {
+    "id": "jerzy-los",
+    "full_name": "Jerzy Łoś",
+    "alternative_names": ["Łoś", "Los", "Jerzy Los", "J. Łoś", "J. Los"]
+  },
+  {
+    "id": "john-w-addison",
+    "full_name": "John W. Addison",
+    "alternative_names": ["Addison", "J. W. Addison"]
+  },
+  {
+    "id": "paul-erdos",
+    "full_name": "Paul Erdős",
+    "alternative_names": ["Erdős", "Erdos", "Paul Erdos", "P. Erdős", "P. Erdos"]
+  },
+  {
+    "id": "paul-r-halmos",
+    "full_name": "Paul R. Halmos",
+    "alternative_names": ["Halmos", "P. R. Halmos", "P. Halmos"]
+  },
+  {
+    "id": "t-frayne",
+    "full_name": "T. Frayne",
+    "alternative_names": ["Frayne"]
+  },
+  {
+    "id": "william-p-hanf",
+    "full_name": "William P. Hanf",
+    "alternative_names": ["Hanf", "W. Hanf", "W. P. Hanf"]
+  },
+  {
+    "id": "daniel-lacombe",
+    "full_name": "Daniel Lacombe",
+    "alternative_names": ["Lacombe", "D. Lacombe"]
+  },
+  {
+    "id": "roger-c-lyndon",
+    "full_name": "Roger C. Lyndon",
+    "alternative_names": ["Lyndon", "R. C. Lyndon", "R. Lyndon"]
+  },
+  {
+    "id": "t-g-mclaughlin",
+    "full_name": "T. G. McLaughlin",
+    "alternative_names": ["McLaughlin"]
+  },
+  {
+    "id": "boris-a-trakhtenbrot",
+    "full_name": "Boris A. Trakhtenbrot",
+    "alternative_names": ["Trakhtenbrot", "Trahtenbrot", "Trahténbrot", "B. A. Trahtenbrot", "B. A. Trahténbrot"]
+  },
+  {
+    "id": "jerzy-slupecki",
+    "full_name": "Jerzy Słupecki",
+    "alternative_names": ["Słupecki", "Slupecki", "Jerzy Slupecki", "J. Słupecki", "J. Slupecki"]
+  },
+  {
+    "id": "simon-kochen",
+    "full_name": "Simon Kochen",
+    "alternative_names": ["Kochen", "S. Kochen"]
+  },
+  {
+    "id": "andras-hajnal",
+    "full_name": "András Hajnal",
+    "alternative_names": ["Hajnal", "Andras Hajnal", "A. Hajnal"]
+  },
+  {
+    "id": "gene-f-rose",
+    "full_name": "Gene F. Rose",
+    "alternative_names": ["G. F. Rose"]
+  },
+  {
+    "id": "paul-j-cohen",
+    "full_name": "Paul J. Cohen",
+    "alternative_names": ["P. J. Cohen"]
+  },
+  {
+    "id": "a-h-ihrig",
+    "full_name": "A. H. Ihrig",
+    "alternative_names": ["Ihrig"]
+  },
+  {
+    "id": "arthur-w-burks",
+    "full_name": "Arthur W. Burks",
+    "alternative_names": ["Burks", "Arthur Burks", "A. W. Burks"]
+  },
+  {
+    "id": "d-l-kreider",
+    "full_name": "D. L. Kreider",
+    "alternative_names": ["Kreider", "D. Kreider"]
+  },
+  {
+    "id": "g-fuhrken",
+    "full_name": "G. Fuhrken",
+    "alternative_names": ["Fuhrken"]
+  },
+  {
+    "id": "rohit-j-parikh",
+    "full_name": "Rohit J. Parikh",
+    "alternative_names": ["Parikh", "R. J. Parikh"]
+  },
+  {
+    "id": "a-a-markov",
+    "full_name": "A. A. Markov",
+    "alternative_names": ["Markov"]
+  },
+  {
+    "id": "albert-a-muchnik",
+    "full_name": "Albert A. Muchnik",
+    "alternative_names": ["Muchnik", "Mučnik", "Mucnik", "A. A. Muchnik", "A. A. Mučnik"]
+  },
+  {
+    "id": "adrian-r-d-mathias",
+    "full_name": "Adrian R. D. Mathias",
+    "alternative_names": ["Mathias", "A. R. D. Mathias"]
+  },
+  {
+    "id": "bartel-l-van-der-waerden",
+    "full_name": "Bartel L. van der Waerden",
+    "alternative_names": ["Van der Waerden", "B. L. van der Waerden", "B. van der Waerden"]
+  },
+  {
+    "id": "d-f-hugill",
+    "full_name": "D. F. Hugill",
+    "alternative_names": ["Hugill"]
+  },
+  {
+    "id": "e-g-wagner",
+    "full_name": "E. G. Wagner",
+    "alternative_names": ["Wagner"]
+  },
+  {
+    "id": "edward-j-mccluskey-jr",
+    "full_name": "Edward J. McCluskey, Jr.",
+    "alternative_names": ["McCluskey", "E. J. McCluskey", "E. J. McCluskey Jr"]
+  },
+  {
+    "id": "l-e-sanchis",
+    "full_name": "L. E. Sanchis",
+    "alternative_names": ["Sanchis"]
+  },
+  {
+    "id": "leonard-gillman",
+    "full_name": "Leonard Gillman",
+    "alternative_names": ["Gillman", "L. Gillman"]
+  },
+  {
+    "id": "marvin-l-minsky",
+    "full_name": "Marvin L. Minsky",
+    "alternative_names": ["Minsky", "Marvin Minsky", "M. L. Minsky"]
+  },
+  {
+    "id": "p-b-downing",
+    "full_name": "P. B. Downing",
+    "alternative_names": ["Downing"]
+  },
+  {
+    "id": "r-f-wheeler",
+    "full_name": "R. F. Wheeler",
+    "alternative_names": ["Wheeler"]
+  },
+  {
+    "id": "robert-m-solovay",
+    "full_name": "Robert M. Solovay",
+    "alternative_names": ["Solovay", "R. M. Solovay", "R. Solovay"]
+  },
+  {
+    "id": "stanley-tennenbaum",
+    "full_name": "Stanley Tennenbaum",
+    "alternative_names": ["Tennenbaum", "S. Tennenbaum"]
+  },
+  {
+    "id": "stig-kanger",
+    "full_name": "Stig Kanger",
+    "alternative_names": ["Kanger", "S. Kanger"]
+  },
+  {
+    "id": "william-w-boone",
+    "full_name": "William W. Boone",
+    "alternative_names": ["Boone", "W. W. Boone"]
   }
 ]

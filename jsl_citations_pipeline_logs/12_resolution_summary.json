@@ -1,26 +1,27 @@
 {
   "total_references": 5716,
-  "resolved": 3962,
-  "unresolved_or_classified_without_id": 1754,
+  "resolved": 4219,
+  "unresolved_or_classified_without_id": 1497,
   "internal_structural_shortcuts": 0,
   "resolution_methods": {
-    "heuristic_matcher": 1635,
+    "crossref_jsl_exact_volume_year_pages": 25,
+    "heuristic_matcher": 1611,
     "ibid_or_loc_cit_context": 45,
-    "immediate_volume_continuation": 39,
+    "immediate_volume_continuation": 41,
     "stage8_parser_match+stage9_existing_work": 128,
-    "stage9_candidate_work": 1551,
-    "stage9_candidate_work+stage9_parsed_duplicate": 99,
+    "stage9_candidate_work": 1770,
+    "stage9_candidate_work+stage9_parsed_duplicate": 105,
     "stage9_existing_work": 143,
-    "stage9_parsed_duplicate": 322
+    "stage9_parsed_duplicate": 351
   },
   "statuses": {
-    "contextual": 371,
-    "fragment": 42,
+    "contextual": 348,
+    "fragment": 41,
     "internal": 229,
-    "resolved": 3962,
-    "unresolved": 1112
+    "resolved": 4219,
+    "unresolved": 879
   },
-  "provenance_keys_loaded": 1969,
+  "provenance_keys_loaded": 2200,
   "provenance_conflicts_ignored": [
     {
       "normalized_reference": "a tarski a mostowski and r m robinson undecidable theories north holland amsterdam 1953",
@@ -162,5 +163,7 @@
         "stage9_parsed_duplicate"
       ]
     }
-  ]
+  ],
+  "jsl_metadata_keys_loaded": 21,
+  "jsl_metadata_conflicts_ignored": []
 }
