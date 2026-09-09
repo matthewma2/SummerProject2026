@@ -2,7 +2,7 @@
 
 This is a living snapshot of the resolved Journal of Symbolic Logic citation data. Update it after changes to work-ID merging, duplicate-work handling, or final citation resolution—especially after rerunning stages 10 or 11 of the JSL citation pipeline.
 
-Last updated: 2026-09-07
+Last updated: 2026-09-09
 
 ## Data Sources
 
@@ -15,14 +15,14 @@ Each mention is one resolved reference occurrence. “Source articles” counts 
 ## Resolution Overview
 
 - Extracted reference occurrences: 5,716
-- Resolved reference occurrences: 4,219 (73.8%)
-- Distinct cited work IDs: 1,963
+- Resolved reference occurrences: 4,197 (73.4%)
+- Distinct cited work IDs: 1,959
 - Work IDs mentioned exactly once: 1,244
-- References without a work ID: 1,497
+- References without a work ID: 1,519
 - Genuinely unresolved references: 879
-- Classified contextual references: 348
+- Classified contextual references: 369
 - Classified internal references: 229
-- Classified fragments: 41
+- Classified fragments: 42
 
 ## Most-Mentioned Work IDs
 
@@ -35,10 +35,10 @@ Each mention is one resolved reference occurrence. “Source articles” counts 
 | 5 | `Henkin1949b` | 23 | 23 | 1949 | *The Completeness of the First-Order Functional Calculus* |
 | 6 | `Godel1930b` | 21 | 20 | 1930 | *Die Vollstandigkeit der Axiome des logischen Funktionenkalkiils* |
 | 7 | `Kleene1952b` | 21 | 21 | 1952 | *Introduction to metamathematics (Amsterdam:* |
-| 8 | `Bernays1937a` | 21 | 12 | 1937 | *A System of Axiomatic Set Theory--Part I* |
-| 9 | `Mckinsey1941a` | 20 | 20 | 1941 | *A Solution of the Decision Problem for the Lewis systems S2 and S4, with an Application to Topology* |
-| 10 | `Lewis1932b` | 20 | 20 | 1932 | *Symbolic logic (New York and London, 1932)* |
-| 11 | `Gentzen1934a` | 19 | 19 | 1934 | *Untersuchungen ilber das logische Schliessen* |
+| 8 | `Mckinsey1941a` | 20 | 20 | 1941 | *A Solution of the Decision Problem for the Lewis systems S2 and S4, with an Application to Topology* |
+| 9 | `Lewis1932b` | 20 | 20 | 1932 | *Symbolic logic (New York and London, 1932)* |
+| 10 | `Gentzen1934a` | 19 | 19 | 1934 | *Untersuchungen ilber das logische Schliessen* |
+| 11 | `Bernays1937a` | 19 | 10 | 1937 | *A System of Axiomatic Set Theory--Part I* |
 | 12 | `MckinseyTarski1948a` | 18 | 18 | 1948 | *Some Theorems About the Sentential Calculi of Lewis and Heyting* |
 | 13 | `Godel1940a` | 18 | 18 | 1940 | *The consistency of the continuum hypothesis* |
 | 14 | `Spector1955a` | 18 | 18 | 1955 | *Recursive Well-Orderings* |
@@ -49,21 +49,7 @@ Each mention is one resolved reference occurrence. “Source articles” counts 
 | 19 | `Henkin1950a` | 15 | 15 | 1950 | *Completeness in the Theory of Types* |
 | 20 | `Kleene1955a` | 15 | 15 | 1955 | *Arithmetical predicates and function quantifiers* |
 
-The top ten IDs account for 293 citations, or 6.9% of resolved citation occurrences.
-
-## Exact JSL Volume/Page Resolution Experiment
-
-Stage 10b now checks title-less references containing `this JOURNAL`, a volume, a year, and a complete page range against cached Crossref JSL metadata. The acceptance rule requires exact bibliographic fields and an unambiguous mapping back to the merged works database.
-
-- Eligible distinct reference strings: 41 (43 occurrences)
-- Matched distinct spelling/punctuation variants: 24
-- Matched normalized reference keys loaded by stage 11: 21
-- Crossref-backed assignments: 25 occurrences across 20 work IDs
-- Net additional resolved citations: 22
-- Rejected distinct references: 17
-- Canonical work records modified: 0
-
-The difference between 25 assignments and 22 net additions is that three eligible references had already been assigned by the general heuristic. Stage 10b replaces those weaker assignments with an exact metadata-backed method. Rejected references remain unresolved when Crossref has no exact page-range record, the external item is absent from the merged database, or multiple provider records do not converge on one local work.
+The top ten IDs account for 291 citations, or 6.9% of resolved citation occurrences.
 
 ## Latest Authority-File Improvement
 
@@ -80,9 +66,8 @@ Do not combine counts merely because titles look similar. Confirm authorship, ed
 When this report needs updating:
 
 1. Rerun `jsl_citations_pipeline/10_merge_works_database.py` when candidate or duplicate-work decisions have changed.
-2. Rerun `jsl_citations_pipeline/10b_resolve_jsl_journal_metadata.py`; cached Crossref years are reused unless `--refresh` is supplied.
-3. Rerun `jsl_citations_pipeline/11_resolve_jsl_citations.py`.
-4. Recount resolved IDs in `12_jsl_citations_resolved.json`.
-5. Join those IDs to `11_merged_database.json` for titles and years.
-6. Recount distinct source articles for each ID.
-7. Update the date, overview, ranking, concentration statistic, and duplicate-work caveats above.
+2. Rerun `jsl_citations_pipeline/11_resolve_jsl_citations.py`.
+3. Recount resolved IDs in `12_jsl_citations_resolved.json`.
+4. Join those IDs to `11_merged_database.json` for titles and years.
+5. Recount distinct source articles for each ID.
+6. Update the date, overview, ranking, concentration statistic, and duplicate-work caveats above.

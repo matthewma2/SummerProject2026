@@ -63,6 +63,16 @@ When in doubt, start from `databases/`, then follow the numbered files in `jsl_c
 
 The JSL citation pipeline is numbered. Data outputs are stored in `jsl_citations_data/`, while audit and exclusion logs are stored in `jsl_citations_pipeline_logs/`.
 
+### Log-Number Naming Convention
+
+A shared prefix identifies the pipeline stage or result set that produced a log; it does not mean that the stage has only one output. Some stages classify records into several branches or retain separate audit views, so several files intentionally have the same prefix.
+
+- `8b_*` files come from parsing the no-author branch in `8b_parse_no_authors.py`. `8b_classified.json` records the classification results, while `8b_contextual_references.json`, `8b_fragments.json`, and `8b_unresolved_after_parse.json` expose the principal non-parsed categories separately.
+- `9_*` files come from `9_prepare_work_candidates.py`. They separately record existing-work matches, parsed duplicates, accepted-candidate audit records, unresolved authors, and invalid or contextual exclusions. These are different outcomes from one candidate-preparation stage, not repeated copies of the same log.
+- `12_*` files are the final result set written by `11_resolve_jsl_citations.py`. `12_resolved_references.json` and `12_unresolved_references.json` are flat reference lists useful for inspection, while `12_resolution_summary.json` contains aggregate counts. The complete nested output is `jsl_citations_data/12_jsl_citations_resolved.json`.
+
+Later stages read several of the `8b_*` and `9_*` logs as provenance and classification inputs. Rename or combine these files only while updating those paths in the consuming scripts.
+
 Run scripts from the repo root.
 
 ```bash
@@ -78,7 +88,6 @@ python3 jsl_citations_pipeline/8a_parse_with_authors.py
 python3 jsl_citations_pipeline/8b_parse_no_authors.py
 python3 jsl_citations_pipeline/9_prepare_work_candidates.py
 python3 jsl_citations_pipeline/10_merge_works_database.py
-python3 jsl_citations_pipeline/10b_resolve_jsl_journal_metadata.py
 python3 jsl_citations_pipeline/11_resolve_jsl_citations.py
 ```
 
@@ -134,20 +143,11 @@ python3 jsl_citations_pipeline/11_resolve_jsl_citations.py
 - Safely merges reviewed candidates with `databases/works.json` into `11_merged_database.json`, adjusting colliding IDs and excluding probable duplicate works.
 - Also recognizes exact titles after removing only trailing location, publisher, or year tokens already present as structured metadata.
 
-`10b_resolve_jsl_journal_metadata.py`
-
-- Resolves title-less references such as `This JOURNAL, vol. 13 (1948), pp. 95-106.` by querying Crossref for the JSL print ISSN and matching exact volume, year, and complete page range.
-- Accepts a result only when all exact Crossref candidates converge on one work in `11_merged_database.json` by DOI or exact normalized title/year/volume.
-- Caches annual Crossref responses in `jsl_citations_pipeline_logs/10b_crossref_jsl_metadata_cache.json`, so normal reruns are reproducible and do not repeat API calls. Use `--refresh` to replace cached years or `--offline` to prohibit network access.
-- Writes accepted and rejected candidates, parsed fields, and rejection reasons to `jsl_citations_pipeline_logs/10b_jsl_journal_metadata_resolution.json` without modifying either works database.
-
 `11_resolve_jsl_citations.py`
 
 - Resolves the nested cleaned citations against the merged database and writes `12_jsl_citations_resolved.json`.
 - Preserves conflict-free IDs established by parser, existing-work, candidate, and parsed-duplicate audit records instead of rematching every string from scratch.
-- Consumes the exact JSL metadata matches audited by stage 10b. These matches are prevented from triggering the older adjacent-volume inheritance heuristic, because adjacent volume entries may represent distinct articles.
 - Treats `this JOURNAL` as *The Journal of Symbolic Logic* during journal/volume matching.
-- Resolves `ibid.`/`loc. cit.` from earlier references in the same source and conservatively inherits immediately adjacent strings beginning with `vol.`, `volume`, or `Bd.`.
 - Adds `status` and `resolution_method` to every reference. Unresolved non-work strings can be labeled `internal`, `contextual`, or `fragment` without receiving a work ID.
 - Keeps the unresolved-reference log as a JSON list of strings for compatibility and writes method/status totals plus ignored provenance conflicts to `jsl_citations_pipeline_logs/12_resolution_summary.json`.
 
@@ -162,10 +162,9 @@ These counts are from the current files:
 - `10a_works_ready_to_add.json`: 1,707 candidate works before final merge-time duplicate checks.
 - `10b_works_needing_review.json`: 827 records needing review.
 - `11_merged_database.json`: 4,858 works with unique IDs.
-- `12_jsl_citations_resolved.json`: 4,219 resolved and 1,497 references without IDs, for a 73.8% raw-string resolution rate.
-- Of the 1,497 references without IDs, 618 are explicitly classified as internal, contextual, or fragmentary; 879 remain genuinely unresolved.
+- `12_jsl_citations_resolved.json`: 4,197 resolved and 1,519 references without IDs, for a 73.4% raw-string resolution rate.
+- Of the 1,519 references without IDs, 640 are explicitly classified as internal, contextual, or fragmentary; 879 remain genuinely unresolved.
 - Stage 11 ignored 14 conflicting provenance keys rather than selecting an ID arbitrarily.
-- Stage 10b examined 41 distinct complete-range `this JOURNAL` forms. It matched 24 spelling/punctuation variants representing 21 normalized references and assigned 25 occurrences; this produced 22 net new resolutions because three occurrences had already been assigned by the general heuristic.
 
 ## Active Utility Scripts
 

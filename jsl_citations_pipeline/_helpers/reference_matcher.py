@@ -22,7 +22,6 @@ READY_AUDIT_FILE = None
 MERGE_LOG_FILE = None
 PARSED_DUPLICATES_FILE = None
 CLASSIFIED_REFERENCES_FILE = None
-JSL_METADATA_MATCHES_FILE = None
 REFERENCE_STATUS_FILES = {}
 RESOLUTION_SUMMARY_FILE = None
 
@@ -644,30 +643,6 @@ def build_reference_status_index():
     return result
 
 
-def build_jsl_metadata_index(valid_work_ids):
-    """Load exact JSL volume/year/page matches produced by stage 10b."""
-    payload = _load_optional_json(JSL_METADATA_MATCHES_FILE, {})
-    result = {}
-    conflicts = []
-    for item in payload.get('matches', []):
-        raw_reference = item.get('reference')
-        work_id = item.get('work_id')
-        method = item.get('resolution_method')
-        if not raw_reference or work_id not in valid_work_ids or not method:
-            continue
-        key = normalize_reference_key(raw_reference)
-        value = (work_id, method)
-        if key in result and result[key] != value:
-            conflicts.append({
-                'normalized_reference': key,
-                'matches': sorted({result[key][0], work_id}),
-            })
-            result.pop(key, None)
-        elif not any(conflict['normalized_reference'] == key for conflict in conflicts):
-            result[key] = value
-    return result, conflicts
-
-
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -681,17 +656,12 @@ def main():
     author_index = build_author_index(works_data)
     valid_work_ids = {work.get('id') for work in works_data}
     provenance_index, provenance_conflicts = build_provenance_index(valid_work_ids)
-    jsl_metadata_index, jsl_metadata_conflicts = build_jsl_metadata_index(valid_work_ids)
     status_index = build_reference_status_index()
     print(f"[✓] Successfully indexed {len(works_data)} works.")
     if provenance_index:
         print(f"[✓] Loaded {len(provenance_index)} unambiguous prior-stage matches.")
     if provenance_conflicts:
         print(f"[!] Ignoring {len(provenance_conflicts)} conflicting provenance keys.")
-    if jsl_metadata_index:
-        print(f"[✓] Loaded {len(jsl_metadata_index)} exact JSL metadata matches.")
-    if jsl_metadata_conflicts:
-        print(f"[!] Ignoring {len(jsl_metadata_conflicts)} conflicting JSL metadata keys.")
 
     print(f"[*] Loading raw citations from {JSL_CITATIONS_FILE}...")
     with open(JSL_CITATIONS_FILE, 'r', encoding='utf-8') as f:
@@ -712,10 +682,6 @@ def main():
         prior = provenance_index.get(normalize_reference_key(raw_ref))
         if prior:
             base_resolutions[raw_ref] = prior
-            continue
-        jsl_metadata_match = jsl_metadata_index.get(normalize_reference_key(raw_ref))
-        if jsl_metadata_match:
-            base_resolutions[raw_ref] = jsl_metadata_match
             continue
         resolved_id, ok = resolve_reference(raw_ref, works_index, author_index)
         base_resolutions[raw_ref] = (
@@ -880,8 +846,6 @@ def main():
             "statuses": dict(sorted(status_counts.items())),
             "provenance_keys_loaded": len(provenance_index),
             "provenance_conflicts_ignored": provenance_conflicts,
-            "jsl_metadata_keys_loaded": len(jsl_metadata_index),
-            "jsl_metadata_conflicts_ignored": jsl_metadata_conflicts,
         }
         with open(RESOLUTION_SUMMARY_FILE, 'w', encoding='utf-8') as f:
             json.dump(summary, f, indent=2, ensure_ascii=False)

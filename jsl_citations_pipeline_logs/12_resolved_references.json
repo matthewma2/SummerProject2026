@@ -490,11 +490,6 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
-        "reference": "This JOURNAL, vol. 13 (1948), pp. 95-106.",
-        "id": "Fitch1948a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "Cf. K. Gödel, Uber formal unentscheidbare Sdtze der Principia Mathematica und ver- wandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a",
         "resolution_method": "heuristic_matcher"
@@ -578,11 +573,6 @@
         "reference": "W. V. QUINE, Quantification and the empty domain, this JOURNAL, vol. 19 (1954), pp. 177- 179.",
         "id": "Quine1954b",
         "resolution_method": "heuristic_matcher"
-    },
-    {
-        "reference": "This JOURNAL, vol. 13 (1948) pp. 95-106.",
-        "id": "Fitch1948a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "Grundlagen der kombinatorischen Logik, Ameri- can journal of mathematics, vol. 52 (1930), pp. 509-536, 789-834.",
@@ -1330,16 +1320,6 @@
         "resolution_method": "heuristic_matcher"
     },
     {
-        "reference": "This JOURNAL, vol. 12 (1947), pp. 74-84.",
-        "id": "Quine1947a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
-        "reference": "This JOURNAL, VO1. 8 (1943), pp. 1-23.",
-        "id": "Martin1943a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "W. V. Quine, Mathematical logic, New York, 1940, p. 121.",
         "id": "Quine1940a",
         "resolution_method": "stage9_candidate_work"
@@ -1483,11 +1463,6 @@
         "reference": "H. WEYL, Elementary proof of a minimax theorem due to von Neumann, Con- tributions to the theory of games I, Annals of Mathematics Studies No. 24 (1950). pp. 19-25.",
         "id": "Weyl1950a",
         "resolution_method": "stage9_candidate_work"
-    },
-    {
-        "reference": "This JOURNAL, Vol. 22, no. 3 (1957), pp. 225-232.",
-        "id": "Cohen1957a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "H. ROGERS JR., Theory of recursive functions and effective computability, McGraw-Hill, New York, 1968.",
@@ -2800,11 +2775,6 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
-        "reference": "this Journal, vol. 2 (1937), pp. 65-77",
-        "id": "Bernays1937a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "W. Ackermann, Die Widerspruchsfreiheit der aligemeinen Mengenlehre, Math. Ann. vol. 114 (1937), pp. 305-315.",
         "id": "Ackermann1937a",
         "resolution_method": "stage9_candidate_work"
@@ -3333,11 +3303,6 @@
         "reference": "Barkley Rosser, The Burali-Forti paradox, this JOURNAL, vol. 7 (1942), pp. 1-17.",
         "id": "Rosser1942b",
         "resolution_method": "stage9_existing_work"
-    },
-    {
-        "reference": "This JOURNAL, vol. 6 (1941), pp. 135-149.",
-        "id": "Quine1941a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "PaulBernays, A system of axiomatic set theory-Part 1, this JOURNAL, vol. 2 (1937), pp. 65-77.",
@@ -5156,13 +5121,13 @@
     },
     {
         "reference": "This JOURNAL, Vol. 15 (1950), pp. 182-184.",
-        "id": "Kalicki1950a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+        "id": "Church1950a",
+        "resolution_method": "heuristic_matcher"
     },
     {
         "reference": "This JOURNAL, Vol. 15 (1950), pp. 174-181.",
-        "id": "Kalicki1950b",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+        "id": "Church1950a",
+        "resolution_method": "heuristic_matcher"
     },
     {
         "reference": "J. Kalicki, On Tarski's matrix method, forthcoming in Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie. (This paper has since appeared in volume 41 of the indicated periodical, pp. 130-142. Editor.)",
@@ -5418,11 +5383,6 @@
         "reference": "Kurt Gödel, Ober formal unentscheidbare Sdtze der Principia Mathematica und verwandter Systeme 1, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
         "id": "Godel1931a",
         "resolution_method": "heuristic_matcher"
-    },
-    {
-        "reference": "This JOURNAL, vol. 11 (1946), pp. 1-16",
-        "id": "Barcan1946a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "P. J. COHEN, Set theory and the continuum hypothesis, Benjamin, New York, 1966.",
@@ -6728,11 +6688,6 @@
         "reference": "J. MYHILL, Creative sets, Zeitschrift für mathematische Logik und Grund- lagen der Mathematik, vol. 1 (1955), pp. 97-108.",
         "id": "Myhill1955b",
         "resolution_method": "stage9_candidate_work"
-    },
-    {
-        "reference": "This JOURNAL, vol. 6 (1941), pp. 23-27.",
-        "id": "Berry1941a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "Kurt Gödel, Uber formal unentscheidbare sdtze der Principia Mathematica und ver- wandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
@@ -10960,11 +10915,6 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
-        "reference": "This JOURNAL, vol. 2 (1937), pp. 125-128.",
-        "id": "Fitch1937a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "R. Carnap, Introduction to semantics, Harvard University Press, Cambridge, Mass., 1942, especially pp. 101-105.",
         "id": "Carnap1942a",
         "resolution_method": "stage9_candidate_work"
@@ -11605,11 +11555,6 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
-        "reference": "This JOURNAL, vol. 6 (1941), pp. 73-89.",
-        "id": "Tarski1941a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "A. N. Whitehead and B. Russell, Principia mathematica, Cambridge, England, 1910- 1913.",
         "id": "RussellWhitehead1910a",
         "resolution_method": "heuristic_matcher"
@@ -11988,11 +11933,6 @@
         "reference": "Lindenbaum and Tarski, Über die Beschränktheit der Ausdrucksmittel deduktiver Theorien, Ergebnisse eines mathematischen Kolloquiums, Heft 7 (1936), pp. 15-22",
         "id": "Lindenbaum1936b",
         "resolution_method": "stage9_candidate_work"
-    },
-    {
-        "reference": "this JOURNAL, vol. 6 (1941), pp. 90-95.",
-        "id": "Dotterer1941a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "J. R. BÜCHI, Weak second-order arithmetic and finite automata, Zeitschrift für Mathematische Logik und Grundlagen der Mathematik, vol. 6 (1960), pp. 66-92.",
@@ -12518,11 +12458,6 @@
         "reference": "Ivo THOMAS, Finite limitations on Dummett's LC. Notre Dame Journal of Formal Logic, vol. III (1962), pp. 170-174.",
         "id": "Thomas1962a",
         "resolution_method": "stage9_candidate_work"
-    },
-    {
-        "reference": "This JOURNAL, vol. 14 (1949), pp. 32-41.",
-        "id": "Goodman1949a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "Hilbert and Bernays, Grundlagen der Mathematik, volume I (1934)",
@@ -13515,11 +13450,6 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
-        "reference": "this JOURNAL, vol. 9(1944), pp. 33-41.",
-        "id": "Goodstein1944a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "W. Ackermann, Zum Hilbertschen Aufbau der reelen Zahlen, Mathematische Annalen, vol. 99(1928), p. 120.",
         "id": "Ackermann1928a",
         "resolution_method": "heuristic_matcher"
@@ -13700,11 +13630,6 @@
         "resolution_method": "stage9_candidate_work"
     },
     {
-        "reference": "This JOURNAL, vol. 14 (1949), pp. 95-97.",
-        "id": "Dienes1949b",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "Über die Hypothesen der Mengen- lehre, Mathematische Zeitschrift, vol. 25 (1926), pp. 439-473",
         "id": "Chwistek1926a",
         "resolution_method": "stage8_parser_match+stage9_existing_work"
@@ -13713,11 +13638,6 @@
         "reference": "F. B. Fitch, The consistency of the ramified Principia, this JOURNAL vol. 3 (1938), pp. 140-149.",
         "id": "Fitch1938a",
         "resolution_method": "heuristic_matcher"
-    },
-    {
-        "reference": "This JOURNAL, vol. 13 (1948), pp. 95-106.",
-        "id": "Fitch1948a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "Kleene in his review of EBL, this JOURNAL, vol. 14 (1949), pp. 68-69.",
@@ -14880,11 +14800,6 @@
         "resolution_method": "ibid_or_loc_cit_context"
     },
     {
-        "reference": "This JOURNAL, vol. 1 (1936), pp. 87-91.",
-        "id": "Rosser1936b",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "H. BEHMANN, Zu den Widersprüchen der Logik und der Mengenlehre, Jahres- bericht der Deutschen Mathematiker-Vereinigung, Bd. 40 (1931), S. 37-48.",
         "id": "Behmann1931a",
         "resolution_method": "heuristic_matcher"
@@ -15348,11 +15263,6 @@
         "reference": "D. König, Uber eine Schlussweise aus dean Endlichen ins Unendliche, Acta litterarum ac scientiarum (Szeged), vol. 3 (1927), pp. 121-130.",
         "id": "Konig1927b",
         "resolution_method": "stage9_candidate_work"
-    },
-    {
-        "reference": "This JOURNAL, vol. 8 (1943), pp. 1-23.",
-        "id": "Martin1943a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "R. M. Martin, A note on nominalism and recursive functions, this JOURNAL, VOI. 14 (1949), pp. 27-31.",
@@ -16920,11 +16830,6 @@
         "resolution_method": "heuristic_matcher"
     },
     {
-        "reference": "this JOURNAL, vol. 6 (1941), pp. 135-149.",
-        "id": "Quine1941a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "F. B. Fitch, A basic logic, this JOURNAL, vol. 7 (1942), pp. 105-114.",
         "id": "Fitch1942a",
         "resolution_method": "stage9_existing_work"
@@ -17960,11 +17865,6 @@
         "resolution_method": "heuristic_matcher"
     },
     {
-        "reference": "this JOURNAL, vol. 6 (1941), pp; 1-17.",
-        "id": "Bernays1941a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
-    },
-    {
         "reference": "E. Zermelo, Untersuchungen aber die Grundlagen der Mengenlehre 1, Mathematische Annalen, vol. 65 (1908), \"Axiom VII,\" pp. 266-267.",
         "id": "Zermelo1908c",
         "resolution_method": "heuristic_matcher"
@@ -17993,11 +17893,6 @@
         "reference": "von Neumann, Die Axiomatisierung der Mengenlehre, p. 681",
         "id": "Neumann1928b",
         "resolution_method": "heuristic_matcher"
-    },
-    {
-        "reference": "this JOURNAL, vol. 2 (1937), pp. 65-77",
-        "id": "Bernays1937a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "J. König, Zum Kontinuum- Problem, Mathematische Annalen, vol. 60 (1905), pp. 177-180",
@@ -18393,11 +18288,6 @@
         "reference": "A. R. Anderson and N. D. Belnap, Jr., First degree entailments, Technical Report No. 10, ibid., 1961",
         "id": "Anderson1956c",
         "resolution_method": "ibid_or_loc_cit_context"
-    },
-    {
-        "reference": "this JOURNAL, vol. 16 (1951), pp. 161-190",
-        "id": "Shepherdson1951a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
     },
     {
         "reference": "GÖDEL, K., The consistency of the continuum hypothesis. Princeton 1940.",
@@ -19286,8 +19176,8 @@
     },
     {
         "reference": "this JOURNAL, vol. 21 (1956), pp. 36-48.",
-        "id": "Gandy1956a",
-        "resolution_method": "crossref_jsl_exact_volume_year_pages"
+        "id": "Myhill1956b",
+        "resolution_method": "heuristic_matcher"
     },
     {
         "reference": "The consistency of the continuum hypothesis and of the generalized continuum-hypothesis with the axioms of set theory, Princeton (Princeton University Press), 1940, 66 pp. Second printing 1951, 74 pp.",

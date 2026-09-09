@@ -40,9 +40,6 @@ def main():
     matcher.MERGE_LOG_FILE = str(LOG_DIR / "10_merge_works_database_log.json")
     matcher.PARSED_DUPLICATES_FILE = str(LOG_DIR / "9_parsed_duplicates.json")
     matcher.CLASSIFIED_REFERENCES_FILE = str(LOG_DIR / "8b_classified.json")
-    matcher.JSL_METADATA_MATCHES_FILE = str(
-        LOG_DIR / "10b_jsl_journal_metadata_resolution.json"
-    )
     matcher.REFERENCE_STATUS_FILES = {
         "internal": str(LOG_DIR / "6b_further_internal_refs.json"),
         "contextual": str(LOG_DIR / "6b_journal_refs.json"),

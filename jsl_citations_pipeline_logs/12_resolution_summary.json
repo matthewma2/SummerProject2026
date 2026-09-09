@@ -1,11 +1,10 @@
 {
   "total_references": 5716,
-  "resolved": 4219,
-  "unresolved_or_classified_without_id": 1497,
+  "resolved": 4197,
+  "unresolved_or_classified_without_id": 1519,
   "internal_structural_shortcuts": 0,
   "resolution_methods": {
-    "crossref_jsl_exact_volume_year_pages": 25,
-    "heuristic_matcher": 1611,
+    "heuristic_matcher": 1614,
     "ibid_or_loc_cit_context": 45,
     "immediate_volume_continuation": 41,
     "stage8_parser_match+stage9_existing_work": 128,
@@ -15,10 +14,10 @@
     "stage9_parsed_duplicate": 351
   },
   "statuses": {
-    "contextual": 348,
-    "fragment": 41,
+    "contextual": 369,
+    "fragment": 42,
     "internal": 229,
-    "resolved": 4219,
+    "resolved": 4197,
     "unresolved": 879
   },
   "provenance_keys_loaded": 2200,
@@ -163,7 +162,5 @@
         "stage9_parsed_duplicate"
       ]
     }
-  ],
-  "jsl_metadata_keys_loaded": 21,
-  "jsl_metadata_conflicts_ignored": []
+  ]
 }

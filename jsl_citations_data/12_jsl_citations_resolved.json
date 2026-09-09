@@ -814,9 +814,9 @@
         "references": [
             {
                 "reference": "This JOURNAL, vol. 13 (1948), pp. 95-106.",
-                "id": "Fitch1948a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "Cf. K. Gödel, Uber formal unentscheidbare Sdtze der Principia Mathematica und ver- wandter Systeme I, Monatshefte für Mathematik und Physik, vol. 38 (1931), pp. 173-198.",
@@ -977,9 +977,9 @@
         "references": [
             {
                 "reference": "This JOURNAL, vol. 13 (1948) pp. 95-106.",
-                "id": "Fitch1948a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "vol. 7, pp. 105-114 of this JOURNAL",
@@ -2114,15 +2114,15 @@
         "references": [
             {
                 "reference": "This JOURNAL, vol. 12 (1947), pp. 74-84.",
-                "id": "Quine1947a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "This JOURNAL, VO1. 8 (1943), pp. 1-23.",
-                "id": "Martin1943a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "W. V. Quine, Mathematical logic, New York, 1940, p. 121.",
@@ -2357,9 +2357,9 @@
         "references": [
             {
                 "reference": "This JOURNAL, Vol. 22, no. 3 (1957), pp. 225-232.",
-                "id": "Cohen1957a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "fragment",
+                "resolution_method": null
             }
         ]
     },
@@ -4738,9 +4738,9 @@
         "references": [
             {
                 "reference": "this Journal, vol. 2 (1937), pp. 65-77",
-                "id": "Bernays1937a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "vol. 6 (1941), pp. 1-17",
@@ -5743,9 +5743,9 @@
             },
             {
                 "reference": "This JOURNAL, vol. 6 (1941), pp. 135-149.",
-                "id": "Quine1941a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "New foundations for mathematical logic (The American mathematical monthly, vol. 44 (1937), pp. 70-80)",
@@ -8959,15 +8959,15 @@
         "references": [
             {
                 "reference": "This JOURNAL, Vol. 15 (1950), pp. 182-184.",
-                "id": "Kalicki1950a",
+                "id": "Church1950a",
                 "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "resolution_method": "heuristic_matcher"
             },
             {
                 "reference": "This JOURNAL, Vol. 15 (1950), pp. 174-181.",
-                "id": "Kalicki1950b",
+                "id": "Church1950a",
                 "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "resolution_method": "heuristic_matcher"
             },
             {
                 "reference": "J. Kalicki, On Tarski's matrix method, forthcoming in Comptes rendus des séances de la Société des Sciences et des Lettres de Varsovie. (This paper has since appeared in volume 41 of the indicated periodical, pp. 130-142. Editor.)",
@@ -9456,9 +9456,9 @@
             },
             {
                 "reference": "This JOURNAL, vol. 11 (1946), pp. 1-16",
-                "id": "Barcan1946a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "vol. 12 (1947), pp. 12-15.",
@@ -11919,9 +11919,9 @@
         "references": [
             {
                 "reference": "This JOURNAL, vol. 6 (1941), pp. 23-27.",
-                "id": "Berry1941a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "Mathematical logic (p. 92)",
@@ -19674,9 +19674,9 @@
         "references": [
             {
                 "reference": "This JOURNAL, vol. 2 (1937), pp. 125-128.",
-                "id": "Fitch1937a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "Ibid., vol. 4 (1939), pp. 115-116.",
@@ -20820,9 +20820,9 @@
         "references": [
             {
                 "reference": "This JOURNAL, vol. 6 (1941), pp. 73-89.",
-                "id": "Tarski1941a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "A. N. Whitehead and B. Russell, Principia mathematica, Cambridge, England, 1910- 1913.",
@@ -21505,9 +21505,9 @@
         "references": [
             {
                 "reference": "this JOURNAL, vol. 6 (1941), pp. 90-95.",
-                "id": "Dotterer1941a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "J. C .C. McKinsey, this JOURNAL, vol. 7 (1942), p. 39.",
@@ -22395,9 +22395,9 @@
         "references": [
             {
                 "reference": "This JOURNAL, vol. 14 (1949), pp. 32-41.",
-                "id": "Goodman1949a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             }
         ]
     },
@@ -24375,9 +24375,9 @@
         "references": [
             {
                 "reference": "this JOURNAL, vol. 9(1944), pp. 33-41.",
-                "id": "Goodstein1944a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "W. Ackermann, Zum Hilbertschen Aufbau der reelen Zahlen, Mathematische Annalen, vol. 99(1928), p. 120.",
@@ -24745,9 +24745,9 @@
             },
             {
                 "reference": "This JOURNAL, vol. 14 (1949), pp. 95-97.",
-                "id": "Dienes1949b",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "A. Church and N. Rescher, ibid., vol. 15 (1950), pp. 69-70.",
@@ -24797,9 +24797,9 @@
             },
             {
                 "reference": "This JOURNAL, vol. 13 (1948), pp. 95-106.",
-                "id": "Fitch1948a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "Ibid., vol. 14 (1949), pp. 9-15.",
@@ -26648,9 +26648,9 @@
             },
             {
                 "reference": "This JOURNAL, vol. 1 (1936), pp. 87-91.",
-                "id": "Rosser1936b",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             }
         ]
     },
@@ -27545,9 +27545,9 @@
             },
             {
                 "reference": "This JOURNAL, vol. 8 (1943), pp. 1-23.",
-                "id": "Martin1943a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "R. M. Martin, A note on nominalism and recursive functions, this JOURNAL, VOI. 14 (1949), pp. 27-31.",
@@ -30419,9 +30419,9 @@
             },
             {
                 "reference": "this JOURNAL, vol. 6 (1941), pp. 135-149.",
-                "id": "Quine1941a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             }
         ]
     },
@@ -32188,9 +32188,9 @@
         "references": [
             {
                 "reference": "this JOURNAL, vol. 6 (1941), pp; 1-17.",
-                "id": "Bernays1941a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "vol. 2 (1937), pp. 65-77.",
@@ -32270,9 +32270,9 @@
         "references": [
             {
                 "reference": "this JOURNAL, vol. 2 (1937), pp. 65-77",
-                "id": "Bernays1937a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "vol. 6 (1941) pp. 1-17",
@@ -32913,9 +32913,9 @@
         "references": [
             {
                 "reference": "this JOURNAL, vol. 16 (1951), pp. 161-190",
-                "id": "Shepherdson1951a",
-                "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "id": null,
+                "status": "contextual",
+                "resolution_method": null
             },
             {
                 "reference": "vol. 17 (1952), pp. 225-237.",
@@ -34698,9 +34698,9 @@
         "references": [
             {
                 "reference": "this JOURNAL, vol. 21 (1956), pp. 36-48.",
-                "id": "Gandy1956a",
+                "id": "Myhill1956b",
                 "status": "resolved",
-                "resolution_method": "crossref_jsl_exact_volume_year_pages"
+                "resolution_method": "heuristic_matcher"
             },
             {
                 "reference": "The consistency of the continuum hypothesis and of the generalized continuum-hypothesis with the axioms of set theory, Princeton (Princeton University Press), 1940, 66 pp. Second printing 1951, 74 pp.",
